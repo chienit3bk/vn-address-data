@@ -79,6 +79,25 @@ Tái tạo từ file export: `python3 normalize.py`
 
 ---
 
+## Demo
+
+![Preview 2 dropdown Tỉnh → Phường/Xã](examples/preview.svg)
+
+> **Nhúng demo “sống” vào README được không?** README trên GitHub **không chạy
+> JavaScript** (thẻ `<script>` bị loại bỏ) nên không gắn dropdown tương tác trực tiếp
+> trong README. 3 cách thay thế:
+
+1. **Ảnh / GIF** (như trên) — nhúng thẳng, xem được ngay trong README.
+2. **Live demo qua GitHub Pages** — host file tự chứa rồi link từ README:
+   - Settings → Pages → Deploy from branch → `main` · `/ (root)`.
+   - Link: `https://<user>.github.io/<repo>/examples/standalone-demo.html`
+   - `examples/standalone-demo.html` **tự chứa** (không cần build), tự đọc `data/*.json`.
+3. **StackBlitz / CodeSandbox** — import repo rồi share link nhúng.
+
+Chạy thử ở máy: `yarn demo` → mở `http://localhost:3000/examples/standalone-demo.html`.
+
+---
+
 ## Thư viện TypeScript (`src/`)
 
 Thư viện nhỏ, không phụ thuộc bên ngoài. **Nguồn dữ liệu là các file `data/*.json`**
@@ -92,16 +111,19 @@ src/
 ├── dropdown.ts   # 2 dropdown phụ thuộc, inject vào HTML bất kỳ
 ├── index.ts      # export chung
 └── *.test.ts
-examples/dropdown-demo.html   # demo
+examples/
+├── standalone-demo.html   # demo tự chứa (không cần build) — dùng cho GitHub Pages
+├── dropdown-demo.html     # demo dùng bản build trong dist/
+└── preview.svg            # ảnh preview cho README
 ```
 
-Scripts:
+Scripts (Yarn):
 
 ```bash
-npm install        # cài devDependencies (tsx, typescript, @types/node)
-npm test           # chạy test (tsx --test)
-npm run build      # biên dịch src/ -> dist/ (ESM + .d.ts)
-npm run demo       # build rồi mở demo dropdown (serve .)
+yarn install       # cài devDependencies
+yarn test          # chạy test
+yarn build         # biên dịch src/ -> dist/ (ESM + .d.ts)
+yarn demo          # build rồi serve . (mở examples/*.html trên localhost:3000)
 ```
 
 ### Dùng 2 dropdown trong HTML bất kỳ

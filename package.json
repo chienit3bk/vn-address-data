@@ -13,12 +13,13 @@
     "build": "tsc -p tsconfig.build.json",
     "typecheck": "tsc -p tsconfig.json",
     "test": "tsx --test src/*.test.ts",
-    "demo": "npm run build && npx --yes serve ."
+    "demo": "tsc -p tsconfig.build.json && serve ."
   },
   "keywords": ["vietnam", "address", "province", "ward", "nhat-tin", "ntlogistics", "34-tinh"],
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.7.0",
+    "serve": "^14.2.1",
     "tsx": "^4.19.0",
     "typescript": "^5.6.0"
   }

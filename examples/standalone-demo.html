@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Demo · Dropdown Tỉnh / Phường-Xã (VN 34 tỉnh)</title>
+    <!--
+      File DEMO tự chứa (không cần build, không cần dist) — phù hợp để host trên
+      GitHub Pages hoặc mở trực tiếp. Logic dropdown là bản port vanilla của
+      src/dropdown.ts; nguồn dữ liệu đọc từ ../data/*.json (fallback mẫu khi mở file://).
+    -->
+    <style>
+      body {
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        max-width: 640px;
+        margin: 40px auto;
+        padding: 0 16px;
+        color: #1c1c1e;
+      }
+      h1 { font-size: 1.25rem; }
+      .hint { color: #636366; font-size: 0.85rem; }
+      .vn-address { display: flex; gap: 16px; flex-wrap: wrap; }
+      .vn-address__field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 220px; }
+      .vn-address__field label { font-size: 0.85rem; font-weight: 600; }
+      .vn-address select {
+        padding: 8px 10px; border: 1px solid #c7c7cc; border-radius: 8px;
+        font-size: 0.95rem; background: #fff;
+      }
+      .vn-address select:disabled { background: #f2f2f7; color: #8e8e93; }
+      pre { background: #f2f2f7; padding: 12px; border-radius: 8px; font-size: 0.85rem; }
+    </style>
+  </head>
+  <body>
+    <h1>2 dropdown phụ thuộc: Tỉnh/Thành phố → Phường/Xã</h1>
+    <p class="hint" id="src">Đang tải dữ liệu…</p>
+
+    <div id="addr"></div>
+
+    <h2 style="font-size: 1rem">Giá trị đang chọn</h2>
+    <pre id="out">(chưa chọn)</pre>
+
+    <script type="module">
+      /* ---- port vanilla của src/dropdown.ts (đủ cho demo) ---- */
+      const escapeHtml = (s) =>
+        String(s).replace(/[&<>"']/g, (c) =>
+          c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : c === '"' ? "&quot;" : "&#39;",
+        );
+      const byName = (a, b) => a.name.localeCompare(b.name, "vi");
+      const opt = (v, l, sel) =>
+        `<option value="${escapeHtml(v)}"${sel ? " selected" : ""}>${escapeHtml(l)}</option>`;
+
+      function indexWards(wards) {
+        const m = new Map();
+        for (const w of wards) {
+          const a = m.get(w.provinceCode);
+          if (a) a.push(w);
+          else m.set(w.provinceCode, [w]);
+        }
+        return m;
+      }
+
+      function createAddressDropdowns(target, opts) {
+        const root = typeof target === "string" ? document.querySelector(target) : target;
+        const { data } = opts;
+        const useFull = !!opts.useFullName;
+        const idx = indexWards(data.wards);
+        const provinceMap = new Map(data.provinces.map((p) => [p.code, p]));
+        const provPh = "-- Chọn Tỉnh/Thành phố --";
+        const wardPh = "-- Chọn Phường/Xã --";
+        const lbl = (x) => (useFull && x.fullName ? x.fullName : x.name);
+        const provinces = [...data.provinces].sort(byName);
+
+        root.innerHTML = `
+          <div class="vn-address" data-vn-address>
+            <div class="vn-address__field">
+              <label for="vn-addr-province">Tỉnh/Thành phố</label>
+              <select id="vn-addr-province"${opts.provinceName ? ` name="${escapeHtml(opts.provinceName)}"` : ""} data-vn-province>
+                ${[opt("", provPh, true), ...provinces.map((p) => opt(p.code, lbl(p), false))].join("")}
+              </select>
+            </div>
+            <div class="vn-address__field">
+              <label for="vn-addr-ward">Phường/Xã</label>
+              <select id="vn-addr-ward"${opts.wardName ? ` name="${escapeHtml(opts.wardName)}"` : ""} data-vn-ward disabled>
+                ${opt("", wardPh, true)}
+              </select>
+            </div>
+          </div>`;
+
+        const provinceSelect = root.querySelector("[data-vn-province]");
+        const wardSelect = root.querySelector("[data-vn-ward]");
+
+        const fillWards = (code) => {
+          const list = [...(idx.get(code) || [])].sort(byName);
+          wardSelect.innerHTML = [opt("", wardPh, true), ...list.map((w) => opt(w.code, lbl(w), false))].join("");
+          wardSelect.disabled = list.length === 0;
+        };
+        const currentWard = () => {
+          const c = wardSelect.value;
+          return c ? (idx.get(provinceSelect.value) || []).find((w) => w.code === c) || null : null;
+        };
+        const emit = () =>
+          opts.onChange &&
+          opts.onChange({ province: provinceMap.get(provinceSelect.value) || null, ward: currentWard() });
+
+        provinceSelect.addEventListener("change", () => {
+          fillWards(provinceSelect.value);
+          emit();
+        });
+        wardSelect.addEventListener("change", emit);
+        return { root, provinceSelect, wardSelect };
+      }
+
+      /* ---- dữ liệu: thử đọc data/*.json, fallback mẫu khi file:// ---- */
+      const FALLBACK = {
+        provinces: [{ code: "18", name: "An Giang", fullName: "Tỉnh An Giang" }],
+        wards: [
+          { code: "00001", name: "Rạch Giá", provinceCode: "18", fullName: "Phường Rạch Giá, Tỉnh An Giang" },
+          { code: "00030", name: "Long Xuyên", provinceCode: "18", fullName: "Phường Long Xuyên, Tỉnh An Giang" },
+          { code: "00128", name: "Châu Đốc", provinceCode: "18", fullName: "Phường Châu Đốc, Tỉnh An Giang" },
+          { code: "00028", name: "Phú Quốc", provinceCode: "18", fullName: "Đặc khu Phú Quốc, Tỉnh An Giang" },
+          { code: "00153", name: "Nhơn Mỹ", provinceCode: "18", fullName: "Xã Nhơn Mỹ, Tỉnh An Giang" },
+        ],
+      };
+
+      let data, full = false;
+      try {
+        const [provinces, wards] = await Promise.all([
+          fetch("../data/provinces.json").then((r) => r.json()),
+          fetch("../data/wards.json").then((r) => r.json()),
+        ]);
+        data = { provinces, wards };
+        full = true;
+      } catch {
+        data = FALLBACK;
+      }
+
+      document.getElementById("src").textContent = full
+        ? `Dữ liệu đầy đủ: ${data.provinces.length} tỉnh · ${data.wards.length} xã/phường (nguồn Nhất Tín).`
+        : "Đang chạy bằng dữ liệu mẫu (mở qua web server / GitHub Pages để có đủ 34 tỉnh).";
+
+      const out = document.getElementById("out");
+      createAddressDropdowns("#addr", {
+        data,
+        provinceName: "province_code",
+        wardName: "ward_code",
+        onChange: (sel) => {
+          out.textContent = JSON.stringify(
+            {
+              province: sel.province && { code: sel.province.code, name: sel.province.name },
+              ward: sel.ward && { code: sel.ward.code, name: sel.ward.name },
+            },
+            null,
+            2,
+          );
+        },
+      });
+    </script>
+  </body>
+</html>

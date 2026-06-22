@@ -1,0 +1,2246 @@
+{
+  "code": "28",
+  "name": "Gia Lai",
+  "slug": "gia-lai",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Gia Lai",
+  "wards": [
+    {
+      "code": "00052",
+      "name": "Quy Nhơn",
+      "fullName": "Phường Quy Nhơn, Tỉnh Gia Lai",
+      "slug": "quy-nhon",
+      "type": "ward",
+      "postalCode": "21553"
+    },
+    {
+      "code": "00196",
+      "name": "Pleiku",
+      "fullName": "Phường Pleiku, Tỉnh Gia Lai",
+      "slug": "pleiku",
+      "type": "ward",
+      "postalCode": "23575"
+    },
+    {
+      "code": "00210",
+      "name": "Tuy Phước",
+      "fullName": "Xã Tuy Phước, Tỉnh Gia Lai",
+      "slug": "tuy-phuoc",
+      "type": "commune",
+      "postalCode": "21952"
+    },
+    {
+      "code": "00245",
+      "name": "Quy Nhơn Nam",
+      "fullName": "Phường Quy Nhơn Nam, Tỉnh Gia Lai",
+      "slug": "quy-nhon-nam",
+      "type": "ward",
+      "postalCode": "21592"
+    },
+    {
+      "code": "00294",
+      "name": "Chư Sê",
+      "fullName": "Xã Chư Sê, Tỉnh Gia Lai",
+      "slug": "chu-se",
+      "type": "commune",
+      "postalCode": "23941"
+    },
+    {
+      "code": "00343",
+      "name": "Diên Hồng",
+      "fullName": "Phường Diên Hồng, Tỉnh Gia Lai",
+      "slug": "dien-hong",
+      "type": "ward",
+      "postalCode": "23563"
+    },
+    {
+      "code": "00419",
+      "name": "Tuy Phước Đông",
+      "fullName": "Xã Tuy Phước Đông, Tỉnh Gia Lai",
+      "slug": "tuy-phuoc-dong",
+      "type": "commune",
+      "postalCode": "21970"
+    },
+    {
+      "code": "00535",
+      "name": "Phù Cát",
+      "fullName": "Xã Phù Cát, Tỉnh Gia Lai",
+      "slug": "phu-cat",
+      "type": "commune",
+      "postalCode": "21853"
+    },
+    {
+      "code": "00566",
+      "name": "An Khê",
+      "fullName": "Phường An Khê, Tỉnh Gia Lai",
+      "slug": "an-khe",
+      "type": "ward",
+      "postalCode": "23617"
+    },
+    {
+      "code": "00588",
+      "name": "Tuy Phước Bắc",
+      "fullName": "Xã Tuy Phước Bắc, Tỉnh Gia Lai",
+      "slug": "tuy-phuoc-bac",
+      "type": "commune",
+      "postalCode": "21964"
+    },
+    {
+      "code": "00594",
+      "name": "An Nhơn",
+      "fullName": "Phường An Nhơn, Tỉnh Gia Lai",
+      "slug": "an-nhon",
+      "type": "ward",
+      "postalCode": "21910"
+    },
+    {
+      "code": "00595",
+      "name": "Phú Thiện",
+      "fullName": "Xã Phú Thiện, Tỉnh Gia Lai",
+      "slug": "phu-thien",
+      "type": "commune",
+      "postalCode": "24043"
+    },
+    {
+      "code": "00609",
+      "name": "Tây Sơn",
+      "fullName": "Xã Tây Sơn, Tỉnh Gia Lai",
+      "slug": "tay-son",
+      "type": "commune",
+      "postalCode": "21808"
+    },
+    {
+      "code": "00615",
+      "name": "Thống Nhất",
+      "fullName": "Phường Thống Nhất, Tỉnh Gia Lai",
+      "slug": "thong-nhat",
+      "type": "ward",
+      "postalCode": "23584"
+    },
+    {
+      "code": "00653",
+      "name": "Quy Nhơn Đông",
+      "fullName": "Phường Quy Nhơn Đông, Tỉnh Gia Lai",
+      "slug": "quy-nhon-dong",
+      "type": "ward",
+      "postalCode": "21601"
+    },
+    {
+      "code": "00679",
+      "name": "Hội Phú",
+      "fullName": "Phường Hội Phú, Tỉnh Gia Lai",
+      "slug": "hoi-phu",
+      "type": "ward",
+      "postalCode": "23586"
+    },
+    {
+      "code": "00696",
+      "name": "Quy Nhơn Bắc",
+      "fullName": "Phường Quy Nhơn Bắc, Tỉnh Gia Lai",
+      "slug": "quy-nhon-bac",
+      "type": "ward",
+      "postalCode": "21553"
+    },
+    {
+      "code": "00701",
+      "name": "Đề Gi",
+      "fullName": "Xã Đề Gi, Tỉnh Gia Lai",
+      "slug": "de-gi",
+      "type": "commune",
+      "postalCode": "21859"
+    },
+    {
+      "code": "00733",
+      "name": "Hoài Nhơn Đông",
+      "fullName": "Phường Hoài Nhơn Đông, Tỉnh Gia Lai",
+      "slug": "hoai-nhon-dong",
+      "type": "ward",
+      "postalCode": "21670"
+    },
+    {
+      "code": "00734",
+      "name": "Hoài Nhơn Bắc",
+      "fullName": "Phường Hoài Nhơn Bắc, Tỉnh Gia Lai",
+      "slug": "hoai-nhon-bac",
+      "type": "ward",
+      "postalCode": "21655"
+    },
+    {
+      "code": "00775",
+      "name": "Phù Mỹ Đông",
+      "fullName": "Xã Phù Mỹ Đông, Tỉnh Gia Lai",
+      "slug": "phu-my-dong",
+      "type": "commune",
+      "postalCode": "21751"
+    },
+    {
+      "code": "00782",
+      "name": "Hoài Nhơn",
+      "fullName": "Phường Hoài Nhơn, Tỉnh Gia Lai",
+      "slug": "hoai-nhon",
+      "type": "ward",
+      "postalCode": "21655"
+    },
+    {
+      "code": "00794",
+      "name": "Bình Định",
+      "fullName": "Phường Bình Định, Tỉnh Gia Lai",
+      "slug": "binh-dinh",
+      "type": "ward",
+      "postalCode": "21907"
+    },
+    {
+      "code": "00837",
+      "name": "Bồng Sơn",
+      "fullName": "Phường Bồng Sơn, Tỉnh Gia Lai",
+      "slug": "bong-son",
+      "type": "ward",
+      "postalCode": "21640"
+    },
+    {
+      "code": "00859",
+      "name": "Biển Hồ",
+      "fullName": "Xã Biển Hồ, Tỉnh Gia Lai",
+      "slug": "bien-ho",
+      "type": "commune",
+      "postalCode": "23590"
+    },
+    {
+      "code": "00873",
+      "name": "An Phú",
+      "fullName": "Phường An Phú, Tỉnh Gia Lai",
+      "slug": "an-phu",
+      "type": "ward",
+      "postalCode": "23602"
+    },
+    {
+      "code": "00985",
+      "name": "An Nhơn Bắc",
+      "fullName": "Phường An Nhơn Bắc, Tỉnh Gia Lai",
+      "slug": "an-nhon-bac",
+      "type": "ward",
+      "postalCode": "21925"
+    },
+    {
+      "code": "01008",
+      "name": "An Lương",
+      "fullName": "Xã An Lương, Tỉnh Gia Lai",
+      "slug": "an-luong",
+      "type": "commune",
+      "postalCode": "21769"
+    },
+    {
+      "code": "01047",
+      "name": "Phú Túc",
+      "fullName": "Xã Phú Túc, Tỉnh Gia Lai",
+      "slug": "phu-tuc",
+      "type": "commune",
+      "postalCode": "24076"
+    },
+    {
+      "code": "01051",
+      "name": "Ia Hrung",
+      "fullName": "Xã Ia Hrung, Tỉnh Gia Lai",
+      "slug": "ia-hrung",
+      "type": "commune",
+      "postalCode": "23767"
+    },
+    {
+      "code": "01052",
+      "name": "Ia Hrú",
+      "fullName": "Xã Ia Hrú, Tỉnh Gia Lai",
+      "slug": "ia-hru",
+      "type": "commune",
+      "postalCode": "23767"
+    },
+    {
+      "code": "01059",
+      "name": "Đak Đoa",
+      "fullName": "Xã Đak Đoa, Tỉnh Gia Lai",
+      "slug": "dak-doa",
+      "type": "commune",
+      "postalCode": "23677"
+    },
+    {
+      "code": "01122",
+      "name": "Tuy Phước Tây",
+      "fullName": "Xã Tuy Phước Tây, Tỉnh Gia Lai",
+      "slug": "tuy-phuoc-tay",
+      "type": "commune",
+      "postalCode": "21985"
+    },
+    {
+      "code": "01183",
+      "name": "Hoài Ân",
+      "fullName": "Xã Hoài Ân, Tỉnh Gia Lai",
+      "slug": "hoai-an",
+      "type": "commune",
+      "postalCode": "21688"
+    },
+    {
+      "code": "01230",
+      "name": "Bình An",
+      "fullName": "Xã Bình An, Tỉnh Gia Lai",
+      "slug": "binh-an",
+      "type": "commune",
+      "postalCode": "21829"
+    },
+    {
+      "code": "01242",
+      "name": "Chư Prông",
+      "fullName": "Xã Chư Prông, Tỉnh Gia Lai",
+      "slug": "chu-prong",
+      "type": "commune",
+      "postalCode": "23887"
+    },
+    {
+      "code": "01257",
+      "name": "Cát Tiến",
+      "fullName": "Xã Cát Tiến, Tỉnh Gia Lai",
+      "slug": "cat-tien",
+      "type": "commune",
+      "postalCode": "21880"
+    },
+    {
+      "code": "01269",
+      "name": "Chư Pưh",
+      "fullName": "Xã Chư Pưh, Tỉnh Gia Lai",
+      "slug": "chu-puh",
+      "type": "commune",
+      "postalCode": "23942"
+    },
+    {
+      "code": "01329",
+      "name": "Hoài Nhơn Nam",
+      "fullName": "Phường Hoài Nhơn Nam, Tỉnh Gia Lai",
+      "slug": "hoai-nhon-nam",
+      "type": "ward",
+      "postalCode": "21673"
+    },
+    {
+      "code": "01394",
+      "name": "An Nhơn Nam",
+      "fullName": "Phường An Nhơn Nam, Tỉnh Gia Lai",
+      "slug": "an-nhon-nam",
+      "type": "ward",
+      "postalCode": "21943"
+    },
+    {
+      "code": "01410",
+      "name": "Bờ Ngoong",
+      "fullName": "Xã Bờ Ngoong, Tỉnh Gia Lai",
+      "slug": "bo-ngoong",
+      "type": "commune",
+      "postalCode": "23947"
+    },
+    {
+      "code": "01441",
+      "name": "Ia Băng",
+      "fullName": "Xã Ia Băng, Tỉnh Gia Lai",
+      "slug": "ia-bang",
+      "type": "commune",
+      "postalCode": "23710"
+    },
+    {
+      "code": "01444",
+      "name": "Ia Pa",
+      "fullName": "Xã Ia Pa, Tỉnh Gia Lai",
+      "slug": "ia-pa",
+      "type": "commune",
+      "postalCode": "24022"
+    },
+    {
+      "code": "01455",
+      "name": "An Bình",
+      "fullName": "Phường An Bình, Tỉnh Gia Lai",
+      "slug": "an-binh",
+      "type": "ward",
+      "postalCode": "23614"
+    },
+    {
+      "code": "01483",
+      "name": "Xuân An",
+      "fullName": "Xã Xuân An, Tỉnh Gia Lai",
+      "slug": "xuan-an",
+      "type": "commune",
+      "postalCode": "21892"
+    },
+    {
+      "code": "01495",
+      "name": "Mang Yang",
+      "fullName": "Xã Mang Yang, Tỉnh Gia Lai",
+      "slug": "mang-yang",
+      "type": "commune",
+      "postalCode": "23794"
+    },
+    {
+      "code": "01595",
+      "name": "Ia Krái",
+      "fullName": "Xã Ia Krái, Tỉnh Gia Lai",
+      "slug": "ia-krai",
+      "type": "commune",
+      "postalCode": "23776"
+    },
+    {
+      "code": "01609",
+      "name": "Phù Mỹ Bắc",
+      "fullName": "Xã Phù Mỹ Bắc, Tỉnh Gia Lai",
+      "slug": "phu-my-bac",
+      "type": "commune",
+      "postalCode": "21739"
+    },
+    {
+      "code": "01627",
+      "name": "Phù Mỹ",
+      "fullName": "Xã Phù Mỹ, Tỉnh Gia Lai",
+      "slug": "phu-my",
+      "type": "commune",
+      "postalCode": "21730"
+    },
+    {
+      "code": "01716",
+      "name": "Bình Dương",
+      "fullName": "Xã Bình Dương, Tỉnh Gia Lai",
+      "slug": "binh-duong",
+      "type": "commune",
+      "postalCode": "21733"
+    },
+    {
+      "code": "01728",
+      "name": "Phù Mỹ Nam",
+      "fullName": "Xã Phù Mỹ Nam, Tỉnh Gia Lai",
+      "slug": "phu-my-nam",
+      "type": "commune",
+      "postalCode": "21775"
+    },
+    {
+      "code": "01763",
+      "name": "Ayun Pa",
+      "fullName": "Phường Ayun Pa, Tỉnh Gia Lai",
+      "slug": "ayun-pa",
+      "type": "ward",
+      "postalCode": "24044"
+    },
+    {
+      "code": "01793",
+      "name": "An Nhơn Đông",
+      "fullName": "Phường An Nhơn Đông, Tỉnh Gia Lai",
+      "slug": "an-nhon-dong",
+      "type": "ward",
+      "postalCode": "21934"
+    },
+    {
+      "code": "01813",
+      "name": "Hòa Hội",
+      "fullName": "Xã Hòa Hội, Tỉnh Gia Lai",
+      "slug": "hoa-hoi",
+      "type": "commune",
+      "postalCode": "21871"
+    },
+    {
+      "code": "01842",
+      "name": "Ngô Mây",
+      "fullName": "Xã Ngô Mây, Tỉnh Gia Lai",
+      "slug": "ngo-may",
+      "type": "commune",
+      "postalCode": "21901"
+    },
+    {
+      "code": "01850",
+      "name": "Hoài Nhơn Tây",
+      "fullName": "Phường Hoài Nhơn Tây, Tỉnh Gia Lai",
+      "slug": "hoai-nhon-tay",
+      "type": "ward",
+      "postalCode": "21661"
+    },
+    {
+      "code": "01878",
+      "name": "Kbang",
+      "fullName": "Xã Kbang, Tỉnh Gia Lai",
+      "slug": "kbang",
+      "type": "commune",
+      "postalCode": "23638"
+    },
+    {
+      "code": "01902",
+      "name": "Ia Ko",
+      "fullName": "Xã Ia Ko, Tỉnh Gia Lai",
+      "slug": "ia-ko",
+      "type": "commune",
+      "postalCode": "23977"
+    },
+    {
+      "code": "01909",
+      "name": "Quy Nhơn Tây",
+      "fullName": "Phường Quy Nhơn Tây, Tỉnh Gia Lai",
+      "slug": "quy-nhon-tay",
+      "type": "ward",
+      "postalCode": "21589"
+    },
+    {
+      "code": "01910",
+      "name": "Tam Quan",
+      "fullName": "Phường Tam Quan, Tỉnh Gia Lai",
+      "slug": "tam-quan",
+      "type": "ward",
+      "postalCode": "21637"
+    },
+    {
+      "code": "01926",
+      "name": "Ia Grai",
+      "fullName": "Xã Ia Grai, Tỉnh Gia Lai",
+      "slug": "ia-grai",
+      "type": "commune",
+      "postalCode": "23764"
+    },
+    {
+      "code": "01963",
+      "name": "Ia Le",
+      "fullName": "Xã Ia Le, Tỉnh Gia Lai",
+      "slug": "ia-le",
+      "type": "commune",
+      "postalCode": "23986"
+    },
+    {
+      "code": "02013",
+      "name": "Đức Cơ",
+      "fullName": "Xã Đức Cơ, Tỉnh Gia Lai",
+      "slug": "duc-co",
+      "type": "commune",
+      "postalCode": "23857"
+    },
+    {
+      "code": "02035",
+      "name": "Ia Phí",
+      "fullName": "Xã Ia Phí, Tỉnh Gia Lai",
+      "slug": "ia-phi",
+      "type": "commune",
+      "postalCode": "23749"
+    },
+    {
+      "code": "02036",
+      "name": "Bình Phú",
+      "fullName": "Xã Bình Phú, Tỉnh Gia Lai",
+      "slug": "binh-phu",
+      "type": "commune",
+      "postalCode": "21835"
+    },
+    {
+      "code": "02056",
+      "name": "Ia Lâu",
+      "fullName": "Xã Ia Lâu, Tỉnh Gia Lai",
+      "slug": "ia-lau",
+      "type": "commune",
+      "postalCode": "23935"
+    },
+    {
+      "code": "02068",
+      "name": "Ia Krêl",
+      "fullName": "Xã Ia Krêl, Tỉnh Gia Lai",
+      "slug": "ia-krel",
+      "type": "commune",
+      "postalCode": "23866"
+    },
+    {
+      "code": "02092",
+      "name": "KDang",
+      "fullName": "Xã KDang, Tỉnh Gia Lai",
+      "slug": "kdang",
+      "type": "commune",
+      "postalCode": "23714"
+    },
+    {
+      "code": "02100",
+      "name": "Ia Rsai",
+      "fullName": "Xã Ia Rsai, Tỉnh Gia Lai",
+      "slug": "ia-rsai",
+      "type": "commune",
+      "postalCode": "24112"
+    },
+    {
+      "code": "02104",
+      "name": "Kon Gang",
+      "fullName": "Xã Kon Gang, Tỉnh Gia Lai",
+      "slug": "kon-gang",
+      "type": "commune",
+      "postalCode": "23701"
+    },
+    {
+      "code": "02108",
+      "name": "Bình Hiệp",
+      "fullName": "Xã Bình Hiệp, Tỉnh Gia Lai",
+      "slug": "binh-hiep",
+      "type": "commune",
+      "postalCode": "21817"
+    },
+    {
+      "code": "02110",
+      "name": "Ân Hảo",
+      "fullName": "Xã Ân Hảo, Tỉnh Gia Lai",
+      "slug": "an-hao",
+      "type": "commune",
+      "postalCode": "21697"
+    },
+    {
+      "code": "02122",
+      "name": "Bàu Cạn",
+      "fullName": "Xã Bàu Cạn, Tỉnh Gia Lai",
+      "slug": "bau-can",
+      "type": "commune",
+      "postalCode": "23896"
+    },
+    {
+      "code": "02125",
+      "name": "Uar",
+      "fullName": "Xã Uar, Tỉnh Gia Lai",
+      "slug": "uar",
+      "type": "commune",
+      "postalCode": "24109"
+    },
+    {
+      "code": "02153",
+      "name": "Bình Khê",
+      "fullName": "Xã Bình Khê, Tỉnh Gia Lai",
+      "slug": "binh-khe",
+      "type": "commune",
+      "postalCode": "21820"
+    },
+    {
+      "code": "02156",
+      "name": "Chư A Thai",
+      "fullName": "Xã Chư A Thai, Tỉnh Gia Lai",
+      "slug": "chu-a-thai",
+      "type": "commune",
+      "postalCode": "24049"
+    },
+    {
+      "code": "02159",
+      "name": "Vạn Đức",
+      "fullName": "Xã Vạn Đức, Tỉnh Gia Lai",
+      "slug": "van-duc",
+      "type": "commune",
+      "postalCode": "21703"
+    },
+    {
+      "code": "02177",
+      "name": "Ia Hiao",
+      "fullName": "Xã Ia Hiao, Tỉnh Gia Lai",
+      "slug": "ia-hiao",
+      "type": "commune",
+      "postalCode": "24061"
+    },
+    {
+      "code": "02209",
+      "name": "Kông Chro",
+      "fullName": "Xã Kông Chro, Tỉnh Gia Lai",
+      "slug": "kong-chro",
+      "type": "commune",
+      "postalCode": "23824"
+    },
+    {
+      "code": "02242",
+      "name": "Ia Pia",
+      "fullName": "Xã Ia Pia, Tỉnh Gia Lai",
+      "slug": "ia-pia",
+      "type": "commune",
+      "postalCode": "23926"
+    },
+    {
+      "code": "02246",
+      "name": "Ia Tul",
+      "fullName": "Xã Ia Tul, Tỉnh Gia Lai",
+      "slug": "ia-tul",
+      "type": "commune",
+      "postalCode": "24028"
+    },
+    {
+      "code": "02250",
+      "name": "An Nhơn Tây",
+      "fullName": "Xã An Nhơn Tây, Tỉnh Gia Lai",
+      "slug": "an-nhon-tay",
+      "type": "commune",
+      "postalCode": "21940"
+    },
+    {
+      "code": "02272",
+      "name": "Cửu An",
+      "fullName": "Xã Cửu An, Tỉnh Gia Lai",
+      "slug": "cuu-an",
+      "type": "commune",
+      "postalCode": "23629"
+    },
+    {
+      "code": "02297",
+      "name": "Chư Păh",
+      "fullName": "Xã Chư Păh, Tỉnh Gia Lai",
+      "slug": "chu-pah",
+      "type": "commune",
+      "postalCode": "23722"
+    },
+    {
+      "code": "02339",
+      "name": "Ia Boòng",
+      "fullName": "Xã Ia Boòng, Tỉnh Gia Lai",
+      "slug": "ia-boong",
+      "type": "commune",
+      "postalCode": "23911"
+    },
+    {
+      "code": "02357",
+      "name": "Ân Tường",
+      "fullName": "Xã Ân Tường, Tỉnh Gia Lai",
+      "slug": "an-tuong",
+      "type": "commune",
+      "postalCode": "21715"
+    },
+    {
+      "code": "02358",
+      "name": "Đak Pơ",
+      "fullName": "Xã Đak Pơ, Tỉnh Gia Lai",
+      "slug": "dak-po",
+      "type": "commune",
+      "postalCode": "23995"
+    },
+    {
+      "code": "02362",
+      "name": "Phù Mỹ Tây",
+      "fullName": "Xã Phù Mỹ Tây, Tỉnh Gia Lai",
+      "slug": "phu-my-tay",
+      "type": "commune",
+      "postalCode": "21757"
+    },
+    {
+      "code": "02405",
+      "name": "Ia Dơk",
+      "fullName": "Xã Ia Dơk, Tỉnh Gia Lai",
+      "slug": "ia-dok",
+      "type": "commune",
+      "postalCode": "23869"
+    },
+    {
+      "code": "02414",
+      "name": "Lơ Pang",
+      "fullName": "Xã Lơ Pang, Tỉnh Gia Lai",
+      "slug": "lo-pang",
+      "type": "commune",
+      "postalCode": "23812"
+    },
+    {
+      "code": "02432",
+      "name": "Kông Bơ La",
+      "fullName": "Xã Kông Bơ La, Tỉnh Gia Lai",
+      "slug": "kong-bo-la",
+      "type": "commune",
+      "postalCode": "23674"
+    },
+    {
+      "code": "02433",
+      "name": "Ia Tôr",
+      "fullName": "Xã Ia Tôr, Tỉnh Gia Lai",
+      "slug": "ia-tor",
+      "type": "commune",
+      "postalCode": "23908"
+    },
+    {
+      "code": "02455",
+      "name": "Ia Khươl",
+      "fullName": "Xã Ia Khươl, Tỉnh Gia Lai",
+      "slug": "ia-khuol",
+      "type": "commune",
+      "postalCode": "23728"
+    },
+    {
+      "code": "02473",
+      "name": "Canh Vinh",
+      "fullName": "Xã Canh Vinh, Tỉnh Gia Lai",
+      "slug": "canh-vinh",
+      "type": "commune",
+      "postalCode": "22006"
+    },
+    {
+      "code": "02485",
+      "name": "Ia Dreh",
+      "fullName": "Xã Ia Dreh, Tỉnh Gia Lai",
+      "slug": "ia-dreh",
+      "type": "commune",
+      "postalCode": "24100"
+    },
+    {
+      "code": "02536",
+      "name": "Gào",
+      "fullName": "Xã Gào, Tỉnh Gia Lai",
+      "slug": "gao",
+      "type": "commune",
+      "postalCode": "23611"
+    },
+    {
+      "code": "02599",
+      "name": "Đak Sơmei",
+      "fullName": "Xã Đak Sơmei, Tỉnh Gia Lai",
+      "slug": "dak-somei",
+      "type": "commune",
+      "postalCode": "23683"
+    },
+    {
+      "code": "02630",
+      "name": "Pờ Tó",
+      "fullName": "Xã Pờ Tó, Tỉnh Gia Lai",
+      "slug": "po-to",
+      "type": "commune",
+      "postalCode": "24013"
+    },
+    {
+      "code": "02634",
+      "name": "Hra",
+      "fullName": "Xã Hra, Tỉnh Gia Lai",
+      "slug": "hra",
+      "type": "commune",
+      "postalCode": "23799"
+    },
+    {
+      "code": "02638",
+      "name": "Hội Sơn",
+      "fullName": "Xã Hội Sơn, Tỉnh Gia Lai",
+      "slug": "hoi-son",
+      "type": "commune",
+      "postalCode": "21868"
+    },
+    {
+      "code": "02647",
+      "name": "An Hòa",
+      "fullName": "Xã An Hòa, Tỉnh Gia Lai",
+      "slug": "an-hoa",
+      "type": "commune",
+      "postalCode": "21628"
+    },
+    {
+      "code": "02660",
+      "name": "Kim Sơn",
+      "fullName": "Xã Kim Sơn, Tỉnh Gia Lai",
+      "slug": "kim-son",
+      "type": "commune",
+      "postalCode": "21727"
+    },
+    {
+      "code": "02669",
+      "name": "Vân Canh",
+      "fullName": "Xã Vân Canh, Tỉnh Gia Lai",
+      "slug": "van-canh",
+      "type": "commune",
+      "postalCode": "21994"
+    },
+    {
+      "code": "02670",
+      "name": "Ia Ly",
+      "fullName": "Xã Ia Ly, Tỉnh Gia Lai",
+      "slug": "ia-ly",
+      "type": "commune",
+      "postalCode": "23734"
+    },
+    {
+      "code": "02727",
+      "name": "Ayun",
+      "fullName": "Xã Ayun, Tỉnh Gia Lai",
+      "slug": "ayun",
+      "type": "commune",
+      "postalCode": "24044"
+    },
+    {
+      "code": "02816",
+      "name": "Ia O",
+      "fullName": "Xã Ia O, Tỉnh Gia Lai",
+      "slug": "ia-o",
+      "type": "commune",
+      "postalCode": "23782"
+    },
+    {
+      "code": "02829",
+      "name": "Sơn Lang",
+      "fullName": "Xã Sơn Lang, Tỉnh Gia Lai",
+      "slug": "son-lang",
+      "type": "commune",
+      "postalCode": "23647"
+    },
+    {
+      "code": "02848",
+      "name": "Tơ Tung",
+      "fullName": "Xã Tơ Tung, Tỉnh Gia Lai",
+      "slug": "to-tung",
+      "type": "commune",
+      "postalCode": "23668"
+    },
+    {
+      "code": "02853",
+      "name": "Vĩnh Thịnh",
+      "fullName": "Xã Vĩnh Thịnh, Tỉnh Gia Lai",
+      "slug": "vinh-thinh",
+      "type": "commune",
+      "postalCode": "21796"
+    },
+    {
+      "code": "02869",
+      "name": "An Lão",
+      "fullName": "Xã An Lão, Tỉnh Gia Lai",
+      "slug": "an-lao",
+      "type": "commune",
+      "postalCode": "21609"
+    },
+    {
+      "code": "02904",
+      "name": "Ia Rbol",
+      "fullName": "Xã Ia Rbol, Tỉnh Gia Lai",
+      "slug": "ia-rbol",
+      "type": "commune",
+      "postalCode": "24065"
+    },
+    {
+      "code": "02914",
+      "name": "Vĩnh Thạnh",
+      "fullName": "Xã Vĩnh Thạnh, Tỉnh Gia Lai",
+      "slug": "vinh-thanh",
+      "type": "commune",
+      "postalCode": "21786"
+    },
+    {
+      "code": "02922",
+      "name": "Kon Chiêng",
+      "fullName": "Xã Kon Chiêng, Tỉnh Gia Lai",
+      "slug": "kon-chieng",
+      "type": "commune",
+      "postalCode": "23818"
+    },
+    {
+      "code": "02957",
+      "name": "Chư Krey",
+      "fullName": "Xã Chư Krey, Tỉnh Gia Lai",
+      "slug": "chu-krey",
+      "type": "commune",
+      "postalCode": "23830"
+    },
+    {
+      "code": "02984",
+      "name": "Ia Dom",
+      "fullName": "Xã Ia Dom, Tỉnh Gia Lai",
+      "slug": "ia-dom",
+      "type": "commune",
+      "postalCode": "23872"
+    },
+    {
+      "code": "02990",
+      "name": "Vĩnh Quang",
+      "fullName": "Xã Vĩnh Quang, Tỉnh Gia Lai",
+      "slug": "vinh-quang",
+      "type": "commune",
+      "postalCode": "21805"
+    },
+    {
+      "code": "02992",
+      "name": "Ia Chia",
+      "fullName": "Xã Ia Chia, Tỉnh Gia Lai",
+      "slug": "ia-chia",
+      "type": "commune",
+      "postalCode": "23788"
+    },
+    {
+      "code": "03007",
+      "name": "Ya Ma",
+      "fullName": "Xã Ya Ma, Tỉnh Gia Lai",
+      "slug": "ya-ma",
+      "type": "commune",
+      "postalCode": "23833"
+    },
+    {
+      "code": "03011",
+      "name": "Ya Hội",
+      "fullName": "Xã Ya Hội, Tỉnh Gia Lai",
+      "slug": "ya-hoi",
+      "type": "commune",
+      "postalCode": "24007"
+    },
+    {
+      "code": "03018",
+      "name": "Ia Nan",
+      "fullName": "Xã Ia Nan, Tỉnh Gia Lai",
+      "slug": "ia-nan",
+      "type": "commune",
+      "postalCode": "23884"
+    },
+    {
+      "code": "03037",
+      "name": "Ia Sao",
+      "fullName": "Xã Ia Sao, Tỉnh Gia Lai",
+      "slug": "ia-sao",
+      "type": "commune",
+      "postalCode": "24073"
+    },
+    {
+      "code": "03051",
+      "name": "SRó",
+      "fullName": "Xã SRó, Tỉnh Gia Lai",
+      "slug": "sro",
+      "type": "commune",
+      "postalCode": "23839"
+    },
+    {
+      "code": "03073",
+      "name": "Chơ Long",
+      "fullName": "Xã Chơ Long, Tỉnh Gia Lai",
+      "slug": "cho-long",
+      "type": "commune",
+      "postalCode": "23851"
+    },
+    {
+      "code": "03157",
+      "name": "An Vinh",
+      "fullName": "Xã An Vinh, Tỉnh Gia Lai",
+      "slug": "an-vinh",
+      "type": "commune",
+      "postalCode": "21616"
+    },
+    {
+      "code": "03180",
+      "name": "Đak Rong",
+      "fullName": "Xã Đak Rong, Tỉnh Gia Lai",
+      "slug": "dak-rong",
+      "type": "commune",
+      "postalCode": "23644"
+    },
+    {
+      "code": "03194",
+      "name": "Krong",
+      "fullName": "Xã Krong, Tỉnh Gia Lai",
+      "slug": "krong",
+      "type": "commune",
+      "postalCode": "23650"
+    },
+    {
+      "code": "03195",
+      "name": "Vĩnh Sơn",
+      "fullName": "Xã Vĩnh Sơn, Tỉnh Gia Lai",
+      "slug": "vinh-son",
+      "type": "commune",
+      "postalCode": "21787"
+    },
+    {
+      "code": "03207",
+      "name": "Ia Pnôn",
+      "fullName": "Xã Ia Pnôn, Tỉnh Gia Lai",
+      "slug": "ia-pnon",
+      "type": "commune",
+      "postalCode": "23881"
+    },
+    {
+      "code": "03262",
+      "name": "Đăk Song",
+      "fullName": "Xã Đăk Song, Tỉnh Gia Lai",
+      "slug": "dak-song",
+      "type": "commune",
+      "postalCode": "23842"
+    },
+    {
+      "code": "03283",
+      "name": "Ia Púch",
+      "fullName": "Xã Ia Púch, Tỉnh Gia Lai",
+      "slug": "ia-puch",
+      "type": "commune",
+      "postalCode": "23917"
+    },
+    {
+      "code": "03295",
+      "name": "Ia Mơ",
+      "fullName": "Xã Ia Mơ, Tỉnh Gia Lai",
+      "slug": "ia-mo",
+      "type": "commune",
+      "postalCode": "23938"
+    },
+    {
+      "code": "03309",
+      "name": "Canh Liên",
+      "fullName": "Xã Canh Liên, Tỉnh Gia Lai",
+      "slug": "canh-lien",
+      "type": "commune",
+      "postalCode": "21997"
+    },
+    {
+      "code": "03310",
+      "name": "Nhơn Châu",
+      "fullName": "Xã Nhơn Châu, Tỉnh Gia Lai",
+      "slug": "nhon-chau",
+      "type": "commune",
+      "postalCode": "21607"
+    },
+    {
+      "code": "03314",
+      "name": "An Toàn",
+      "fullName": "Xã An Toàn, Tỉnh Gia Lai",
+      "slug": "an-toan",
+      "type": "commune",
+      "postalCode": "21622"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Quy Nhơn",
+      "slug": "thanh-pho-quy-nhon",
+      "wards": [
+        {
+          "code": "21553",
+          "name": "Quy Nhơn Bắc",
+          "fullName": "Phường Quy Nhơn Bắc, Tỉnh Gia Lai",
+          "slug": "quy-nhon-bac",
+          "postalCode": "21553"
+        },
+        {
+          "code": "21583",
+          "name": "Quy Nhơn",
+          "fullName": "Phường Quy Nhơn, Tỉnh Gia Lai",
+          "slug": "quy-nhon",
+          "postalCode": "21583"
+        },
+        {
+          "code": "21589",
+          "name": "Quy Nhơn Tây",
+          "fullName": "Phường Quy Nhơn Tây, Tỉnh Gia Lai",
+          "slug": "quy-nhon-tay",
+          "postalCode": "21589"
+        },
+        {
+          "code": "21592",
+          "name": "Quy Nhơn Nam",
+          "fullName": "Phường Quy Nhơn Nam, Tỉnh Gia Lai",
+          "slug": "quy-nhon-nam",
+          "postalCode": "21592"
+        },
+        {
+          "code": "21601",
+          "name": "Quy Nhơn Đông",
+          "fullName": "Phường Quy Nhơn Đông, Tỉnh Gia Lai",
+          "slug": "quy-nhon-dong",
+          "postalCode": "21601"
+        },
+        {
+          "code": "21607",
+          "name": "Nhơn Châu",
+          "fullName": "Xã Nhơn Châu, Tỉnh Gia Lai",
+          "slug": "nhon-chau",
+          "postalCode": "21607"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Hoài Nhơn",
+      "slug": "thi-xa-hoai-nhon",
+      "wards": [
+        {
+          "code": "21637",
+          "name": "Tam Quan",
+          "fullName": "Phường Tam Quan, Tỉnh Gia Lai",
+          "slug": "tam-quan",
+          "postalCode": "21637"
+        },
+        {
+          "code": "21640",
+          "name": "Bồng Sơn",
+          "fullName": "Phường Bồng Sơn, Tỉnh Gia Lai",
+          "slug": "bong-son",
+          "postalCode": "21640"
+        },
+        {
+          "code": "21655",
+          "name": "Hoài Nhơn Bắc",
+          "fullName": "Phường Hoài Nhơn Bắc, Tỉnh Gia Lai",
+          "slug": "hoai-nhon-bac",
+          "postalCode": "21655"
+        },
+        {
+          "code": "21661",
+          "name": "Hoài Nhơn Tây",
+          "fullName": "Phường Hoài Nhơn Tây, Tỉnh Gia Lai",
+          "slug": "hoai-nhon-tay",
+          "postalCode": "21661"
+        },
+        {
+          "code": "21664",
+          "name": "Hoài Nhơn",
+          "fullName": "Phường Hoài Nhơn, Tỉnh Gia Lai",
+          "slug": "hoai-nhon",
+          "postalCode": "21664"
+        },
+        {
+          "code": "21670",
+          "name": "Hoài Nhơn Đông",
+          "fullName": "Phường Hoài Nhơn Đông, Tỉnh Gia Lai",
+          "slug": "hoai-nhon-dong",
+          "postalCode": "21670"
+        },
+        {
+          "code": "21673",
+          "name": "Hoài Nhơn Nam",
+          "fullName": "Phường Hoài Nhơn Nam, Tỉnh Gia Lai",
+          "slug": "hoai-nhon-nam",
+          "postalCode": "21673"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã An Nhơn",
+      "slug": "thi-xa-an-nhon",
+      "wards": [
+        {
+          "code": "21907",
+          "name": "Bình Định",
+          "fullName": "Phường Bình Định, Tỉnh Gia Lai",
+          "slug": "binh-dinh",
+          "postalCode": "21907"
+        },
+        {
+          "code": "21910",
+          "name": "An Nhơn",
+          "fullName": "Phường An Nhơn, Tỉnh Gia Lai",
+          "slug": "an-nhon",
+          "postalCode": "21910"
+        },
+        {
+          "code": "21925",
+          "name": "An Nhơn Bắc",
+          "fullName": "Phường An Nhơn Bắc, Tỉnh Gia Lai",
+          "slug": "an-nhon-bac",
+          "postalCode": "21925"
+        },
+        {
+          "code": "21934",
+          "name": "An Nhơn Đông",
+          "fullName": "Phường An Nhơn Đông, Tỉnh Gia Lai",
+          "slug": "an-nhon-dong",
+          "postalCode": "21934"
+        },
+        {
+          "code": "21940",
+          "name": "An Nhơn Tây",
+          "fullName": "Xã An Nhơn Tây, Tỉnh Gia Lai",
+          "slug": "an-nhon-tay",
+          "postalCode": "21940"
+        },
+        {
+          "code": "21943",
+          "name": "An Nhơn Nam",
+          "fullName": "Phường An Nhơn Nam, Tỉnh Gia Lai",
+          "slug": "an-nhon-nam",
+          "postalCode": "21943"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Pleiku",
+      "slug": "thanh-pho-pleiku",
+      "wards": [
+        {
+          "code": "23563",
+          "name": "Diên Hồng",
+          "fullName": "Phường Diên Hồng, Tỉnh Gia Lai",
+          "slug": "dien-hong",
+          "postalCode": "23563"
+        },
+        {
+          "code": "23575",
+          "name": "Pleiku",
+          "fullName": "Phường Pleiku, Tỉnh Gia Lai",
+          "slug": "pleiku",
+          "postalCode": "23575"
+        },
+        {
+          "code": "23584",
+          "name": "Thống Nhất",
+          "fullName": "Phường Thống Nhất, Tỉnh Gia Lai",
+          "slug": "thong-nhat",
+          "postalCode": "23584"
+        },
+        {
+          "code": "23586",
+          "name": "Hội Phú",
+          "fullName": "Phường Hội Phú, Tỉnh Gia Lai",
+          "slug": "hoi-phu",
+          "postalCode": "23586"
+        },
+        {
+          "code": "23590",
+          "name": "Biển Hồ",
+          "fullName": "Xã Biển Hồ, Tỉnh Gia Lai",
+          "slug": "bien-ho",
+          "postalCode": "23590"
+        },
+        {
+          "code": "23602",
+          "name": "An Phú",
+          "fullName": "Phường An Phú, Tỉnh Gia Lai",
+          "slug": "an-phu",
+          "postalCode": "23602"
+        },
+        {
+          "code": "23611",
+          "name": "Gào",
+          "fullName": "Xã Gào, Tỉnh Gia Lai",
+          "slug": "gao",
+          "postalCode": "23611"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã An Khê",
+      "slug": "thi-xa-an-khe",
+      "wards": [
+        {
+          "code": "23614",
+          "name": "An Bình",
+          "fullName": "Phường An Bình, Tỉnh Gia Lai",
+          "slug": "an-binh",
+          "postalCode": "23614"
+        },
+        {
+          "code": "23617",
+          "name": "An Khê",
+          "fullName": "Phường An Khê, Tỉnh Gia Lai",
+          "slug": "an-khe",
+          "postalCode": "23617"
+        },
+        {
+          "code": "23629",
+          "name": "Cửu An",
+          "fullName": "Xã Cửu An, Tỉnh Gia Lai",
+          "slug": "cuu-an",
+          "postalCode": "23629"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đăk Pơ",
+      "slug": "huyen-dak-po",
+      "wards": [
+        {
+          "code": "23614",
+          "name": "An Bình",
+          "fullName": "Phường An Bình, Tỉnh Gia Lai",
+          "slug": "an-binh",
+          "postalCode": "23614"
+        },
+        {
+          "code": "23995",
+          "name": "Đak Pơ",
+          "fullName": "Xã Đak Pơ, Tỉnh Gia Lai",
+          "slug": "dak-po",
+          "postalCode": "23995"
+        },
+        {
+          "code": "24007",
+          "name": "Ya Hội",
+          "fullName": "Xã Ya Hội, Tỉnh Gia Lai",
+          "slug": "ya-hoi",
+          "postalCode": "24007"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Ayun Pa",
+      "slug": "thi-xa-ayun-pa",
+      "wards": [
+        {
+          "code": "24044",
+          "name": "Ayun Pa",
+          "fullName": "Phường Ayun Pa, Tỉnh Gia Lai",
+          "slug": "ayun-pa",
+          "postalCode": "24044"
+        },
+        {
+          "code": "24065",
+          "name": "Ia Rbol",
+          "fullName": "Xã Ia Rbol, Tỉnh Gia Lai",
+          "slug": "ia-rbol",
+          "postalCode": "24065"
+        },
+        {
+          "code": "24073",
+          "name": "Ia Sao",
+          "fullName": "Xã Ia Sao, Tỉnh Gia Lai",
+          "slug": "ia-sao",
+          "postalCode": "24073"
+        }
+      ]
+    },
+    {
+      "name": "Huyện An Lão",
+      "slug": "huyen-an-lao",
+      "wards": [
+        {
+          "code": "21609",
+          "name": "An Lão",
+          "fullName": "Xã An Lão, Tỉnh Gia Lai",
+          "slug": "an-lao",
+          "postalCode": "21609"
+        },
+        {
+          "code": "21616",
+          "name": "An Vinh",
+          "fullName": "Xã An Vinh, Tỉnh Gia Lai",
+          "slug": "an-vinh",
+          "postalCode": "21616"
+        },
+        {
+          "code": "21622",
+          "name": "An Toàn",
+          "fullName": "Xã An Toàn, Tỉnh Gia Lai",
+          "slug": "an-toan",
+          "postalCode": "21622"
+        },
+        {
+          "code": "21628",
+          "name": "An Hòa",
+          "fullName": "Xã An Hòa, Tỉnh Gia Lai",
+          "slug": "an-hoa",
+          "postalCode": "21628"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hoài Ân",
+      "slug": "huyen-hoai-an",
+      "wards": [
+        {
+          "code": "21688",
+          "name": "Hoài Ân",
+          "fullName": "Xã Hoài Ân, Tỉnh Gia Lai",
+          "slug": "hoai-an",
+          "postalCode": "21688"
+        },
+        {
+          "code": "21697",
+          "name": "Ân Hảo",
+          "fullName": "Xã Ân Hảo, Tỉnh Gia Lai",
+          "slug": "an-hao",
+          "postalCode": "21697"
+        },
+        {
+          "code": "21703",
+          "name": "Vạn Đức",
+          "fullName": "Xã Vạn Đức, Tỉnh Gia Lai",
+          "slug": "van-duc",
+          "postalCode": "21703"
+        },
+        {
+          "code": "21715",
+          "name": "Ân Tường",
+          "fullName": "Xã Ân Tường, Tỉnh Gia Lai",
+          "slug": "an-tuong",
+          "postalCode": "21715"
+        },
+        {
+          "code": "21727",
+          "name": "Kim Sơn",
+          "fullName": "Xã Kim Sơn, Tỉnh Gia Lai",
+          "slug": "kim-son",
+          "postalCode": "21727"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phù Mỹ",
+      "slug": "huyen-phu-my",
+      "wards": [
+        {
+          "code": "21730",
+          "name": "Phù Mỹ",
+          "fullName": "Xã Phù Mỹ, Tỉnh Gia Lai",
+          "slug": "phu-my",
+          "postalCode": "21730"
+        },
+        {
+          "code": "21733",
+          "name": "Bình Dương",
+          "fullName": "Xã Bình Dương, Tỉnh Gia Lai",
+          "slug": "binh-duong",
+          "postalCode": "21733"
+        },
+        {
+          "code": "21739",
+          "name": "Phù Mỹ Bắc",
+          "fullName": "Xã Phù Mỹ Bắc, Tỉnh Gia Lai",
+          "slug": "phu-my-bac",
+          "postalCode": "21739"
+        },
+        {
+          "code": "21751",
+          "name": "Phù Mỹ Đông",
+          "fullName": "Xã Phù Mỹ Đông, Tỉnh Gia Lai",
+          "slug": "phu-my-dong",
+          "postalCode": "21751"
+        },
+        {
+          "code": "21757",
+          "name": "Phù Mỹ Tây",
+          "fullName": "Xã Phù Mỹ Tây, Tỉnh Gia Lai",
+          "slug": "phu-my-tay",
+          "postalCode": "21757"
+        },
+        {
+          "code": "21769",
+          "name": "An Lương",
+          "fullName": "Xã An Lương, Tỉnh Gia Lai",
+          "slug": "an-luong",
+          "postalCode": "21769"
+        },
+        {
+          "code": "21775",
+          "name": "Phù Mỹ Nam",
+          "fullName": "Xã Phù Mỹ Nam, Tỉnh Gia Lai",
+          "slug": "phu-my-nam",
+          "postalCode": "21775"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Thạnh",
+      "slug": "huyen-vinh-thanh",
+      "wards": [
+        {
+          "code": "21786",
+          "name": "Vĩnh Thạnh",
+          "fullName": "Xã Vĩnh Thạnh, Tỉnh Gia Lai",
+          "slug": "vinh-thanh",
+          "postalCode": "21786"
+        },
+        {
+          "code": "21787",
+          "name": "Vĩnh Sơn",
+          "fullName": "Xã Vĩnh Sơn, Tỉnh Gia Lai",
+          "slug": "vinh-son",
+          "postalCode": "21787"
+        },
+        {
+          "code": "21796",
+          "name": "Vĩnh Thịnh",
+          "fullName": "Xã Vĩnh Thịnh, Tỉnh Gia Lai",
+          "slug": "vinh-thinh",
+          "postalCode": "21796"
+        },
+        {
+          "code": "21805",
+          "name": "Vĩnh Quang",
+          "fullName": "Xã Vĩnh Quang, Tỉnh Gia Lai",
+          "slug": "vinh-quang",
+          "postalCode": "21805"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tây Sơn",
+      "slug": "huyen-tay-son",
+      "wards": [
+        {
+          "code": "21808",
+          "name": "Tây Sơn",
+          "fullName": "Xã Tây Sơn, Tỉnh Gia Lai",
+          "slug": "tay-son",
+          "postalCode": "21808"
+        },
+        {
+          "code": "21817",
+          "name": "Bình Hiệp",
+          "fullName": "Xã Bình Hiệp, Tỉnh Gia Lai",
+          "slug": "binh-hiep",
+          "postalCode": "21817"
+        },
+        {
+          "code": "21820",
+          "name": "Bình Khê",
+          "fullName": "Xã Bình Khê, Tỉnh Gia Lai",
+          "slug": "binh-khe",
+          "postalCode": "21820"
+        },
+        {
+          "code": "21829",
+          "name": "Bình An",
+          "fullName": "Xã Bình An, Tỉnh Gia Lai",
+          "slug": "binh-an",
+          "postalCode": "21829"
+        },
+        {
+          "code": "21835",
+          "name": "Bình Phú",
+          "fullName": "Xã Bình Phú, Tỉnh Gia Lai",
+          "slug": "binh-phu",
+          "postalCode": "21835"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phù Cát",
+      "slug": "huyen-phu-cat",
+      "wards": [
+        {
+          "code": "21853",
+          "name": "Phù Cát",
+          "fullName": "Xã Phù Cát, Tỉnh Gia Lai",
+          "slug": "phu-cat",
+          "postalCode": "21853"
+        },
+        {
+          "code": "21859",
+          "name": "Đề Gi",
+          "fullName": "Xã Đề Gi, Tỉnh Gia Lai",
+          "slug": "de-gi",
+          "postalCode": "21859"
+        },
+        {
+          "code": "21868",
+          "name": "Hội Sơn",
+          "fullName": "Xã Hội Sơn, Tỉnh Gia Lai",
+          "slug": "hoi-son",
+          "postalCode": "21868"
+        },
+        {
+          "code": "21871",
+          "name": "Hòa Hội",
+          "fullName": "Xã Hòa Hội, Tỉnh Gia Lai",
+          "slug": "hoa-hoi",
+          "postalCode": "21871"
+        },
+        {
+          "code": "21880",
+          "name": "Cát Tiến",
+          "fullName": "Xã Cát Tiến, Tỉnh Gia Lai",
+          "slug": "cat-tien",
+          "postalCode": "21880"
+        },
+        {
+          "code": "21892",
+          "name": "Xuân An",
+          "fullName": "Xã Xuân An, Tỉnh Gia Lai",
+          "slug": "xuan-an",
+          "postalCode": "21892"
+        },
+        {
+          "code": "21901",
+          "name": "Ngô Mây",
+          "fullName": "Xã Ngô Mây, Tỉnh Gia Lai",
+          "slug": "ngo-may",
+          "postalCode": "21901"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tuy Phước",
+      "slug": "huyen-tuy-phuoc",
+      "wards": [
+        {
+          "code": "21952",
+          "name": "Tuy Phước",
+          "fullName": "Xã Tuy Phước, Tỉnh Gia Lai",
+          "slug": "tuy-phuoc",
+          "postalCode": "21952"
+        },
+        {
+          "code": "21964",
+          "name": "Tuy Phước Bắc",
+          "fullName": "Xã Tuy Phước Bắc, Tỉnh Gia Lai",
+          "slug": "tuy-phuoc-bac",
+          "postalCode": "21964"
+        },
+        {
+          "code": "21970",
+          "name": "Tuy Phước Đông",
+          "fullName": "Xã Tuy Phước Đông, Tỉnh Gia Lai",
+          "slug": "tuy-phuoc-dong",
+          "postalCode": "21970"
+        },
+        {
+          "code": "21985",
+          "name": "Tuy Phước Tây",
+          "fullName": "Xã Tuy Phước Tây, Tỉnh Gia Lai",
+          "slug": "tuy-phuoc-tay",
+          "postalCode": "21985"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vân Canh",
+      "slug": "huyen-van-canh",
+      "wards": [
+        {
+          "code": "21994",
+          "name": "Vân Canh",
+          "fullName": "Xã Vân Canh, Tỉnh Gia Lai",
+          "slug": "van-canh",
+          "postalCode": "21994"
+        },
+        {
+          "code": "21997",
+          "name": "Canh Liên",
+          "fullName": "Xã Canh Liên, Tỉnh Gia Lai",
+          "slug": "canh-lien",
+          "postalCode": "21997"
+        },
+        {
+          "code": "22006",
+          "name": "Canh Vinh",
+          "fullName": "Xã Canh Vinh, Tỉnh Gia Lai",
+          "slug": "canh-vinh",
+          "postalCode": "22006"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đăk Đoa",
+      "slug": "huyen-dak-doa",
+      "wards": [
+        {
+          "code": "23590",
+          "name": "Biển Hồ",
+          "fullName": "Xã Biển Hồ, Tỉnh Gia Lai",
+          "slug": "bien-ho",
+          "postalCode": "23590"
+        },
+        {
+          "code": "23677",
+          "name": "Đak Đoa",
+          "fullName": "Xã Đak Đoa, Tỉnh Gia Lai",
+          "slug": "dak-doa",
+          "postalCode": "23677"
+        },
+        {
+          "code": "23683",
+          "name": "Đak Sơmei",
+          "fullName": "Xã Đak Sơmei, Tỉnh Gia Lai",
+          "slug": "dak-somei",
+          "postalCode": "23683"
+        },
+        {
+          "code": "23701",
+          "name": "Kon Gang",
+          "fullName": "Xã Kon Gang, Tỉnh Gia Lai",
+          "slug": "kon-gang",
+          "postalCode": "23701"
+        },
+        {
+          "code": "23710",
+          "name": "Ia Băng",
+          "fullName": "Xã Ia Băng, Tỉnh Gia Lai",
+          "slug": "ia-bang",
+          "postalCode": "23710"
+        },
+        {
+          "code": "23714",
+          "name": "KDang",
+          "fullName": "Xã KDang, Tỉnh Gia Lai",
+          "slug": "kdang",
+          "postalCode": "23714"
+        },
+        {
+          "code": "23794",
+          "name": "Mang Yang",
+          "fullName": "Xã Mang Yang, Tỉnh Gia Lai",
+          "slug": "mang-yang",
+          "postalCode": "23794"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chư Păh",
+      "slug": "huyen-chu-pah",
+      "wards": [
+        {
+          "code": "23590",
+          "name": "Biển Hồ",
+          "fullName": "Xã Biển Hồ, Tỉnh Gia Lai",
+          "slug": "bien-ho",
+          "postalCode": "23590"
+        },
+        {
+          "code": "23722",
+          "name": "Chư Păh",
+          "fullName": "Xã Chư Păh, Tỉnh Gia Lai",
+          "slug": "chu-pah",
+          "postalCode": "23722"
+        },
+        {
+          "code": "23728",
+          "name": "Ia Khươl",
+          "fullName": "Xã Ia Khươl, Tỉnh Gia Lai",
+          "slug": "ia-khuol",
+          "postalCode": "23728"
+        },
+        {
+          "code": "23734",
+          "name": "Ia Ly",
+          "fullName": "Xã Ia Ly, Tỉnh Gia Lai",
+          "slug": "ia-ly",
+          "postalCode": "23734"
+        },
+        {
+          "code": "23749",
+          "name": "Ia Phí",
+          "fullName": "Xã Ia Phí, Tỉnh Gia Lai",
+          "slug": "ia-phi",
+          "postalCode": "23749"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ia Grai",
+      "slug": "huyen-ia-grai",
+      "wards": [
+        {
+          "code": "23611",
+          "name": "Gào",
+          "fullName": "Xã Gào, Tỉnh Gia Lai",
+          "slug": "gao",
+          "postalCode": "23611"
+        },
+        {
+          "code": "23764",
+          "name": "Ia Grai",
+          "fullName": "Xã Ia Grai, Tỉnh Gia Lai",
+          "slug": "ia-grai",
+          "postalCode": "23764"
+        },
+        {
+          "code": "23767",
+          "name": "Ia Hrung",
+          "fullName": "Xã Ia Hrung, Tỉnh Gia Lai",
+          "slug": "ia-hrung",
+          "postalCode": "23767"
+        },
+        {
+          "code": "23776",
+          "name": "Ia Krái",
+          "fullName": "Xã Ia Krái, Tỉnh Gia Lai",
+          "slug": "ia-krai",
+          "postalCode": "23776"
+        },
+        {
+          "code": "23782",
+          "name": "Ia O",
+          "fullName": "Xã Ia O, Tỉnh Gia Lai",
+          "slug": "ia-o",
+          "postalCode": "23782"
+        },
+        {
+          "code": "23788",
+          "name": "Ia Chia",
+          "fullName": "Xã Ia Chia, Tỉnh Gia Lai",
+          "slug": "ia-chia",
+          "postalCode": "23788"
+        }
+      ]
+    },
+    {
+      "name": "Huyện KBang",
+      "slug": "huyen-kbang",
+      "wards": [
+        {
+          "code": "23638",
+          "name": "Kbang",
+          "fullName": "Xã Kbang, Tỉnh Gia Lai",
+          "slug": "kbang",
+          "postalCode": "23638"
+        },
+        {
+          "code": "23644",
+          "name": "Đak Rong",
+          "fullName": "Xã Đak Rong, Tỉnh Gia Lai",
+          "slug": "dak-rong",
+          "postalCode": "23644"
+        },
+        {
+          "code": "23647",
+          "name": "Sơn Lang",
+          "fullName": "Xã Sơn Lang, Tỉnh Gia Lai",
+          "slug": "son-lang",
+          "postalCode": "23647"
+        },
+        {
+          "code": "23650",
+          "name": "Krong",
+          "fullName": "Xã Krong, Tỉnh Gia Lai",
+          "slug": "krong",
+          "postalCode": "23650"
+        },
+        {
+          "code": "23668",
+          "name": "Tơ Tung",
+          "fullName": "Xã Tơ Tung, Tỉnh Gia Lai",
+          "slug": "to-tung",
+          "postalCode": "23668"
+        },
+        {
+          "code": "23674",
+          "name": "Kông Bơ La",
+          "fullName": "Xã Kông Bơ La, Tỉnh Gia Lai",
+          "slug": "kong-bo-la",
+          "postalCode": "23674"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mang Yang",
+      "slug": "huyen-mang-yang",
+      "wards": [
+        {
+          "code": "23794",
+          "name": "Mang Yang",
+          "fullName": "Xã Mang Yang, Tỉnh Gia Lai",
+          "slug": "mang-yang",
+          "postalCode": "23794"
+        },
+        {
+          "code": "23798",
+          "name": "Ayun",
+          "fullName": "Xã Ayun, Tỉnh Gia Lai",
+          "slug": "ayun",
+          "postalCode": "23798"
+        },
+        {
+          "code": "23799",
+          "name": "Hra",
+          "fullName": "Xã Hra, Tỉnh Gia Lai",
+          "slug": "hra",
+          "postalCode": "23799"
+        },
+        {
+          "code": "23812",
+          "name": "Lơ Pang",
+          "fullName": "Xã Lơ Pang, Tỉnh Gia Lai",
+          "slug": "lo-pang",
+          "postalCode": "23812"
+        },
+        {
+          "code": "23818",
+          "name": "Kon Chiêng",
+          "fullName": "Xã Kon Chiêng, Tỉnh Gia Lai",
+          "slug": "kon-chieng",
+          "postalCode": "23818"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kông Chro",
+      "slug": "huyen-kong-chro",
+      "wards": [
+        {
+          "code": "23824",
+          "name": "Kông Chro",
+          "fullName": "Xã Kông Chro, Tỉnh Gia Lai",
+          "slug": "kong-chro",
+          "postalCode": "23824"
+        },
+        {
+          "code": "23830",
+          "name": "Chư Krey",
+          "fullName": "Xã Chư Krey, Tỉnh Gia Lai",
+          "slug": "chu-krey",
+          "postalCode": "23830"
+        },
+        {
+          "code": "23833",
+          "name": "Ya Ma",
+          "fullName": "Xã Ya Ma, Tỉnh Gia Lai",
+          "slug": "ya-ma",
+          "postalCode": "23833"
+        },
+        {
+          "code": "23839",
+          "name": "SRó",
+          "fullName": "Xã SRó, Tỉnh Gia Lai",
+          "slug": "sro",
+          "postalCode": "23839"
+        },
+        {
+          "code": "23842",
+          "name": "Đăk Song",
+          "fullName": "Xã Đăk Song, Tỉnh Gia Lai",
+          "slug": "dak-song",
+          "postalCode": "23842"
+        },
+        {
+          "code": "23851",
+          "name": "Chơ Long",
+          "fullName": "Xã Chơ Long, Tỉnh Gia Lai",
+          "slug": "cho-long",
+          "postalCode": "23851"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đức Cơ",
+      "slug": "huyen-duc-co",
+      "wards": [
+        {
+          "code": "23857",
+          "name": "Đức Cơ",
+          "fullName": "Xã Đức Cơ, Tỉnh Gia Lai",
+          "slug": "duc-co",
+          "postalCode": "23857"
+        },
+        {
+          "code": "23866",
+          "name": "Ia Krêl",
+          "fullName": "Xã Ia Krêl, Tỉnh Gia Lai",
+          "slug": "ia-krel",
+          "postalCode": "23866"
+        },
+        {
+          "code": "23869",
+          "name": "Ia Dơk",
+          "fullName": "Xã Ia Dơk, Tỉnh Gia Lai",
+          "slug": "ia-dok",
+          "postalCode": "23869"
+        },
+        {
+          "code": "23872",
+          "name": "Ia Dom",
+          "fullName": "Xã Ia Dom, Tỉnh Gia Lai",
+          "slug": "ia-dom",
+          "postalCode": "23872"
+        },
+        {
+          "code": "23881",
+          "name": "Ia Pnôn",
+          "fullName": "Xã Ia Pnôn, Tỉnh Gia Lai",
+          "slug": "ia-pnon",
+          "postalCode": "23881"
+        },
+        {
+          "code": "23884",
+          "name": "Ia Nan",
+          "fullName": "Xã Ia Nan, Tỉnh Gia Lai",
+          "slug": "ia-nan",
+          "postalCode": "23884"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chư Prông",
+      "slug": "huyen-chu-prong",
+      "wards": [
+        {
+          "code": "23887",
+          "name": "Chư Prông",
+          "fullName": "Xã Chư Prông, Tỉnh Gia Lai",
+          "slug": "chu-prong",
+          "postalCode": "23887"
+        },
+        {
+          "code": "23896",
+          "name": "Bàu Cạn",
+          "fullName": "Xã Bàu Cạn, Tỉnh Gia Lai",
+          "slug": "bau-can",
+          "postalCode": "23896"
+        },
+        {
+          "code": "23908",
+          "name": "Ia Tôr",
+          "fullName": "Xã Ia Tôr, Tỉnh Gia Lai",
+          "slug": "ia-tor",
+          "postalCode": "23908"
+        },
+        {
+          "code": "23911",
+          "name": "Ia Boòng",
+          "fullName": "Xã Ia Boòng, Tỉnh Gia Lai",
+          "slug": "ia-boong",
+          "postalCode": "23911"
+        },
+        {
+          "code": "23917",
+          "name": "Ia Púch",
+          "fullName": "Xã Ia Púch, Tỉnh Gia Lai",
+          "slug": "ia-puch",
+          "postalCode": "23917"
+        },
+        {
+          "code": "23926",
+          "name": "Ia Pia",
+          "fullName": "Xã Ia Pia, Tỉnh Gia Lai",
+          "slug": "ia-pia",
+          "postalCode": "23926"
+        },
+        {
+          "code": "23935",
+          "name": "Ia Lâu",
+          "fullName": "Xã Ia Lâu, Tỉnh Gia Lai",
+          "slug": "ia-lau",
+          "postalCode": "23935"
+        },
+        {
+          "code": "23938",
+          "name": "Ia Mơ",
+          "fullName": "Xã Ia Mơ, Tỉnh Gia Lai",
+          "slug": "ia-mo",
+          "postalCode": "23938"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chư Sê",
+      "slug": "huyen-chu-se",
+      "wards": [
+        {
+          "code": "23941",
+          "name": "Chư Sê",
+          "fullName": "Xã Chư Sê, Tỉnh Gia Lai",
+          "slug": "chu-se",
+          "postalCode": "23941"
+        },
+        {
+          "code": "23947",
+          "name": "Bờ Ngoong",
+          "fullName": "Xã Bờ Ngoong, Tỉnh Gia Lai",
+          "slug": "bo-ngoong",
+          "postalCode": "23947"
+        },
+        {
+          "code": "23954",
+          "name": "Al Bá",
+          "fullName": "Xã Al Bá, Tỉnh Gia Lai",
+          "slug": "al-ba",
+          "postalCode": "23954"
+        },
+        {
+          "code": "23971",
+          "name": "Ia Hrú",
+          "fullName": "Xã Ia Hrú, Tỉnh Gia Lai",
+          "slug": "ia-hru",
+          "postalCode": "23971"
+        },
+        {
+          "code": "23977",
+          "name": "Ia Ko",
+          "fullName": "Xã Ia Ko, Tỉnh Gia Lai",
+          "slug": "ia-ko",
+          "postalCode": "23977"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chư Pưh",
+      "slug": "huyen-chu-puh",
+      "wards": [
+        {
+          "code": "23942",
+          "name": "Chư Pưh",
+          "fullName": "Xã Chư Pưh, Tỉnh Gia Lai",
+          "slug": "chu-puh",
+          "postalCode": "23942"
+        },
+        {
+          "code": "23971",
+          "name": "Ia Hrú",
+          "fullName": "Xã Ia Hrú, Tỉnh Gia Lai",
+          "slug": "ia-hru",
+          "postalCode": "23971"
+        },
+        {
+          "code": "23977",
+          "name": "Ia Ko",
+          "fullName": "Xã Ia Ko, Tỉnh Gia Lai",
+          "slug": "ia-ko",
+          "postalCode": "23977"
+        },
+        {
+          "code": "23986",
+          "name": "Ia Le",
+          "fullName": "Xã Ia Le, Tỉnh Gia Lai",
+          "slug": "ia-le",
+          "postalCode": "23986"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ia Pa",
+      "slug": "huyen-ia-pa",
+      "wards": [
+        {
+          "code": "24013",
+          "name": "Pờ Tó",
+          "fullName": "Xã Pờ Tó, Tỉnh Gia Lai",
+          "slug": "po-to",
+          "postalCode": "24013"
+        },
+        {
+          "code": "24022",
+          "name": "Ia Pa",
+          "fullName": "Xã Ia Pa, Tỉnh Gia Lai",
+          "slug": "ia-pa",
+          "postalCode": "24022"
+        },
+        {
+          "code": "24028",
+          "name": "Ia Tul",
+          "fullName": "Xã Ia Tul, Tỉnh Gia Lai",
+          "slug": "ia-tul",
+          "postalCode": "24028"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Thiện",
+      "slug": "huyen-phu-thien",
+      "wards": [
+        {
+          "code": "24043",
+          "name": "Phú Thiện",
+          "fullName": "Xã Phú Thiện, Tỉnh Gia Lai",
+          "slug": "phu-thien",
+          "postalCode": "24043"
+        },
+        {
+          "code": "24049",
+          "name": "Chư A Thai",
+          "fullName": "Xã Chư A Thai, Tỉnh Gia Lai",
+          "slug": "chu-a-thai",
+          "postalCode": "24049"
+        },
+        {
+          "code": "24061",
+          "name": "Ia Hiao",
+          "fullName": "Xã Ia Hiao, Tỉnh Gia Lai",
+          "slug": "ia-hiao",
+          "postalCode": "24061"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Krông Pa",
+      "slug": "huyen-krong-pa",
+      "wards": [
+        {
+          "code": "24076",
+          "name": "Phú Túc",
+          "fullName": "Xã Phú Túc, Tỉnh Gia Lai",
+          "slug": "phu-tuc",
+          "postalCode": "24076"
+        },
+        {
+          "code": "24100",
+          "name": "Ia Dreh",
+          "fullName": "Xã Ia Dreh, Tỉnh Gia Lai",
+          "slug": "ia-dreh",
+          "postalCode": "24100"
+        },
+        {
+          "code": "24109",
+          "name": "Uar",
+          "fullName": "Xã Uar, Tỉnh Gia Lai",
+          "slug": "uar",
+          "postalCode": "24109"
+        },
+        {
+          "code": "24112",
+          "name": "Ia Rsai",
+          "fullName": "Xã Ia Rsai, Tỉnh Gia Lai",
+          "slug": "ia-rsai",
+          "postalCode": "24112"
+        }
+      ]
+    }
+  ]
+}

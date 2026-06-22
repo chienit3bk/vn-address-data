@@ -1,0 +1,1695 @@
+{
+  "code": "15",
+  "name": "Tây Ninh",
+  "slug": "tay-ninh",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Tây Ninh",
+  "wards": [
+    {
+      "code": "00100",
+      "name": "Long An",
+      "fullName": "Phường Long An, Tỉnh Tây Ninh",
+      "slug": "long-an",
+      "type": "ward",
+      "postalCode": "27694"
+    },
+    {
+      "code": "00102",
+      "name": "Long Hoa",
+      "fullName": "Phường Long Hoa, Tỉnh Tây Ninh",
+      "slug": "long-hoa",
+      "type": "ward",
+      "postalCode": "25630"
+    },
+    {
+      "code": "00151",
+      "name": "Tân Ninh",
+      "fullName": "Phường Tân Ninh, Tỉnh Tây Ninh",
+      "slug": "tan-ninh",
+      "type": "ward",
+      "postalCode": "25459"
+    },
+    {
+      "code": "00206",
+      "name": "Cần Giuộc",
+      "fullName": "Xã Cần Giuộc, Tỉnh Tây Ninh",
+      "slug": "can-giuoc",
+      "type": "commune",
+      "postalCode": "28159"
+    },
+    {
+      "code": "00318",
+      "name": "Gò Dầu",
+      "fullName": "Phường Gò Dầu, Tỉnh Tây Ninh",
+      "slug": "go-dau",
+      "type": "ward",
+      "postalCode": "25654"
+    },
+    {
+      "code": "00377",
+      "name": "An Tịnh",
+      "fullName": "Phường An Tịnh, Tỉnh Tây Ninh",
+      "slug": "an-tinh",
+      "type": "ward",
+      "postalCode": "25732"
+    },
+    {
+      "code": "00437",
+      "name": "Bến Lức",
+      "fullName": "Xã Bến Lức, Tỉnh Tây Ninh",
+      "slug": "ben-luc",
+      "type": "commune",
+      "postalCode": "27991"
+    },
+    {
+      "code": "00439",
+      "name": "Mỹ Hạnh",
+      "fullName": "Xã Mỹ Hạnh, Tỉnh Tây Ninh",
+      "slug": "my-hanh",
+      "type": "commune",
+      "postalCode": "27976"
+    },
+    {
+      "code": "00465",
+      "name": "Bình Minh",
+      "fullName": "Phường Bình Minh, Tỉnh Tây Ninh",
+      "slug": "binh-minh",
+      "type": "ward",
+      "postalCode": "25480"
+    },
+    {
+      "code": "00493",
+      "name": "Trảng Bàng",
+      "fullName": "Phường Trảng Bàng, Tỉnh Tây Ninh",
+      "slug": "trang-bang",
+      "type": "ward",
+      "postalCode": "25708"
+    },
+    {
+      "code": "00516",
+      "name": "Ninh Thạnh",
+      "fullName": "Phường Ninh Thạnh, Tỉnh Tây Ninh",
+      "slug": "ninh-thanh",
+      "type": "ward",
+      "postalCode": "25567"
+    },
+    {
+      "code": "00522",
+      "name": "Châu Thành",
+      "fullName": "Xã Châu Thành, Tỉnh Tây Ninh",
+      "slug": "chau-thanh",
+      "type": "commune",
+      "postalCode": "25585"
+    },
+    {
+      "code": "00567",
+      "name": "Cần Đước",
+      "fullName": "Xã Cần Đước, Tỉnh Tây Ninh",
+      "slug": "can-duoc",
+      "type": "commune",
+      "postalCode": "28108"
+    },
+    {
+      "code": "00577",
+      "name": "Đức Hòa",
+      "fullName": "Xã Đức Hòa, Tỉnh Tây Ninh",
+      "slug": "duc-hoa",
+      "type": "commune",
+      "postalCode": "27937"
+    },
+    {
+      "code": "00599",
+      "name": "Mỹ Yên",
+      "fullName": "Xã Mỹ Yên, Tỉnh Tây Ninh",
+      "slug": "my-yen",
+      "type": "commune",
+      "postalCode": "28018"
+    },
+    {
+      "code": "00600",
+      "name": "Bến Cầu",
+      "fullName": "Xã Bến Cầu, Tỉnh Tây Ninh",
+      "slug": "ben-cau",
+      "type": "commune",
+      "postalCode": "25681"
+    },
+    {
+      "code": "00667",
+      "name": "Hậu Nghĩa",
+      "fullName": "Xã Hậu Nghĩa, Tỉnh Tây Ninh",
+      "slug": "hau-nghia",
+      "type": "commune",
+      "postalCode": "27931"
+    },
+    {
+      "code": "00727",
+      "name": "Tân Tập",
+      "fullName": "Xã Tân Tập, Tỉnh Tây Ninh",
+      "slug": "tan-tap",
+      "type": "commune",
+      "postalCode": "28207"
+    },
+    {
+      "code": "00737",
+      "name": "Thạnh Đức",
+      "fullName": "Xã Thạnh Đức, Tỉnh Tây Ninh",
+      "slug": "thanh-duc",
+      "type": "commune",
+      "postalCode": "25657"
+    },
+    {
+      "code": "00738",
+      "name": "Thủ Thừa",
+      "fullName": "Xã Thủ Thừa, Tỉnh Tây Ninh",
+      "slug": "thu-thua",
+      "type": "commune",
+      "postalCode": "28036"
+    },
+    {
+      "code": "00747",
+      "name": "Phước Thạnh",
+      "fullName": "Xã Phước Thạnh, Tỉnh Tây Ninh",
+      "slug": "phuoc-thanh",
+      "type": "commune",
+      "postalCode": "25663"
+    },
+    {
+      "code": "00770",
+      "name": "Thanh Điền",
+      "fullName": "Phường Thanh Điền, Tỉnh Tây Ninh",
+      "slug": "thanh-dien",
+      "type": "ward",
+      "postalCode": "25633"
+    },
+    {
+      "code": "00789",
+      "name": "Phước Lý",
+      "fullName": "Xã Phước Lý, Tỉnh Tây Ninh",
+      "slug": "phuoc-ly",
+      "type": "commune",
+      "postalCode": "28165"
+    },
+    {
+      "code": "00861",
+      "name": "Hoà Thành",
+      "fullName": "Phường Hoà Thành, Tỉnh Tây Ninh",
+      "slug": "hoa-thanh",
+      "type": "ward",
+      "postalCode": "25645"
+    },
+    {
+      "code": "00895",
+      "name": "Mỹ Lộc",
+      "fullName": "Xã Mỹ Lộc, Tỉnh Tây Ninh",
+      "slug": "my-loc",
+      "type": "commune",
+      "postalCode": "28177"
+    },
+    {
+      "code": "00898",
+      "name": "Truông Mít",
+      "fullName": "Xã Truông Mít, Tỉnh Tây Ninh",
+      "slug": "truong-mit",
+      "type": "commune",
+      "postalCode": "25666"
+    },
+    {
+      "code": "00940",
+      "name": "Thuận Mỹ",
+      "fullName": "Xã Thuận Mỹ, Tỉnh Tây Ninh",
+      "slug": "thuan-my",
+      "type": "commune",
+      "postalCode": "28225"
+    },
+    {
+      "code": "00966",
+      "name": "Rạch Kiến",
+      "fullName": "Xã Rạch Kiến, Tỉnh Tây Ninh",
+      "slug": "rach-kien",
+      "type": "commune",
+      "postalCode": "28114"
+    },
+    {
+      "code": "01017",
+      "name": "An Ninh",
+      "fullName": "Xã An Ninh, Tỉnh Tây Ninh",
+      "slug": "an-ninh",
+      "type": "commune",
+      "postalCode": "25459"
+    },
+    {
+      "code": "01041",
+      "name": "Gia Lộc",
+      "fullName": "Phường Gia Lộc, Tỉnh Tây Ninh",
+      "slug": "gia-loc",
+      "type": "ward",
+      "postalCode": "25672"
+    },
+    {
+      "code": "01064",
+      "name": "Mỹ Lệ",
+      "fullName": "Xã Mỹ Lệ, Tỉnh Tây Ninh",
+      "slug": "my-le",
+      "type": "commune",
+      "postalCode": "28132"
+    },
+    {
+      "code": "01079",
+      "name": "Tân Biên",
+      "fullName": "Xã Tân Biên, Tỉnh Tây Ninh",
+      "slug": "tan-bien",
+      "type": "commune",
+      "postalCode": "25486"
+    },
+    {
+      "code": "01123",
+      "name": "Tầm Vu",
+      "fullName": "Xã Tầm Vu, Tỉnh Tây Ninh",
+      "slug": "tam-vu",
+      "type": "commune",
+      "postalCode": "28210"
+    },
+    {
+      "code": "01133",
+      "name": "Dương Minh Châu",
+      "fullName": "Xã Dương Minh Châu, Tỉnh Tây Ninh",
+      "slug": "duong-minh-chau",
+      "type": "commune",
+      "postalCode": "25552"
+    },
+    {
+      "code": "01143",
+      "name": "Hoà Khánh",
+      "fullName": "Xã Hoà Khánh, Tỉnh Tây Ninh",
+      "slug": "hoa-khanh",
+      "type": "commune",
+      "postalCode": "27979"
+    },
+    {
+      "code": "01180",
+      "name": "Bình Đức",
+      "fullName": "Xã Bình Đức, Tỉnh Tây Ninh",
+      "slug": "binh-duc",
+      "type": "commune",
+      "postalCode": "28015"
+    },
+    {
+      "code": "01315",
+      "name": "Hiệp Hoà",
+      "fullName": "Xã Hiệp Hoà, Tỉnh Tây Ninh",
+      "slug": "hiep-hoa",
+      "type": "commune",
+      "postalCode": "27952"
+    },
+    {
+      "code": "01331",
+      "name": "Long Cang",
+      "fullName": "Xã Long Cang, Tỉnh Tây Ninh",
+      "slug": "long-cang",
+      "type": "commune",
+      "postalCode": "28126"
+    },
+    {
+      "code": "01340",
+      "name": "Hảo Đước",
+      "fullName": "Xã Hảo Đước, Tỉnh Tây Ninh",
+      "slug": "hao-duoc",
+      "type": "commune",
+      "postalCode": "25588"
+    },
+    {
+      "code": "01353",
+      "name": "Tân An",
+      "fullName": "Phường Tân An, Tỉnh Tây Ninh",
+      "slug": "tan-an",
+      "type": "ward",
+      "postalCode": "27712"
+    },
+    {
+      "code": "01389",
+      "name": "Đức Lập",
+      "fullName": "Xã Đức Lập, Tỉnh Tây Ninh",
+      "slug": "duc-lap",
+      "type": "commune",
+      "postalCode": "27964"
+    },
+    {
+      "code": "01405",
+      "name": "Phước Chỉ",
+      "fullName": "Xã Phước Chỉ, Tỉnh Tây Ninh",
+      "slug": "phuoc-chi",
+      "type": "commune",
+      "postalCode": "25729"
+    },
+    {
+      "code": "01464",
+      "name": "Thạnh Bình",
+      "fullName": "Xã Thạnh Bình, Tỉnh Tây Ninh",
+      "slug": "thanh-binh",
+      "type": "commune",
+      "postalCode": "25498"
+    },
+    {
+      "code": "01502",
+      "name": "Nhựt Tảo",
+      "fullName": "Xã Nhựt Tảo, Tỉnh Tây Ninh",
+      "slug": "nhut-tao",
+      "type": "commune",
+      "postalCode": "28087"
+    },
+    {
+      "code": "01515",
+      "name": "Tân Lân",
+      "fullName": "Xã Tân Lân, Tỉnh Tây Ninh",
+      "slug": "tan-lan",
+      "type": "commune",
+      "postalCode": "28138"
+    },
+    {
+      "code": "01522",
+      "name": "Tân Phú",
+      "fullName": "Xã Tân Phú, Tỉnh Tây Ninh",
+      "slug": "tan-phu",
+      "type": "commune",
+      "postalCode": "25549"
+    },
+    {
+      "code": "01554",
+      "name": "An Lục Long",
+      "fullName": "Xã An Lục Long, Tỉnh Tây Ninh",
+      "slug": "an-luc-long",
+      "type": "commune",
+      "postalCode": "28243"
+    },
+    {
+      "code": "01571",
+      "name": "Lộc Ninh",
+      "fullName": "Xã Lộc Ninh, Tỉnh Tây Ninh",
+      "slug": "loc-ninh",
+      "type": "commune",
+      "postalCode": "25579"
+    },
+    {
+      "code": "01583",
+      "name": "Long Hựu",
+      "fullName": "Xã Long Hựu, Tỉnh Tây Ninh",
+      "slug": "long-huu",
+      "type": "commune",
+      "postalCode": "28144"
+    },
+    {
+      "code": "01589",
+      "name": "Khánh Hậu",
+      "fullName": "Phường Khánh Hậu, Tỉnh Tây Ninh",
+      "slug": "khanh-hau",
+      "type": "ward",
+      "postalCode": "27715"
+    },
+    {
+      "code": "01624",
+      "name": "Mỹ Quý",
+      "fullName": "Xã Mỹ Quý, Tỉnh Tây Ninh",
+      "slug": "my-quy",
+      "type": "commune",
+      "postalCode": "27907"
+    },
+    {
+      "code": "01654",
+      "name": "Phước Vĩnh Tây",
+      "fullName": "Xã Phước Vĩnh Tây, Tỉnh Tây Ninh",
+      "slug": "phuoc-vinh-tay",
+      "type": "commune",
+      "postalCode": "28201"
+    },
+    {
+      "code": "01682",
+      "name": "Tân Thành",
+      "fullName": "Xã Tân Thành, Tỉnh Tây Ninh",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "25534"
+    },
+    {
+      "code": "01698",
+      "name": "Tân Đông",
+      "fullName": "Xã Tân Đông, Tỉnh Tây Ninh",
+      "slug": "tan-dong",
+      "type": "commune",
+      "postalCode": "25522"
+    },
+    {
+      "code": "01732",
+      "name": "Đông Thành",
+      "fullName": "Xã Đông Thành, Tỉnh Tây Ninh",
+      "slug": "dong-thanh",
+      "type": "commune",
+      "postalCode": "27898"
+    },
+    {
+      "code": "01739",
+      "name": "Nhơn Ninh",
+      "fullName": "Xã Nhơn Ninh, Tỉnh Tây Ninh",
+      "slug": "nhon-ninh",
+      "type": "commune",
+      "postalCode": "27856"
+    },
+    {
+      "code": "01759",
+      "name": "Tân Trụ",
+      "fullName": "Xã Tân Trụ, Tỉnh Tây Ninh",
+      "slug": "tan-tru",
+      "type": "commune",
+      "postalCode": "28075"
+    },
+    {
+      "code": "01786",
+      "name": "Hưng Thuận",
+      "fullName": "Xã Hưng Thuận, Tỉnh Tây Ninh",
+      "slug": "hung-thuan",
+      "type": "commune",
+      "postalCode": "25711"
+    },
+    {
+      "code": "01789",
+      "name": "Mỹ Thạnh",
+      "fullName": "Xã Mỹ Thạnh, Tỉnh Tây Ninh",
+      "slug": "my-thanh",
+      "type": "commune",
+      "postalCode": "28051"
+    },
+    {
+      "code": "01826",
+      "name": "Tân Thạnh",
+      "fullName": "Xã Tân Thạnh, Tỉnh Tây Ninh",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "25534"
+    },
+    {
+      "code": "01863",
+      "name": "Cầu Khởi",
+      "fullName": "Xã Cầu Khởi, Tỉnh Tây Ninh",
+      "slug": "cau-khoi",
+      "type": "commune",
+      "postalCode": "25573"
+    },
+    {
+      "code": "01871",
+      "name": "Vàm Cỏ",
+      "fullName": "Xã Vàm Cỏ, Tỉnh Tây Ninh",
+      "slug": "vam-co",
+      "type": "commune",
+      "postalCode": "28093"
+    },
+    {
+      "code": "01938",
+      "name": "Long Thuận",
+      "fullName": "Xã Long Thuận, Tỉnh Tây Ninh",
+      "slug": "long-thuan",
+      "type": "commune",
+      "postalCode": "25702"
+    },
+    {
+      "code": "01943",
+      "name": "Tân Hòa",
+      "fullName": "Xã Tân Hòa, Tỉnh Tây Ninh",
+      "slug": "tan-hoa",
+      "type": "commune",
+      "postalCode": "25531"
+    },
+    {
+      "code": "01958",
+      "name": "Trà Vong",
+      "fullName": "Xã Trà Vong, Tỉnh Tây Ninh",
+      "slug": "tra-vong",
+      "type": "commune",
+      "postalCode": "25510"
+    },
+    {
+      "code": "01976",
+      "name": "Tân Châu",
+      "fullName": "Xã Tân Châu, Tỉnh Tây Ninh",
+      "slug": "tan-chau",
+      "type": "commune",
+      "postalCode": "25516"
+    },
+    {
+      "code": "01979",
+      "name": "Thạnh Lợi",
+      "fullName": "Xã Thạnh Lợi, Tỉnh Tây Ninh",
+      "slug": "thanh-loi",
+      "type": "commune",
+      "postalCode": "27994"
+    },
+    {
+      "code": "02002",
+      "name": "Kiến Tường",
+      "fullName": "Phường Kiến Tường, Tỉnh Tây Ninh",
+      "slug": "kien-tuong",
+      "type": "ward",
+      "postalCode": "27787"
+    },
+    {
+      "code": "02026",
+      "name": "Ninh Điền",
+      "fullName": "Xã Ninh Điền, Tỉnh Tây Ninh",
+      "slug": "ninh-dien",
+      "type": "commune",
+      "postalCode": "25621"
+    },
+    {
+      "code": "02039",
+      "name": "Phước Vinh",
+      "fullName": "Xã Phước Vinh, Tỉnh Tây Ninh",
+      "slug": "phuoc-vinh",
+      "type": "commune",
+      "postalCode": "25591"
+    },
+    {
+      "code": "02040",
+      "name": "Lương Hoà",
+      "fullName": "Xã Lương Hoà, Tỉnh Tây Ninh",
+      "slug": "luong-hoa",
+      "type": "commune",
+      "postalCode": "28003"
+    },
+    {
+      "code": "02070",
+      "name": "Đức Huệ",
+      "fullName": "Xã Đức Huệ, Tỉnh Tây Ninh",
+      "slug": "duc-hue",
+      "type": "commune",
+      "postalCode": "27925"
+    },
+    {
+      "code": "02079",
+      "name": "Vĩnh Công",
+      "fullName": "Xã Vĩnh Công, Tỉnh Tây Ninh",
+      "slug": "vinh-cong",
+      "type": "commune",
+      "postalCode": "28222"
+    },
+    {
+      "code": "02131",
+      "name": "Thạnh Phước",
+      "fullName": "Xã Thạnh Phước, Tỉnh Tây Ninh",
+      "slug": "thanh-phuoc",
+      "type": "commune",
+      "postalCode": "27877"
+    },
+    {
+      "code": "02147",
+      "name": "Tân Hội",
+      "fullName": "Xã Tân Hội, Tỉnh Tây Ninh",
+      "slug": "tan-hoi",
+      "type": "commune",
+      "postalCode": "25525"
+    },
+    {
+      "code": "02174",
+      "name": "Bình Hiệp",
+      "fullName": "Xã Bình Hiệp, Tỉnh Tây Ninh",
+      "slug": "binh-hiep",
+      "type": "commune",
+      "postalCode": "27793"
+    },
+    {
+      "code": "02188",
+      "name": "Vĩnh Hưng",
+      "fullName": "Xã Vĩnh Hưng, Tỉnh Tây Ninh",
+      "slug": "vinh-hung",
+      "type": "commune",
+      "postalCode": "27757"
+    },
+    {
+      "code": "02225",
+      "name": "Mỹ An",
+      "fullName": "Xã Mỹ An, Tỉnh Tây Ninh",
+      "slug": "my-an",
+      "type": "commune",
+      "postalCode": "28066"
+    },
+    {
+      "code": "02239",
+      "name": "Khánh Hưng",
+      "fullName": "Xã Khánh Hưng, Tỉnh Tây Ninh",
+      "slug": "khanh-hung",
+      "type": "commune",
+      "postalCode": "27763"
+    },
+    {
+      "code": "02268",
+      "name": "Nhơn Hòa Lập",
+      "fullName": "Xã Nhơn Hòa Lập, Tỉnh Tây Ninh",
+      "slug": "nhon-hoa-lap",
+      "type": "commune",
+      "postalCode": "27838"
+    },
+    {
+      "code": "02298",
+      "name": "Tân Tây",
+      "fullName": "Xã Tân Tây, Tỉnh Tây Ninh",
+      "slug": "tan-tay",
+      "type": "commune",
+      "postalCode": "27889"
+    },
+    {
+      "code": "02304",
+      "name": "Hậu Thạnh",
+      "fullName": "Xã Hậu Thạnh, Tỉnh Tây Ninh",
+      "slug": "hau-thanh",
+      "type": "commune",
+      "postalCode": "25585"
+    },
+    {
+      "code": "02305",
+      "name": "Hưng Điền",
+      "fullName": "Xã Hưng Điền, Tỉnh Tây Ninh",
+      "slug": "hung-dien",
+      "type": "commune",
+      "postalCode": "27727"
+    },
+    {
+      "code": "02315",
+      "name": "Tuyên Bình",
+      "fullName": "Xã Tuyên Bình, Tỉnh Tây Ninh",
+      "slug": "tuyen-binh",
+      "type": "commune",
+      "postalCode": "27775"
+    },
+    {
+      "code": "02390",
+      "name": "Tân Hưng",
+      "fullName": "Xã Tân Hưng, Tỉnh Tây Ninh",
+      "slug": "tan-hung",
+      "type": "commune",
+      "postalCode": "27721"
+    },
+    {
+      "code": "02410",
+      "name": "Long Chữ",
+      "fullName": "Xã Long Chữ, Tỉnh Tây Ninh",
+      "slug": "long-chu",
+      "type": "commune",
+      "postalCode": "25684"
+    },
+    {
+      "code": "02470",
+      "name": "Mộc Hoá",
+      "fullName": "Xã Mộc Hoá, Tỉnh Tây Ninh",
+      "slug": "moc-hoa",
+      "type": "commune",
+      "postalCode": "27823"
+    },
+    {
+      "code": "02475",
+      "name": "Tân Lập",
+      "fullName": "Xã Tân Lập, Tỉnh Tây Ninh",
+      "slug": "tan-lap",
+      "type": "commune",
+      "postalCode": "25489"
+    },
+    {
+      "code": "02476",
+      "name": "Thạnh Hóa",
+      "fullName": "Xã Thạnh Hóa, Tỉnh Tây Ninh",
+      "slug": "thanh-hoa",
+      "type": "commune",
+      "postalCode": "27865"
+    },
+    {
+      "code": "02573",
+      "name": "Tuyên Thạnh",
+      "fullName": "Xã Tuyên Thạnh, Tỉnh Tây Ninh",
+      "slug": "tuyen-thanh",
+      "type": "commune",
+      "postalCode": "27817"
+    },
+    {
+      "code": "02629",
+      "name": "Hoà Hội",
+      "fullName": "Xã Hoà Hội, Tỉnh Tây Ninh",
+      "slug": "hoa-hoi",
+      "type": "commune",
+      "postalCode": "25606"
+    },
+    {
+      "code": "02654",
+      "name": "Tân Long",
+      "fullName": "Xã Tân Long, Tỉnh Tây Ninh",
+      "slug": "tan-long",
+      "type": "commune",
+      "postalCode": "28072"
+    },
+    {
+      "code": "02682",
+      "name": "Bình Hoà",
+      "fullName": "Xã Bình Hoà, Tỉnh Tây Ninh",
+      "slug": "binh-hoa",
+      "type": "commune",
+      "postalCode": "27811"
+    },
+    {
+      "code": "02709",
+      "name": "Vĩnh Châu",
+      "fullName": "Xã Vĩnh Châu, Tỉnh Tây Ninh",
+      "slug": "vinh-chau",
+      "type": "commune",
+      "postalCode": "27748"
+    },
+    {
+      "code": "02735",
+      "name": "Vĩnh Thạnh",
+      "fullName": "Xã Vĩnh Thạnh, Tỉnh Tây Ninh",
+      "slug": "vinh-thanh",
+      "type": "commune",
+      "postalCode": "27736"
+    },
+    {
+      "code": "02870",
+      "name": "Bình Thành",
+      "fullName": "Xã Bình Thành, Tỉnh Tây Ninh",
+      "slug": "binh-thanh",
+      "type": "commune",
+      "postalCode": "27868"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Tây Ninh",
+      "slug": "thanh-pho-tay-ninh",
+      "wards": [
+        {
+          "code": "25459",
+          "name": "Tân Ninh",
+          "fullName": "Phường Tân Ninh, Tỉnh Tây Ninh",
+          "slug": "tan-ninh",
+          "postalCode": "25459"
+        },
+        {
+          "code": "25480",
+          "name": "Bình Minh",
+          "fullName": "Phường Bình Minh, Tỉnh Tây Ninh",
+          "slug": "binh-minh",
+          "postalCode": "25480"
+        },
+        {
+          "code": "25567",
+          "name": "Ninh Thạnh",
+          "fullName": "Phường Ninh Thạnh, Tỉnh Tây Ninh",
+          "slug": "ninh-thanh",
+          "postalCode": "25567"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "slug": "huyen-chau-thanh",
+      "wards": [
+        {
+          "code": "25459",
+          "name": "Tân Ninh",
+          "fullName": "Phường Tân Ninh, Tỉnh Tây Ninh",
+          "slug": "tan-ninh",
+          "postalCode": "25459"
+        },
+        {
+          "code": "25585",
+          "name": "Châu Thành",
+          "fullName": "Xã Châu Thành, Tỉnh Tây Ninh",
+          "slug": "chau-thanh",
+          "postalCode": "25585"
+        },
+        {
+          "code": "25588",
+          "name": "Hảo Đước",
+          "fullName": "Xã Hảo Đước, Tỉnh Tây Ninh",
+          "slug": "hao-duoc",
+          "postalCode": "25588"
+        },
+        {
+          "code": "25591",
+          "name": "Phước Vinh",
+          "fullName": "Xã Phước Vinh, Tỉnh Tây Ninh",
+          "slug": "phuoc-vinh",
+          "postalCode": "25591"
+        },
+        {
+          "code": "25606",
+          "name": "Hòa Hội",
+          "fullName": "Xã Hòa Hội, Tỉnh Tây Ninh",
+          "slug": "hoa-hoi",
+          "postalCode": "25606"
+        },
+        {
+          "code": "25621",
+          "name": "Ninh Điền",
+          "fullName": "Xã Ninh Điền, Tỉnh Tây Ninh",
+          "slug": "ninh-dien",
+          "postalCode": "25621"
+        },
+        {
+          "code": "25633",
+          "name": "Thanh Điền",
+          "fullName": "Phường Thanh Điền, Tỉnh Tây Ninh",
+          "slug": "thanh-dien",
+          "postalCode": "25633"
+        },
+        {
+          "code": "25684",
+          "name": "Long Chữ",
+          "fullName": "Xã Long Chữ, Tỉnh Tây Ninh",
+          "slug": "long-chu",
+          "postalCode": "25684"
+        },
+        {
+          "code": "28210",
+          "name": "Tầm Vu",
+          "fullName": "Xã Tầm Vu, Tỉnh Tây Ninh",
+          "slug": "tam-vu",
+          "postalCode": "28210"
+        },
+        {
+          "code": "28222",
+          "name": "Vĩnh Công",
+          "fullName": "Xã Vĩnh Công, Tỉnh Tây Ninh",
+          "slug": "vinh-cong",
+          "postalCode": "28222"
+        },
+        {
+          "code": "28225",
+          "name": "Thuận Mỹ",
+          "fullName": "Xã Thuận Mỹ, Tỉnh Tây Ninh",
+          "slug": "thuan-my",
+          "postalCode": "28225"
+        },
+        {
+          "code": "28243",
+          "name": "An Lục Long",
+          "fullName": "Xã An Lục Long, Tỉnh Tây Ninh",
+          "slug": "an-luc-long",
+          "postalCode": "28243"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Dương Minh Châu",
+      "slug": "huyen-duong-minh-chau",
+      "wards": [
+        {
+          "code": "25480",
+          "name": "Bình Minh",
+          "fullName": "Phường Bình Minh, Tỉnh Tây Ninh",
+          "slug": "binh-minh",
+          "postalCode": "25480"
+        },
+        {
+          "code": "25552",
+          "name": "Dương Minh Châu",
+          "fullName": "Xã Dương Minh Châu, Tỉnh Tây Ninh",
+          "slug": "duong-minh-chau",
+          "postalCode": "25552"
+        },
+        {
+          "code": "25567",
+          "name": "Ninh Thạnh",
+          "fullName": "Phường Ninh Thạnh, Tỉnh Tây Ninh",
+          "slug": "ninh-thanh",
+          "postalCode": "25567"
+        },
+        {
+          "code": "25573",
+          "name": "Cầu Khởi",
+          "fullName": "Xã Cầu Khởi, Tỉnh Tây Ninh",
+          "slug": "cau-khoi",
+          "postalCode": "25573"
+        },
+        {
+          "code": "25579",
+          "name": "Lộc Ninh",
+          "fullName": "Xã Lộc Ninh, Tỉnh Tây Ninh",
+          "slug": "loc-ninh",
+          "postalCode": "25579"
+        },
+        {
+          "code": "25666",
+          "name": "Truông Mít",
+          "fullName": "Xã Truông Mít, Tỉnh Tây Ninh",
+          "slug": "truong-mit",
+          "postalCode": "25666"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Hòa Thành",
+      "slug": "thi-xa-hoa-thanh",
+      "wards": [
+        {
+          "code": "25630",
+          "name": "Long Hoa",
+          "fullName": "Phường Long Hoa, Tỉnh Tây Ninh",
+          "slug": "long-hoa",
+          "postalCode": "25630"
+        },
+        {
+          "code": "25633",
+          "name": "Thanh Điền",
+          "fullName": "Phường Thanh Điền, Tỉnh Tây Ninh",
+          "slug": "thanh-dien",
+          "postalCode": "25633"
+        },
+        {
+          "code": "25645",
+          "name": "Hòa Thành",
+          "fullName": "Phường Hòa Thành, Tỉnh Tây Ninh",
+          "slug": "hoa-thanh",
+          "postalCode": "25645"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Gò Dầu",
+      "slug": "huyen-go-dau",
+      "wards": [
+        {
+          "code": "25654",
+          "name": "Gò Dầu",
+          "fullName": "Phường Gò Dầu, Tỉnh Tây Ninh",
+          "slug": "go-dau",
+          "postalCode": "25654"
+        },
+        {
+          "code": "25657",
+          "name": "Thạnh Đức",
+          "fullName": "Xã Thạnh Đức, Tỉnh Tây Ninh",
+          "slug": "thanh-duc",
+          "postalCode": "25657"
+        },
+        {
+          "code": "25663",
+          "name": "Phước Thạnh",
+          "fullName": "Xã Phước Thạnh, Tỉnh Tây Ninh",
+          "slug": "phuoc-thanh",
+          "postalCode": "25663"
+        },
+        {
+          "code": "25666",
+          "name": "Truông Mít",
+          "fullName": "Xã Truông Mít, Tỉnh Tây Ninh",
+          "slug": "truong-mit",
+          "postalCode": "25666"
+        },
+        {
+          "code": "25672",
+          "name": "Gia Lộc",
+          "fullName": "Phường Gia Lộc, Tỉnh Tây Ninh",
+          "slug": "gia-loc",
+          "postalCode": "25672"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Trảng Bàng",
+      "slug": "thi-xa-trang-bang",
+      "wards": [
+        {
+          "code": "25654",
+          "name": "Gò Dầu",
+          "fullName": "Phường Gò Dầu, Tỉnh Tây Ninh",
+          "slug": "go-dau",
+          "postalCode": "25654"
+        },
+        {
+          "code": "25672",
+          "name": "Gia Lộc",
+          "fullName": "Phường Gia Lộc, Tỉnh Tây Ninh",
+          "slug": "gia-loc",
+          "postalCode": "25672"
+        },
+        {
+          "code": "25708",
+          "name": "Trảng Bàng",
+          "fullName": "Phường Trảng Bàng, Tỉnh Tây Ninh",
+          "slug": "trang-bang",
+          "postalCode": "25708"
+        },
+        {
+          "code": "25711",
+          "name": "Hưng Thuận",
+          "fullName": "Xã Hưng Thuận, Tỉnh Tây Ninh",
+          "slug": "hung-thuan",
+          "postalCode": "25711"
+        },
+        {
+          "code": "25729",
+          "name": "Phước Chỉ",
+          "fullName": "Xã Phước Chỉ, Tỉnh Tây Ninh",
+          "slug": "phuoc-chi",
+          "postalCode": "25729"
+        },
+        {
+          "code": "25732",
+          "name": "An Tịnh",
+          "fullName": "Phường An Tịnh, Tỉnh Tây Ninh",
+          "slug": "an-tinh",
+          "postalCode": "25732"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Tân An",
+      "slug": "thanh-pho-tan-an",
+      "wards": [
+        {
+          "code": "27694",
+          "name": "Long An",
+          "fullName": "Phường Long An, Tỉnh Tây Ninh",
+          "slug": "long-an",
+          "postalCode": "27694"
+        },
+        {
+          "code": "27712",
+          "name": "Tân An",
+          "fullName": "Phường Tân An, Tỉnh Tây Ninh",
+          "slug": "tan-an",
+          "postalCode": "27712"
+        },
+        {
+          "code": "27715",
+          "name": "Khánh Hậu",
+          "fullName": "Phường Khánh Hậu, Tỉnh Tây Ninh",
+          "slug": "khanh-hau",
+          "postalCode": "27715"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thủ Thừa",
+      "slug": "huyen-thu-thua",
+      "wards": [
+        {
+          "code": "27694",
+          "name": "Long An",
+          "fullName": "Phường Long An, Tỉnh Tây Ninh",
+          "slug": "long-an",
+          "postalCode": "27694"
+        },
+        {
+          "code": "28036",
+          "name": "Thủ Thừa",
+          "fullName": "Xã Thủ Thừa, Tỉnh Tây Ninh",
+          "slug": "thu-thua",
+          "postalCode": "28036"
+        },
+        {
+          "code": "28051",
+          "name": "Mỹ Thạnh",
+          "fullName": "Xã Mỹ Thạnh, Tỉnh Tây Ninh",
+          "slug": "my-thanh",
+          "postalCode": "28051"
+        },
+        {
+          "code": "28066",
+          "name": "Mỹ An",
+          "fullName": "Xã Mỹ An, Tỉnh Tây Ninh",
+          "slug": "my-an",
+          "postalCode": "28066"
+        },
+        {
+          "code": "28072",
+          "name": "Tân Long",
+          "fullName": "Xã Tân Long, Tỉnh Tây Ninh",
+          "slug": "tan-long",
+          "postalCode": "28072"
+        },
+        {
+          "code": "28087",
+          "name": "Nhựt Tảo",
+          "fullName": "Xã Nhựt Tảo, Tỉnh Tây Ninh",
+          "slug": "nhut-tao",
+          "postalCode": "28087"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Kiến Tường",
+      "slug": "thi-xa-kien-tuong",
+      "wards": [
+        {
+          "code": "27787",
+          "name": "Kiến Tường",
+          "fullName": "Phường Kiến Tường, Tỉnh Tây Ninh",
+          "slug": "kien-tuong",
+          "postalCode": "27787"
+        },
+        {
+          "code": "27793",
+          "name": "Bình Hiệp",
+          "fullName": "Xã Bình Hiệp, Tỉnh Tây Ninh",
+          "slug": "binh-hiep",
+          "postalCode": "27793"
+        },
+        {
+          "code": "27817",
+          "name": "Tuyên Thạnh",
+          "fullName": "Xã Tuyên Thạnh, Tỉnh Tây Ninh",
+          "slug": "tuyen-thanh",
+          "postalCode": "27817"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Biên",
+      "slug": "huyen-tan-bien",
+      "wards": [
+        {
+          "code": "25486",
+          "name": "Tân Biên",
+          "fullName": "Xã Tân Biên, Tỉnh Tây Ninh",
+          "slug": "tan-bien",
+          "postalCode": "25486"
+        },
+        {
+          "code": "25489",
+          "name": "Tân Lập",
+          "fullName": "Xã Tân Lập, Tỉnh Tây Ninh",
+          "slug": "tan-lap",
+          "postalCode": "25489"
+        },
+        {
+          "code": "25498",
+          "name": "Thạnh Bình",
+          "fullName": "Xã Thạnh Bình, Tỉnh Tây Ninh",
+          "slug": "thanh-binh",
+          "postalCode": "25498"
+        },
+        {
+          "code": "25510",
+          "name": "Trà Vong",
+          "fullName": "Xã Trà Vong, Tỉnh Tây Ninh",
+          "slug": "tra-vong",
+          "postalCode": "25510"
+        },
+        {
+          "code": "25549",
+          "name": "Tân Phú",
+          "fullName": "Xã Tân Phú, Tỉnh Tây Ninh",
+          "slug": "tan-phu",
+          "postalCode": "25549"
+        },
+        {
+          "code": "25591",
+          "name": "Phước Vinh",
+          "fullName": "Xã Phước Vinh, Tỉnh Tây Ninh",
+          "slug": "phuoc-vinh",
+          "postalCode": "25591"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Châu",
+      "slug": "huyen-tan-chau",
+      "wards": [
+        {
+          "code": "25516",
+          "name": "Tân Châu",
+          "fullName": "Xã Tân Châu, Tỉnh Tây Ninh",
+          "slug": "tan-chau",
+          "postalCode": "25516"
+        },
+        {
+          "code": "25522",
+          "name": "Tân Đông",
+          "fullName": "Xã Tân Đông, Tỉnh Tây Ninh",
+          "slug": "tan-dong",
+          "postalCode": "25522"
+        },
+        {
+          "code": "25525",
+          "name": "Tân Hội",
+          "fullName": "Xã Tân Hội, Tỉnh Tây Ninh",
+          "slug": "tan-hoi",
+          "postalCode": "25525"
+        },
+        {
+          "code": "25531",
+          "name": "Tân Hòa",
+          "fullName": "Xã Tân Hòa, Tỉnh Tây Ninh",
+          "slug": "tan-hoa",
+          "postalCode": "25531"
+        },
+        {
+          "code": "25534",
+          "name": "Tân Thành",
+          "fullName": "Xã Tân Thành, Tỉnh Tây Ninh",
+          "slug": "tan-thanh",
+          "postalCode": "25534"
+        },
+        {
+          "code": "25549",
+          "name": "Tân Phú",
+          "fullName": "Xã Tân Phú, Tỉnh Tây Ninh",
+          "slug": "tan-phu",
+          "postalCode": "25549"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bến Cầu",
+      "slug": "huyen-ben-cau",
+      "wards": [
+        {
+          "code": "25681",
+          "name": "Bến Cầu",
+          "fullName": "Xã Bến Cầu, Tỉnh Tây Ninh",
+          "slug": "ben-cau",
+          "postalCode": "25681"
+        },
+        {
+          "code": "25684",
+          "name": "Long Chữ",
+          "fullName": "Xã Long Chữ, Tỉnh Tây Ninh",
+          "slug": "long-chu",
+          "postalCode": "25684"
+        },
+        {
+          "code": "25702",
+          "name": "Long Thuận",
+          "fullName": "Xã Long Thuận, Tỉnh Tây Ninh",
+          "slug": "long-thuan",
+          "postalCode": "25702"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Hưng",
+      "slug": "huyen-tan-hung",
+      "wards": [
+        {
+          "code": "27721",
+          "name": "Tân Hưng",
+          "fullName": "Xã Tân Hưng, Tỉnh Tây Ninh",
+          "slug": "tan-hung",
+          "postalCode": "27721"
+        },
+        {
+          "code": "27727",
+          "name": "Hưng Điền",
+          "fullName": "Xã Hưng Điền, Tỉnh Tây Ninh",
+          "slug": "hung-dien",
+          "postalCode": "27727"
+        },
+        {
+          "code": "27736",
+          "name": "Vĩnh Thạnh",
+          "fullName": "Xã Vĩnh Thạnh, Tỉnh Tây Ninh",
+          "slug": "vinh-thanh",
+          "postalCode": "27736"
+        },
+        {
+          "code": "27748",
+          "name": "Vĩnh Châu",
+          "fullName": "Xã Vĩnh Châu, Tỉnh Tây Ninh",
+          "slug": "vinh-chau",
+          "postalCode": "27748"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Hưng",
+      "slug": "huyen-vinh-hung",
+      "wards": [
+        {
+          "code": "27757",
+          "name": "Vĩnh Hưng",
+          "fullName": "Xã Vĩnh Hưng, Tỉnh Tây Ninh",
+          "slug": "vinh-hung",
+          "postalCode": "27757"
+        },
+        {
+          "code": "27763",
+          "name": "Khánh Hưng",
+          "fullName": "Xã Khánh Hưng, Tỉnh Tây Ninh",
+          "slug": "khanh-hung",
+          "postalCode": "27763"
+        },
+        {
+          "code": "27775",
+          "name": "Tuyên Bình",
+          "fullName": "Xã Tuyên Bình, Tỉnh Tây Ninh",
+          "slug": "tuyen-binh",
+          "postalCode": "27775"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mộc Hóa",
+      "slug": "huyen-moc-hoa",
+      "wards": [
+        {
+          "code": "27793",
+          "name": "Bình Hiệp",
+          "fullName": "Xã Bình Hiệp, Tỉnh Tây Ninh",
+          "slug": "binh-hiep",
+          "postalCode": "27793"
+        },
+        {
+          "code": "27811",
+          "name": "Bình Hòa",
+          "fullName": "Xã Bình Hòa, Tỉnh Tây Ninh",
+          "slug": "binh-hoa",
+          "postalCode": "27811"
+        },
+        {
+          "code": "27823",
+          "name": "Mộc Hoá",
+          "fullName": "Xã Mộc Hoá, Tỉnh Tây Ninh",
+          "slug": "moc-hoa",
+          "postalCode": "27823"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Thạnh",
+      "slug": "huyen-tan-thanh",
+      "wards": [
+        {
+          "code": "27817",
+          "name": "Tuyên Thạnh",
+          "fullName": "Xã Tuyên Thạnh, Tỉnh Tây Ninh",
+          "slug": "tuyen-thanh",
+          "postalCode": "27817"
+        },
+        {
+          "code": "27826",
+          "name": "Tân Thạnh",
+          "fullName": "Xã Tân Thạnh, Tỉnh Tây Ninh",
+          "slug": "tan-thanh",
+          "postalCode": "27826"
+        },
+        {
+          "code": "27838",
+          "name": "Nhơn Hòa Lập",
+          "fullName": "Xã Nhơn Hòa Lập, Tỉnh Tây Ninh",
+          "slug": "nhon-hoa-lap",
+          "postalCode": "27838"
+        },
+        {
+          "code": "27841",
+          "name": "Hậu Thạnh",
+          "fullName": "Xã Hậu Thạnh, Tỉnh Tây Ninh",
+          "slug": "hau-thanh",
+          "postalCode": "27841"
+        },
+        {
+          "code": "27856",
+          "name": "Nhơn Ninh",
+          "fullName": "Xã Nhơn Ninh, Tỉnh Tây Ninh",
+          "slug": "nhon-ninh",
+          "postalCode": "27856"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thạnh Hóa",
+      "slug": "huyen-thanh-hoa",
+      "wards": [
+        {
+          "code": "27865",
+          "name": "Thạnh Hóa",
+          "fullName": "Xã Thạnh Hóa, Tỉnh Tây Ninh",
+          "slug": "thanh-hoa",
+          "postalCode": "27865"
+        },
+        {
+          "code": "27868",
+          "name": "Bình Thành",
+          "fullName": "Xã Bình Thành, Tỉnh Tây Ninh",
+          "slug": "binh-thanh",
+          "postalCode": "27868"
+        },
+        {
+          "code": "27877",
+          "name": "Thạnh Phước",
+          "fullName": "Xã Thạnh Phước, Tỉnh Tây Ninh",
+          "slug": "thanh-phuoc",
+          "postalCode": "27877"
+        },
+        {
+          "code": "27889",
+          "name": "Tân Tây",
+          "fullName": "Xã Tân Tây, Tỉnh Tây Ninh",
+          "slug": "tan-tay",
+          "postalCode": "27889"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đức Huệ",
+      "slug": "huyen-duc-hue",
+      "wards": [
+        {
+          "code": "27868",
+          "name": "Bình Thành",
+          "fullName": "Xã Bình Thành, Tỉnh Tây Ninh",
+          "slug": "binh-thanh",
+          "postalCode": "27868"
+        },
+        {
+          "code": "27898",
+          "name": "Đông Thành",
+          "fullName": "Xã Đông Thành, Tỉnh Tây Ninh",
+          "slug": "dong-thanh",
+          "postalCode": "27898"
+        },
+        {
+          "code": "27907",
+          "name": "Mỹ Quý",
+          "fullName": "Xã Mỹ Quý, Tỉnh Tây Ninh",
+          "slug": "my-quy",
+          "postalCode": "27907"
+        },
+        {
+          "code": "27925",
+          "name": "Đức Huệ",
+          "fullName": "Xã Đức Huệ, Tỉnh Tây Ninh",
+          "slug": "duc-hue",
+          "postalCode": "27925"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đức Hòa",
+      "slug": "huyen-duc-hoa",
+      "wards": [
+        {
+          "code": "27931",
+          "name": "Hậu Nghĩa",
+          "fullName": "Xã Hậu Nghĩa, Tỉnh Tây Ninh",
+          "slug": "hau-nghia",
+          "postalCode": "27931"
+        },
+        {
+          "code": "27937",
+          "name": "Đức Hòa",
+          "fullName": "Xã Đức Hòa, Tỉnh Tây Ninh",
+          "slug": "duc-hoa",
+          "postalCode": "27937"
+        },
+        {
+          "code": "27943",
+          "name": "An Ninh",
+          "fullName": "Xã An Ninh, Tỉnh Tây Ninh",
+          "slug": "an-ninh",
+          "postalCode": "27943"
+        },
+        {
+          "code": "27952",
+          "name": "Hiệp Hòa",
+          "fullName": "Xã Hiệp Hòa, Tỉnh Tây Ninh",
+          "slug": "hiep-hoa",
+          "postalCode": "27952"
+        },
+        {
+          "code": "27964",
+          "name": "Đức Lập",
+          "fullName": "Xã Đức Lập, Tỉnh Tây Ninh",
+          "slug": "duc-lap",
+          "postalCode": "27964"
+        },
+        {
+          "code": "27976",
+          "name": "Mỹ Hạnh",
+          "fullName": "Xã Mỹ Hạnh, Tỉnh Tây Ninh",
+          "slug": "my-hanh",
+          "postalCode": "27976"
+        },
+        {
+          "code": "27979",
+          "name": "Hòa Khánh",
+          "fullName": "Xã Hòa Khánh, Tỉnh Tây Ninh",
+          "slug": "hoa-khanh",
+          "postalCode": "27979"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bến Lức",
+      "slug": "huyen-ben-luc",
+      "wards": [
+        {
+          "code": "27991",
+          "name": "Bến Lức",
+          "fullName": "Xã Bến Lức, Tỉnh Tây Ninh",
+          "slug": "ben-luc",
+          "postalCode": "27991"
+        },
+        {
+          "code": "27994",
+          "name": "Thạnh Lợi",
+          "fullName": "Xã Thạnh Lợi, Tỉnh Tây Ninh",
+          "slug": "thanh-loi",
+          "postalCode": "27994"
+        },
+        {
+          "code": "28003",
+          "name": "Lương Hòa",
+          "fullName": "Xã Lương Hòa, Tỉnh Tây Ninh",
+          "slug": "luong-hoa",
+          "postalCode": "28003"
+        },
+        {
+          "code": "28015",
+          "name": "Bình Đức",
+          "fullName": "Xã Bình Đức, Tỉnh Tây Ninh",
+          "slug": "binh-duc",
+          "postalCode": "28015"
+        },
+        {
+          "code": "28018",
+          "name": "Mỹ Yên",
+          "fullName": "Xã Mỹ Yên, Tỉnh Tây Ninh",
+          "slug": "my-yen",
+          "postalCode": "28018"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Trụ",
+      "slug": "huyen-tan-tru",
+      "wards": [
+        {
+          "code": "28075",
+          "name": "Tân Trụ",
+          "fullName": "Xã Tân Trụ, Tỉnh Tây Ninh",
+          "slug": "tan-tru",
+          "postalCode": "28075"
+        },
+        {
+          "code": "28087",
+          "name": "Nhựt Tảo",
+          "fullName": "Xã Nhựt Tảo, Tỉnh Tây Ninh",
+          "slug": "nhut-tao",
+          "postalCode": "28087"
+        },
+        {
+          "code": "28093",
+          "name": "Vàm Cỏ",
+          "fullName": "Xã Vàm Cỏ, Tỉnh Tây Ninh",
+          "slug": "vam-co",
+          "postalCode": "28093"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cần Đước",
+      "slug": "huyen-can-duoc",
+      "wards": [
+        {
+          "code": "28108",
+          "name": "Cần Đước",
+          "fullName": "Xã Cần Đước, Tỉnh Tây Ninh",
+          "slug": "can-duoc",
+          "postalCode": "28108"
+        },
+        {
+          "code": "28114",
+          "name": "Rạch Kiến",
+          "fullName": "Xã Rạch Kiến, Tỉnh Tây Ninh",
+          "slug": "rach-kien",
+          "postalCode": "28114"
+        },
+        {
+          "code": "28126",
+          "name": "Long Cang",
+          "fullName": "Xã Long Cang, Tỉnh Tây Ninh",
+          "slug": "long-cang",
+          "postalCode": "28126"
+        },
+        {
+          "code": "28132",
+          "name": "Mỹ Lệ",
+          "fullName": "Xã Mỹ Lệ, Tỉnh Tây Ninh",
+          "slug": "my-le",
+          "postalCode": "28132"
+        },
+        {
+          "code": "28138",
+          "name": "Tân Lân",
+          "fullName": "Xã Tân Lân, Tỉnh Tây Ninh",
+          "slug": "tan-lan",
+          "postalCode": "28138"
+        },
+        {
+          "code": "28144",
+          "name": "Long Hựu",
+          "fullName": "Xã Long Hựu, Tỉnh Tây Ninh",
+          "slug": "long-huu",
+          "postalCode": "28144"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cần Giuộc",
+      "slug": "huyen-can-giuoc",
+      "wards": [
+        {
+          "code": "28159",
+          "name": "Cần Giuộc",
+          "fullName": "Xã Cần Giuộc, Tỉnh Tây Ninh",
+          "slug": "can-giuoc",
+          "postalCode": "28159"
+        },
+        {
+          "code": "28165",
+          "name": "Phước Lý",
+          "fullName": "Xã Phước Lý, Tỉnh Tây Ninh",
+          "slug": "phuoc-ly",
+          "postalCode": "28165"
+        },
+        {
+          "code": "28177",
+          "name": "Mỹ Lộc",
+          "fullName": "Xã Mỹ Lộc, Tỉnh Tây Ninh",
+          "slug": "my-loc",
+          "postalCode": "28177"
+        },
+        {
+          "code": "28201",
+          "name": "Phước Vĩnh Tây",
+          "fullName": "Xã Phước Vĩnh Tây, Tỉnh Tây Ninh",
+          "slug": "phuoc-vinh-tay",
+          "postalCode": "28201"
+        },
+        {
+          "code": "28207",
+          "name": "Tân Tập",
+          "fullName": "Xã Tân Tập, Tỉnh Tây Ninh",
+          "slug": "tan-tap",
+          "postalCode": "28207"
+        }
+      ]
+    }
+  ]
+}

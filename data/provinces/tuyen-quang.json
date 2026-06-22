@@ -1,0 +1,2050 @@
+{
+  "code": "34",
+  "name": "Tuyên Quang",
+  "slug": "tuyen-quang",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Tuyên Quang",
+  "wards": [
+    {
+      "code": "00255",
+      "name": "Minh Xuân",
+      "fullName": "Phường Minh Xuân, Tỉnh Tuyên Quang",
+      "slug": "minh-xuan",
+      "type": "ward",
+      "postalCode": "02215"
+    },
+    {
+      "code": "00784",
+      "name": "An Tường",
+      "fullName": "Phường An Tường, Tỉnh Tuyên Quang",
+      "slug": "an-tuong",
+      "type": "ward",
+      "postalCode": "02512"
+    },
+    {
+      "code": "00826",
+      "name": "Sơn Dương",
+      "fullName": "Xã Sơn Dương, Tỉnh Tuyên Quang",
+      "slug": "son-duong",
+      "type": "commune",
+      "postalCode": "02536"
+    },
+    {
+      "code": "01254",
+      "name": "Bắc Quang",
+      "fullName": "Xã Bắc Quang, Tỉnh Tuyên Quang",
+      "slug": "bac-quang",
+      "type": "commune",
+      "postalCode": "01153"
+    },
+    {
+      "code": "01293",
+      "name": "Hà Giang 2",
+      "fullName": "Phường Hà Giang 2, Tỉnh Tuyên Quang",
+      "slug": "ha-giang-2",
+      "type": "ward",
+      "postalCode": "00691"
+    },
+    {
+      "code": "01399",
+      "name": "Yên Sơn",
+      "fullName": "Xã Yên Sơn, Tỉnh Tuyên Quang",
+      "slug": "yen-son",
+      "type": "commune",
+      "postalCode": "02473"
+    },
+    {
+      "code": "01408",
+      "name": "Mỹ Lâm",
+      "fullName": "Phường Mỹ Lâm, Tỉnh Tuyên Quang",
+      "slug": "my-lam",
+      "type": "ward",
+      "postalCode": "02509"
+    },
+    {
+      "code": "01493",
+      "name": "Chiêm Hoá",
+      "fullName": "Xã Chiêm Hoá, Tỉnh Tuyên Quang",
+      "slug": "chiem-hoa",
+      "type": "commune",
+      "postalCode": "02287"
+    },
+    {
+      "code": "01553",
+      "name": "Hàm Yên",
+      "fullName": "Xã Hàm Yên, Tỉnh Tuyên Quang",
+      "slug": "ham-yen",
+      "type": "commune",
+      "postalCode": "02374"
+    },
+    {
+      "code": "01645",
+      "name": "Sơn Thuỷ",
+      "fullName": "Xã Sơn Thuỷ, Tỉnh Tuyên Quang",
+      "slug": "son-thuy",
+      "type": "commune",
+      "postalCode": "02620"
+    },
+    {
+      "code": "01719",
+      "name": "Phú Lương",
+      "fullName": "Xã Phú Lương, Tỉnh Tuyên Quang",
+      "slug": "phu-luong",
+      "type": "commune",
+      "postalCode": "02611"
+    },
+    {
+      "code": "01785",
+      "name": "Yên Minh",
+      "fullName": "Xã Yên Minh, Tỉnh Tuyên Quang",
+      "slug": "yen-minh",
+      "type": "commune",
+      "postalCode": "00820"
+    },
+    {
+      "code": "01820",
+      "name": "Đồng Văn",
+      "fullName": "Xã Đồng Văn, Tỉnh Tuyên Quang",
+      "slug": "dong-van",
+      "type": "commune",
+      "postalCode": "00721"
+    },
+    {
+      "code": "01955",
+      "name": "Bình Ca",
+      "fullName": "Xã Bình Ca, Tỉnh Tuyên Quang",
+      "slug": "binh-ca",
+      "type": "commune",
+      "postalCode": "02548"
+    },
+    {
+      "code": "01989",
+      "name": "Vị Xuyên",
+      "fullName": "Xã Vị Xuyên, Tỉnh Tuyên Quang",
+      "slug": "vi-xuyen",
+      "type": "commune",
+      "postalCode": "00913"
+    },
+    {
+      "code": "02085",
+      "name": "Khâu Vai",
+      "fullName": "Xã Khâu Vai, Tỉnh Tuyên Quang",
+      "slug": "khau-vai",
+      "type": "commune",
+      "postalCode": "00802"
+    },
+    {
+      "code": "02146",
+      "name": "Nhữ Khê",
+      "fullName": "Xã Nhữ Khê, Tỉnh Tuyên Quang",
+      "slug": "nhu-khe",
+      "type": "commune",
+      "postalCode": "02530"
+    },
+    {
+      "code": "02150",
+      "name": "Linh Hồ",
+      "fullName": "Xã Linh Hồ, Tỉnh Tuyên Quang",
+      "slug": "linh-ho",
+      "type": "commune",
+      "postalCode": "00970"
+    },
+    {
+      "code": "02157",
+      "name": "Hà Giang 1",
+      "fullName": "Phường Hà Giang 1, Tỉnh Tuyên Quang",
+      "slug": "ha-giang-1",
+      "type": "ward",
+      "postalCode": "00694"
+    },
+    {
+      "code": "02255",
+      "name": "Minh Quang",
+      "fullName": "Xã Minh Quang, Tỉnh Tuyên Quang",
+      "slug": "minh-quang",
+      "type": "commune",
+      "postalCode": "02302"
+    },
+    {
+      "code": "02264",
+      "name": "Sơn Vĩ",
+      "fullName": "Xã Sơn Vĩ, Tỉnh Tuyên Quang",
+      "slug": "son-vi",
+      "type": "commune",
+      "postalCode": "00778"
+    },
+    {
+      "code": "02276",
+      "name": "Mèo Vạc",
+      "fullName": "Xã Mèo Vạc, Tỉnh Tuyên Quang",
+      "slug": "meo-vac",
+      "type": "commune",
+      "postalCode": "00769"
+    },
+    {
+      "code": "02286",
+      "name": "Xín Mần",
+      "fullName": "Xã Xín Mần, Tỉnh Tuyên Quang",
+      "slug": "xin-man",
+      "type": "commune",
+      "postalCode": "01108"
+    },
+    {
+      "code": "02300",
+      "name": "Hồng Sơn",
+      "fullName": "Xã Hồng Sơn, Tỉnh Tuyên Quang",
+      "slug": "hong-son",
+      "type": "commune",
+      "postalCode": "02608"
+    },
+    {
+      "code": "02325",
+      "name": "Xuân Vân",
+      "fullName": "Xã Xuân Vân, Tỉnh Tuyên Quang",
+      "slug": "xuan-van",
+      "type": "commune",
+      "postalCode": "02449"
+    },
+    {
+      "code": "02326",
+      "name": "Mậu Duệ",
+      "fullName": "Xã Mậu Duệ, Tỉnh Tuyên Quang",
+      "slug": "mau-due",
+      "type": "commune",
+      "postalCode": "00847"
+    },
+    {
+      "code": "02338",
+      "name": "Tân Thanh",
+      "fullName": "Xã Tân Thanh, Tỉnh Tuyên Quang",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "02578"
+    },
+    {
+      "code": "02354",
+      "name": "Bình Thuận",
+      "fullName": "Phường Bình Thuận, Tỉnh Tuyên Quang",
+      "slug": "binh-thuan",
+      "type": "ward",
+      "postalCode": "02524"
+    },
+    {
+      "code": "02366",
+      "name": "Quản Bạ",
+      "fullName": "Xã Quản Bạ, Tỉnh Tuyên Quang",
+      "slug": "quan-ba",
+      "type": "commune",
+      "postalCode": "00874"
+    },
+    {
+      "code": "02371",
+      "name": "Đồng Yên",
+      "fullName": "Xã Đồng Yên, Tỉnh Tuyên Quang",
+      "slug": "dong-yen",
+      "type": "commune",
+      "postalCode": "01216"
+    },
+    {
+      "code": "02372",
+      "name": "Thái Hoà",
+      "fullName": "Xã Thái Hoà, Tỉnh Tuyên Quang",
+      "slug": "thai-hoa",
+      "type": "commune",
+      "postalCode": "02419"
+    },
+    {
+      "code": "02385",
+      "name": "Đông Thọ",
+      "fullName": "Xã Đông Thọ, Tỉnh Tuyên Quang",
+      "slug": "dong-tho",
+      "type": "commune",
+      "postalCode": "02572"
+    },
+    {
+      "code": "02394",
+      "name": "Bình Xa",
+      "fullName": "Xã Bình Xa, Tỉnh Tuyên Quang",
+      "slug": "binh-xa",
+      "type": "commune",
+      "postalCode": "02404"
+    },
+    {
+      "code": "02417",
+      "name": "Trường Sinh",
+      "fullName": "Xã Trường Sinh, Tỉnh Tuyên Quang",
+      "slug": "truong-sinh",
+      "type": "commune",
+      "postalCode": "02623"
+    },
+    {
+      "code": "02438",
+      "name": "Nà Hang",
+      "fullName": "Xã Nà Hang, Tỉnh Tuyên Quang",
+      "slug": "na-hang",
+      "type": "commune",
+      "postalCode": "02221"
+    },
+    {
+      "code": "02449",
+      "name": "Hùng An",
+      "fullName": "Xã Hùng An, Tỉnh Tuyên Quang",
+      "slug": "hung-an",
+      "type": "commune",
+      "postalCode": "01201"
+    },
+    {
+      "code": "02471",
+      "name": "Kim Bình",
+      "fullName": "Xã Kim Bình, Tỉnh Tuyên Quang",
+      "slug": "kim-binh",
+      "type": "commune",
+      "postalCode": "02350"
+    },
+    {
+      "code": "02474",
+      "name": "Sà Phìn",
+      "fullName": "Xã Sà Phìn, Tỉnh Tuyên Quang",
+      "slug": "sa-phin",
+      "type": "commune",
+      "postalCode": "00733"
+    },
+    {
+      "code": "02491",
+      "name": "Bằng Hành",
+      "fullName": "Xã Bằng Hành, Tỉnh Tuyên Quang",
+      "slug": "bang-hanh",
+      "type": "commune",
+      "postalCode": "01180"
+    },
+    {
+      "code": "02493",
+      "name": "Lũng Phìn",
+      "fullName": "Xã Lũng Phìn, Tỉnh Tuyên Quang",
+      "slug": "lung-phin",
+      "type": "commune",
+      "postalCode": "00763"
+    },
+    {
+      "code": "02497",
+      "name": "Thắng Mố",
+      "fullName": "Xã Thắng Mố, Tỉnh Tuyên Quang",
+      "slug": "thang-mo",
+      "type": "commune",
+      "postalCode": "00829"
+    },
+    {
+      "code": "02499",
+      "name": "Thái Sơn",
+      "fullName": "Xã Thái Sơn, Tỉnh Tuyên Quang",
+      "slug": "thai-son",
+      "type": "commune",
+      "postalCode": "02407"
+    },
+    {
+      "code": "02517",
+      "name": "Phù Lưu",
+      "fullName": "Xã Phù Lưu, Tỉnh Tuyên Quang",
+      "slug": "phu-luu",
+      "type": "commune",
+      "postalCode": "02392"
+    },
+    {
+      "code": "02532",
+      "name": "Yên Nguyên",
+      "fullName": "Xã Yên Nguyên, Tỉnh Tuyên Quang",
+      "slug": "yen-nguyen",
+      "type": "commune",
+      "postalCode": "02365"
+    },
+    {
+      "code": "02545",
+      "name": "Du Già",
+      "fullName": "Xã Du Già, Tỉnh Tuyên Quang",
+      "slug": "du-gia",
+      "type": "commune",
+      "postalCode": "00871"
+    },
+    {
+      "code": "02548",
+      "name": "Pà Vầy Sủ",
+      "fullName": "Xã Pà Vầy Sủ, Tỉnh Tuyên Quang",
+      "slug": "pa-vay-su",
+      "type": "commune",
+      "postalCode": "01096"
+    },
+    {
+      "code": "02557",
+      "name": "Hoàng Su Phì",
+      "fullName": "Xã Hoàng Su Phì, Tỉnh Tuyên Quang",
+      "slug": "hoang-su-phi",
+      "type": "commune",
+      "postalCode": "01021"
+    },
+    {
+      "code": "02560",
+      "name": "Phố Bảng",
+      "fullName": "Xã Phố Bảng, Tỉnh Tuyên Quang",
+      "slug": "pho-bang",
+      "type": "commune",
+      "postalCode": "00745"
+    },
+    {
+      "code": "02568",
+      "name": "Nông Tiến",
+      "fullName": "Phường Nông Tiến, Tỉnh Tuyên Quang",
+      "slug": "nong-tien",
+      "type": "ward",
+      "postalCode": "02212"
+    },
+    {
+      "code": "02576",
+      "name": "Bạch Xa",
+      "fullName": "Xã Bạch Xa, Tỉnh Tuyên Quang",
+      "slug": "bach-xa",
+      "type": "commune",
+      "postalCode": "02380"
+    },
+    {
+      "code": "02581",
+      "name": "Tân Mỹ",
+      "fullName": "Xã Tân Mỹ, Tỉnh Tuyên Quang",
+      "slug": "tan-my",
+      "type": "commune",
+      "postalCode": "02308"
+    },
+    {
+      "code": "02583",
+      "name": "Lũng Cú",
+      "fullName": "Xã Lũng Cú, Tỉnh Tuyên Quang",
+      "slug": "lung-cu",
+      "type": "commune",
+      "postalCode": "00715"
+    },
+    {
+      "code": "02598",
+      "name": "Tân Trào",
+      "fullName": "Xã Tân Trào, Tỉnh Tuyên Quang",
+      "slug": "tan-trao",
+      "type": "commune",
+      "postalCode": "02545"
+    },
+    {
+      "code": "02602",
+      "name": "Yên Phú",
+      "fullName": "Xã Yên Phú, Tỉnh Tuyên Quang",
+      "slug": "yen-phu",
+      "type": "commune",
+      "postalCode": "02398"
+    },
+    {
+      "code": "02631",
+      "name": "Đường Thượng",
+      "fullName": "Xã Đường Thượng, Tỉnh Tuyên Quang",
+      "slug": "duong-thuong",
+      "type": "commune",
+      "postalCode": "00865"
+    },
+    {
+      "code": "02642",
+      "name": "Tiên Yên",
+      "fullName": "Xã Tiên Yên, Tỉnh Tuyên Quang",
+      "slug": "tien-yen",
+      "type": "commune",
+      "postalCode": "01261"
+    },
+    {
+      "code": "02672",
+      "name": "Thái Bình",
+      "fullName": "Xã Thái Bình, Tỉnh Tuyên Quang",
+      "slug": "thai-binh",
+      "type": "commune",
+      "postalCode": "02494"
+    },
+    {
+      "code": "02689",
+      "name": "Minh Thanh",
+      "fullName": "Xã Minh Thanh, Tỉnh Tuyên Quang",
+      "slug": "minh-thanh",
+      "type": "commune",
+      "postalCode": "02554"
+    },
+    {
+      "code": "02700",
+      "name": "Hoà An",
+      "fullName": "Xã Hoà An, Tỉnh Tuyên Quang",
+      "slug": "hoa-an",
+      "type": "commune",
+      "postalCode": "02353"
+    },
+    {
+      "code": "02707",
+      "name": "Bắc Mê",
+      "fullName": "Xã Bắc Mê, Tỉnh Tuyên Quang",
+      "slug": "bac-me",
+      "type": "commune",
+      "postalCode": "00991"
+    },
+    {
+      "code": "02724",
+      "name": "Bạch Đích",
+      "fullName": "Xã Bạch Đích, Tỉnh Tuyên Quang",
+      "slug": "bach-dich",
+      "type": "commune",
+      "postalCode": "00832"
+    },
+    {
+      "code": "02738",
+      "name": "Sủng Máng",
+      "fullName": "Xã Sủng Máng, Tỉnh Tuyên Quang",
+      "slug": "sung-mang",
+      "type": "commune",
+      "postalCode": "00787"
+    },
+    {
+      "code": "02749",
+      "name": "Tân Quang",
+      "fullName": "Xã Tân Quang, Tỉnh Tuyên Quang",
+      "slug": "tan-quang",
+      "type": "commune",
+      "postalCode": "01171"
+    },
+    {
+      "code": "02753",
+      "name": "Lâm Bình",
+      "fullName": "Xã Lâm Bình, Tỉnh Tuyên Quang",
+      "slug": "lam-binh",
+      "type": "commune",
+      "postalCode": "02266"
+    },
+    {
+      "code": "02758",
+      "name": "Trung Thịnh",
+      "fullName": "Xã Trung Thịnh, Tỉnh Tuyên Quang",
+      "slug": "trung-thinh",
+      "type": "commune",
+      "postalCode": "01117"
+    },
+    {
+      "code": "02760",
+      "name": "Phú Linh",
+      "fullName": "Xã Phú Linh, Tỉnh Tuyên Quang",
+      "slug": "phu-linh",
+      "type": "commune",
+      "postalCode": "00706"
+    },
+    {
+      "code": "02763",
+      "name": "Niêm Sơn",
+      "fullName": "Xã Niêm Sơn, Tỉnh Tuyên Quang",
+      "slug": "niem-son",
+      "type": "commune",
+      "postalCode": "00817"
+    },
+    {
+      "code": "02765",
+      "name": "Bằng Lang",
+      "fullName": "Xã Bằng Lang, Tỉnh Tuyên Quang",
+      "slug": "bang-lang",
+      "type": "commune",
+      "postalCode": "01246"
+    },
+    {
+      "code": "02774",
+      "name": "Vĩnh Tuy",
+      "fullName": "Xã Vĩnh Tuy, Tỉnh Tuyên Quang",
+      "slug": "vinh-tuy",
+      "type": "commune",
+      "postalCode": "01156"
+    },
+    {
+      "code": "02781",
+      "name": "Nấm Dẩn",
+      "fullName": "Xã Nấm Dẩn, Tỉnh Tuyên Quang",
+      "slug": "nam-dan",
+      "type": "commune",
+      "postalCode": "01141"
+    },
+    {
+      "code": "02794",
+      "name": "Đường Hồng",
+      "fullName": "Xã Đường Hồng, Tỉnh Tuyên Quang",
+      "slug": "duong-hong",
+      "type": "commune",
+      "postalCode": "01012"
+    },
+    {
+      "code": "02817",
+      "name": "Hồng Thái",
+      "fullName": "Xã Hồng Thái, Tỉnh Tuyên Quang",
+      "slug": "hong-thai",
+      "type": "commune",
+      "postalCode": "02260"
+    },
+    {
+      "code": "02820",
+      "name": "Tùng Vài",
+      "fullName": "Xã Tùng Vài, Tỉnh Tuyên Quang",
+      "slug": "tung-vai",
+      "type": "commune",
+      "postalCode": "00892"
+    },
+    {
+      "code": "02834",
+      "name": "Tân An",
+      "fullName": "Xã Tân An, Tỉnh Tuyên Quang",
+      "slug": "tan-an",
+      "type": "commune",
+      "postalCode": "02320"
+    },
+    {
+      "code": "02841",
+      "name": "Lực Hành",
+      "fullName": "Xã Lực Hành, Tỉnh Tuyên Quang",
+      "slug": "luc-hanh",
+      "type": "commune",
+      "postalCode": "02434"
+    },
+    {
+      "code": "02844",
+      "name": "Tân Long",
+      "fullName": "Xã Tân Long, Tỉnh Tuyên Quang",
+      "slug": "tan-long",
+      "type": "commune",
+      "postalCode": "02470"
+    },
+    {
+      "code": "02845",
+      "name": "Lùng Tám",
+      "fullName": "Xã Lùng Tám, Tỉnh Tuyên Quang",
+      "slug": "lung-tam",
+      "type": "commune",
+      "postalCode": "00901"
+    },
+    {
+      "code": "02847",
+      "name": "Trung Sơn",
+      "fullName": "Xã Trung Sơn, Tỉnh Tuyên Quang",
+      "slug": "trung-son",
+      "type": "commune",
+      "postalCode": "02458"
+    },
+    {
+      "code": "02851",
+      "name": "Hùng Lợi",
+      "fullName": "Xã Hùng Lợi, Tỉnh Tuyên Quang",
+      "slug": "hung-loi",
+      "type": "commune",
+      "postalCode": "02455"
+    },
+    {
+      "code": "02862",
+      "name": "Tân Trịnh",
+      "fullName": "Xã Tân Trịnh, Tỉnh Tuyên Quang",
+      "slug": "tan-trinh",
+      "type": "commune",
+      "postalCode": "01243"
+    },
+    {
+      "code": "02873",
+      "name": "Quang Bình",
+      "fullName": "Xã Quang Bình, Tỉnh Tuyên Quang",
+      "slug": "quang-binh",
+      "type": "commune",
+      "postalCode": "01237"
+    },
+    {
+      "code": "02874",
+      "name": "Đồng Tâm",
+      "fullName": "Xã Đồng Tâm, Tỉnh Tuyên Quang",
+      "slug": "dong-tam",
+      "type": "commune",
+      "postalCode": "01165"
+    },
+    {
+      "code": "02880",
+      "name": "Liên Hiệp",
+      "fullName": "Xã Liên Hiệp, Tỉnh Tuyên Quang",
+      "slug": "lien-hiep",
+      "type": "commune",
+      "postalCode": "01192"
+    },
+    {
+      "code": "02889",
+      "name": "Tân Tiến",
+      "fullName": "Xã Tân Tiến, Tỉnh Tuyên Quang",
+      "slug": "tan-tien",
+      "type": "commune",
+      "postalCode": "01051"
+    },
+    {
+      "code": "02892",
+      "name": "Hùng Đức",
+      "fullName": "Xã Hùng Đức, Tỉnh Tuyên Quang",
+      "slug": "hung-duc",
+      "type": "commune",
+      "postalCode": "02425"
+    },
+    {
+      "code": "02900",
+      "name": "Yên Lập",
+      "fullName": "Xã Yên Lập, Tỉnh Tuyên Quang",
+      "slug": "yen-lap",
+      "type": "commune",
+      "postalCode": "02317"
+    },
+    {
+      "code": "02903",
+      "name": "Bình An",
+      "fullName": "Xã Bình An, Tỉnh Tuyên Quang",
+      "slug": "binh-an",
+      "type": "commune",
+      "postalCode": "02296"
+    },
+    {
+      "code": "02920",
+      "name": "Ngọc Long",
+      "fullName": "Xã Ngọc Long, Tỉnh Tuyên Quang",
+      "slug": "ngoc-long",
+      "type": "commune",
+      "postalCode": "00859"
+    },
+    {
+      "code": "02926",
+      "name": "Nghĩa Thuận",
+      "fullName": "Xã Nghĩa Thuận, Tỉnh Tuyên Quang",
+      "slug": "nghia-thuan",
+      "type": "commune",
+      "postalCode": "00889"
+    },
+    {
+      "code": "02928",
+      "name": "Thượng Lâm",
+      "fullName": "Xã Thượng Lâm, Tỉnh Tuyên Quang",
+      "slug": "thuong-lam",
+      "type": "commune",
+      "postalCode": "02269"
+    },
+    {
+      "code": "02932",
+      "name": "Cán Tỷ",
+      "fullName": "Xã Cán Tỷ, Tỉnh Tuyên Quang",
+      "slug": "can-ty",
+      "type": "commune",
+      "postalCode": "00883"
+    },
+    {
+      "code": "02934",
+      "name": "Bản Máy",
+      "fullName": "Xã Bản Máy, Tỉnh Tuyên Quang",
+      "slug": "ban-may",
+      "type": "commune",
+      "postalCode": "01024"
+    },
+    {
+      "code": "02936",
+      "name": "Yên Cường",
+      "fullName": "Xã Yên Cường, Tỉnh Tuyên Quang",
+      "slug": "yen-cuong",
+      "type": "commune",
+      "postalCode": "01006"
+    },
+    {
+      "code": "02940",
+      "name": "Bạch Ngọc",
+      "fullName": "Xã Bạch Ngọc, Tỉnh Tuyên Quang",
+      "slug": "bach-ngoc",
+      "type": "commune",
+      "postalCode": "00976"
+    },
+    {
+      "code": "02966",
+      "name": "Kiên Đài",
+      "fullName": "Xã Kiên Đài, Tỉnh Tuyên Quang",
+      "slug": "kien-dai",
+      "type": "commune",
+      "postalCode": "02332"
+    },
+    {
+      "code": "02978",
+      "name": "Xuân Giang",
+      "fullName": "Xã Xuân Giang, Tỉnh Tuyên Quang",
+      "slug": "xuan-giang",
+      "type": "commune",
+      "postalCode": "01255"
+    },
+    {
+      "code": "03013",
+      "name": "Hồ Thầu",
+      "fullName": "Xã Hồ Thầu, Tỉnh Tuyên Quang",
+      "slug": "ho-thau",
+      "type": "commune",
+      "postalCode": "01084"
+    },
+    {
+      "code": "03017",
+      "name": "Tri Phú",
+      "fullName": "Xã Tri Phú, Tỉnh Tuyên Quang",
+      "slug": "tri-phu",
+      "type": "commune",
+      "postalCode": "02359"
+    },
+    {
+      "code": "03024",
+      "name": "Nậm Dịch",
+      "fullName": "Xã Nậm Dịch, Tỉnh Tuyên Quang",
+      "slug": "nam-dich",
+      "type": "commune",
+      "postalCode": "01075"
+    },
+    {
+      "code": "03044",
+      "name": "Trung Hà",
+      "fullName": "Xã Trung Hà, Tỉnh Tuyên Quang",
+      "slug": "trung-ha",
+      "type": "commune",
+      "postalCode": "02305"
+    },
+    {
+      "code": "03050",
+      "name": "Tùng Bá",
+      "fullName": "Xã Tùng Bá, Tỉnh Tuyên Quang",
+      "slug": "tung-ba",
+      "type": "commune",
+      "postalCode": "00925"
+    },
+    {
+      "code": "03061",
+      "name": "Khuôn Lùng",
+      "fullName": "Xã Khuôn Lùng, Tỉnh Tuyên Quang",
+      "slug": "khuon-lung",
+      "type": "commune",
+      "postalCode": "01147"
+    },
+    {
+      "code": "03066",
+      "name": "Thuận Hoà",
+      "fullName": "Xã Thuận Hoà, Tỉnh Tuyên Quang",
+      "slug": "thuan-hoa",
+      "type": "commune",
+      "postalCode": "00922"
+    },
+    {
+      "code": "03067",
+      "name": "Minh Ngọc",
+      "fullName": "Xã Minh Ngọc, Tỉnh Tuyên Quang",
+      "slug": "minh-ngoc",
+      "type": "commune",
+      "postalCode": "00994"
+    },
+    {
+      "code": "03068",
+      "name": "Ngọc Đường",
+      "fullName": "Xã Ngọc Đường, Tỉnh Tuyên Quang",
+      "slug": "ngoc-duong",
+      "type": "commune",
+      "postalCode": "00700"
+    },
+    {
+      "code": "03072",
+      "name": "Tát Ngà",
+      "fullName": "Xã Tát Ngà, Tỉnh Tuyên Quang",
+      "slug": "tat-nga",
+      "type": "commune",
+      "postalCode": "00808"
+    },
+    {
+      "code": "03074",
+      "name": "Minh Sơn",
+      "fullName": "Xã Minh Sơn, Tỉnh Tuyên Quang",
+      "slug": "minh-son",
+      "type": "commune",
+      "postalCode": "00982"
+    },
+    {
+      "code": "03079",
+      "name": "Thàng Tín",
+      "fullName": "Xã Thàng Tín, Tỉnh Tuyên Quang",
+      "slug": "thang-tin",
+      "type": "commune",
+      "postalCode": "01033"
+    },
+    {
+      "code": "03087",
+      "name": "Minh Tân",
+      "fullName": "Xã Minh Tân, Tỉnh Tuyên Quang",
+      "slug": "minh-tan",
+      "type": "commune",
+      "postalCode": "00919"
+    },
+    {
+      "code": "03101",
+      "name": "Yên Hoa",
+      "fullName": "Xã Yên Hoa, Tỉnh Tuyên Quang",
+      "slug": "yen-hoa",
+      "type": "commune",
+      "postalCode": "02248"
+    },
+    {
+      "code": "03112",
+      "name": "Thượng Nông",
+      "fullName": "Xã Thượng Nông, Tỉnh Tuyên Quang",
+      "slug": "thuong-nong",
+      "type": "commune",
+      "postalCode": "02239"
+    },
+    {
+      "code": "03136",
+      "name": "Kiến Thiết",
+      "fullName": "Xã Kiến Thiết, Tỉnh Tuyên Quang",
+      "slug": "kien-thiet",
+      "type": "commune",
+      "postalCode": "02437"
+    },
+    {
+      "code": "03169",
+      "name": "Việt Lâm",
+      "fullName": "Xã Việt Lâm, Tỉnh Tuyên Quang",
+      "slug": "viet-lam",
+      "type": "commune",
+      "postalCode": "00967"
+    },
+    {
+      "code": "03174",
+      "name": "Thanh Thuỷ",
+      "fullName": "Xã Thanh Thuỷ, Tỉnh Tuyên Quang",
+      "slug": "thanh-thuy",
+      "type": "commune",
+      "postalCode": "00928"
+    },
+    {
+      "code": "03181",
+      "name": "Thông Nguyên",
+      "fullName": "Xã Thông Nguyên, Tỉnh Tuyên Quang",
+      "slug": "thong-nguyen",
+      "type": "commune",
+      "postalCode": "01090"
+    },
+    {
+      "code": "03182",
+      "name": "Pờ Ly Ngài",
+      "fullName": "Xã Pờ Ly Ngài, Tỉnh Tuyên Quang",
+      "slug": "po-ly-ngai",
+      "type": "commune",
+      "postalCode": "01057"
+    },
+    {
+      "code": "03183",
+      "name": "Giáp Trung",
+      "fullName": "Xã Giáp Trung, Tỉnh Tuyên Quang",
+      "slug": "giap-trung",
+      "type": "commune",
+      "postalCode": "00985"
+    },
+    {
+      "code": "03185",
+      "name": "Thượng Sơn",
+      "fullName": "Xã Thượng Sơn, Tỉnh Tuyên Quang",
+      "slug": "thuong-son",
+      "type": "commune",
+      "postalCode": "00958"
+    },
+    {
+      "code": "03203",
+      "name": "Quảng Nguyên",
+      "fullName": "Xã Quảng Nguyên, Tỉnh Tuyên Quang",
+      "slug": "quang-nguyen",
+      "type": "commune",
+      "postalCode": "01144"
+    },
+    {
+      "code": "03218",
+      "name": "Yên Thành",
+      "fullName": "Xã Yên Thành, Tỉnh Tuyên Quang",
+      "slug": "yen-thanh",
+      "type": "commune",
+      "postalCode": "01234"
+    },
+    {
+      "code": "03219",
+      "name": "Côn Lôn",
+      "fullName": "Xã Côn Lôn, Tỉnh Tuyên Quang",
+      "slug": "con-lon",
+      "type": "commune",
+      "postalCode": "02245"
+    },
+    {
+      "code": "03257",
+      "name": "Tiên Nguyên",
+      "fullName": "Xã Tiên Nguyên, Tỉnh Tuyên Quang",
+      "slug": "tien-nguyen",
+      "type": "commune",
+      "postalCode": "01225"
+    },
+    {
+      "code": "03268",
+      "name": "Lao Chải",
+      "fullName": "Xã Lao Chải, Tỉnh Tuyên Quang",
+      "slug": "lao-chai",
+      "type": "commune",
+      "postalCode": "00937"
+    },
+    {
+      "code": "03281",
+      "name": "Cao Bồ",
+      "fullName": "Xã Cao Bồ, Tỉnh Tuyên Quang",
+      "slug": "cao-bo",
+      "type": "commune",
+      "postalCode": "00952"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Hà Giang",
+      "slug": "thanh-pho-ha-giang",
+      "wards": [
+        {
+          "code": "00691",
+          "name": "Hà Giang 2",
+          "fullName": "Phường Hà Giang 2, Tỉnh Tuyên Quang",
+          "slug": "ha-giang-2",
+          "postalCode": "00691"
+        },
+        {
+          "code": "00694",
+          "name": "Hà Giang 1",
+          "fullName": "Phường Hà Giang 1, Tỉnh Tuyên Quang",
+          "slug": "ha-giang-1",
+          "postalCode": "00694"
+        },
+        {
+          "code": "00700",
+          "name": "Ngọc Đường",
+          "fullName": "Xã Ngọc Đường, Tỉnh Tuyên Quang",
+          "slug": "ngoc-duong",
+          "postalCode": "00700"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vị Xuyên",
+      "slug": "huyen-vi-xuyen",
+      "wards": [
+        {
+          "code": "00691",
+          "name": "Hà Giang 2",
+          "fullName": "Phường Hà Giang 2, Tỉnh Tuyên Quang",
+          "slug": "ha-giang-2",
+          "postalCode": "00691"
+        },
+        {
+          "code": "00706",
+          "name": "Phú Linh",
+          "fullName": "Xã Phú Linh, Tỉnh Tuyên Quang",
+          "slug": "phu-linh",
+          "postalCode": "00706"
+        },
+        {
+          "code": "00913",
+          "name": "Vị Xuyên",
+          "fullName": "Xã Vị Xuyên, Tỉnh Tuyên Quang",
+          "slug": "vi-xuyen",
+          "postalCode": "00913"
+        },
+        {
+          "code": "00919",
+          "name": "Minh Tân",
+          "fullName": "Xã Minh Tân, Tỉnh Tuyên Quang",
+          "slug": "minh-tan",
+          "postalCode": "00919"
+        },
+        {
+          "code": "00922",
+          "name": "Thuận Hòa",
+          "fullName": "Xã Thuận Hòa, Tỉnh Tuyên Quang",
+          "slug": "thuan-hoa",
+          "postalCode": "00922"
+        },
+        {
+          "code": "00925",
+          "name": "Tùng Bá",
+          "fullName": "Xã Tùng Bá, Tỉnh Tuyên Quang",
+          "slug": "tung-ba",
+          "postalCode": "00925"
+        },
+        {
+          "code": "00928",
+          "name": "Thanh Thủy",
+          "fullName": "Xã Thanh Thủy, Tỉnh Tuyên Quang",
+          "slug": "thanh-thuy",
+          "postalCode": "00928"
+        },
+        {
+          "code": "00937",
+          "name": "Lao Chải",
+          "fullName": "Xã Lao Chải, Tỉnh Tuyên Quang",
+          "slug": "lao-chai",
+          "postalCode": "00937"
+        },
+        {
+          "code": "00952",
+          "name": "Cao Bồ",
+          "fullName": "Xã Cao Bồ, Tỉnh Tuyên Quang",
+          "slug": "cao-bo",
+          "postalCode": "00952"
+        },
+        {
+          "code": "00958",
+          "name": "Thượng Sơn",
+          "fullName": "Xã Thượng Sơn, Tỉnh Tuyên Quang",
+          "slug": "thuong-son",
+          "postalCode": "00958"
+        },
+        {
+          "code": "00967",
+          "name": "Việt Lâm",
+          "fullName": "Xã Việt Lâm, Tỉnh Tuyên Quang",
+          "slug": "viet-lam",
+          "postalCode": "00967"
+        },
+        {
+          "code": "00970",
+          "name": "Linh Hồ",
+          "fullName": "Xã Linh Hồ, Tỉnh Tuyên Quang",
+          "slug": "linh-ho",
+          "postalCode": "00970"
+        },
+        {
+          "code": "00976",
+          "name": "Bạch Ngọc",
+          "fullName": "Xã Bạch Ngọc, Tỉnh Tuyên Quang",
+          "slug": "bach-ngoc",
+          "postalCode": "00976"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Tuyên Quang",
+      "slug": "thanh-pho-tuyen-quang",
+      "wards": [
+        {
+          "code": "02212",
+          "name": "Nông Tiến",
+          "fullName": "Phường Nông Tiến, Tỉnh Tuyên Quang",
+          "slug": "nong-tien",
+          "postalCode": "02212"
+        },
+        {
+          "code": "02215",
+          "name": "Minh Xuân",
+          "fullName": "Phường Minh Xuân, Tỉnh Tuyên Quang",
+          "slug": "minh-xuan",
+          "postalCode": "02215"
+        },
+        {
+          "code": "02509",
+          "name": "Mỹ Lâm",
+          "fullName": "Phường Mỹ Lâm, Tỉnh Tuyên Quang",
+          "slug": "my-lam",
+          "postalCode": "02509"
+        },
+        {
+          "code": "02512",
+          "name": "An Tường",
+          "fullName": "Phường An Tường, Tỉnh Tuyên Quang",
+          "slug": "an-tuong",
+          "postalCode": "02512"
+        },
+        {
+          "code": "02524",
+          "name": "Bình Thuận",
+          "fullName": "Phường Bình Thuận, Tỉnh Tuyên Quang",
+          "slug": "binh-thuan",
+          "postalCode": "02524"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Sơn",
+      "slug": "huyen-yen-son",
+      "wards": [
+        {
+          "code": "02212",
+          "name": "Nông Tiến",
+          "fullName": "Phường Nông Tiến, Tỉnh Tuyên Quang",
+          "slug": "nong-tien",
+          "postalCode": "02212"
+        },
+        {
+          "code": "02215",
+          "name": "Minh Xuân",
+          "fullName": "Phường Minh Xuân, Tỉnh Tuyên Quang",
+          "slug": "minh-xuan",
+          "postalCode": "02215"
+        },
+        {
+          "code": "02434",
+          "name": "Lực Hành",
+          "fullName": "Xã Lực Hành, Tỉnh Tuyên Quang",
+          "slug": "luc-hanh",
+          "postalCode": "02434"
+        },
+        {
+          "code": "02437",
+          "name": "Kiến Thiết",
+          "fullName": "Xã Kiến Thiết, Tỉnh Tuyên Quang",
+          "slug": "kien-thiet",
+          "postalCode": "02437"
+        },
+        {
+          "code": "02449",
+          "name": "Xuân Vân",
+          "fullName": "Xã Xuân Vân, Tỉnh Tuyên Quang",
+          "slug": "xuan-van",
+          "postalCode": "02449"
+        },
+        {
+          "code": "02455",
+          "name": "Hùng Lợi",
+          "fullName": "Xã Hùng Lợi, Tỉnh Tuyên Quang",
+          "slug": "hung-loi",
+          "postalCode": "02455"
+        },
+        {
+          "code": "02458",
+          "name": "Trung Sơn",
+          "fullName": "Xã Trung Sơn, Tỉnh Tuyên Quang",
+          "slug": "trung-son",
+          "postalCode": "02458"
+        },
+        {
+          "code": "02470",
+          "name": "Tân Long",
+          "fullName": "Xã Tân Long, Tỉnh Tuyên Quang",
+          "slug": "tan-long",
+          "postalCode": "02470"
+        },
+        {
+          "code": "02473",
+          "name": "Yên Sơn",
+          "fullName": "Xã Yên Sơn, Tỉnh Tuyên Quang",
+          "slug": "yen-son",
+          "postalCode": "02473"
+        },
+        {
+          "code": "02494",
+          "name": "Thái Bình",
+          "fullName": "Xã Thái Bình, Tỉnh Tuyên Quang",
+          "slug": "thai-binh",
+          "postalCode": "02494"
+        },
+        {
+          "code": "02509",
+          "name": "Mỹ Lâm",
+          "fullName": "Phường Mỹ Lâm, Tỉnh Tuyên Quang",
+          "slug": "my-lam",
+          "postalCode": "02509"
+        },
+        {
+          "code": "02512",
+          "name": "An Tường",
+          "fullName": "Phường An Tường, Tỉnh Tuyên Quang",
+          "slug": "an-tuong",
+          "postalCode": "02512"
+        },
+        {
+          "code": "02530",
+          "name": "Nhữ Khê",
+          "fullName": "Xã Nhữ Khê, Tỉnh Tuyên Quang",
+          "slug": "nhu-khe",
+          "postalCode": "02530"
+        },
+        {
+          "code": "02545",
+          "name": "Tân Trào",
+          "fullName": "Xã Tân Trào, Tỉnh Tuyên Quang",
+          "slug": "tan-trao",
+          "postalCode": "02545"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bắc Mê",
+      "slug": "huyen-bac-me",
+      "wards": [
+        {
+          "code": "00700",
+          "name": "Ngọc Đường",
+          "fullName": "Xã Ngọc Đường, Tỉnh Tuyên Quang",
+          "slug": "ngoc-duong",
+          "postalCode": "00700"
+        },
+        {
+          "code": "00982",
+          "name": "Minh Sơn",
+          "fullName": "Xã Minh Sơn, Tỉnh Tuyên Quang",
+          "slug": "minh-son",
+          "postalCode": "00982"
+        },
+        {
+          "code": "00985",
+          "name": "Giáp Trung",
+          "fullName": "Xã Giáp Trung, Tỉnh Tuyên Quang",
+          "slug": "giap-trung",
+          "postalCode": "00985"
+        },
+        {
+          "code": "00991",
+          "name": "Bắc Mê",
+          "fullName": "Xã Bắc Mê, Tỉnh Tuyên Quang",
+          "slug": "bac-me",
+          "postalCode": "00991"
+        },
+        {
+          "code": "00994",
+          "name": "Minh Ngọc",
+          "fullName": "Xã Minh Ngọc, Tỉnh Tuyên Quang",
+          "slug": "minh-ngoc",
+          "postalCode": "00994"
+        },
+        {
+          "code": "01006",
+          "name": "Yên Cường",
+          "fullName": "Xã Yên Cường, Tỉnh Tuyên Quang",
+          "slug": "yen-cuong",
+          "postalCode": "01006"
+        },
+        {
+          "code": "01012",
+          "name": "Đường Hồng",
+          "fullName": "Xã Đường Hồng, Tỉnh Tuyên Quang",
+          "slug": "duong-hong",
+          "postalCode": "01012"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đồng Văn",
+      "slug": "huyen-dong-van",
+      "wards": [
+        {
+          "code": "00715",
+          "name": "Lũng Cú",
+          "fullName": "Xã Lũng Cú, Tỉnh Tuyên Quang",
+          "slug": "lung-cu",
+          "postalCode": "00715"
+        },
+        {
+          "code": "00721",
+          "name": "Đồng Văn",
+          "fullName": "Xã Đồng Văn, Tỉnh Tuyên Quang",
+          "slug": "dong-van",
+          "postalCode": "00721"
+        },
+        {
+          "code": "00733",
+          "name": "Sà Phìn",
+          "fullName": "Xã Sà Phìn, Tỉnh Tuyên Quang",
+          "slug": "sa-phin",
+          "postalCode": "00733"
+        },
+        {
+          "code": "00745",
+          "name": "Phố Bảng",
+          "fullName": "Xã Phố Bảng, Tỉnh Tuyên Quang",
+          "slug": "pho-bang",
+          "postalCode": "00745"
+        },
+        {
+          "code": "00763",
+          "name": "Lũng Phìn",
+          "fullName": "Xã Lũng Phìn, Tỉnh Tuyên Quang",
+          "slug": "lung-phin",
+          "postalCode": "00763"
+        },
+        {
+          "code": "00820",
+          "name": "Yên Minh",
+          "fullName": "Xã Yên Minh, Tỉnh Tuyên Quang",
+          "slug": "yen-minh",
+          "postalCode": "00820"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mèo Vạc",
+      "slug": "huyen-meo-vac",
+      "wards": [
+        {
+          "code": "00721",
+          "name": "Đồng Văn",
+          "fullName": "Xã Đồng Văn, Tỉnh Tuyên Quang",
+          "slug": "dong-van",
+          "postalCode": "00721"
+        },
+        {
+          "code": "00769",
+          "name": "Mèo Vạc",
+          "fullName": "Xã Mèo Vạc, Tỉnh Tuyên Quang",
+          "slug": "meo-vac",
+          "postalCode": "00769"
+        },
+        {
+          "code": "00778",
+          "name": "Sơn Vĩ",
+          "fullName": "Xã Sơn Vĩ, Tỉnh Tuyên Quang",
+          "slug": "son-vi",
+          "postalCode": "00778"
+        },
+        {
+          "code": "00787",
+          "name": "Sủng Máng",
+          "fullName": "Xã Sủng Máng, Tỉnh Tuyên Quang",
+          "slug": "sung-mang",
+          "postalCode": "00787"
+        },
+        {
+          "code": "00802",
+          "name": "Khâu Vai",
+          "fullName": "Xã Khâu Vai, Tỉnh Tuyên Quang",
+          "slug": "khau-vai",
+          "postalCode": "00802"
+        },
+        {
+          "code": "00808",
+          "name": "Tát Ngà",
+          "fullName": "Xã Tát Ngà, Tỉnh Tuyên Quang",
+          "slug": "tat-nga",
+          "postalCode": "00808"
+        },
+        {
+          "code": "00817",
+          "name": "Niêm Sơn",
+          "fullName": "Xã Niêm Sơn, Tỉnh Tuyên Quang",
+          "slug": "niem-son",
+          "postalCode": "00817"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Minh",
+      "slug": "huyen-yen-minh",
+      "wards": [
+        {
+          "code": "00820",
+          "name": "Yên Minh",
+          "fullName": "Xã Yên Minh, Tỉnh Tuyên Quang",
+          "slug": "yen-minh",
+          "postalCode": "00820"
+        },
+        {
+          "code": "00829",
+          "name": "Thắng Mố",
+          "fullName": "Xã Thắng Mố, Tỉnh Tuyên Quang",
+          "slug": "thang-mo",
+          "postalCode": "00829"
+        },
+        {
+          "code": "00832",
+          "name": "Bạch Đích",
+          "fullName": "Xã Bạch Đích, Tỉnh Tuyên Quang",
+          "slug": "bach-dich",
+          "postalCode": "00832"
+        },
+        {
+          "code": "00847",
+          "name": "Mậu Duệ",
+          "fullName": "Xã Mậu Duệ, Tỉnh Tuyên Quang",
+          "slug": "mau-due",
+          "postalCode": "00847"
+        },
+        {
+          "code": "00859",
+          "name": "Ngọc Long",
+          "fullName": "Xã Ngọc Long, Tỉnh Tuyên Quang",
+          "slug": "ngoc-long",
+          "postalCode": "00859"
+        },
+        {
+          "code": "00865",
+          "name": "Đường Thượng",
+          "fullName": "Xã Đường Thượng, Tỉnh Tuyên Quang",
+          "slug": "duong-thuong",
+          "postalCode": "00865"
+        },
+        {
+          "code": "00871",
+          "name": "Du Già",
+          "fullName": "Xã Du Già, Tỉnh Tuyên Quang",
+          "slug": "du-gia",
+          "postalCode": "00871"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Quản Bạ",
+      "slug": "huyen-quan-ba",
+      "wards": [
+        {
+          "code": "00874",
+          "name": "Quản Bạ",
+          "fullName": "Xã Quản Bạ, Tỉnh Tuyên Quang",
+          "slug": "quan-ba",
+          "postalCode": "00874"
+        },
+        {
+          "code": "00883",
+          "name": "Cán Tỷ",
+          "fullName": "Xã Cán Tỷ, Tỉnh Tuyên Quang",
+          "slug": "can-ty",
+          "postalCode": "00883"
+        },
+        {
+          "code": "00889",
+          "name": "Nghĩa Thuận",
+          "fullName": "Xã Nghĩa Thuận, Tỉnh Tuyên Quang",
+          "slug": "nghia-thuan",
+          "postalCode": "00889"
+        },
+        {
+          "code": "00892",
+          "name": "Tùng Vài",
+          "fullName": "Xã Tùng Vài, Tỉnh Tuyên Quang",
+          "slug": "tung-vai",
+          "postalCode": "00892"
+        },
+        {
+          "code": "00901",
+          "name": "Lùng Tám",
+          "fullName": "Xã Lùng Tám, Tỉnh Tuyên Quang",
+          "slug": "lung-tam",
+          "postalCode": "00901"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hoàng Su Phì",
+      "slug": "huyen-hoang-su-phi",
+      "wards": [
+        {
+          "code": "01021",
+          "name": "Hoàng Su Phì",
+          "fullName": "Xã Hoàng Su Phì, Tỉnh Tuyên Quang",
+          "slug": "hoang-su-phi",
+          "postalCode": "01021"
+        },
+        {
+          "code": "01024",
+          "name": "Bản Máy",
+          "fullName": "Xã Bản Máy, Tỉnh Tuyên Quang",
+          "slug": "ban-may",
+          "postalCode": "01024"
+        },
+        {
+          "code": "01033",
+          "name": "Thàng Tín",
+          "fullName": "Xã Thàng Tín, Tỉnh Tuyên Quang",
+          "slug": "thang-tin",
+          "postalCode": "01033"
+        },
+        {
+          "code": "01051",
+          "name": "Tân Tiến",
+          "fullName": "Xã Tân Tiến, Tỉnh Tuyên Quang",
+          "slug": "tan-tien",
+          "postalCode": "01051"
+        },
+        {
+          "code": "01057",
+          "name": "Pờ Ly Ngài",
+          "fullName": "Xã Pờ Ly Ngài, Tỉnh Tuyên Quang",
+          "slug": "po-ly-ngai",
+          "postalCode": "01057"
+        },
+        {
+          "code": "01075",
+          "name": "Nậm Dịch",
+          "fullName": "Xã Nậm Dịch, Tỉnh Tuyên Quang",
+          "slug": "nam-dich",
+          "postalCode": "01075"
+        },
+        {
+          "code": "01084",
+          "name": "Hồ Thầu",
+          "fullName": "Xã Hồ Thầu, Tỉnh Tuyên Quang",
+          "slug": "ho-thau",
+          "postalCode": "01084"
+        },
+        {
+          "code": "01090",
+          "name": "Thông Nguyên",
+          "fullName": "Xã Thông Nguyên, Tỉnh Tuyên Quang",
+          "slug": "thong-nguyen",
+          "postalCode": "01090"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Quang Bình",
+      "slug": "huyen-quang-binh",
+      "wards": [
+        {
+          "code": "01090",
+          "name": "Thông Nguyên",
+          "fullName": "Xã Thông Nguyên, Tỉnh Tuyên Quang",
+          "slug": "thong-nguyen",
+          "postalCode": "01090"
+        },
+        {
+          "code": "01225",
+          "name": "Tiên Nguyên",
+          "fullName": "Xã Tiên Nguyên, Tỉnh Tuyên Quang",
+          "slug": "tien-nguyen",
+          "postalCode": "01225"
+        },
+        {
+          "code": "01234",
+          "name": "Yên Thành",
+          "fullName": "Xã Yên Thành, Tỉnh Tuyên Quang",
+          "slug": "yen-thanh",
+          "postalCode": "01234"
+        },
+        {
+          "code": "01237",
+          "name": "Quang Bình",
+          "fullName": "Xã Quang Bình, Tỉnh Tuyên Quang",
+          "slug": "quang-binh",
+          "postalCode": "01237"
+        },
+        {
+          "code": "01243",
+          "name": "Tân Trịnh",
+          "fullName": "Xã Tân Trịnh, Tỉnh Tuyên Quang",
+          "slug": "tan-trinh",
+          "postalCode": "01243"
+        },
+        {
+          "code": "01246",
+          "name": "Bằng Lang",
+          "fullName": "Xã Bằng Lang, Tỉnh Tuyên Quang",
+          "slug": "bang-lang",
+          "postalCode": "01246"
+        },
+        {
+          "code": "01255",
+          "name": "Xuân Giang",
+          "fullName": "Xã Xuân Giang, Tỉnh Tuyên Quang",
+          "slug": "xuan-giang",
+          "postalCode": "01255"
+        },
+        {
+          "code": "01261",
+          "name": "Tiên Yên",
+          "fullName": "Xã Tiên Yên, Tỉnh Tuyên Quang",
+          "slug": "tien-yen",
+          "postalCode": "01261"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Xín Mần",
+      "slug": "huyen-xin-man",
+      "wards": [
+        {
+          "code": "01096",
+          "name": "Pà Vầy Sủ",
+          "fullName": "Xã Pà Vầy Sủ, Tỉnh Tuyên Quang",
+          "slug": "pa-vay-su",
+          "postalCode": "01096"
+        },
+        {
+          "code": "01108",
+          "name": "Xín Mần",
+          "fullName": "Xã Xín Mần, Tỉnh Tuyên Quang",
+          "slug": "xin-man",
+          "postalCode": "01108"
+        },
+        {
+          "code": "01117",
+          "name": "Trung Thịnh",
+          "fullName": "Xã Trung Thịnh, Tỉnh Tuyên Quang",
+          "slug": "trung-thinh",
+          "postalCode": "01117"
+        },
+        {
+          "code": "01141",
+          "name": "Nấm Dẩn",
+          "fullName": "Xã Nấm Dẩn, Tỉnh Tuyên Quang",
+          "slug": "nam-dan",
+          "postalCode": "01141"
+        },
+        {
+          "code": "01144",
+          "name": "Quảng Nguyên",
+          "fullName": "Xã Quảng Nguyên, Tỉnh Tuyên Quang",
+          "slug": "quang-nguyen",
+          "postalCode": "01144"
+        },
+        {
+          "code": "01147",
+          "name": "Khuôn Lùng",
+          "fullName": "Xã Khuôn Lùng, Tỉnh Tuyên Quang",
+          "slug": "khuon-lung",
+          "postalCode": "01147"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bắc Quang",
+      "slug": "huyen-bac-quang",
+      "wards": [
+        {
+          "code": "01153",
+          "name": "Bắc Quang",
+          "fullName": "Xã Bắc Quang, Tỉnh Tuyên Quang",
+          "slug": "bac-quang",
+          "postalCode": "01153"
+        },
+        {
+          "code": "01156",
+          "name": "Vĩnh Tuy",
+          "fullName": "Xã Vĩnh Tuy, Tỉnh Tuyên Quang",
+          "slug": "vinh-tuy",
+          "postalCode": "01156"
+        },
+        {
+          "code": "01165",
+          "name": "Đồng Tâm",
+          "fullName": "Xã Đồng Tâm, Tỉnh Tuyên Quang",
+          "slug": "dong-tam",
+          "postalCode": "01165"
+        },
+        {
+          "code": "01171",
+          "name": "Tân Quang",
+          "fullName": "Xã Tân Quang, Tỉnh Tuyên Quang",
+          "slug": "tan-quang",
+          "postalCode": "01171"
+        },
+        {
+          "code": "01180",
+          "name": "Bằng Hành",
+          "fullName": "Xã Bằng Hành, Tỉnh Tuyên Quang",
+          "slug": "bang-hanh",
+          "postalCode": "01180"
+        },
+        {
+          "code": "01192",
+          "name": "Liên Hiệp",
+          "fullName": "Xã Liên Hiệp, Tỉnh Tuyên Quang",
+          "slug": "lien-hiep",
+          "postalCode": "01192"
+        },
+        {
+          "code": "01201",
+          "name": "Hùng An",
+          "fullName": "Xã Hùng An, Tỉnh Tuyên Quang",
+          "slug": "hung-an",
+          "postalCode": "01201"
+        },
+        {
+          "code": "01216",
+          "name": "Đồng Yên",
+          "fullName": "Xã Đồng Yên, Tỉnh Tuyên Quang",
+          "slug": "dong-yen",
+          "postalCode": "01216"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Na Hang",
+      "slug": "huyen-na-hang",
+      "wards": [
+        {
+          "code": "02221",
+          "name": "Nà Hang",
+          "fullName": "Xã Nà Hang, Tỉnh Tuyên Quang",
+          "slug": "na-hang",
+          "postalCode": "02221"
+        },
+        {
+          "code": "02239",
+          "name": "Thượng Nông",
+          "fullName": "Xã Thượng Nông, Tỉnh Tuyên Quang",
+          "slug": "thuong-nong",
+          "postalCode": "02239"
+        },
+        {
+          "code": "02245",
+          "name": "Côn Lôn",
+          "fullName": "Xã Côn Lôn, Tỉnh Tuyên Quang",
+          "slug": "con-lon",
+          "postalCode": "02245"
+        },
+        {
+          "code": "02248",
+          "name": "Yên Hoa",
+          "fullName": "Xã Yên Hoa, Tỉnh Tuyên Quang",
+          "slug": "yen-hoa",
+          "postalCode": "02248"
+        },
+        {
+          "code": "02260",
+          "name": "Hồng Thái",
+          "fullName": "Xã Hồng Thái, Tỉnh Tuyên Quang",
+          "slug": "hong-thai",
+          "postalCode": "02260"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lâm Bình",
+      "slug": "huyen-lam-binh",
+      "wards": [
+        {
+          "code": "02266",
+          "name": "Lâm Bình",
+          "fullName": "Xã Lâm Bình, Tỉnh Tuyên Quang",
+          "slug": "lam-binh",
+          "postalCode": "02266"
+        },
+        {
+          "code": "02269",
+          "name": "Thượng Lâm",
+          "fullName": "Xã Thượng Lâm, Tỉnh Tuyên Quang",
+          "slug": "thuong-lam",
+          "postalCode": "02269"
+        },
+        {
+          "code": "02296",
+          "name": "Bình An",
+          "fullName": "Xã Bình An, Tỉnh Tuyên Quang",
+          "slug": "binh-an",
+          "postalCode": "02296"
+        },
+        {
+          "code": "02302",
+          "name": "Minh Quang",
+          "fullName": "Xã Minh Quang, Tỉnh Tuyên Quang",
+          "slug": "minh-quang",
+          "postalCode": "02302"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chiêm Hóa",
+      "slug": "huyen-chiem-hoa",
+      "wards": [
+        {
+          "code": "02287",
+          "name": "Chiêm Hóa",
+          "fullName": "Xã Chiêm Hóa, Tỉnh Tuyên Quang",
+          "slug": "chiem-hoa",
+          "postalCode": "02287"
+        },
+        {
+          "code": "02305",
+          "name": "Trung Hà",
+          "fullName": "Xã Trung Hà, Tỉnh Tuyên Quang",
+          "slug": "trung-ha",
+          "postalCode": "02305"
+        },
+        {
+          "code": "02308",
+          "name": "Tân Mỹ",
+          "fullName": "Xã Tân Mỹ, Tỉnh Tuyên Quang",
+          "slug": "tan-my",
+          "postalCode": "02308"
+        },
+        {
+          "code": "02317",
+          "name": "Yên Lập",
+          "fullName": "Xã Yên Lập, Tỉnh Tuyên Quang",
+          "slug": "yen-lap",
+          "postalCode": "02317"
+        },
+        {
+          "code": "02320",
+          "name": "Tân An",
+          "fullName": "Xã Tân An, Tỉnh Tuyên Quang",
+          "slug": "tan-an",
+          "postalCode": "02320"
+        },
+        {
+          "code": "02332",
+          "name": "Kiên Đài",
+          "fullName": "Xã Kiên Đài, Tỉnh Tuyên Quang",
+          "slug": "kien-dai",
+          "postalCode": "02332"
+        },
+        {
+          "code": "02350",
+          "name": "Kim Bình",
+          "fullName": "Xã Kim Bình, Tỉnh Tuyên Quang",
+          "slug": "kim-binh",
+          "postalCode": "02350"
+        },
+        {
+          "code": "02353",
+          "name": "Hòa An",
+          "fullName": "Xã Hòa An, Tỉnh Tuyên Quang",
+          "slug": "hoa-an",
+          "postalCode": "02353"
+        },
+        {
+          "code": "02359",
+          "name": "Tri Phú",
+          "fullName": "Xã Tri Phú, Tỉnh Tuyên Quang",
+          "slug": "tri-phu",
+          "postalCode": "02359"
+        },
+        {
+          "code": "02365",
+          "name": "Yên Nguyên",
+          "fullName": "Xã Yên Nguyên, Tỉnh Tuyên Quang",
+          "slug": "yen-nguyen",
+          "postalCode": "02365"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hàm Yên",
+      "slug": "huyen-ham-yen",
+      "wards": [
+        {
+          "code": "02374",
+          "name": "Hàm Yên",
+          "fullName": "Xã Hàm Yên, Tỉnh Tuyên Quang",
+          "slug": "ham-yen",
+          "postalCode": "02374"
+        },
+        {
+          "code": "02380",
+          "name": "Bạch Xa",
+          "fullName": "Xã Bạch Xa, Tỉnh Tuyên Quang",
+          "slug": "bach-xa",
+          "postalCode": "02380"
+        },
+        {
+          "code": "02392",
+          "name": "Phù Lưu",
+          "fullName": "Xã Phù Lưu, Tỉnh Tuyên Quang",
+          "slug": "phu-luu",
+          "postalCode": "02392"
+        },
+        {
+          "code": "02398",
+          "name": "Yên Phú",
+          "fullName": "Xã Yên Phú, Tỉnh Tuyên Quang",
+          "slug": "yen-phu",
+          "postalCode": "02398"
+        },
+        {
+          "code": "02404",
+          "name": "Bình Xa",
+          "fullName": "Xã Bình Xa, Tỉnh Tuyên Quang",
+          "slug": "binh-xa",
+          "postalCode": "02404"
+        },
+        {
+          "code": "02407",
+          "name": "Thái Sơn",
+          "fullName": "Xã Thái Sơn, Tỉnh Tuyên Quang",
+          "slug": "thai-son",
+          "postalCode": "02407"
+        },
+        {
+          "code": "02419",
+          "name": "Thái Hòa",
+          "fullName": "Xã Thái Hòa, Tỉnh Tuyên Quang",
+          "slug": "thai-hoa",
+          "postalCode": "02419"
+        },
+        {
+          "code": "02425",
+          "name": "Hùng Đức",
+          "fullName": "Xã Hùng Đức, Tỉnh Tuyên Quang",
+          "slug": "hung-duc",
+          "postalCode": "02425"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sơn Dương",
+      "slug": "huyen-son-duong",
+      "wards": [
+        {
+          "code": "02536",
+          "name": "Sơn Dương",
+          "fullName": "Xã Sơn Dương, Tỉnh Tuyên Quang",
+          "slug": "son-duong",
+          "postalCode": "02536"
+        },
+        {
+          "code": "02545",
+          "name": "Tân Trào",
+          "fullName": "Xã Tân Trào, Tỉnh Tuyên Quang",
+          "slug": "tan-trao",
+          "postalCode": "02545"
+        },
+        {
+          "code": "02548",
+          "name": "Bình Ca",
+          "fullName": "Xã Bình Ca, Tỉnh Tuyên Quang",
+          "slug": "binh-ca",
+          "postalCode": "02548"
+        },
+        {
+          "code": "02554",
+          "name": "Minh Thanh",
+          "fullName": "Xã Minh Thanh, Tỉnh Tuyên Quang",
+          "slug": "minh-thanh",
+          "postalCode": "02554"
+        },
+        {
+          "code": "02572",
+          "name": "Đông Thọ",
+          "fullName": "Xã Đông Thọ, Tỉnh Tuyên Quang",
+          "slug": "dong-tho",
+          "postalCode": "02572"
+        },
+        {
+          "code": "02578",
+          "name": "Tân Thanh",
+          "fullName": "Xã Tân Thanh, Tỉnh Tuyên Quang",
+          "slug": "tan-thanh",
+          "postalCode": "02578"
+        },
+        {
+          "code": "02608",
+          "name": "Hồng Sơn",
+          "fullName": "Xã Hồng Sơn, Tỉnh Tuyên Quang",
+          "slug": "hong-son",
+          "postalCode": "02608"
+        },
+        {
+          "code": "02611",
+          "name": "Phú Lương",
+          "fullName": "Xã Phú Lương, Tỉnh Tuyên Quang",
+          "slug": "phu-luong",
+          "postalCode": "02611"
+        },
+        {
+          "code": "02620",
+          "name": "Sơn Thủy",
+          "fullName": "Xã Sơn Thủy, Tỉnh Tuyên Quang",
+          "slug": "son-thuy",
+          "postalCode": "02620"
+        },
+        {
+          "code": "02623",
+          "name": "Trường Sinh",
+          "fullName": "Xã Trường Sinh, Tỉnh Tuyên Quang",
+          "slug": "truong-sinh",
+          "postalCode": "02623"
+        }
+      ]
+    }
+  ]
+}

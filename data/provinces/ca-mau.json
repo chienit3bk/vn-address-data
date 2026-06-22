@@ -1,0 +1,1103 @@
+{
+  "code": "33",
+  "name": "Cà Mau",
+  "slug": "ca-mau",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Cà Mau",
+  "wards": [
+    {
+      "code": "00179",
+      "name": "Tân Thành",
+      "fullName": "Phường Tân Thành, Tỉnh Cà Mau",
+      "slug": "tan-thanh",
+      "type": "ward",
+      "postalCode": "32025"
+    },
+    {
+      "code": "00188",
+      "name": "An Xuyên",
+      "fullName": "Phường An Xuyên, Tỉnh Cà Mau",
+      "slug": "an-xuyen",
+      "type": "ward",
+      "postalCode": "32002"
+    },
+    {
+      "code": "00319",
+      "name": "Lương Thế Trân",
+      "fullName": "Xã Lương Thế Trân, Tỉnh Cà Mau",
+      "slug": "luong-the-tran",
+      "type": "commune",
+      "postalCode": "32134"
+    },
+    {
+      "code": "00405",
+      "name": "Trần Văn Thời",
+      "fullName": "Xã Trần Văn Thời, Tỉnh Cà Mau",
+      "slug": "tran-van-thoi",
+      "type": "commune",
+      "postalCode": "32095"
+    },
+    {
+      "code": "00476",
+      "name": "Cái Nước",
+      "fullName": "Xã Cái Nước, Tỉnh Cà Mau",
+      "slug": "cai-nuoc",
+      "type": "commune",
+      "postalCode": "32128"
+    },
+    {
+      "code": "00575",
+      "name": "Lý Văn Lâm",
+      "fullName": "Phường Lý Văn Lâm, Tỉnh Cà Mau",
+      "slug": "ly-van-lam",
+      "type": "ward",
+      "postalCode": "32014"
+    },
+    {
+      "code": "00580",
+      "name": "Trí Phải",
+      "fullName": "Xã Trí Phải, Tỉnh Cà Mau",
+      "slug": "tri-phai",
+      "type": "commune",
+      "postalCode": "32071"
+    },
+    {
+      "code": "00652",
+      "name": "Hòa Thành",
+      "fullName": "Phường Hòa Thành, Tỉnh Cà Mau",
+      "slug": "hoa-thanh",
+      "type": "ward",
+      "postalCode": "32041"
+    },
+    {
+      "code": "00680",
+      "name": "Sông Đốc",
+      "fullName": "Xã Sông Đốc, Tỉnh Cà Mau",
+      "slug": "song-doc",
+      "type": "commune",
+      "postalCode": "32098"
+    },
+    {
+      "code": "00848",
+      "name": "Khánh Hưng",
+      "fullName": "Xã Khánh Hưng, Tỉnh Cà Mau",
+      "slug": "khanh-hung",
+      "type": "commune",
+      "postalCode": "32119"
+    },
+    {
+      "code": "00857",
+      "name": "Đá Bạc",
+      "fullName": "Xã Đá Bạc, Tỉnh Cà Mau",
+      "slug": "da-bac",
+      "type": "commune",
+      "postalCode": "32104"
+    },
+    {
+      "code": "00920",
+      "name": "Khánh Bình",
+      "fullName": "Xã Khánh Bình, Tỉnh Cà Mau",
+      "slug": "khanh-binh",
+      "type": "commune",
+      "postalCode": "32110"
+    },
+    {
+      "code": "00961",
+      "name": "Khánh Lâm",
+      "fullName": "Xã Khánh Lâm, Tỉnh Cà Mau",
+      "slug": "khanh-lam",
+      "type": "commune",
+      "postalCode": "32062"
+    },
+    {
+      "code": "00973",
+      "name": "Hưng Mỹ",
+      "fullName": "Xã Hưng Mỹ, Tỉnh Cà Mau",
+      "slug": "hung-my",
+      "type": "commune",
+      "postalCode": "32140"
+    },
+    {
+      "code": "00999",
+      "name": "Thới Bình",
+      "fullName": "Xã Thới Bình, Tỉnh Cà Mau",
+      "slug": "thoi-binh",
+      "type": "commune",
+      "postalCode": "32065"
+    },
+    {
+      "code": "01000",
+      "name": "Đầm Dơi",
+      "fullName": "Xã Đầm Dơi, Tỉnh Cà Mau",
+      "slug": "dam-doi",
+      "type": "commune",
+      "postalCode": "32152"
+    },
+    {
+      "code": "01042",
+      "name": "Nguyễn Phích",
+      "fullName": "Xã Nguyễn Phích, Tỉnh Cà Mau",
+      "slug": "nguyen-phich",
+      "type": "commune",
+      "postalCode": "32044"
+    },
+    {
+      "code": "01044",
+      "name": "Nguyễn Việt Khái",
+      "fullName": "Xã Nguyễn Việt Khái, Tỉnh Cà Mau",
+      "slug": "nguyen-viet-khai",
+      "type": "commune",
+      "postalCode": "32227"
+    },
+    {
+      "code": "01090",
+      "name": "Cái Đôi Vàm",
+      "fullName": "Xã Cái Đôi Vàm, Tỉnh Cà Mau",
+      "slug": "cai-doi-vam",
+      "type": "commune",
+      "postalCode": "32212"
+    },
+    {
+      "code": "01141",
+      "name": "Biển Bạch",
+      "fullName": "Xã Biển Bạch, Tỉnh Cà Mau",
+      "slug": "bien-bach",
+      "type": "commune",
+      "postalCode": "32069"
+    },
+    {
+      "code": "01159",
+      "name": "Tân Thuận",
+      "fullName": "Xã Tân Thuận, Tỉnh Cà Mau",
+      "slug": "tan-thuan",
+      "type": "commune",
+      "postalCode": "32167"
+    },
+    {
+      "code": "01160",
+      "name": "Tân Lộc",
+      "fullName": "Xã Tân Lộc, Tỉnh Cà Mau",
+      "slug": "tan-loc",
+      "type": "commune",
+      "postalCode": "32083"
+    },
+    {
+      "code": "01167",
+      "name": "Phan Ngọc Hiển",
+      "fullName": "Xã Phan Ngọc Hiển, Tỉnh Cà Mau",
+      "slug": "phan-ngoc-hien",
+      "type": "commune",
+      "postalCode": "32244"
+    },
+    {
+      "code": "01172",
+      "name": "Tân Hưng",
+      "fullName": "Xã Tân Hưng, Tỉnh Cà Mau",
+      "slug": "tan-hung",
+      "type": "commune",
+      "postalCode": "32137"
+    },
+    {
+      "code": "01234",
+      "name": "Tân Tiến",
+      "fullName": "Xã Tân Tiến, Tỉnh Cà Mau",
+      "slug": "tan-tien",
+      "type": "commune",
+      "postalCode": "32188"
+    },
+    {
+      "code": "01268",
+      "name": "Phú Tân",
+      "fullName": "Xã Phú Tân, Tỉnh Cà Mau",
+      "slug": "phu-tan",
+      "type": "commune",
+      "postalCode": "32218"
+    },
+    {
+      "code": "01280",
+      "name": "Đất Mũi",
+      "fullName": "Xã Đất Mũi, Tỉnh Cà Mau",
+      "slug": "dat-mui",
+      "type": "commune",
+      "postalCode": "32248"
+    },
+    {
+      "code": "01288",
+      "name": "Tạ An Khương",
+      "fullName": "Xã Tạ An Khương, Tỉnh Cà Mau",
+      "slug": "ta-an-khuong",
+      "type": "commune",
+      "postalCode": "32155"
+    },
+    {
+      "code": "01305",
+      "name": "U Minh",
+      "fullName": "Xã U Minh, Tỉnh Cà Mau",
+      "slug": "u-minh",
+      "type": "commune",
+      "postalCode": "32047"
+    },
+    {
+      "code": "01506",
+      "name": "Năm Căn",
+      "fullName": "Xã Năm Căn, Tỉnh Cà Mau",
+      "slug": "nam-can",
+      "type": "commune",
+      "postalCode": "32191"
+    },
+    {
+      "code": "01523",
+      "name": "Trần Phán",
+      "fullName": "Xã Trần Phán, Tỉnh Cà Mau",
+      "slug": "tran-phan",
+      "type": "commune",
+      "postalCode": "32161"
+    },
+    {
+      "code": "01555",
+      "name": "Long Điền",
+      "fullName": "Xã Long Điền, Tỉnh Cà Mau",
+      "slug": "long-dien",
+      "type": "commune",
+      "postalCode": "31985"
+    },
+    {
+      "code": "01600",
+      "name": "Quách Phẩm",
+      "fullName": "Xã Quách Phẩm, Tỉnh Cà Mau",
+      "slug": "quach-pham",
+      "type": "commune",
+      "postalCode": "32182"
+    },
+    {
+      "code": "01689",
+      "name": "Đất Mới",
+      "fullName": "Xã Đất Mới, Tỉnh Cà Mau",
+      "slug": "dat-moi",
+      "type": "commune",
+      "postalCode": "32201"
+    },
+    {
+      "code": "01721",
+      "name": "Hồ Thị Kỷ",
+      "fullName": "Xã Hồ Thị Kỷ, Tỉnh Cà Mau",
+      "slug": "ho-thi-ky",
+      "type": "commune",
+      "postalCode": "32092"
+    },
+    {
+      "code": "01730",
+      "name": "Khánh An",
+      "fullName": "Xã Khánh An, Tỉnh Cà Mau",
+      "slug": "khanh-an",
+      "type": "commune",
+      "postalCode": "32059"
+    },
+    {
+      "code": "01783",
+      "name": "Thanh Tùng",
+      "fullName": "Xã Thanh Tùng, Tỉnh Cà Mau",
+      "slug": "thanh-tung",
+      "type": "commune",
+      "postalCode": "32185"
+    },
+    {
+      "code": "01806",
+      "name": "Phú Mỹ",
+      "fullName": "Xã Phú Mỹ, Tỉnh Cà Mau",
+      "slug": "phu-my",
+      "type": "commune",
+      "postalCode": "32214"
+    },
+    {
+      "code": "01832",
+      "name": "Hoà Bình",
+      "fullName": "Xã Hoà Bình, Tỉnh Cà Mau",
+      "slug": "hoa-binh",
+      "type": "commune",
+      "postalCode": "31891"
+    },
+    {
+      "code": "01897",
+      "name": "Phước Long",
+      "fullName": "Xã Phước Long, Tỉnh Cà Mau",
+      "slug": "phuoc-long",
+      "type": "commune",
+      "postalCode": "31867"
+    },
+    {
+      "code": "01944",
+      "name": "Bạc Liêu",
+      "fullName": "Phường Bạc Liêu, Tỉnh Cà Mau",
+      "slug": "bac-lieu",
+      "type": "ward",
+      "postalCode": "31825"
+    },
+    {
+      "code": "01996",
+      "name": "Tân Ân",
+      "fullName": "Xã Tân Ân, Tỉnh Cà Mau",
+      "slug": "tan-an",
+      "type": "commune",
+      "postalCode": "32236"
+    },
+    {
+      "code": "02043",
+      "name": "Tam Giang",
+      "fullName": "Xã Tam Giang, Tỉnh Cà Mau",
+      "slug": "tam-giang",
+      "type": "commune",
+      "postalCode": "32206"
+    },
+    {
+      "code": "02058",
+      "name": "Vĩnh Trạch",
+      "fullName": "Phường Vĩnh Trạch, Tỉnh Cà Mau",
+      "slug": "vinh-trach",
+      "type": "ward",
+      "postalCode": "31834"
+    },
+    {
+      "code": "02059",
+      "name": "Đông Hải",
+      "fullName": "Xã Đông Hải, Tỉnh Cà Mau",
+      "slug": "dong-hai",
+      "type": "commune",
+      "postalCode": "31975"
+    },
+    {
+      "code": "02137",
+      "name": "Giá Rai",
+      "fullName": "Phường Giá Rai, Tỉnh Cà Mau",
+      "slug": "gia-rai",
+      "type": "ward",
+      "postalCode": "31942"
+    },
+    {
+      "code": "02168",
+      "name": "Láng Tròn",
+      "fullName": "Phường Láng Tròn, Tỉnh Cà Mau",
+      "slug": "lang-tron",
+      "type": "ward",
+      "postalCode": "31951"
+    },
+    {
+      "code": "02261",
+      "name": "Vĩnh Phước",
+      "fullName": "Xã Vĩnh Phước, Tỉnh Cà Mau",
+      "slug": "vinh-phuoc",
+      "type": "commune",
+      "postalCode": "31876"
+    },
+    {
+      "code": "02307",
+      "name": "Vĩnh Thanh",
+      "fullName": "Xã Vĩnh Thanh, Tỉnh Cà Mau",
+      "slug": "vinh-thanh",
+      "type": "commune",
+      "postalCode": "31882"
+    },
+    {
+      "code": "02396",
+      "name": "Vĩnh Hậu",
+      "fullName": "Xã Vĩnh Hậu, Tỉnh Cà Mau",
+      "slug": "vinh-hau",
+      "type": "commune",
+      "postalCode": "31927"
+    },
+    {
+      "code": "02422",
+      "name": "Gành Hào",
+      "fullName": "Xã Gành Hào, Tỉnh Cà Mau",
+      "slug": "ganh-hao",
+      "type": "commune",
+      "postalCode": "31972"
+    },
+    {
+      "code": "02448",
+      "name": "Vĩnh Lợi",
+      "fullName": "Xã Vĩnh Lợi, Tỉnh Cà Mau",
+      "slug": "vinh-loi",
+      "type": "commune",
+      "postalCode": "31900"
+    },
+    {
+      "code": "02561",
+      "name": "Vĩnh Mỹ",
+      "fullName": "Xã Vĩnh Mỹ, Tỉnh Cà Mau",
+      "slug": "vinh-my",
+      "type": "commune",
+      "postalCode": "31918"
+    },
+    {
+      "code": "02578",
+      "name": "An Trạch",
+      "fullName": "Xã An Trạch, Tỉnh Cà Mau",
+      "slug": "an-trach",
+      "type": "commune",
+      "postalCode": "31988"
+    },
+    {
+      "code": "02611",
+      "name": "Hưng Hội",
+      "fullName": "Xã Hưng Hội, Tỉnh Cà Mau",
+      "slug": "hung-hoi",
+      "type": "commune",
+      "postalCode": "31906"
+    },
+    {
+      "code": "02625",
+      "name": "Ninh Thạnh Lợi",
+      "fullName": "Xã Ninh Thạnh Lợi, Tỉnh Cà Mau",
+      "slug": "ninh-thanh-loi",
+      "type": "commune",
+      "postalCode": "31864"
+    },
+    {
+      "code": "02661",
+      "name": "Ninh Quới",
+      "fullName": "Xã Ninh Quới, Tỉnh Cà Mau",
+      "slug": "ninh-quoi",
+      "type": "commune",
+      "postalCode": "31849"
+    },
+    {
+      "code": "02671",
+      "name": "Hồng Dân",
+      "fullName": "Xã Hồng Dân, Tỉnh Cà Mau",
+      "slug": "hong-dan",
+      "type": "commune",
+      "postalCode": "31843"
+    },
+    {
+      "code": "02684",
+      "name": "Phong Hiệp",
+      "fullName": "Xã Phong Hiệp, Tỉnh Cà Mau",
+      "slug": "phong-hiep",
+      "type": "commune",
+      "postalCode": "31885"
+    },
+    {
+      "code": "02706",
+      "name": "Định Thành",
+      "fullName": "Xã Định Thành, Tỉnh Cà Mau",
+      "slug": "dinh-thanh",
+      "type": "commune",
+      "postalCode": "31993"
+    },
+    {
+      "code": "02746",
+      "name": "Châu Thới",
+      "fullName": "Xã Châu Thới, Tỉnh Cà Mau",
+      "slug": "chau-thoi",
+      "type": "commune",
+      "postalCode": "31894"
+    },
+    {
+      "code": "02775",
+      "name": "Vĩnh Lộc",
+      "fullName": "Xã Vĩnh Lộc, Tỉnh Cà Mau",
+      "slug": "vinh-loc",
+      "type": "commune",
+      "postalCode": "31858"
+    },
+    {
+      "code": "02784",
+      "name": "Hiệp Thành",
+      "fullName": "Phường Hiệp Thành, Tỉnh Cà Mau",
+      "slug": "hiep-thanh",
+      "type": "ward",
+      "postalCode": "31840"
+    },
+    {
+      "code": "02828",
+      "name": "Phong Thạnh",
+      "fullName": "Xã Phong Thạnh, Tỉnh Cà Mau",
+      "slug": "phong-thanh",
+      "type": "commune",
+      "postalCode": "31957"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Bạc Liêu",
+      "slug": "thanh-pho-bac-lieu",
+      "wards": [
+        {
+          "code": "31825",
+          "name": "Bạc Liêu",
+          "fullName": "Phường Bạc Liêu, Tỉnh Cà Mau",
+          "slug": "bac-lieu",
+          "postalCode": "31825"
+        },
+        {
+          "code": "31834",
+          "name": "Vĩnh Trạch",
+          "fullName": "Phường Vĩnh Trạch, Tỉnh Cà Mau",
+          "slug": "vinh-trach",
+          "postalCode": "31834"
+        },
+        {
+          "code": "31840",
+          "name": "Hiệp Thành",
+          "fullName": "Phường Hiệp Thành, Tỉnh Cà Mau",
+          "slug": "hiep-thanh",
+          "postalCode": "31840"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Giá Rai",
+      "slug": "thi-xa-gia-rai",
+      "wards": [
+        {
+          "code": "31942",
+          "name": "Giá Rai",
+          "fullName": "Phường Giá Rai, Tỉnh Cà Mau",
+          "slug": "gia-rai",
+          "postalCode": "31942"
+        },
+        {
+          "code": "31951",
+          "name": "Láng Tròn",
+          "fullName": "Phường Láng Tròn, Tỉnh Cà Mau",
+          "slug": "lang-tron",
+          "postalCode": "31951"
+        },
+        {
+          "code": "31957",
+          "name": "Phong Thạnh",
+          "fullName": "Xã Phong Thạnh, Tỉnh Cà Mau",
+          "slug": "phong-thanh",
+          "postalCode": "31957"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Cà Mau",
+      "slug": "thanh-pho-ca-mau",
+      "wards": [
+        {
+          "code": "32002",
+          "name": "An Xuyên",
+          "fullName": "Phường An Xuyên, Tỉnh Cà Mau",
+          "slug": "an-xuyen",
+          "postalCode": "32002"
+        },
+        {
+          "code": "32014",
+          "name": "Lý Văn Lâm",
+          "fullName": "Phường Lý Văn Lâm, Tỉnh Cà Mau",
+          "slug": "ly-van-lam",
+          "postalCode": "32014"
+        },
+        {
+          "code": "32025",
+          "name": "Tân Thành",
+          "fullName": "Phường Tân Thành, Tỉnh Cà Mau",
+          "slug": "tan-thanh",
+          "postalCode": "32025"
+        },
+        {
+          "code": "32041",
+          "name": "Hòa Thành",
+          "fullName": "Phường Hòa Thành, Tỉnh Cà Mau",
+          "slug": "hoa-thanh",
+          "postalCode": "32041"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trần Văn Thời",
+      "slug": "huyen-tran-van-thoi",
+      "wards": [
+        {
+          "code": "32014",
+          "name": "Lý Văn Lâm",
+          "fullName": "Phường Lý Văn Lâm, Tỉnh Cà Mau",
+          "slug": "ly-van-lam",
+          "postalCode": "32014"
+        },
+        {
+          "code": "32095",
+          "name": "Trần Văn Thời",
+          "fullName": "Xã Trần Văn Thời, Tỉnh Cà Mau",
+          "slug": "tran-van-thoi",
+          "postalCode": "32095"
+        },
+        {
+          "code": "32098",
+          "name": "Sông Đốc",
+          "fullName": "Xã Sông Đốc, Tỉnh Cà Mau",
+          "slug": "song-doc",
+          "postalCode": "32098"
+        },
+        {
+          "code": "32104",
+          "name": "Đá Bạc",
+          "fullName": "Xã Đá Bạc, Tỉnh Cà Mau",
+          "slug": "da-bac",
+          "postalCode": "32104"
+        },
+        {
+          "code": "32110",
+          "name": "Xã Khánh Bình",
+          "fullName": "Xã Khánh Bình, Tỉnh Cà Mau",
+          "slug": "xa-khanh-binh",
+          "postalCode": "32110"
+        },
+        {
+          "code": "32119",
+          "name": "Khánh Hưng",
+          "fullName": "Xã Khánh Hưng, Tỉnh Cà Mau",
+          "slug": "khanh-hung",
+          "postalCode": "32119"
+        },
+        {
+          "code": "32134",
+          "name": "Xã Lương Thế Trân",
+          "fullName": "Xã Lương Thế Trân, Tỉnh Cà Mau",
+          "slug": "xa-luong-the-tran",
+          "postalCode": "32134"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hồng Dân",
+      "slug": "huyen-hong-dan",
+      "wards": [
+        {
+          "code": "31843",
+          "name": "Hồng Dân",
+          "fullName": "Xã Hồng Dân, Tỉnh Cà Mau",
+          "slug": "hong-dan",
+          "postalCode": "31843"
+        },
+        {
+          "code": "31849",
+          "name": "Ninh Quới",
+          "fullName": "Xã Ninh Quới, Tỉnh Cà Mau",
+          "slug": "ninh-quoi",
+          "postalCode": "31849"
+        },
+        {
+          "code": "31858",
+          "name": "Vĩnh Lộc",
+          "fullName": "Xã Vĩnh Lộc, Tỉnh Cà Mau",
+          "slug": "vinh-loc",
+          "postalCode": "31858"
+        },
+        {
+          "code": "31864",
+          "name": "Ninh Thạnh Lợi",
+          "fullName": "Xã Ninh Thạnh Lợi, Tỉnh Cà Mau",
+          "slug": "ninh-thanh-loi",
+          "postalCode": "31864"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phước Long",
+      "slug": "huyen-phuoc-long",
+      "wards": [
+        {
+          "code": "31867",
+          "name": "Phước Long",
+          "fullName": "Xã Phước Long, Tỉnh Cà Mau",
+          "slug": "phuoc-long",
+          "postalCode": "31867"
+        },
+        {
+          "code": "31876",
+          "name": "Vĩnh Phước",
+          "fullName": "Xã Vĩnh Phước, Tỉnh Cà Mau",
+          "slug": "vinh-phuoc",
+          "postalCode": "31876"
+        },
+        {
+          "code": "31882",
+          "name": "Vĩnh Thanh",
+          "fullName": "Xã Vĩnh Thanh, Tỉnh Cà Mau",
+          "slug": "vinh-thanh",
+          "postalCode": "31882"
+        },
+        {
+          "code": "31885",
+          "name": "Phong Hiệp",
+          "fullName": "Xã Phong Hiệp, Tỉnh Cà Mau",
+          "slug": "phong-hiep",
+          "postalCode": "31885"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Lợi",
+      "slug": "huyen-vinh-loi",
+      "wards": [
+        {
+          "code": "31891",
+          "name": "Hòa Bình",
+          "fullName": "Xã Hòa Bình, Tỉnh Cà Mau",
+          "slug": "hoa-binh",
+          "postalCode": "31891"
+        },
+        {
+          "code": "31894",
+          "name": "Châu Thới",
+          "fullName": "Xã Châu Thới, Tỉnh Cà Mau",
+          "slug": "chau-thoi",
+          "postalCode": "31894"
+        },
+        {
+          "code": "31900",
+          "name": "Vĩnh Lợi",
+          "fullName": "Xã Vĩnh Lợi, Tỉnh Cà Mau",
+          "slug": "vinh-loi",
+          "postalCode": "31900"
+        },
+        {
+          "code": "31906",
+          "name": "Hưng Hội",
+          "fullName": "Xã Hưng Hội, Tỉnh Cà Mau",
+          "slug": "hung-hoi",
+          "postalCode": "31906"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hoà Bình",
+      "slug": "huyen-hoa-binh",
+      "wards": [
+        {
+          "code": "31891",
+          "name": "Hòa Bình",
+          "fullName": "Xã Hòa Bình, Tỉnh Cà Mau",
+          "slug": "hoa-binh",
+          "postalCode": "31891"
+        },
+        {
+          "code": "31918",
+          "name": "Vĩnh Mỹ",
+          "fullName": "Xã Vĩnh Mỹ, Tỉnh Cà Mau",
+          "slug": "vinh-my",
+          "postalCode": "31918"
+        },
+        {
+          "code": "31927",
+          "name": "Vĩnh Hậu",
+          "fullName": "Xã Vĩnh Hậu, Tỉnh Cà Mau",
+          "slug": "vinh-hau",
+          "postalCode": "31927"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đông Hải",
+      "slug": "huyen-dong-hai",
+      "wards": [
+        {
+          "code": "31972",
+          "name": "Gành Hào",
+          "fullName": "Xã Gành Hào, Tỉnh Cà Mau",
+          "slug": "ganh-hao",
+          "postalCode": "31972"
+        },
+        {
+          "code": "31975",
+          "name": "Đông Hải",
+          "fullName": "Xã Đông Hải, Tỉnh Cà Mau",
+          "slug": "dong-hai",
+          "postalCode": "31975"
+        },
+        {
+          "code": "31985",
+          "name": "Long Điền",
+          "fullName": "Xã Long Điền, Tỉnh Cà Mau",
+          "slug": "long-dien",
+          "postalCode": "31985"
+        },
+        {
+          "code": "31988",
+          "name": "An Trạch",
+          "fullName": "Xã An Trạch, Tỉnh Cà Mau",
+          "slug": "an-trach",
+          "postalCode": "31988"
+        },
+        {
+          "code": "31993",
+          "name": "Định Thành",
+          "fullName": "Xã Định Thành, Tỉnh Cà Mau",
+          "slug": "dinh-thanh",
+          "postalCode": "31993"
+        }
+      ]
+    },
+    {
+      "name": "Huyện U Minh",
+      "slug": "huyen-u-minh",
+      "wards": [
+        {
+          "code": "32044",
+          "name": "Nguyễn Phích",
+          "fullName": "Xã Nguyễn Phích, Tỉnh Cà Mau",
+          "slug": "nguyen-phich",
+          "postalCode": "32044"
+        },
+        {
+          "code": "32047",
+          "name": "U Minh",
+          "fullName": "Xã U Minh, Tỉnh Cà Mau",
+          "slug": "u-minh",
+          "postalCode": "32047"
+        },
+        {
+          "code": "32059",
+          "name": "Khánh An",
+          "fullName": "Xã Khánh An, Tỉnh Cà Mau",
+          "slug": "khanh-an",
+          "postalCode": "32059"
+        },
+        {
+          "code": "32062",
+          "name": "Khánh Lâm",
+          "fullName": "Xã Khánh Lâm, Tỉnh Cà Mau",
+          "slug": "khanh-lam",
+          "postalCode": "32062"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thới Bình",
+      "slug": "huyen-thoi-binh",
+      "wards": [
+        {
+          "code": "32065",
+          "name": "Xã Thới Bình",
+          "fullName": "Xã Thới Bình, Tỉnh Cà Mau",
+          "slug": "xa-thoi-binh",
+          "postalCode": "32065"
+        },
+        {
+          "code": "32069",
+          "name": "Xã Biển Bạch",
+          "fullName": "Xã Biển Bạch, Tỉnh Cà Mau",
+          "slug": "xa-bien-bach",
+          "postalCode": "32069"
+        },
+        {
+          "code": "32071",
+          "name": "Xã Trí Phải",
+          "fullName": "Xã Trí Phải, Tỉnh Cà Mau",
+          "slug": "xa-tri-phai",
+          "postalCode": "32071"
+        },
+        {
+          "code": "32083",
+          "name": "Xã Tân Lộc",
+          "fullName": "Xã Tân Lộc, Tỉnh Cà Mau",
+          "slug": "xa-tan-loc",
+          "postalCode": "32083"
+        },
+        {
+          "code": "32092",
+          "name": "Hồ Thị Kỷ",
+          "fullName": "Xã Hồ Thị Kỷ, Tỉnh Cà Mau",
+          "slug": "ho-thi-ky",
+          "postalCode": "32092"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cái Nước",
+      "slug": "huyen-cai-nuoc",
+      "wards": [
+        {
+          "code": "32128",
+          "name": "Cái Nước",
+          "fullName": "Xã Cái Nước, Tỉnh Cà Mau",
+          "slug": "cai-nuoc",
+          "postalCode": "32128"
+        },
+        {
+          "code": "32134",
+          "name": "Xã Lương Thế Trân",
+          "fullName": "Xã Lương Thế Trân, Tỉnh Cà Mau",
+          "slug": "xa-luong-the-tran",
+          "postalCode": "32134"
+        },
+        {
+          "code": "32137",
+          "name": "Tân Hưng",
+          "fullName": "Xã Tân Hưng, Tỉnh Cà Mau",
+          "slug": "tan-hung",
+          "postalCode": "32137"
+        },
+        {
+          "code": "32140",
+          "name": "Hưng Mỹ",
+          "fullName": "Xã Hưng Mỹ, Tỉnh Cà Mau",
+          "slug": "hung-my",
+          "postalCode": "32140"
+        },
+        {
+          "code": "32214",
+          "name": "Xã Phú Mỹ",
+          "fullName": "Xã Phú Mỹ, Tỉnh Cà Mau",
+          "slug": "xa-phu-my",
+          "postalCode": "32214"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đầm Dơi",
+      "slug": "huyen-dam-doi",
+      "wards": [
+        {
+          "code": "32152",
+          "name": "Đầm Dơi",
+          "fullName": "Xã Đầm Dơi, Tỉnh Cà Mau",
+          "slug": "dam-doi",
+          "postalCode": "32152"
+        },
+        {
+          "code": "32155",
+          "name": "Tạ An Khương",
+          "fullName": "Xã Tạ An Khương, Tỉnh Cà Mau",
+          "slug": "ta-an-khuong",
+          "postalCode": "32155"
+        },
+        {
+          "code": "32161",
+          "name": "Trần Phán",
+          "fullName": "Xã Trần Phán, Tỉnh Cà Mau",
+          "slug": "tran-phan",
+          "postalCode": "32161"
+        },
+        {
+          "code": "32167",
+          "name": "Xã Tân Thuận",
+          "fullName": "Xã Tân Thuận, Tỉnh Cà Mau",
+          "slug": "xa-tan-thuan",
+          "postalCode": "32167"
+        },
+        {
+          "code": "32182",
+          "name": "Xã Quách Phẩm",
+          "fullName": "Xã Quách Phẩm, Tỉnh Cà Mau",
+          "slug": "xa-quach-pham",
+          "postalCode": "32182"
+        },
+        {
+          "code": "32185",
+          "name": "Xã Thanh Tùng",
+          "fullName": "Xã Thanh Tùng, Tỉnh Cà Mau",
+          "slug": "xa-thanh-tung",
+          "postalCode": "32185"
+        },
+        {
+          "code": "32188",
+          "name": "Xã Tân Tiến",
+          "fullName": "Xã Tân Tiến, Tỉnh Cà Mau",
+          "slug": "xa-tan-tien",
+          "postalCode": "32188"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Năm Căn",
+      "slug": "huyen-nam-can",
+      "wards": [
+        {
+          "code": "32191",
+          "name": "Năm Căn",
+          "fullName": "Xã Năm Căn, Tỉnh Cà Mau",
+          "slug": "nam-can",
+          "postalCode": "32191"
+        },
+        {
+          "code": "32201",
+          "name": "Đất Mới",
+          "fullName": "Xã Đất Mới, Tỉnh Cà Mau",
+          "slug": "dat-moi",
+          "postalCode": "32201"
+        },
+        {
+          "code": "32206",
+          "name": "Xã Tam Giang",
+          "fullName": "Xã Tam Giang, Tỉnh Cà Mau",
+          "slug": "xa-tam-giang",
+          "postalCode": "32206"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ngọc Hiển",
+      "slug": "huyen-ngoc-hien",
+      "wards": [
+        {
+          "code": "32201",
+          "name": "Đất Mới",
+          "fullName": "Xã Đất Mới, Tỉnh Cà Mau",
+          "slug": "dat-moi",
+          "postalCode": "32201"
+        },
+        {
+          "code": "32236",
+          "name": "Xã Tân Ân",
+          "fullName": "Xã Tân Ân, Tỉnh Cà Mau",
+          "slug": "xa-tan-an",
+          "postalCode": "32236"
+        },
+        {
+          "code": "32244",
+          "name": "Phan Ngọc Hiển",
+          "fullName": "Xã Phan Ngọc Hiển, Tỉnh Cà Mau",
+          "slug": "phan-ngoc-hien",
+          "postalCode": "32244"
+        },
+        {
+          "code": "32248",
+          "name": "Đất Mũi",
+          "fullName": "Xã Đất Mũi, Tỉnh Cà Mau",
+          "slug": "dat-mui",
+          "postalCode": "32248"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Tân",
+      "slug": "huyen-phu-tan",
+      "wards": [
+        {
+          "code": "32212",
+          "name": "Cái Đôi Vàm",
+          "fullName": "Xã Cái Đôi Vàm, Tỉnh Cà Mau",
+          "slug": "cai-doi-vam",
+          "postalCode": "32212"
+        },
+        {
+          "code": "32214",
+          "name": "Xã Phú Mỹ",
+          "fullName": "Xã Phú Mỹ, Tỉnh Cà Mau",
+          "slug": "xa-phu-my",
+          "postalCode": "32214"
+        },
+        {
+          "code": "32218",
+          "name": "Xã Phú Tân",
+          "fullName": "Xã Phú Tân, Tỉnh Cà Mau",
+          "slug": "xa-phu-tan",
+          "postalCode": "32218"
+        },
+        {
+          "code": "32227",
+          "name": "Nguyễn Việt Khái",
+          "fullName": "Xã Nguyễn Việt Khái, Tỉnh Cà Mau",
+          "slug": "nguyen-viet-khai",
+          "postalCode": "32227"
+        }
+      ]
+    }
+  ]
+}

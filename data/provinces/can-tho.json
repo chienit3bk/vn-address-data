@@ -1,0 +1,1803 @@
+{
+  "code": "32",
+  "name": "Cần Thơ",
+  "slug": "can-tho",
+  "type": "city",
+  "isCentral": true,
+  "fullName": "Thành phố Cần Thơ",
+  "wards": [
+    {
+      "code": "00075",
+      "name": "Ninh Kiều",
+      "fullName": "Phường Ninh Kiều, Thành phố Cần Thơ",
+      "slug": "ninh-kieu",
+      "type": "ward",
+      "postalCode": "31135"
+    },
+    {
+      "code": "00133",
+      "name": "Phú Lợi",
+      "fullName": "Phường Phú Lợi, Thành phố Cần Thơ",
+      "slug": "phu-loi",
+      "type": "ward",
+      "postalCode": "31510"
+    },
+    {
+      "code": "00166",
+      "name": "Tân An",
+      "fullName": "Phường Tân An, Thành phố Cần Thơ",
+      "slug": "tan-an",
+      "type": "ward",
+      "postalCode": "31147"
+    },
+    {
+      "code": "00242",
+      "name": "Ô Môn",
+      "fullName": "Phường Ô Môn, Thành phố Cần Thơ",
+      "slug": "o-mon",
+      "type": "ward",
+      "postalCode": "31153"
+    },
+    {
+      "code": "00272",
+      "name": "Cái Răng",
+      "fullName": "Phường Cái Răng, Thành phố Cần Thơ",
+      "slug": "cai-rang",
+      "type": "ward",
+      "postalCode": "31186"
+    },
+    {
+      "code": "00300",
+      "name": "Vĩnh Châu",
+      "fullName": "Phường Vĩnh Châu, Thành phố Cần Thơ",
+      "slug": "vinh-chau",
+      "type": "ward",
+      "postalCode": "31783"
+    },
+    {
+      "code": "00348",
+      "name": "Thạnh Hòa",
+      "fullName": "Xã Thạnh Hòa, Thành phố Cần Thơ",
+      "slug": "thanh-hoa",
+      "type": "commune",
+      "postalCode": "31408"
+    },
+    {
+      "code": "00360",
+      "name": "Bình Thủy",
+      "fullName": "Phường Bình Thủy, Thành phố Cần Thơ",
+      "slug": "binh-thuy",
+      "type": "ward",
+      "postalCode": "31168"
+    },
+    {
+      "code": "00372",
+      "name": "Thốt Nốt",
+      "fullName": "Phường Thốt Nốt, Thành phố Cần Thơ",
+      "slug": "thot-not",
+      "type": "ward",
+      "postalCode": "31207"
+    },
+    {
+      "code": "00374",
+      "name": "Sóc Trăng",
+      "fullName": "Phường Sóc Trăng, Thành phố Cần Thơ",
+      "slug": "soc-trang",
+      "type": "ward",
+      "postalCode": "31507"
+    },
+    {
+      "code": "00414",
+      "name": "Ngã Năm",
+      "fullName": "Phường Ngã Năm, Thành phố Cần Thơ",
+      "slug": "nga-nam",
+      "type": "ward",
+      "postalCode": "31732"
+    },
+    {
+      "code": "00418",
+      "name": "Hưng Phú",
+      "fullName": "Phường Hưng Phú, Thành phố Cần Thơ",
+      "slug": "hung-phu",
+      "type": "ward",
+      "postalCode": "31201"
+    },
+    {
+      "code": "00429",
+      "name": "Cái Khế",
+      "fullName": "Phường Cái Khế, Thành phố Cần Thơ",
+      "slug": "cai-khe",
+      "type": "ward",
+      "postalCode": "31120"
+    },
+    {
+      "code": "00438",
+      "name": "Thuận Hưng",
+      "fullName": "Phường Thuận Hưng, Thành phố Cần Thơ",
+      "slug": "thuan-hung",
+      "type": "ward",
+      "postalCode": "31228"
+    },
+    {
+      "code": "00448",
+      "name": "An Lạc Thôn",
+      "fullName": "Xã An Lạc Thôn, Thành phố Cần Thơ",
+      "slug": "an-lac-thon",
+      "type": "commune",
+      "postalCode": "31531"
+    },
+    {
+      "code": "00464",
+      "name": "Trung Hưng",
+      "fullName": "Xã Trung Hưng, Thành phố Cần Thơ",
+      "slug": "trung-hung",
+      "type": "commune",
+      "postalCode": "31255"
+    },
+    {
+      "code": "00501",
+      "name": "Thới Long",
+      "fullName": "Phường Thới Long, Thành phố Cần Thơ",
+      "slug": "thoi-long",
+      "type": "ward",
+      "postalCode": "31157"
+    },
+    {
+      "code": "00505",
+      "name": "Trần Đề",
+      "fullName": "Xã Trần Đề, Thành phố Cần Thơ",
+      "slug": "tran-de",
+      "type": "commune",
+      "postalCode": "31673"
+    },
+    {
+      "code": "00521",
+      "name": "Phong Điền",
+      "fullName": "Xã Phong Điền, Thành phố Cần Thơ",
+      "slug": "phong-dien",
+      "type": "commune",
+      "postalCode": "31299"
+    },
+    {
+      "code": "00523",
+      "name": "Vĩnh Phước",
+      "fullName": "Phường Vĩnh Phước, Thành phố Cần Thơ",
+      "slug": "vinh-phuoc",
+      "type": "ward",
+      "postalCode": "31804"
+    },
+    {
+      "code": "00529",
+      "name": "Mỹ Xuyên",
+      "fullName": "Phường Mỹ Xuyên, Thành phố Cần Thơ",
+      "slug": "my-xuyen",
+      "type": "ward",
+      "postalCode": "31684"
+    },
+    {
+      "code": "00537",
+      "name": "Mỹ Hương",
+      "fullName": "Xã Mỹ Hương, Thành phố Cần Thơ",
+      "slug": "my-huong",
+      "type": "commune",
+      "postalCode": "31591"
+    },
+    {
+      "code": "00550",
+      "name": "Tân Hòa",
+      "fullName": "Xã Tân Hòa, Thành phố Cần Thơ",
+      "slug": "tan-hoa",
+      "type": "commune",
+      "postalCode": "31342"
+    },
+    {
+      "code": "00551",
+      "name": "Phú Lộc",
+      "fullName": "Xã Phú Lộc, Thành phố Cần Thơ",
+      "slug": "phu-loc",
+      "type": "commune",
+      "postalCode": "31756"
+    },
+    {
+      "code": "00573",
+      "name": "An Bình",
+      "fullName": "Phường An Bình, Thành phố Cần Thơ",
+      "slug": "an-binh",
+      "type": "ward",
+      "postalCode": "31150"
+    },
+    {
+      "code": "00647",
+      "name": "Ngọc Tố",
+      "fullName": "Xã Ngọc Tố, Thành phố Cần Thơ",
+      "slug": "ngoc-to",
+      "type": "commune",
+      "postalCode": "31723"
+    },
+    {
+      "code": "00664",
+      "name": "Phước Thới",
+      "fullName": "Phường Phước Thới, Thành phố Cần Thơ",
+      "slug": "phuoc-thoi",
+      "type": "ward",
+      "postalCode": "31162"
+    },
+    {
+      "code": "00685",
+      "name": "Xà Phiên",
+      "fullName": "Xã Xà Phiên, Thành phố Cần Thơ",
+      "slug": "xa-phien",
+      "type": "commune",
+      "postalCode": "31495"
+    },
+    {
+      "code": "00711",
+      "name": "Long Tuyền",
+      "fullName": "Phường Long Tuyền, Thành phố Cần Thơ",
+      "slug": "long-tuyen",
+      "type": "ward",
+      "postalCode": "31183"
+    },
+    {
+      "code": "00719",
+      "name": "Cù Lao Dung",
+      "fullName": "Xã Cù Lao Dung, Thành phố Cần Thơ",
+      "slug": "cu-lao-dung",
+      "type": "commune",
+      "postalCode": "31633"
+    },
+    {
+      "code": "00766",
+      "name": "Đại Hải",
+      "fullName": "Xã Đại Hải, Thành phố Cần Thơ",
+      "slug": "dai-hai",
+      "type": "commune",
+      "postalCode": "31561"
+    },
+    {
+      "code": "00779",
+      "name": "Kế Sách",
+      "fullName": "Xã Kế Sách, Thành phố Cần Thơ",
+      "slug": "ke-sach",
+      "type": "commune",
+      "postalCode": "31528"
+    },
+    {
+      "code": "00795",
+      "name": "Vị Thanh 1",
+      "fullName": "Xã Vị Thanh 1, Thành phố Cần Thơ",
+      "slug": "vi-thanh-1",
+      "type": "commune",
+      "postalCode": "31465"
+    },
+    {
+      "code": "00819",
+      "name": "Nhơn Mỹ",
+      "fullName": "Xã Nhơn Mỹ, Thành phố Cần Thơ",
+      "slug": "nhon-my",
+      "type": "commune",
+      "postalCode": "31552"
+    },
+    {
+      "code": "00821",
+      "name": "Cờ Đỏ",
+      "fullName": "Xã Cờ Đỏ, Thành phố Cần Thơ",
+      "slug": "co-do",
+      "type": "commune",
+      "postalCode": "31261"
+    },
+    {
+      "code": "00847",
+      "name": "Phú Hữu",
+      "fullName": "Xã Phú Hữu, Thành phố Cần Thơ",
+      "slug": "phu-huu",
+      "type": "commune",
+      "postalCode": "31378"
+    },
+    {
+      "code": "00856",
+      "name": "Thạnh Xuân",
+      "fullName": "Xã Thạnh Xuân, Thành phố Cần Thơ",
+      "slug": "thanh-xuan",
+      "type": "commune",
+      "postalCode": "31360"
+    },
+    {
+      "code": "00871",
+      "name": "Nhơn Ái",
+      "fullName": "Xã Nhơn Ái, Thành phố Cần Thơ",
+      "slug": "nhon-ai",
+      "type": "commune",
+      "postalCode": "31315"
+    },
+    {
+      "code": "00897",
+      "name": "An Ninh",
+      "fullName": "Xã An Ninh, Thành phố Cần Thơ",
+      "slug": "an-ninh",
+      "type": "commune",
+      "postalCode": "31594"
+    },
+    {
+      "code": "00903",
+      "name": "Gia Hòa",
+      "fullName": "Xã Gia Hòa, Thành phố Cần Thơ",
+      "slug": "gia-hoa",
+      "type": "commune",
+      "postalCode": "31726"
+    },
+    {
+      "code": "00906",
+      "name": "Đông Phước",
+      "fullName": "Xã Đông Phước, Thành phố Cần Thơ",
+      "slug": "dong-phuoc",
+      "type": "commune",
+      "postalCode": "31369"
+    },
+    {
+      "code": "00922",
+      "name": "Vĩnh Thuận Đông",
+      "fullName": "Xã Vĩnh Thuận Đông, Thành phố Cần Thơ",
+      "slug": "vinh-thuan-dong",
+      "type": "commune",
+      "postalCode": "31453"
+    },
+    {
+      "code": "00925",
+      "name": "Long Phú",
+      "fullName": "Xã Long Phú, Thành phố Cần Thơ",
+      "slug": "long-phu",
+      "type": "commune",
+      "postalCode": "31480"
+    },
+    {
+      "code": "00937",
+      "name": "Thới An Đông",
+      "fullName": "Phường Thới An Đông, Thành phố Cần Thơ",
+      "slug": "thoi-an-dong",
+      "type": "ward",
+      "postalCode": "31174"
+    },
+    {
+      "code": "00949",
+      "name": "Thạnh Quới",
+      "fullName": "Xã Thạnh Quới, Thành phố Cần Thơ",
+      "slug": "thanh-quoi",
+      "type": "commune",
+      "postalCode": "31246"
+    },
+    {
+      "code": "00950",
+      "name": "Châu Thành",
+      "fullName": "Xã Châu Thành, Thành phố Cần Thơ",
+      "slug": "chau-thanh",
+      "type": "commune",
+      "postalCode": "31366"
+    },
+    {
+      "code": "00989",
+      "name": "Nhu Gia",
+      "fullName": "Xã Nhu Gia, Thành phố Cần Thơ",
+      "slug": "nhu-gia",
+      "type": "commune",
+      "postalCode": "31708"
+    },
+    {
+      "code": "01002",
+      "name": "Mỹ Tú",
+      "fullName": "Xã Mỹ Tú, Thành phố Cần Thơ",
+      "slug": "my-tu",
+      "type": "commune",
+      "postalCode": "31567"
+    },
+    {
+      "code": "01003",
+      "name": "Tân Bình",
+      "fullName": "Xã Tân Bình, Thành phố Cần Thơ",
+      "slug": "tan-binh",
+      "type": "commune",
+      "postalCode": "31399"
+    },
+    {
+      "code": "01013",
+      "name": "Ngã Bảy",
+      "fullName": "Phường Ngã Bảy, Thành phố Cần Thơ",
+      "slug": "nga-bay",
+      "type": "ward",
+      "postalCode": "31340"
+    },
+    {
+      "code": "01016",
+      "name": "Trường Thành",
+      "fullName": "Xã Trường Thành, Thành phố Cần Thơ",
+      "slug": "truong-thanh",
+      "type": "commune",
+      "postalCode": "31288"
+    },
+    {
+      "code": "01021",
+      "name": "An Thạnh",
+      "fullName": "Xã An Thạnh, Thành phố Cần Thơ",
+      "slug": "an-thanh",
+      "type": "commune",
+      "postalCode": "31615"
+    },
+    {
+      "code": "01025",
+      "name": "Khánh Hòa",
+      "fullName": "Phường Khánh Hòa, Thành phố Cần Thơ",
+      "slug": "khanh-hoa",
+      "type": "ward",
+      "postalCode": "31789"
+    },
+    {
+      "code": "01034",
+      "name": "Trung Nhứt",
+      "fullName": "Phường Trung Nhứt, Thành phố Cần Thơ",
+      "slug": "trung-nhut",
+      "type": "ward",
+      "postalCode": "31217"
+    },
+    {
+      "code": "01092",
+      "name": "Trường Xuân",
+      "fullName": "Xã Trường Xuân, Thành phố Cần Thơ",
+      "slug": "truong-xuan",
+      "type": "commune",
+      "postalCode": "31294"
+    },
+    {
+      "code": "01094",
+      "name": "Thới Lai",
+      "fullName": "Xã Thới Lai, Thành phố Cần Thơ",
+      "slug": "thoi-lai",
+      "type": "commune",
+      "postalCode": "31258"
+    },
+    {
+      "code": "01118",
+      "name": "Vị Tân",
+      "fullName": "Phường Vị Tân, Thành phố Cần Thơ",
+      "slug": "vi-tan",
+      "type": "ward",
+      "postalCode": "31333"
+    },
+    {
+      "code": "01134",
+      "name": "Long Mỹ",
+      "fullName": "Phường Long Mỹ, Thành phố Cần Thơ",
+      "slug": "long-my",
+      "type": "ward",
+      "postalCode": "31471"
+    },
+    {
+      "code": "01136",
+      "name": "Tân Thạnh",
+      "fullName": "Xã Tân Thạnh, Thành phố Cần Thơ",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "31666"
+    },
+    {
+      "code": "01144",
+      "name": "Tân Lộc",
+      "fullName": "Phường Tân Lộc, Thành phố Cần Thơ",
+      "slug": "tan-loc",
+      "type": "ward",
+      "postalCode": "31213"
+    },
+    {
+      "code": "01156",
+      "name": "Tân Long",
+      "fullName": "Xã Tân Long, Thành phố Cần Thơ",
+      "slug": "tan-long",
+      "type": "commune",
+      "postalCode": "31741"
+    },
+    {
+      "code": "01196",
+      "name": "Trường Khánh",
+      "fullName": "Xã Trường Khánh, Thành phố Cần Thơ",
+      "slug": "truong-khanh",
+      "type": "commune",
+      "postalCode": "31654"
+    },
+    {
+      "code": "01199",
+      "name": "Đại Thành",
+      "fullName": "Phường Đại Thành, Thành phố Cần Thơ",
+      "slug": "dai-thanh",
+      "type": "ward",
+      "postalCode": "31411"
+    },
+    {
+      "code": "01204",
+      "name": "Tài Văn",
+      "fullName": "Xã Tài Văn, Thành phố Cần Thơ",
+      "slug": "tai-van",
+      "type": "commune",
+      "postalCode": "31687"
+    },
+    {
+      "code": "01238",
+      "name": "Phương Bình",
+      "fullName": "Xã Phương Bình, Thành phố Cần Thơ",
+      "slug": "phuong-binh",
+      "type": "commune",
+      "postalCode": "31168"
+    },
+    {
+      "code": "01256",
+      "name": "Long Hưng",
+      "fullName": "Xã Long Hưng, Thành phố Cần Thơ",
+      "slug": "long-hung",
+      "type": "commune",
+      "postalCode": "31579"
+    },
+    {
+      "code": "01261",
+      "name": "Hiệp Hưng",
+      "fullName": "Xã Hiệp Hưng, Thành phố Cần Thơ",
+      "slug": "hiep-hung",
+      "type": "commune",
+      "postalCode": "31396"
+    },
+    {
+      "code": "01266",
+      "name": "Phụng Hiệp",
+      "fullName": "Xã Phụng Hiệp, Thành phố Cần Thơ",
+      "slug": "phung-hiep",
+      "type": "commune",
+      "postalCode": "31420"
+    },
+    {
+      "code": "01276",
+      "name": "Phú Tâm",
+      "fullName": "Xã Phú Tâm, Thành phố Cần Thơ",
+      "slug": "phu-tam",
+      "type": "commune",
+      "postalCode": "31569"
+    },
+    {
+      "code": "01309",
+      "name": "Hòa An",
+      "fullName": "Xã Hòa An, Thành phố Cần Thơ",
+      "slug": "hoa-an",
+      "type": "commune",
+      "postalCode": "31393"
+    },
+    {
+      "code": "01323",
+      "name": "Vị Thanh",
+      "fullName": "Phường Vị Thanh, Thành phố Cần Thơ",
+      "slug": "vi-thanh",
+      "type": "ward",
+      "postalCode": "31321"
+    },
+    {
+      "code": "01347",
+      "name": "Vị Thủy",
+      "fullName": "Xã Vị Thủy, Thành phố Cần Thơ",
+      "slug": "vi-thuy",
+      "type": "commune",
+      "postalCode": "31441"
+    },
+    {
+      "code": "01369",
+      "name": "Lâm Tân",
+      "fullName": "Xã Lâm Tân, Thành phố Cần Thơ",
+      "slug": "lam-tan",
+      "type": "commune",
+      "postalCode": "31759"
+    },
+    {
+      "code": "01388",
+      "name": "Thới An Hội",
+      "fullName": "Xã Thới An Hội, Thành phố Cần Thơ",
+      "slug": "thoi-an-hoi",
+      "type": "commune",
+      "postalCode": "31540"
+    },
+    {
+      "code": "01393",
+      "name": "Vĩnh Tường",
+      "fullName": "Xã Vĩnh Tường, Thành phố Cần Thơ",
+      "slug": "vinh-tuong",
+      "type": "commune",
+      "postalCode": "31459"
+    },
+    {
+      "code": "01412",
+      "name": "Liêu Tú",
+      "fullName": "Xã Liêu Tú, Thành phố Cần Thơ",
+      "slug": "lieu-tu",
+      "type": "commune",
+      "postalCode": "31675"
+    },
+    {
+      "code": "01419",
+      "name": "Hồ Đắc Kiện",
+      "fullName": "Xã Hồ Đắc Kiện, Thành phố Cần Thơ",
+      "slug": "ho-dac-kien",
+      "type": "commune",
+      "postalCode": "31570"
+    },
+    {
+      "code": "01471",
+      "name": "Thạnh An",
+      "fullName": "Xã Thạnh An, Thành phố Cần Thơ",
+      "slug": "thanh-an",
+      "type": "commune",
+      "postalCode": "31231"
+    },
+    {
+      "code": "01479",
+      "name": "Vĩnh Thạnh",
+      "fullName": "Xã Vĩnh Thạnh, Thành phố Cần Thơ",
+      "slug": "vinh-thanh",
+      "type": "commune",
+      "postalCode": "31232"
+    },
+    {
+      "code": "01492",
+      "name": "Long Phú 1",
+      "fullName": "Phường Long Phú 1, Thành phố Cần Thơ",
+      "slug": "long-phu-1",
+      "type": "ward",
+      "postalCode": "31480"
+    },
+    {
+      "code": "01500",
+      "name": "Mỹ Quới",
+      "fullName": "Phường Mỹ Quới, Thành phố Cần Thơ",
+      "slug": "my-quoi",
+      "type": "ward",
+      "postalCode": "31753"
+    },
+    {
+      "code": "01530",
+      "name": "Thuận Hòa",
+      "fullName": "Xã Thuận Hòa, Thành phố Cần Thơ",
+      "slug": "thuan-hoa",
+      "type": "commune",
+      "postalCode": "31582"
+    },
+    {
+      "code": "01559",
+      "name": "Lai Hòa",
+      "fullName": "Xã Lai Hòa, Thành phố Cần Thơ",
+      "slug": "lai-hoa",
+      "type": "commune",
+      "postalCode": "31810"
+    },
+    {
+      "code": "01586",
+      "name": "Thạnh Thới An",
+      "fullName": "Xã Thạnh Thới An, Thành phố Cần Thơ",
+      "slug": "thanh-thoi-an",
+      "type": "commune",
+      "postalCode": "31699"
+    },
+    {
+      "code": "01666",
+      "name": "Lịch Hội Thượng",
+      "fullName": "Xã Lịch Hội Thượng, Thành phố Cần Thơ",
+      "slug": "lich-hoi-thuong",
+      "type": "commune",
+      "postalCode": "31679"
+    },
+    {
+      "code": "01675",
+      "name": "Vĩnh Hải",
+      "fullName": "Xã Vĩnh Hải, Thành phố Cần Thơ",
+      "slug": "vinh-hai",
+      "type": "commune",
+      "postalCode": "31795"
+    },
+    {
+      "code": "01744",
+      "name": "Vĩnh Trinh",
+      "fullName": "Xã Vĩnh Trinh, Thành phố Cần Thơ",
+      "slug": "vinh-trinh",
+      "type": "commune",
+      "postalCode": "31237"
+    },
+    {
+      "code": "01798",
+      "name": "Long Bình",
+      "fullName": "Phường Long Bình, Thành phố Cần Thơ",
+      "slug": "long-binh",
+      "type": "ward",
+      "postalCode": "31473"
+    },
+    {
+      "code": "01834",
+      "name": "Tân Phước Hưng",
+      "fullName": "Xã Tân Phước Hưng, Thành phố Cần Thơ",
+      "slug": "tan-phuoc-hung",
+      "type": "commune",
+      "postalCode": "31432"
+    },
+    {
+      "code": "01838",
+      "name": "Thạnh Phú",
+      "fullName": "Xã Thạnh Phú, Thành phố Cần Thơ",
+      "slug": "thanh-phu",
+      "type": "commune",
+      "postalCode": "31249"
+    },
+    {
+      "code": "01873",
+      "name": "Trường Long Tây",
+      "fullName": "Xã Trường Long Tây, Thành phố Cần Thơ",
+      "slug": "truong-long-tay",
+      "type": "commune",
+      "postalCode": "31348"
+    },
+    {
+      "code": "01928",
+      "name": "Đông Thuận",
+      "fullName": "Xã Đông Thuận, Thành phố Cần Thơ",
+      "slug": "dong-thuan",
+      "type": "commune",
+      "postalCode": "31282"
+    },
+    {
+      "code": "01936",
+      "name": "Đại Ngãi",
+      "fullName": "Xã Đại Ngãi, Thành phố Cần Thơ",
+      "slug": "dai-ngai",
+      "type": "commune",
+      "postalCode": "31645"
+    },
+    {
+      "code": "01940",
+      "name": "Hòa Tú",
+      "fullName": "Xã Hòa Tú, Thành phố Cần Thơ",
+      "slug": "hoa-tu",
+      "type": "commune",
+      "postalCode": "31717"
+    },
+    {
+      "code": "01948",
+      "name": "Vĩnh Viễn",
+      "fullName": "Xã Vĩnh Viễn, Thành phố Cần Thơ",
+      "slug": "vinh-vien",
+      "type": "commune",
+      "postalCode": "31489"
+    },
+    {
+      "code": "01957",
+      "name": "Vĩnh Lợi",
+      "fullName": "Xã Vĩnh Lợi, Thành phố Cần Thơ",
+      "slug": "vinh-loi",
+      "type": "commune",
+      "postalCode": "31777"
+    },
+    {
+      "code": "01974",
+      "name": "Hỏa Lựu",
+      "fullName": "Xã Hỏa Lựu, Thành phố Cần Thơ",
+      "slug": "hoa-luu",
+      "type": "commune",
+      "postalCode": "31338"
+    },
+    {
+      "code": "01977",
+      "name": "Trường Long",
+      "fullName": "Xã Trường Long, Thành phố Cần Thơ",
+      "slug": "truong-long",
+      "type": "commune",
+      "postalCode": "31309"
+    },
+    {
+      "code": "01980",
+      "name": "Lương Tâm",
+      "fullName": "Xã Lương Tâm, Thành phố Cần Thơ",
+      "slug": "luong-tam",
+      "type": "commune",
+      "postalCode": "31492"
+    },
+    {
+      "code": "02019",
+      "name": "Mỹ Phước",
+      "fullName": "Xã Mỹ Phước, Thành phố Cần Thơ",
+      "slug": "my-phuoc",
+      "type": "commune",
+      "postalCode": "31603"
+    },
+    {
+      "code": "02084",
+      "name": "Đông Hiệp",
+      "fullName": "Xã Đông Hiệp, Thành phố Cần Thơ",
+      "slug": "dong-hiep",
+      "type": "commune",
+      "postalCode": "31273"
+    },
+    {
+      "code": "02322",
+      "name": "Thới Hưng",
+      "fullName": "Xã Thới Hưng, Thành phố Cần Thơ",
+      "slug": "thoi-hung",
+      "type": "commune",
+      "postalCode": "31264"
+    },
+    {
+      "code": "03170",
+      "name": "Phong Nẫm",
+      "fullName": "Xã Phong Nẫm, Thành phố Cần Thơ",
+      "slug": "phong-nam",
+      "type": "commune",
+      "postalCode": "31537"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Quận Ninh Kiều",
+      "slug": "quan-ninh-kieu",
+      "wards": [
+        {
+          "code": "31120",
+          "name": "Cái Khế",
+          "fullName": "Phường Cái Khế, Tỉnh Cần Thơ",
+          "slug": "cai-khe",
+          "postalCode": "31120"
+        },
+        {
+          "code": "31135",
+          "name": "Ninh Kiều",
+          "fullName": "Phường Ninh Kiều, Tỉnh Cần Thơ",
+          "slug": "ninh-kieu",
+          "postalCode": "31135"
+        },
+        {
+          "code": "31147",
+          "name": "Tân An",
+          "fullName": "Phường Tân An, Tỉnh Cần Thơ",
+          "slug": "tan-an",
+          "postalCode": "31147"
+        },
+        {
+          "code": "31150",
+          "name": "An Bình",
+          "fullName": "Phường An Bình, Tỉnh Cần Thơ",
+          "slug": "an-binh",
+          "postalCode": "31150"
+        }
+      ]
+    },
+    {
+      "name": "Quận Bình Thuỷ",
+      "slug": "quan-binh-thuy",
+      "wards": [
+        {
+          "code": "31120",
+          "name": "Cái Khế",
+          "fullName": "Phường Cái Khế, Tỉnh Cần Thơ",
+          "slug": "cai-khe",
+          "postalCode": "31120"
+        },
+        {
+          "code": "31150",
+          "name": "An Bình",
+          "fullName": "Phường An Bình, Tỉnh Cần Thơ",
+          "slug": "an-binh",
+          "postalCode": "31150"
+        },
+        {
+          "code": "31168",
+          "name": "Bình Thủy",
+          "fullName": "Phường Bình Thủy, Tỉnh Cần Thơ",
+          "slug": "binh-thuy",
+          "postalCode": "31168"
+        },
+        {
+          "code": "31174",
+          "name": "Thới An Đông",
+          "fullName": "Phường Thới An Đông, Tỉnh Cần Thơ",
+          "slug": "thoi-an-dong",
+          "postalCode": "31174"
+        },
+        {
+          "code": "31183",
+          "name": "Long Tuyền",
+          "fullName": "Phường Long Tuyền, Tỉnh Cần Thơ",
+          "slug": "long-tuyen",
+          "postalCode": "31183"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phong Điền",
+      "slug": "huyen-phong-dien",
+      "wards": [
+        {
+          "code": "31150",
+          "name": "An Bình",
+          "fullName": "Phường An Bình, Tỉnh Cần Thơ",
+          "slug": "an-binh",
+          "postalCode": "31150"
+        },
+        {
+          "code": "31299",
+          "name": "Phong Điền",
+          "fullName": "Xã Phong Điền, Tỉnh Cần Thơ",
+          "slug": "phong-dien",
+          "postalCode": "31299"
+        },
+        {
+          "code": "31309",
+          "name": "Trường Long",
+          "fullName": "Xã Trường Long, Tỉnh Cần Thơ",
+          "slug": "truong-long",
+          "postalCode": "31309"
+        },
+        {
+          "code": "31315",
+          "name": "Nhơn Ái",
+          "fullName": "Xã Nhơn Ái, Tỉnh Cần Thơ",
+          "slug": "nhon-ai",
+          "postalCode": "31315"
+        }
+      ]
+    },
+    {
+      "name": "Quận Ô Môn",
+      "slug": "quan-o-mon",
+      "wards": [
+        {
+          "code": "31153",
+          "name": "Ô Môn",
+          "fullName": "Phường Ô Môn, Tỉnh Cần Thơ",
+          "slug": "o-mon",
+          "postalCode": "31153"
+        },
+        {
+          "code": "31157",
+          "name": "Thới Long",
+          "fullName": "Phường Thới Long, Tỉnh Cần Thơ",
+          "slug": "thoi-long",
+          "postalCode": "31157"
+        },
+        {
+          "code": "31162",
+          "name": "Phước Thới",
+          "fullName": "Phường Phước Thới, Tỉnh Cần Thơ",
+          "slug": "phuoc-thoi",
+          "postalCode": "31162"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thới Lai",
+      "slug": "huyen-thoi-lai",
+      "wards": [
+        {
+          "code": "31153",
+          "name": "Ô Môn",
+          "fullName": "Phường Ô Môn, Tỉnh Cần Thơ",
+          "slug": "o-mon",
+          "postalCode": "31153"
+        },
+        {
+          "code": "31258",
+          "name": "Thới Lai",
+          "fullName": "Xã Thới Lai, Tỉnh Cần Thơ",
+          "slug": "thoi-lai",
+          "postalCode": "31258"
+        },
+        {
+          "code": "31273",
+          "name": "Đông Hiệp",
+          "fullName": "Xã Đông Hiệp, Tỉnh Cần Thơ",
+          "slug": "dong-hiep",
+          "postalCode": "31273"
+        },
+        {
+          "code": "31282",
+          "name": "Đông Thuận",
+          "fullName": "Xã Đông Thuận, Tỉnh Cần Thơ",
+          "slug": "dong-thuan",
+          "postalCode": "31282"
+        },
+        {
+          "code": "31288",
+          "name": "Trường Thành",
+          "fullName": "Xã Trường Thành, Tỉnh Cần Thơ",
+          "slug": "truong-thanh",
+          "postalCode": "31288"
+        },
+        {
+          "code": "31294",
+          "name": "Trường Xuân",
+          "fullName": "Xã Trường Xuân, Tỉnh Cần Thơ",
+          "slug": "truong-xuan",
+          "postalCode": "31294"
+        }
+      ]
+    },
+    {
+      "name": "Quận Thốt Nốt",
+      "slug": "quan-thot-not",
+      "wards": [
+        {
+          "code": "31157",
+          "name": "Thới Long",
+          "fullName": "Phường Thới Long, Tỉnh Cần Thơ",
+          "slug": "thoi-long",
+          "postalCode": "31157"
+        },
+        {
+          "code": "31207",
+          "name": "Thốt Nốt",
+          "fullName": "Phường Thốt Nốt, Tỉnh Cần Thơ",
+          "slug": "thot-not",
+          "postalCode": "31207"
+        },
+        {
+          "code": "31213",
+          "name": "Tân Lộc",
+          "fullName": "Phường Tân Lộc, Tỉnh Cần Thơ",
+          "slug": "tan-loc",
+          "postalCode": "31213"
+        },
+        {
+          "code": "31217",
+          "name": "Trung Nhứt",
+          "fullName": "Phường Trung Nhứt, Tỉnh Cần Thơ",
+          "slug": "trung-nhut",
+          "postalCode": "31217"
+        },
+        {
+          "code": "31228",
+          "name": "Thuận Hưng",
+          "fullName": "Phường Thuận Hưng, Tỉnh Cần Thơ",
+          "slug": "thuan-hung",
+          "postalCode": "31228"
+        }
+      ]
+    },
+    {
+      "name": "Quận Cái Răng",
+      "slug": "quan-cai-rang",
+      "wards": [
+        {
+          "code": "31186",
+          "name": "Cái Răng",
+          "fullName": "Phường Cái Răng, Tỉnh Cần Thơ",
+          "slug": "cai-rang",
+          "postalCode": "31186"
+        },
+        {
+          "code": "31201",
+          "name": "Hưng Phú",
+          "fullName": "Phường Hưng Phú, Tỉnh Cần Thơ",
+          "slug": "hung-phu",
+          "postalCode": "31201"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cờ Đỏ",
+      "slug": "huyen-co-do",
+      "wards": [
+        {
+          "code": "31217",
+          "name": "Trung Nhứt",
+          "fullName": "Phường Trung Nhứt, Tỉnh Cần Thơ",
+          "slug": "trung-nhut",
+          "postalCode": "31217"
+        },
+        {
+          "code": "31249",
+          "name": "Thạnh Phú",
+          "fullName": "Xã Thạnh Phú, Tỉnh Cần Thơ",
+          "slug": "thanh-phu",
+          "postalCode": "31249"
+        },
+        {
+          "code": "31255",
+          "name": "Trung Hưng",
+          "fullName": "Xã Trung Hưng, Tỉnh Cần Thơ",
+          "slug": "trung-hung",
+          "postalCode": "31255"
+        },
+        {
+          "code": "31261",
+          "name": "Cờ Đỏ",
+          "fullName": "Xã Cờ Đỏ, Tỉnh Cần Thơ",
+          "slug": "co-do",
+          "postalCode": "31261"
+        },
+        {
+          "code": "31264",
+          "name": "Thới Hưng",
+          "fullName": "Xã Thới Hưng, Tỉnh Cần Thơ",
+          "slug": "thoi-hung",
+          "postalCode": "31264"
+        },
+        {
+          "code": "31273",
+          "name": "Đông Hiệp",
+          "fullName": "Xã Đông Hiệp, Tỉnh Cần Thơ",
+          "slug": "dong-hiep",
+          "postalCode": "31273"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Vị Thanh",
+      "slug": "thanh-pho-vi-thanh",
+      "wards": [
+        {
+          "code": "31321",
+          "name": "Vị Thanh",
+          "fullName": "Phường Vị Thanh, Tỉnh Cần Thơ",
+          "slug": "vi-thanh",
+          "postalCode": "31321"
+        },
+        {
+          "code": "31333",
+          "name": "Vị Tân",
+          "fullName": "Phường Vị Tân, Tỉnh Cần Thơ",
+          "slug": "vi-tan",
+          "postalCode": "31333"
+        },
+        {
+          "code": "31338",
+          "name": "Hỏa Lựu",
+          "fullName": "Xã Hỏa Lựu, Tỉnh Cần Thơ",
+          "slug": "hoa-luu",
+          "postalCode": "31338"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Ngã Bảy",
+      "slug": "thanh-pho-nga-bay",
+      "wards": [
+        {
+          "code": "31340",
+          "name": "Ngã Bảy",
+          "fullName": "Phường Ngã Bảy, Tỉnh Cần Thơ",
+          "slug": "nga-bay",
+          "postalCode": "31340"
+        },
+        {
+          "code": "31411",
+          "name": "Đại Thành",
+          "fullName": "Phường Đại Thành, Tỉnh Cần Thơ",
+          "slug": "dai-thanh",
+          "postalCode": "31411"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Long Mỹ",
+      "slug": "thi-xa-long-my",
+      "wards": [
+        {
+          "code": "31471",
+          "name": "Long Mỹ",
+          "fullName": "Phường Long Mỹ, Tỉnh Cần Thơ",
+          "slug": "long-my",
+          "postalCode": "31471"
+        },
+        {
+          "code": "31473",
+          "name": "Long Bình",
+          "fullName": "Phường Long Bình, Tỉnh Cần Thơ",
+          "slug": "long-binh",
+          "postalCode": "31473"
+        },
+        {
+          "code": "31480",
+          "name": "Long Phú 1",
+          "fullName": "Phường Long Phú 1, Tỉnh Cần Thơ",
+          "slug": "long-phu-1",
+          "postalCode": "31480"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Sóc Trăng",
+      "slug": "thanh-pho-soc-trang",
+      "wards": [
+        {
+          "code": "31507",
+          "name": "Sóc Trăng",
+          "fullName": "Phường Sóc Trăng, Tỉnh Cần Thơ",
+          "slug": "soc-trang",
+          "postalCode": "31507"
+        },
+        {
+          "code": "31510",
+          "name": "Phú Lợi",
+          "fullName": "Phường Phú Lợi, Tỉnh Cần Thơ",
+          "slug": "phu-loi",
+          "postalCode": "31510"
+        },
+        {
+          "code": "31684",
+          "name": "Mỹ Xuyên",
+          "fullName": "Phường Mỹ Xuyên, Tỉnh Cần Thơ",
+          "slug": "my-xuyen",
+          "postalCode": "31684"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mỹ Xuyên",
+      "slug": "huyen-my-xuyen",
+      "wards": [
+        {
+          "code": "31684",
+          "name": "Mỹ Xuyên",
+          "fullName": "Phường Mỹ Xuyên, Tỉnh Cần Thơ",
+          "slug": "my-xuyen",
+          "postalCode": "31684"
+        },
+        {
+          "code": "31708",
+          "name": "Nhu Gia",
+          "fullName": "Xã Nhu Gia, Tỉnh Cần Thơ",
+          "slug": "nhu-gia",
+          "postalCode": "31708"
+        },
+        {
+          "code": "31717",
+          "name": "Hòa Tú",
+          "fullName": "Xã Hòa Tú, Tỉnh Cần Thơ",
+          "slug": "hoa-tu",
+          "postalCode": "31717"
+        },
+        {
+          "code": "31723",
+          "name": "Ngọc Tố",
+          "fullName": "Xã Ngọc Tố, Tỉnh Cần Thơ",
+          "slug": "ngoc-to",
+          "postalCode": "31723"
+        },
+        {
+          "code": "31726",
+          "name": "Gia Hòa",
+          "fullName": "Xã Gia Hòa, Tỉnh Cần Thơ",
+          "slug": "gia-hoa",
+          "postalCode": "31726"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Ngã Năm",
+      "slug": "thi-xa-nga-nam",
+      "wards": [
+        {
+          "code": "31732",
+          "name": "Ngã Năm",
+          "fullName": "Phường Ngã Năm, Tỉnh Cần Thơ",
+          "slug": "nga-nam",
+          "postalCode": "31732"
+        },
+        {
+          "code": "31741",
+          "name": "Tân Long",
+          "fullName": "Xã Tân Long, Tỉnh Cần Thơ",
+          "slug": "tan-long",
+          "postalCode": "31741"
+        },
+        {
+          "code": "31753",
+          "name": "Mỹ Quới",
+          "fullName": "Phường Mỹ Quới, Tỉnh Cần Thơ",
+          "slug": "my-quoi",
+          "postalCode": "31753"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Vĩnh Châu",
+      "slug": "thi-xa-vinh-chau",
+      "wards": [
+        {
+          "code": "31783",
+          "name": "Vĩnh Châu",
+          "fullName": "Phường Vĩnh Châu, Tỉnh Cần Thơ",
+          "slug": "vinh-chau",
+          "postalCode": "31783"
+        },
+        {
+          "code": "31789",
+          "name": "Khánh Hòa",
+          "fullName": "Phường Khánh Hòa, Tỉnh Cần Thơ",
+          "slug": "khanh-hoa",
+          "postalCode": "31789"
+        },
+        {
+          "code": "31795",
+          "name": "Vĩnh Hải",
+          "fullName": "Xã Vĩnh Hải, Tỉnh Cần Thơ",
+          "slug": "vinh-hai",
+          "postalCode": "31795"
+        },
+        {
+          "code": "31804",
+          "name": "Vĩnh Phước",
+          "fullName": "Phường Vĩnh Phước, Tỉnh Cần Thơ",
+          "slug": "vinh-phuoc",
+          "postalCode": "31804"
+        },
+        {
+          "code": "31810",
+          "name": "Lai Hòa",
+          "fullName": "Xã Lai Hòa, Tỉnh Cần Thơ",
+          "slug": "lai-hoa",
+          "postalCode": "31810"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Thạnh",
+      "slug": "huyen-vinh-thanh",
+      "wards": [
+        {
+          "code": "31231",
+          "name": "Thạnh An",
+          "fullName": "Xã Thạnh An, Tỉnh Cần Thơ",
+          "slug": "thanh-an",
+          "postalCode": "31231"
+        },
+        {
+          "code": "31232",
+          "name": "Vĩnh Thạnh",
+          "fullName": "Xã Vĩnh Thạnh, Tỉnh Cần Thơ",
+          "slug": "vinh-thanh",
+          "postalCode": "31232"
+        },
+        {
+          "code": "31237",
+          "name": "Vĩnh Trinh",
+          "fullName": "Xã Vĩnh Trinh, Tỉnh Cần Thơ",
+          "slug": "vinh-trinh",
+          "postalCode": "31237"
+        },
+        {
+          "code": "31246",
+          "name": "Thạnh Quới",
+          "fullName": "Xã Thạnh Quới, Tỉnh Cần Thơ",
+          "slug": "thanh-quoi",
+          "postalCode": "31246"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Châu Thành A",
+      "slug": "huyen-chau-thanh-a",
+      "wards": [
+        {
+          "code": "31342",
+          "name": "Tân Hòa",
+          "fullName": "Xã Tân Hòa, Tỉnh Cần Thơ",
+          "slug": "tan-hoa",
+          "postalCode": "31342"
+        },
+        {
+          "code": "31348",
+          "name": "Trường Long Tây",
+          "fullName": "Xã Trường Long Tây, Tỉnh Cần Thơ",
+          "slug": "truong-long-tay",
+          "postalCode": "31348"
+        },
+        {
+          "code": "31360",
+          "name": "Thạnh Xuân",
+          "fullName": "Xã Thạnh Xuân, Tỉnh Cần Thơ",
+          "slug": "thanh-xuan",
+          "postalCode": "31360"
+        },
+        {
+          "code": "31369",
+          "name": "Đông Phước",
+          "fullName": "Xã Đông Phước, Tỉnh Cần Thơ",
+          "slug": "dong-phuoc",
+          "postalCode": "31369"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "slug": "huyen-chau-thanh",
+      "wards": [
+        {
+          "code": "31366",
+          "name": "Châu Thành",
+          "fullName": "Xã Châu Thành, Tỉnh Cần Thơ",
+          "slug": "chau-thanh",
+          "postalCode": "31366"
+        },
+        {
+          "code": "31369",
+          "name": "Đông Phước",
+          "fullName": "Xã Đông Phước, Tỉnh Cần Thơ",
+          "slug": "dong-phuoc",
+          "postalCode": "31369"
+        },
+        {
+          "code": "31378",
+          "name": "Phú Hữu",
+          "fullName": "Xã Phú Hữu, Tỉnh Cần Thơ",
+          "slug": "phu-huu",
+          "postalCode": "31378"
+        },
+        {
+          "code": "31569",
+          "name": "Phú Tâm",
+          "fullName": "Xã Phú Tâm, Tỉnh Cần Thơ",
+          "slug": "phu-tam",
+          "postalCode": "31569"
+        },
+        {
+          "code": "31570",
+          "name": "Hồ Đắc Kiện",
+          "fullName": "Xã Hồ Đắc Kiện, Tỉnh Cần Thơ",
+          "slug": "ho-dac-kien",
+          "postalCode": "31570"
+        },
+        {
+          "code": "31582",
+          "name": "Thuận Hòa",
+          "fullName": "Xã Thuận Hòa, Tỉnh Cần Thơ",
+          "slug": "thuan-hoa",
+          "postalCode": "31582"
+        },
+        {
+          "code": "31594",
+          "name": "An Ninh",
+          "fullName": "Xã An Ninh, Tỉnh Cần Thơ",
+          "slug": "an-ninh",
+          "postalCode": "31594"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phụng Hiệp",
+      "slug": "huyen-phung-hiep",
+      "wards": [
+        {
+          "code": "31393",
+          "name": "Hòa An",
+          "fullName": "Xã Hòa An, Tỉnh Cần Thơ",
+          "slug": "hoa-an",
+          "postalCode": "31393"
+        },
+        {
+          "code": "31396",
+          "name": "Hiệp Hưng",
+          "fullName": "Xã Hiệp Hưng, Tỉnh Cần Thơ",
+          "slug": "hiep-hung",
+          "postalCode": "31396"
+        },
+        {
+          "code": "31399",
+          "name": "Tân Bình",
+          "fullName": "Xã Tân Bình, Tỉnh Cần Thơ",
+          "slug": "tan-binh",
+          "postalCode": "31399"
+        },
+        {
+          "code": "31408",
+          "name": "Thạnh Hòa",
+          "fullName": "Xã Thạnh Hòa, Tỉnh Cần Thơ",
+          "slug": "thanh-hoa",
+          "postalCode": "31408"
+        },
+        {
+          "code": "31420",
+          "name": "Phụng Hiệp",
+          "fullName": "Xã Phụng Hiệp, Tỉnh Cần Thơ",
+          "slug": "phung-hiep",
+          "postalCode": "31420"
+        },
+        {
+          "code": "31426",
+          "name": "Phương Bình",
+          "fullName": "Xã Phương Bình, Tỉnh Cần Thơ",
+          "slug": "phuong-binh",
+          "postalCode": "31426"
+        },
+        {
+          "code": "31432",
+          "name": "Tân Phước Hưng",
+          "fullName": "Xã Tân Phước Hưng, Tỉnh Cần Thơ",
+          "slug": "tan-phuoc-hung",
+          "postalCode": "31432"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vị Thuỷ",
+      "slug": "huyen-vi-thuy",
+      "wards": [
+        {
+          "code": "31441",
+          "name": "Vị Thủy",
+          "fullName": "Xã Vị Thủy, Tỉnh Cần Thơ",
+          "slug": "vi-thuy",
+          "postalCode": "31441"
+        },
+        {
+          "code": "31453",
+          "name": "Vĩnh Thuận Đông",
+          "fullName": "Xã Vĩnh Thuận Đông, Tỉnh Cần Thơ",
+          "slug": "vinh-thuan-dong",
+          "postalCode": "31453"
+        },
+        {
+          "code": "31459",
+          "name": "Vĩnh Tường",
+          "fullName": "Xã Vĩnh Tường, Tỉnh Cần Thơ",
+          "slug": "vinh-tuong",
+          "postalCode": "31459"
+        },
+        {
+          "code": "31465",
+          "name": "Vị Thanh 1",
+          "fullName": "Xã Vị Thanh 1, Tỉnh Cần Thơ",
+          "slug": "vi-thanh-1",
+          "postalCode": "31465"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Long Mỹ",
+      "slug": "huyen-long-my",
+      "wards": [
+        {
+          "code": "31453",
+          "name": "Vĩnh Thuận Đông",
+          "fullName": "Xã Vĩnh Thuận Đông, Tỉnh Cần Thơ",
+          "slug": "vinh-thuan-dong",
+          "postalCode": "31453"
+        },
+        {
+          "code": "31489",
+          "name": "Vĩnh Viễn",
+          "fullName": "Xã Vĩnh Viễn, Tỉnh Cần Thơ",
+          "slug": "vinh-vien",
+          "postalCode": "31489"
+        },
+        {
+          "code": "31492",
+          "name": "Lương Tâm",
+          "fullName": "Xã Lương Tâm, Tỉnh Cần Thơ",
+          "slug": "luong-tam",
+          "postalCode": "31492"
+        },
+        {
+          "code": "31495",
+          "name": "Xà Phiên",
+          "fullName": "Xã Xà Phiên, Tỉnh Cần Thơ",
+          "slug": "xa-phien",
+          "postalCode": "31495"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kế Sách",
+      "slug": "huyen-ke-sach",
+      "wards": [
+        {
+          "code": "31528",
+          "name": "Kế Sách",
+          "fullName": "Xã Kế Sách, Tỉnh Cần Thơ",
+          "slug": "ke-sach",
+          "postalCode": "31528"
+        },
+        {
+          "code": "31531",
+          "name": "An Lạc Thôn",
+          "fullName": "Xã An Lạc Thôn, Tỉnh Cần Thơ",
+          "slug": "an-lac-thon",
+          "postalCode": "31531"
+        },
+        {
+          "code": "31537",
+          "name": "Phong Nẫm",
+          "fullName": "Xã Phong Nẫm, Tỉnh Cần Thơ",
+          "slug": "phong-nam",
+          "postalCode": "31537"
+        },
+        {
+          "code": "31540",
+          "name": "Thới An Hội",
+          "fullName": "Xã Thới An Hội, Tỉnh Cần Thơ",
+          "slug": "thoi-an-hoi",
+          "postalCode": "31540"
+        },
+        {
+          "code": "31552",
+          "name": "Nhơn Mỹ",
+          "fullName": "Xã Nhơn Mỹ, Tỉnh Cần Thơ",
+          "slug": "nhon-my",
+          "postalCode": "31552"
+        },
+        {
+          "code": "31561",
+          "name": "Đại Hải",
+          "fullName": "Xã Đại Hải, Tỉnh Cần Thơ",
+          "slug": "dai-hai",
+          "postalCode": "31561"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Long Phú",
+      "slug": "huyen-long-phu",
+      "wards": [
+        {
+          "code": "31552",
+          "name": "Nhơn Mỹ",
+          "fullName": "Xã Nhơn Mỹ, Tỉnh Cần Thơ",
+          "slug": "nhon-my",
+          "postalCode": "31552"
+        },
+        {
+          "code": "31639",
+          "name": "Long Phú",
+          "fullName": "Xã Long Phú, Tỉnh Cần Thơ",
+          "slug": "long-phu",
+          "postalCode": "31639"
+        },
+        {
+          "code": "31645",
+          "name": "Đại Ngãi",
+          "fullName": "Xã Đại Ngãi, Tỉnh Cần Thơ",
+          "slug": "dai-ngai",
+          "postalCode": "31645"
+        },
+        {
+          "code": "31654",
+          "name": "Trường Khánh",
+          "fullName": "Xã Trường Khánh, Tỉnh Cần Thơ",
+          "slug": "truong-khanh",
+          "postalCode": "31654"
+        },
+        {
+          "code": "31666",
+          "name": "Tân Thạnh",
+          "fullName": "Xã Tân Thạnh, Tỉnh Cần Thơ",
+          "slug": "tan-thanh",
+          "postalCode": "31666"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mỹ Tú",
+      "slug": "huyen-my-tu",
+      "wards": [
+        {
+          "code": "31567",
+          "name": "Mỹ Tú",
+          "fullName": "Xã Mỹ Tú, Tỉnh Cần Thơ",
+          "slug": "my-tu",
+          "postalCode": "31567"
+        },
+        {
+          "code": "31579",
+          "name": "Long Hưng",
+          "fullName": "Xã Long Hưng, Tỉnh Cần Thơ",
+          "slug": "long-hung",
+          "postalCode": "31579"
+        },
+        {
+          "code": "31591",
+          "name": "Mỹ Hương",
+          "fullName": "Xã Mỹ Hương, Tỉnh Cần Thơ",
+          "slug": "my-huong",
+          "postalCode": "31591"
+        },
+        {
+          "code": "31603",
+          "name": "Mỹ Phước",
+          "fullName": "Xã Mỹ Phước, Tỉnh Cần Thơ",
+          "slug": "my-phuoc",
+          "postalCode": "31603"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cù Lao Dung",
+      "slug": "huyen-cu-lao-dung",
+      "wards": [
+        {
+          "code": "31615",
+          "name": "An Thạnh",
+          "fullName": "Xã An Thạnh, Tỉnh Cần Thơ",
+          "slug": "an-thanh",
+          "postalCode": "31615"
+        },
+        {
+          "code": "31633",
+          "name": "Cù Lao Dung",
+          "fullName": "Xã Cù Lao Dung, Tỉnh Cần Thơ",
+          "slug": "cu-lao-dung",
+          "postalCode": "31633"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trần Đề",
+      "slug": "huyen-tran-de",
+      "wards": [
+        {
+          "code": "31673",
+          "name": "Trần Đề",
+          "fullName": "Xã Trần Đề, Tỉnh Cần Thơ",
+          "slug": "tran-de",
+          "postalCode": "31673"
+        },
+        {
+          "code": "31675",
+          "name": "Liêu Tú",
+          "fullName": "Xã Liêu Tú, Tỉnh Cần Thơ",
+          "slug": "lieu-tu",
+          "postalCode": "31675"
+        },
+        {
+          "code": "31679",
+          "name": "Lịch Hội Thượng",
+          "fullName": "Xã Lịch Hội Thượng, Tỉnh Cần Thơ",
+          "slug": "lich-hoi-thuong",
+          "postalCode": "31679"
+        },
+        {
+          "code": "31687",
+          "name": "Tài Văn",
+          "fullName": "Xã Tài Văn, Tỉnh Cần Thơ",
+          "slug": "tai-van",
+          "postalCode": "31687"
+        },
+        {
+          "code": "31699",
+          "name": "Thạnh Thới An",
+          "fullName": "Xã Thạnh Thới An, Tỉnh Cần Thơ",
+          "slug": "thanh-thoi-an",
+          "postalCode": "31699"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thạnh Trị",
+      "slug": "huyen-thanh-tri",
+      "wards": [
+        {
+          "code": "31741",
+          "name": "Tân Long",
+          "fullName": "Xã Tân Long, Tỉnh Cần Thơ",
+          "slug": "tan-long",
+          "postalCode": "31741"
+        },
+        {
+          "code": "31756",
+          "name": "Phú Lộc",
+          "fullName": "Xã Phú Lộc, Tỉnh Cần Thơ",
+          "slug": "phu-loc",
+          "postalCode": "31756"
+        },
+        {
+          "code": "31759",
+          "name": "Lâm Tân",
+          "fullName": "Xã Lâm Tân, Tỉnh Cần Thơ",
+          "slug": "lam-tan",
+          "postalCode": "31759"
+        },
+        {
+          "code": "31777",
+          "name": "Vĩnh Lợi",
+          "fullName": "Xã Vĩnh Lợi, Tỉnh Cần Thơ",
+          "slug": "vinh-loi",
+          "postalCode": "31777"
+        }
+      ]
+    }
+  ]
+}

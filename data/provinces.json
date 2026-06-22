@@ -1,0 +1,342 @@
+[
+  {
+    "code": "01",
+    "name": "Hà Nội",
+    "slug": "ha-noi",
+    "type": "city",
+    "isCentral": true,
+    "fullName": "Thành phố Hà Nội",
+    "wardsCount": 126,
+    "oldDistrictsCount": 30
+  },
+  {
+    "code": "02",
+    "name": "Hưng Yên",
+    "slug": "hung-yen",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Hưng Yên",
+    "wardsCount": 104,
+    "oldDistrictsCount": 18
+  },
+  {
+    "code": "03",
+    "name": "Quảng Trị",
+    "slug": "quang-tri",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Quảng Trị",
+    "wardsCount": 78,
+    "oldDistrictsCount": 18
+  },
+  {
+    "code": "04",
+    "name": "Huế",
+    "slug": "hue",
+    "type": "city",
+    "isCentral": true,
+    "fullName": "Thành phố Huế",
+    "wardsCount": 40,
+    "oldDistrictsCount": 9
+  },
+  {
+    "code": "05",
+    "name": "Hải Phòng",
+    "slug": "hai-phong",
+    "type": "city",
+    "isCentral": true,
+    "fullName": "Thành phố Hải Phòng",
+    "wardsCount": 114,
+    "oldDistrictsCount": 27
+  },
+  {
+    "code": "06",
+    "name": "Phú Thọ",
+    "slug": "phu-tho",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Phú Thọ",
+    "wardsCount": 148,
+    "oldDistrictsCount": 32
+  },
+  {
+    "code": "07",
+    "name": "Thanh Hoá",
+    "slug": "thanh-hoa",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Thanh Hoá",
+    "wardsCount": 166,
+    "oldDistrictsCount": 26
+  },
+  {
+    "code": "08",
+    "name": "Quảng Ninh",
+    "slug": "quang-ninh",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Quảng Ninh",
+    "wardsCount": 54,
+    "oldDistrictsCount": 13
+  },
+  {
+    "code": "09",
+    "name": "Lào Cai",
+    "slug": "lao-cai",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Lào Cai",
+    "wardsCount": 99,
+    "oldDistrictsCount": 18
+  },
+  {
+    "code": "10",
+    "name": "Bắc Ninh",
+    "slug": "bac-ninh",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Bắc Ninh",
+    "wardsCount": 99,
+    "oldDistrictsCount": 18
+  },
+  {
+    "code": "11",
+    "name": "Nghệ An",
+    "slug": "nghe-an",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Nghệ An",
+    "wardsCount": 130,
+    "oldDistrictsCount": 20
+  },
+  {
+    "code": "12",
+    "name": "Đà Nẵng",
+    "slug": "da-nang",
+    "type": "city",
+    "isCentral": true,
+    "fullName": "Thành phố Đà Nẵng",
+    "wardsCount": 93,
+    "oldDistrictsCount": 25
+  },
+  {
+    "code": "13",
+    "name": "Ninh Bình",
+    "slug": "ninh-binh",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Ninh Bình",
+    "wardsCount": 129,
+    "oldDistrictsCount": 22
+  },
+  {
+    "code": "14",
+    "name": "Khánh Hòa",
+    "slug": "khanh-hoa",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Khánh Hòa",
+    "wardsCount": 65,
+    "oldDistrictsCount": 16
+  },
+  {
+    "code": "15",
+    "name": "Tây Ninh",
+    "slug": "tay-ninh",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Tây Ninh",
+    "wardsCount": 96,
+    "oldDistrictsCount": 23
+  },
+  {
+    "code": "16",
+    "name": "Đồng Tháp",
+    "slug": "dong-thap",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Đồng Tháp",
+    "wardsCount": 102,
+    "oldDistrictsCount": 22
+  },
+  {
+    "code": "17",
+    "name": "Hà Tĩnh",
+    "slug": "ha-tinh",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Hà Tĩnh",
+    "wardsCount": 68,
+    "oldDistrictsCount": 12
+  },
+  {
+    "code": "18",
+    "name": "An Giang",
+    "slug": "an-giang",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh An Giang",
+    "wardsCount": 102,
+    "oldDistrictsCount": 25
+  },
+  {
+    "code": "19",
+    "name": "Thái Nguyên",
+    "slug": "thai-nguyen",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Thái Nguyên",
+    "wardsCount": 92,
+    "oldDistrictsCount": 17
+  },
+  {
+    "code": "20",
+    "name": "Lạng Sơn",
+    "slug": "lang-son",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Lạng Sơn",
+    "wardsCount": 65,
+    "oldDistrictsCount": 11
+  },
+  {
+    "code": "21",
+    "name": "Điện Biên",
+    "slug": "dien-bien",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Điện Biên",
+    "wardsCount": 45,
+    "oldDistrictsCount": 10
+  },
+  {
+    "code": "22",
+    "name": "Đồng Nai",
+    "slug": "dong-nai",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Đồng Nai",
+    "wardsCount": 95,
+    "oldDistrictsCount": 22
+  },
+  {
+    "code": "23",
+    "name": "Quảng Ngãi",
+    "slug": "quang-ngai",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Quảng Ngãi",
+    "wardsCount": 96,
+    "oldDistrictsCount": 23
+  },
+  {
+    "code": "24",
+    "name": "Vĩnh Long",
+    "slug": "vinh-long",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Vĩnh Long",
+    "wardsCount": 123,
+    "oldDistrictsCount": 25
+  },
+  {
+    "code": "25",
+    "name": "Cao Bằng",
+    "slug": "cao-bang",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Cao Bằng",
+    "wardsCount": 56,
+    "oldDistrictsCount": 10
+  },
+  {
+    "code": "26",
+    "name": "Lai Châu",
+    "slug": "lai-chau",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Lai Châu",
+    "wardsCount": 38,
+    "oldDistrictsCount": 8
+  },
+  {
+    "code": "27",
+    "name": "Đắk Lắk",
+    "slug": "dak-lak",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Đắk Lắk",
+    "wardsCount": 102,
+    "oldDistrictsCount": 24
+  },
+  {
+    "code": "28",
+    "name": "Gia Lai",
+    "slug": "gia-lai",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Gia Lai",
+    "wardsCount": 134,
+    "oldDistrictsCount": 28
+  },
+  {
+    "code": "29",
+    "name": "Lâm Đồng",
+    "slug": "lam-dong",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Lâm Đồng",
+    "wardsCount": 124,
+    "oldDistrictsCount": 28
+  },
+  {
+    "code": "30",
+    "name": "Hồ Chí Minh",
+    "slug": "ho-chi-minh",
+    "type": "city",
+    "isCentral": true,
+    "fullName": "Thành phố Hồ Chí Minh",
+    "wardsCount": 168,
+    "oldDistrictsCount": 38
+  },
+  {
+    "code": "31",
+    "name": "Sơn La",
+    "slug": "son-la",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Sơn La",
+    "wardsCount": 75,
+    "oldDistrictsCount": 12
+  },
+  {
+    "code": "32",
+    "name": "Cần Thơ",
+    "slug": "can-tho",
+    "type": "city",
+    "isCentral": true,
+    "fullName": "Thành phố Cần Thơ",
+    "wardsCount": 103,
+    "oldDistrictsCount": 27
+  },
+  {
+    "code": "33",
+    "name": "Cà Mau",
+    "slug": "ca-mau",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Cà Mau",
+    "wardsCount": 64,
+    "oldDistrictsCount": 16
+  },
+  {
+    "code": "34",
+    "name": "Tuyên Quang",
+    "slug": "tuyen-quang",
+    "type": "province",
+    "isCentral": false,
+    "fullName": "Tỉnh Tuyên Quang",
+    "wardsCount": 124,
+    "oldDistrictsCount": 18
+  }
+]

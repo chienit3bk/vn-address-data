@@ -1,0 +1,1689 @@
+{
+  "code": "09",
+  "name": "Lào Cai",
+  "slug": "lao-cai",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Lào Cai",
+  "wards": [
+    {
+      "code": "00215",
+      "name": "Lào Cai",
+      "fullName": "Phường Lào Cai, Tỉnh Lào Cai",
+      "slug": "lao-cai",
+      "type": "ward",
+      "postalCode": "02647"
+    },
+    {
+      "code": "00282",
+      "name": "Yên Bái",
+      "fullName": "Phường Yên Bái, Tỉnh Lào Cai",
+      "slug": "yen-bai",
+      "type": "ward",
+      "postalCode": "04252"
+    },
+    {
+      "code": "00306",
+      "name": "Cam Đường",
+      "fullName": "Phường Cam Đường, Tỉnh Lào Cai",
+      "slug": "cam-duong",
+      "type": "ward",
+      "postalCode": "02671"
+    },
+    {
+      "code": "00875",
+      "name": "Mậu A",
+      "fullName": "Xã Mậu A, Tỉnh Lào Cai",
+      "slug": "mau-a",
+      "type": "commune",
+      "postalCode": "04375"
+    },
+    {
+      "code": "01178",
+      "name": "Thác Bà",
+      "fullName": "Xã Thác Bà, Tỉnh Lào Cai",
+      "slug": "thac-ba",
+      "type": "commune",
+      "postalCode": "04717"
+    },
+    {
+      "code": "01232",
+      "name": "Bảo Hà",
+      "fullName": "Xã Bảo Hà, Tỉnh Lào Cai",
+      "slug": "bao-ha",
+      "type": "commune",
+      "postalCode": "02989"
+    },
+    {
+      "code": "01320",
+      "name": "Bảo Thắng",
+      "fullName": "Xã Bảo Thắng, Tỉnh Lào Cai",
+      "slug": "bao-thang",
+      "type": "commune",
+      "postalCode": "02905"
+    },
+    {
+      "code": "01480",
+      "name": "Bắc Hà",
+      "fullName": "Xã Bắc Hà, Tỉnh Lào Cai",
+      "slug": "bac-ha",
+      "type": "commune",
+      "postalCode": "02839"
+    },
+    {
+      "code": "01503",
+      "name": "Lục Yên",
+      "fullName": "Xã Lục Yên, Tỉnh Lào Cai",
+      "slug": "luc-yen",
+      "type": "commune",
+      "postalCode": "04303"
+    },
+    {
+      "code": "01569",
+      "name": "Yên Bình",
+      "fullName": "Xã Yên Bình, Tỉnh Lào Cai",
+      "slug": "yen-binh",
+      "type": "commune",
+      "postalCode": "04714"
+    },
+    {
+      "code": "01576",
+      "name": "Trấn Yên",
+      "fullName": "Xã Trấn Yên, Tỉnh Lào Cai",
+      "slug": "tran-yen",
+      "type": "commune",
+      "postalCode": "04498"
+    },
+    {
+      "code": "01630",
+      "name": "Gia Phú",
+      "fullName": "Xã Gia Phú, Tỉnh Lào Cai",
+      "slug": "gia-phu",
+      "type": "commune",
+      "postalCode": "02923"
+    },
+    {
+      "code": "01724",
+      "name": "Bát Xát",
+      "fullName": "Xã Bát Xát, Tỉnh Lào Cai",
+      "slug": "bat-xat",
+      "type": "commune",
+      "postalCode": "02683"
+    },
+    {
+      "code": "01726",
+      "name": "Xuân Quang",
+      "fullName": "Xã Xuân Quang, Tỉnh Lào Cai",
+      "slug": "xuan-quang",
+      "type": "commune",
+      "postalCode": "02926"
+    },
+    {
+      "code": "01756",
+      "name": "Trung Tâm",
+      "fullName": "Phường Trung Tâm, Tỉnh Lào Cai",
+      "slug": "trung-tam",
+      "type": "ward",
+      "postalCode": "04663"
+    },
+    {
+      "code": "01782",
+      "name": "Văn Phú",
+      "fullName": "Phường Văn Phú, Tỉnh Lào Cai",
+      "slug": "van-phu",
+      "type": "ward",
+      "postalCode": "04279"
+    },
+    {
+      "code": "01849",
+      "name": "Mường Lai",
+      "fullName": "Xã Mường Lai, Tỉnh Lào Cai",
+      "slug": "muong-lai",
+      "type": "commune",
+      "postalCode": "04345"
+    },
+    {
+      "code": "01882",
+      "name": "Cầu Thia",
+      "fullName": "Phường Cầu Thia, Tỉnh Lào Cai",
+      "slug": "cau-thia",
+      "type": "ward",
+      "postalCode": "04681"
+    },
+    {
+      "code": "01918",
+      "name": "Xuân Ái",
+      "fullName": "Xã Xuân Ái, Tỉnh Lào Cai",
+      "slug": "xuan-ai",
+      "type": "commune",
+      "postalCode": "04441"
+    },
+    {
+      "code": "01947",
+      "name": "Mường Khương",
+      "fullName": "Xã Mường Khương, Tỉnh Lào Cai",
+      "slug": "muong-khuong",
+      "type": "commune",
+      "postalCode": "02761"
+    },
+    {
+      "code": "01961",
+      "name": "Bảo Ái",
+      "fullName": "Xã Bảo Ái, Tỉnh Lào Cai",
+      "slug": "bao-ai",
+      "type": "commune",
+      "postalCode": "04750"
+    },
+    {
+      "code": "01987",
+      "name": "Văn Bàn",
+      "fullName": "Xã Văn Bàn, Tỉnh Lào Cai",
+      "slug": "van-ban",
+      "type": "commune",
+      "postalCode": "03082"
+    },
+    {
+      "code": "01998",
+      "name": "Văn Chấn",
+      "fullName": "Xã Văn Chấn, Tỉnh Lào Cai",
+      "slug": "van-chan",
+      "type": "commune",
+      "postalCode": "04672"
+    },
+    {
+      "code": "02045",
+      "name": "Âu Lâu",
+      "fullName": "Phường Âu Lâu, Tỉnh Lào Cai",
+      "slug": "au-lau",
+      "type": "ward",
+      "postalCode": "04543"
+    },
+    {
+      "code": "02072",
+      "name": "Sa Pa",
+      "fullName": "Phường Sa Pa, Tỉnh Lào Cai",
+      "slug": "sa-pa",
+      "type": "ward",
+      "postalCode": "03006"
+    },
+    {
+      "code": "02074",
+      "name": "Si Ma Cai",
+      "fullName": "Xã Si Ma Cai, Tỉnh Lào Cai",
+      "slug": "si-ma-cai",
+      "type": "commune",
+      "postalCode": "02809"
+    },
+    {
+      "code": "02140",
+      "name": "Đông Cuông",
+      "fullName": "Xã Đông Cuông, Tỉnh Lào Cai",
+      "slug": "dong-cuong",
+      "type": "commune",
+      "postalCode": "04399"
+    },
+    {
+      "code": "02163",
+      "name": "Bảo Yên",
+      "fullName": "Xã Bảo Yên, Tỉnh Lào Cai",
+      "slug": "bao-yen",
+      "type": "commune",
+      "postalCode": "02947"
+    },
+    {
+      "code": "02231",
+      "name": "Tằng Lỏong",
+      "fullName": "Xã Tằng Lỏong, Tỉnh Lào Cai",
+      "slug": "tang-loong",
+      "type": "commune",
+      "postalCode": "02908"
+    },
+    {
+      "code": "02253",
+      "name": "Tân Lĩnh",
+      "fullName": "Xã Tân Lĩnh, Tỉnh Lào Cai",
+      "slug": "tan-linh",
+      "type": "commune",
+      "postalCode": "04336"
+    },
+    {
+      "code": "02287",
+      "name": "Lâm Thượng",
+      "fullName": "Xã Lâm Thượng, Tỉnh Lào Cai",
+      "slug": "lam-thuong",
+      "type": "commune",
+      "postalCode": "04309"
+    },
+    {
+      "code": "02290",
+      "name": "Púng Luông",
+      "fullName": "Xã Púng Luông, Tỉnh Lào Cai",
+      "slug": "pung-luong",
+      "type": "commune",
+      "postalCode": "04492"
+    },
+    {
+      "code": "02328",
+      "name": "Nghĩa Tâm",
+      "fullName": "Xã Nghĩa Tâm, Tỉnh Lào Cai",
+      "slug": "nghia-tam",
+      "type": "commune",
+      "postalCode": "04711"
+    },
+    {
+      "code": "02343",
+      "name": "Chấn Thịnh",
+      "fullName": "Xã Chấn Thịnh, Tỉnh Lào Cai",
+      "slug": "chan-thinh",
+      "type": "commune",
+      "postalCode": "04699"
+    },
+    {
+      "code": "02349",
+      "name": "Nghĩa Lộ",
+      "fullName": "Phường Nghĩa Lộ, Tỉnh Lào Cai",
+      "slug": "nghia-lo",
+      "type": "ward",
+      "postalCode": "04288"
+    },
+    {
+      "code": "02351",
+      "name": "Tả Van",
+      "fullName": "Xã Tả Van, Tỉnh Lào Cai",
+      "slug": "ta-van",
+      "type": "commune",
+      "postalCode": "03037"
+    },
+    {
+      "code": "02360",
+      "name": "Bản Lầu",
+      "fullName": "Xã Bản Lầu, Tỉnh Lào Cai",
+      "slug": "ban-lau",
+      "type": "commune",
+      "postalCode": "02788"
+    },
+    {
+      "code": "02399",
+      "name": "Võ Lao",
+      "fullName": "Xã Võ Lao, Tỉnh Lào Cai",
+      "slug": "vo-lao",
+      "type": "commune",
+      "postalCode": "03061"
+    },
+    {
+      "code": "02409",
+      "name": "Nam Cường",
+      "fullName": "Phường Nam Cường, Tỉnh Lào Cai",
+      "slug": "nam-cuong",
+      "type": "ward",
+      "postalCode": "04273"
+    },
+    {
+      "code": "02421",
+      "name": "Khánh Hòa",
+      "fullName": "Xã Khánh Hòa, Tỉnh Lào Cai",
+      "slug": "khanh-hoa",
+      "type": "commune",
+      "postalCode": "04342"
+    },
+    {
+      "code": "02440",
+      "name": "Bảo Nhai",
+      "fullName": "Xã Bảo Nhai, Tỉnh Lào Cai",
+      "slug": "bao-nhai",
+      "type": "commune",
+      "postalCode": "02890"
+    },
+    {
+      "code": "02441",
+      "name": "Cảm Nhân",
+      "fullName": "Xã Cảm Nhân, Tỉnh Lào Cai",
+      "slug": "cam-nhan",
+      "type": "commune",
+      "postalCode": "04726"
+    },
+    {
+      "code": "02465",
+      "name": "Phong Hải",
+      "fullName": "Xã Phong Hải, Tỉnh Lào Cai",
+      "slug": "phong-hai",
+      "type": "commune",
+      "postalCode": "02902"
+    },
+    {
+      "code": "02495",
+      "name": "Lâm Giang",
+      "fullName": "Xã Lâm Giang, Tỉnh Lào Cai",
+      "slug": "lam-giang",
+      "type": "commune",
+      "postalCode": "04381"
+    },
+    {
+      "code": "02516",
+      "name": "Quy Mông",
+      "fullName": "Xã Quy Mông, Tỉnh Lào Cai",
+      "slug": "quy-mong",
+      "type": "commune",
+      "postalCode": "04531"
+    },
+    {
+      "code": "02564",
+      "name": "Yên Thành",
+      "fullName": "Xã Yên Thành, Tỉnh Lào Cai",
+      "slug": "yen-thanh",
+      "type": "commune",
+      "postalCode": "04744"
+    },
+    {
+      "code": "02570",
+      "name": "Phúc Lợi",
+      "fullName": "Xã Phúc Lợi, Tỉnh Lào Cai",
+      "slug": "phuc-loi",
+      "type": "commune",
+      "postalCode": "04363"
+    },
+    {
+      "code": "02600",
+      "name": "Gia Hội",
+      "fullName": "Xã Gia Hội, Tỉnh Lào Cai",
+      "slug": "gia-hoi",
+      "type": "commune",
+      "postalCode": "04636"
+    },
+    {
+      "code": "02609",
+      "name": "Mù Cang Chải",
+      "fullName": "Xã Mù Cang Chải, Tỉnh Lào Cai",
+      "slug": "mu-cang-chai",
+      "type": "commune",
+      "postalCode": "04456"
+    },
+    {
+      "code": "02615",
+      "name": "Thượng Bằng La",
+      "fullName": "Xã Thượng Bằng La, Tỉnh Lào Cai",
+      "slug": "thuong-bang-la",
+      "type": "commune",
+      "postalCode": "04705"
+    },
+    {
+      "code": "02624",
+      "name": "Pha Long",
+      "fullName": "Xã Pha Long, Tỉnh Lào Cai",
+      "slug": "pha-long",
+      "type": "commune",
+      "postalCode": "02752"
+    },
+    {
+      "code": "02640",
+      "name": "Khánh Yên",
+      "fullName": "Xã Khánh Yên, Tỉnh Lào Cai",
+      "slug": "khanh-yen",
+      "type": "commune",
+      "postalCode": "03103"
+    },
+    {
+      "code": "02650",
+      "name": "Thượng Hà",
+      "fullName": "Xã Thượng Hà, Tỉnh Lào Cai",
+      "slug": "thuong-ha",
+      "type": "commune",
+      "postalCode": "02968"
+    },
+    {
+      "code": "02656",
+      "name": "Hưng Khánh",
+      "fullName": "Xã Hưng Khánh, Tỉnh Lào Cai",
+      "slug": "hung-khanh",
+      "type": "commune",
+      "postalCode": "04576"
+    },
+    {
+      "code": "02658",
+      "name": "Cao Sơn",
+      "fullName": "Xã Cao Sơn, Tỉnh Lào Cai",
+      "slug": "cao-son",
+      "type": "commune",
+      "postalCode": "02782"
+    },
+    {
+      "code": "02666",
+      "name": "Nghĩa Đô",
+      "fullName": "Xã Nghĩa Đô, Tỉnh Lào Cai",
+      "slug": "nghia-do",
+      "type": "commune",
+      "postalCode": "02953"
+    },
+    {
+      "code": "02674",
+      "name": "Hạnh Phúc",
+      "fullName": "Xã Hạnh Phúc, Tỉnh Lào Cai",
+      "slug": "hanh-phuc",
+      "type": "commune",
+      "postalCode": "04585"
+    },
+    {
+      "code": "02687",
+      "name": "Châu Quế",
+      "fullName": "Xã Châu Quế, Tỉnh Lào Cai",
+      "slug": "chau-que",
+      "type": "commune",
+      "postalCode": "04387"
+    },
+    {
+      "code": "02694",
+      "name": "Liên Sơn",
+      "fullName": "Xã Liên Sơn, Tỉnh Lào Cai",
+      "slug": "lien-son",
+      "type": "commune",
+      "postalCode": "04660"
+    },
+    {
+      "code": "02697",
+      "name": "Tú Lệ",
+      "fullName": "Xã Tú Lệ, Tỉnh Lào Cai",
+      "slug": "tu-le",
+      "type": "commune",
+      "postalCode": "04630"
+    },
+    {
+      "code": "02711",
+      "name": "Xuân Hòa",
+      "fullName": "Xã Xuân Hòa, Tỉnh Lào Cai",
+      "slug": "xuan-hoa",
+      "type": "commune",
+      "postalCode": "02962"
+    },
+    {
+      "code": "02728",
+      "name": "Lương Thịnh",
+      "fullName": "Xã Lương Thịnh, Tỉnh Lào Cai",
+      "slug": "luong-thinh",
+      "type": "commune",
+      "postalCode": "04537"
+    },
+    {
+      "code": "02743",
+      "name": "Sơn Lương",
+      "fullName": "Xã Sơn Lương, Tỉnh Lào Cai",
+      "slug": "son-luong",
+      "type": "commune",
+      "postalCode": "04651"
+    },
+    {
+      "code": "02744",
+      "name": "Hợp Thành",
+      "fullName": "Xã Hợp Thành, Tỉnh Lào Cai",
+      "slug": "hop-thanh",
+      "type": "commune",
+      "postalCode": "02680"
+    },
+    {
+      "code": "02754",
+      "name": "Trịnh Tường",
+      "fullName": "Xã Trịnh Tường, Tỉnh Lào Cai",
+      "slug": "trinh-tuong",
+      "type": "commune",
+      "postalCode": "02695"
+    },
+    {
+      "code": "02766",
+      "name": "Dền Sáng",
+      "fullName": "Xã Dền Sáng, Tỉnh Lào Cai",
+      "slug": "den-sang",
+      "type": "commune",
+      "postalCode": "02707"
+    },
+    {
+      "code": "02768",
+      "name": "Lùng Phình",
+      "fullName": "Xã Lùng Phình, Tỉnh Lào Cai",
+      "slug": "lung-phinh",
+      "type": "commune",
+      "postalCode": "02848"
+    },
+    {
+      "code": "02804",
+      "name": "Tân Hợp",
+      "fullName": "Xã Tân Hợp, Tỉnh Lào Cai",
+      "slug": "tan-hop",
+      "type": "commune",
+      "postalCode": "04429"
+    },
+    {
+      "code": "02806",
+      "name": "Trạm Tấu",
+      "fullName": "Xã Trạm Tấu, Tỉnh Lào Cai",
+      "slug": "tram-tau",
+      "type": "commune",
+      "postalCode": "04606"
+    },
+    {
+      "code": "02811",
+      "name": "Cát Thịnh",
+      "fullName": "Xã Cát Thịnh, Tỉnh Lào Cai",
+      "slug": "cat-thinh",
+      "type": "commune",
+      "postalCode": "04693"
+    },
+    {
+      "code": "02832",
+      "name": "Cốc San",
+      "fullName": "Xã Cốc San, Tỉnh Lào Cai",
+      "slug": "coc-san",
+      "type": "commune",
+      "postalCode": "02746"
+    },
+    {
+      "code": "02846",
+      "name": "Phình Hồ",
+      "fullName": "Xã Phình Hồ, Tỉnh Lào Cai",
+      "slug": "phinh-ho",
+      "type": "commune",
+      "postalCode": "04609"
+    },
+    {
+      "code": "02858",
+      "name": "Việt Hồng",
+      "fullName": "Xã Việt Hồng, Tỉnh Lào Cai",
+      "slug": "viet-hong",
+      "type": "commune",
+      "postalCode": "04564"
+    },
+    {
+      "code": "02897",
+      "name": "Y Tý",
+      "fullName": "Xã Y Tý, Tỉnh Lào Cai",
+      "slug": "y-ty",
+      "type": "commune",
+      "postalCode": "02701"
+    },
+    {
+      "code": "02906",
+      "name": "Lao Chải",
+      "fullName": "Xã Lao Chải, Tỉnh Lào Cai",
+      "slug": "lao-chai",
+      "type": "commune",
+      "postalCode": "04474"
+    },
+    {
+      "code": "02915",
+      "name": "Mỏ Vàng",
+      "fullName": "Xã Mỏ Vàng, Tỉnh Lào Cai",
+      "slug": "mo-vang",
+      "type": "commune",
+      "postalCode": "04450"
+    },
+    {
+      "code": "02917",
+      "name": "Nậm Có",
+      "fullName": "Xã Nậm Có, Tỉnh Lào Cai",
+      "slug": "nam-co",
+      "type": "commune",
+      "postalCode": "04462"
+    },
+    {
+      "code": "02924",
+      "name": "Tả Phìn",
+      "fullName": "Xã Tả Phìn, Tỉnh Lào Cai",
+      "slug": "ta-phin",
+      "type": "commune",
+      "postalCode": "03013"
+    },
+    {
+      "code": "02967",
+      "name": "Bản Hồ",
+      "fullName": "Xã Bản Hồ, Tỉnh Lào Cai",
+      "slug": "ban-ho",
+      "type": "commune",
+      "postalCode": "03046"
+    },
+    {
+      "code": "02969",
+      "name": "Khao Mang",
+      "fullName": "Xã Khao Mang, Tỉnh Lào Cai",
+      "slug": "khao-mang",
+      "type": "commune",
+      "postalCode": "04465"
+    },
+    {
+      "code": "02973",
+      "name": "Chiềng Ken",
+      "fullName": "Xã Chiềng Ken, Tỉnh Lào Cai",
+      "slug": "chieng-ken",
+      "type": "commune",
+      "postalCode": "03091"
+    },
+    {
+      "code": "02985",
+      "name": "Minh Lương",
+      "fullName": "Xã Minh Lương, Tỉnh Lào Cai",
+      "slug": "minh-luong",
+      "type": "commune",
+      "postalCode": "03121"
+    },
+    {
+      "code": "03000",
+      "name": "Dương Quỳ",
+      "fullName": "Xã Dương Quỳ, Tỉnh Lào Cai",
+      "slug": "duong-quy",
+      "type": "commune",
+      "postalCode": "03106"
+    },
+    {
+      "code": "03009",
+      "name": "Cốc Lầu",
+      "fullName": "Xã Cốc Lầu, Tỉnh Lào Cai",
+      "slug": "coc-lau",
+      "type": "commune",
+      "postalCode": "02896"
+    },
+    {
+      "code": "03023",
+      "name": "Bản Xèo",
+      "fullName": "Xã Bản Xèo, Tỉnh Lào Cai",
+      "slug": "ban-xeo",
+      "type": "commune",
+      "postalCode": "02725"
+    },
+    {
+      "code": "03025",
+      "name": "Phúc Khánh",
+      "fullName": "Xã Phúc Khánh, Tỉnh Lào Cai",
+      "slug": "phuc-khanh",
+      "type": "commune",
+      "postalCode": "02998"
+    },
+    {
+      "code": "03060",
+      "name": "Phong Dụ Hạ",
+      "fullName": "Xã Phong Dụ Hạ, Tỉnh Lào Cai",
+      "slug": "phong-du-ha",
+      "type": "commune",
+      "postalCode": "04402"
+    },
+    {
+      "code": "03085",
+      "name": "Ngũ Chỉ Sơn",
+      "fullName": "Xã Ngũ Chỉ Sơn, Tỉnh Lào Cai",
+      "slug": "ngu-chi-son",
+      "type": "commune",
+      "postalCode": "03004"
+    },
+    {
+      "code": "03108",
+      "name": "Mường Bo",
+      "fullName": "Xã Mường Bo, Tỉnh Lào Cai",
+      "slug": "muong-bo",
+      "type": "commune",
+      "postalCode": "03043"
+    },
+    {
+      "code": "03134",
+      "name": "Mường Hum",
+      "fullName": "Xã Mường Hum, Tỉnh Lào Cai",
+      "slug": "muong-hum",
+      "type": "commune",
+      "postalCode": "02728"
+    },
+    {
+      "code": "03140",
+      "name": "Phong Dụ Thượng",
+      "fullName": "Xã Phong Dụ Thượng, Tỉnh Lào Cai",
+      "slug": "phong-du-thuong",
+      "type": "commune",
+      "postalCode": "04423"
+    },
+    {
+      "code": "03156",
+      "name": "Tả Củ Tỷ",
+      "fullName": "Xã Tả Củ Tỷ, Tỉnh Lào Cai",
+      "slug": "ta-cu-ty",
+      "type": "commune",
+      "postalCode": "02842"
+    },
+    {
+      "code": "03201",
+      "name": "A Mú Sung",
+      "fullName": "Xã A Mú Sung, Tỉnh Lào Cai",
+      "slug": "a-mu-sung",
+      "type": "commune",
+      "postalCode": "02686"
+    },
+    {
+      "code": "03222",
+      "name": "Sín Chéng",
+      "fullName": "Xã Sín Chéng, Tỉnh Lào Cai",
+      "slug": "sin-cheng",
+      "type": "commune",
+      "postalCode": "02824"
+    },
+    {
+      "code": "03232",
+      "name": "Nậm Chày",
+      "fullName": "Xã Nậm Chày, Tỉnh Lào Cai",
+      "slug": "nam-chay",
+      "type": "commune",
+      "postalCode": "03076"
+    },
+    {
+      "code": "03280",
+      "name": "Bản Liền",
+      "fullName": "Xã Bản Liền, Tỉnh Lào Cai",
+      "slug": "ban-lien",
+      "type": "commune",
+      "postalCode": "02869"
+    },
+    {
+      "code": "03305",
+      "name": "Chế Tạo",
+      "fullName": "Xã Chế Tạo, Tỉnh Lào Cai",
+      "slug": "che-tao",
+      "type": "commune",
+      "postalCode": "04489"
+    },
+    {
+      "code": "03311",
+      "name": "Tà Xi Láng",
+      "fullName": "Xã Tà Xi Láng, Tỉnh Lào Cai",
+      "slug": "ta-xi-lang",
+      "type": "commune",
+      "postalCode": "04603"
+    },
+    {
+      "code": "03315",
+      "name": "Nậm Xé",
+      "fullName": "Xã Nậm Xé, Tỉnh Lào Cai",
+      "slug": "nam-xe",
+      "type": "commune",
+      "postalCode": "03085"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Lào Cai",
+      "slug": "thanh-pho-lao-cai",
+      "wards": [
+        {
+          "code": "02647",
+          "name": "Lào Cai",
+          "fullName": "Phường Lào Cai, Tỉnh Lào Cai",
+          "slug": "lao-cai",
+          "postalCode": "02647"
+        },
+        {
+          "code": "02671",
+          "name": "Cam Đường",
+          "fullName": "Phường Cam Đường, Tỉnh Lào Cai",
+          "slug": "cam-duong",
+          "postalCode": "02671"
+        },
+        {
+          "code": "02680",
+          "name": "Hợp Thành",
+          "fullName": "Xã Hợp Thành, Tỉnh Lào Cai",
+          "slug": "hop-thanh",
+          "postalCode": "02680"
+        },
+        {
+          "code": "02746",
+          "name": "Cốc San",
+          "fullName": "Xã Cốc San, Tỉnh Lào Cai",
+          "slug": "coc-san",
+          "postalCode": "02746"
+        },
+        {
+          "code": "02923",
+          "name": "Gia Phú",
+          "fullName": "Xã Gia Phú, Tỉnh Lào Cai",
+          "slug": "gia-phu",
+          "postalCode": "02923"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bảo Thắng",
+      "slug": "huyen-bao-thang",
+      "wards": [
+        {
+          "code": "02647",
+          "name": "Lào Cai",
+          "fullName": "Phường Lào Cai, Tỉnh Lào Cai",
+          "slug": "lao-cai",
+          "postalCode": "02647"
+        },
+        {
+          "code": "02902",
+          "name": "Phong Hải",
+          "fullName": "Xã Phong Hải, Tỉnh Lào Cai",
+          "slug": "phong-hai",
+          "postalCode": "02902"
+        },
+        {
+          "code": "02905",
+          "name": "Bảo Thắng",
+          "fullName": "Xã Bảo Thắng, Tỉnh Lào Cai",
+          "slug": "bao-thang",
+          "postalCode": "02905"
+        },
+        {
+          "code": "02908",
+          "name": "Tằng Loỏng",
+          "fullName": "Xã Tằng Loỏng, Tỉnh Lào Cai",
+          "slug": "tang-loong",
+          "postalCode": "02908"
+        },
+        {
+          "code": "02923",
+          "name": "Gia Phú",
+          "fullName": "Xã Gia Phú, Tỉnh Lào Cai",
+          "slug": "gia-phu",
+          "postalCode": "02923"
+        },
+        {
+          "code": "02926",
+          "name": "Xuân Quang",
+          "fullName": "Xã Xuân Quang, Tỉnh Lào Cai",
+          "slug": "xuan-quang",
+          "postalCode": "02926"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Sa Pa",
+      "slug": "thi-xa-sa-pa",
+      "wards": [
+        {
+          "code": "03004",
+          "name": "Ngũ Chỉ Sơn",
+          "fullName": "Xã Ngũ Chỉ Sơn, Tỉnh Lào Cai",
+          "slug": "ngu-chi-son",
+          "postalCode": "03004"
+        },
+        {
+          "code": "03006",
+          "name": "Sa Pa",
+          "fullName": "Phường Sa Pa, Tỉnh Lào Cai",
+          "slug": "sa-pa",
+          "postalCode": "03006"
+        },
+        {
+          "code": "03013",
+          "name": "Tả Phìn",
+          "fullName": "Xã Tả Phìn, Tỉnh Lào Cai",
+          "slug": "ta-phin",
+          "postalCode": "03013"
+        },
+        {
+          "code": "03037",
+          "name": "Tả Van",
+          "fullName": "Xã Tả Van, Tỉnh Lào Cai",
+          "slug": "ta-van",
+          "postalCode": "03037"
+        },
+        {
+          "code": "03043",
+          "name": "Mường Bo",
+          "fullName": "Xã Mường Bo, Tỉnh Lào Cai",
+          "slug": "muong-bo",
+          "postalCode": "03043"
+        },
+        {
+          "code": "03046",
+          "name": "Bản Hồ",
+          "fullName": "Xã Bản Hồ, Tỉnh Lào Cai",
+          "slug": "ban-ho",
+          "postalCode": "03046"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Yên Bái",
+      "slug": "thanh-pho-yen-bai",
+      "wards": [
+        {
+          "code": "04252",
+          "name": "Yên Bái",
+          "fullName": "Phường Yên Bái, Tỉnh Lào Cai",
+          "slug": "yen-bai",
+          "postalCode": "04252"
+        },
+        {
+          "code": "04273",
+          "name": "Nam Cường",
+          "fullName": "Phường Nam Cường, Tỉnh Lào Cai",
+          "slug": "nam-cuong",
+          "postalCode": "04273"
+        },
+        {
+          "code": "04279",
+          "name": "Văn Phú",
+          "fullName": "Phường Văn Phú, Tỉnh Lào Cai",
+          "slug": "van-phu",
+          "postalCode": "04279"
+        },
+        {
+          "code": "04543",
+          "name": "Âu Lâu",
+          "fullName": "Phường Âu Lâu, Tỉnh Lào Cai",
+          "slug": "au-lau",
+          "postalCode": "04543"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trấn Yên",
+      "slug": "huyen-tran-yen",
+      "wards": [
+        {
+          "code": "04273",
+          "name": "Nam Cường",
+          "fullName": "Phường Nam Cường, Tỉnh Lào Cai",
+          "slug": "nam-cuong",
+          "postalCode": "04273"
+        },
+        {
+          "code": "04498",
+          "name": "Trấn Yên",
+          "fullName": "Xã Trấn Yên, Tỉnh Lào Cai",
+          "slug": "tran-yen",
+          "postalCode": "04498"
+        },
+        {
+          "code": "04531",
+          "name": "Quy Mông",
+          "fullName": "Xã Quy Mông, Tỉnh Lào Cai",
+          "slug": "quy-mong",
+          "postalCode": "04531"
+        },
+        {
+          "code": "04537",
+          "name": "Lương Thịnh",
+          "fullName": "Xã Lương Thịnh, Tỉnh Lào Cai",
+          "slug": "luong-thinh",
+          "postalCode": "04537"
+        },
+        {
+          "code": "04543",
+          "name": "Âu Lâu",
+          "fullName": "Phường Âu Lâu, Tỉnh Lào Cai",
+          "slug": "au-lau",
+          "postalCode": "04543"
+        },
+        {
+          "code": "04564",
+          "name": "Việt Hồng",
+          "fullName": "Xã Việt Hồng, Tỉnh Lào Cai",
+          "slug": "viet-hong",
+          "postalCode": "04564"
+        },
+        {
+          "code": "04576",
+          "name": "Hưng Khánh",
+          "fullName": "Xã Hưng Khánh, Tỉnh Lào Cai",
+          "slug": "hung-khanh",
+          "postalCode": "04576"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Bình",
+      "slug": "huyen-yen-binh",
+      "wards": [
+        {
+          "code": "04279",
+          "name": "Văn Phú",
+          "fullName": "Phường Văn Phú, Tỉnh Lào Cai",
+          "slug": "van-phu",
+          "postalCode": "04279"
+        },
+        {
+          "code": "04714",
+          "name": "Yên Bình",
+          "fullName": "Xã Yên Bình, Tỉnh Lào Cai",
+          "slug": "yen-binh",
+          "postalCode": "04714"
+        },
+        {
+          "code": "04717",
+          "name": "Thác Bà",
+          "fullName": "Xã Thác Bà, Tỉnh Lào Cai",
+          "slug": "thac-ba",
+          "postalCode": "04717"
+        },
+        {
+          "code": "04726",
+          "name": "Cảm Nhân",
+          "fullName": "Xã Cảm Nhân, Tỉnh Lào Cai",
+          "slug": "cam-nhan",
+          "postalCode": "04726"
+        },
+        {
+          "code": "04744",
+          "name": "Yên Thành",
+          "fullName": "Xã Yên Thành, Tỉnh Lào Cai",
+          "slug": "yen-thanh",
+          "postalCode": "04744"
+        },
+        {
+          "code": "04750",
+          "name": "Bảo Ái",
+          "fullName": "Xã Bảo Ái, Tỉnh Lào Cai",
+          "slug": "bao-ai",
+          "postalCode": "04750"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Nghĩa Lộ",
+      "slug": "thi-xa-nghia-lo",
+      "wards": [
+        {
+          "code": "04288",
+          "name": "Nghĩa Lộ",
+          "fullName": "Phường Nghĩa Lộ, Tỉnh Lào Cai",
+          "slug": "nghia-lo",
+          "postalCode": "04288"
+        },
+        {
+          "code": "04660",
+          "name": "Liên Sơn",
+          "fullName": "Xã Liên Sơn, Tỉnh Lào Cai",
+          "slug": "lien-son",
+          "postalCode": "04660"
+        },
+        {
+          "code": "04663",
+          "name": "Trung Tâm",
+          "fullName": "Phường Trung Tâm, Tỉnh Lào Cai",
+          "slug": "trung-tam",
+          "postalCode": "04663"
+        },
+        {
+          "code": "04681",
+          "name": "Cầu Thia",
+          "fullName": "Phường Cầu Thia, Tỉnh Lào Cai",
+          "slug": "cau-thia",
+          "postalCode": "04681"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Văn Chấn",
+      "slug": "huyen-van-chan",
+      "wards": [
+        {
+          "code": "04288",
+          "name": "Nghĩa Lộ",
+          "fullName": "Phường Nghĩa Lộ, Tỉnh Lào Cai",
+          "slug": "nghia-lo",
+          "postalCode": "04288"
+        },
+        {
+          "code": "04450",
+          "name": "Mỏ Vàng",
+          "fullName": "Xã Mỏ Vàng, Tỉnh Lào Cai",
+          "slug": "mo-vang",
+          "postalCode": "04450"
+        },
+        {
+          "code": "04630",
+          "name": "Tú Lệ",
+          "fullName": "Xã Tú Lệ, Tỉnh Lào Cai",
+          "slug": "tu-le",
+          "postalCode": "04630"
+        },
+        {
+          "code": "04636",
+          "name": "Gia Hội",
+          "fullName": "Xã Gia Hội, Tỉnh Lào Cai",
+          "slug": "gia-hoi",
+          "postalCode": "04636"
+        },
+        {
+          "code": "04651",
+          "name": "Sơn Lương",
+          "fullName": "Xã Sơn Lương, Tỉnh Lào Cai",
+          "slug": "son-luong",
+          "postalCode": "04651"
+        },
+        {
+          "code": "04660",
+          "name": "Liên Sơn",
+          "fullName": "Xã Liên Sơn, Tỉnh Lào Cai",
+          "slug": "lien-son",
+          "postalCode": "04660"
+        },
+        {
+          "code": "04672",
+          "name": "Văn Chấn",
+          "fullName": "Xã Văn Chấn, Tỉnh Lào Cai",
+          "slug": "van-chan",
+          "postalCode": "04672"
+        },
+        {
+          "code": "04693",
+          "name": "Cát Thịnh",
+          "fullName": "Xã Cát Thịnh, Tỉnh Lào Cai",
+          "slug": "cat-thinh",
+          "postalCode": "04693"
+        },
+        {
+          "code": "04699",
+          "name": "Chấn Thịnh",
+          "fullName": "Xã Chấn Thịnh, Tỉnh Lào Cai",
+          "slug": "chan-thinh",
+          "postalCode": "04699"
+        },
+        {
+          "code": "04705",
+          "name": "Thượng Bằng La",
+          "fullName": "Xã Thượng Bằng La, Tỉnh Lào Cai",
+          "slug": "thuong-bang-la",
+          "postalCode": "04705"
+        },
+        {
+          "code": "04711",
+          "name": "Nghĩa Tâm",
+          "fullName": "Xã Nghĩa Tâm, Tỉnh Lào Cai",
+          "slug": "nghia-tam",
+          "postalCode": "04711"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bát Xát",
+      "slug": "huyen-bat-xat",
+      "wards": [
+        {
+          "code": "02683",
+          "name": "Bát Xát",
+          "fullName": "Xã Bát Xát, Tỉnh Lào Cai",
+          "slug": "bat-xat",
+          "postalCode": "02683"
+        },
+        {
+          "code": "02686",
+          "name": "A Mú Sung",
+          "fullName": "Xã A Mú Sung, Tỉnh Lào Cai",
+          "slug": "a-mu-sung",
+          "postalCode": "02686"
+        },
+        {
+          "code": "02695",
+          "name": "Trịnh Tường",
+          "fullName": "Xã Trịnh Tường, Tỉnh Lào Cai",
+          "slug": "trinh-tuong",
+          "postalCode": "02695"
+        },
+        {
+          "code": "02701",
+          "name": "Y Tý",
+          "fullName": "Xã Y Tý, Tỉnh Lào Cai",
+          "slug": "y-ty",
+          "postalCode": "02701"
+        },
+        {
+          "code": "02707",
+          "name": "Dền Sáng",
+          "fullName": "Xã Dền Sáng, Tỉnh Lào Cai",
+          "slug": "den-sang",
+          "postalCode": "02707"
+        },
+        {
+          "code": "02725",
+          "name": "Bản Xèo",
+          "fullName": "Xã Bản Xèo, Tỉnh Lào Cai",
+          "slug": "ban-xeo",
+          "postalCode": "02725"
+        },
+        {
+          "code": "02728",
+          "name": "Mường Hum",
+          "fullName": "Xã Mường Hum, Tỉnh Lào Cai",
+          "slug": "muong-hum",
+          "postalCode": "02728"
+        },
+        {
+          "code": "02746",
+          "name": "Cốc San",
+          "fullName": "Xã Cốc San, Tỉnh Lào Cai",
+          "slug": "coc-san",
+          "postalCode": "02746"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mường Khương",
+      "slug": "huyen-muong-khuong",
+      "wards": [
+        {
+          "code": "02752",
+          "name": "Pha Long",
+          "fullName": "Xã Pha Long, Tỉnh Lào Cai",
+          "slug": "pha-long",
+          "postalCode": "02752"
+        },
+        {
+          "code": "02761",
+          "name": "Mường Khương",
+          "fullName": "Xã Mường Khương, Tỉnh Lào Cai",
+          "slug": "muong-khuong",
+          "postalCode": "02761"
+        },
+        {
+          "code": "02782",
+          "name": "Cao Sơn",
+          "fullName": "Xã Cao Sơn, Tỉnh Lào Cai",
+          "slug": "cao-son",
+          "postalCode": "02782"
+        },
+        {
+          "code": "02788",
+          "name": "Bản Lầu",
+          "fullName": "Xã Bản Lầu, Tỉnh Lào Cai",
+          "slug": "ban-lau",
+          "postalCode": "02788"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Si Ma Cai",
+      "slug": "huyen-si-ma-cai",
+      "wards": [
+        {
+          "code": "02809",
+          "name": "Si Ma Cai",
+          "fullName": "Xã Si Ma Cai, Tỉnh Lào Cai",
+          "slug": "si-ma-cai",
+          "postalCode": "02809"
+        },
+        {
+          "code": "02824",
+          "name": "Sín Chéng",
+          "fullName": "Xã Sín Chéng, Tỉnh Lào Cai",
+          "slug": "sin-cheng",
+          "postalCode": "02824"
+        },
+        {
+          "code": "02848",
+          "name": "Lùng Phình",
+          "fullName": "Xã Lùng Phình, Tỉnh Lào Cai",
+          "slug": "lung-phinh",
+          "postalCode": "02848"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bắc Hà",
+      "slug": "huyen-bac-ha",
+      "wards": [
+        {
+          "code": "02839",
+          "name": "Bắc Hà",
+          "fullName": "Xã Bắc Hà, Tỉnh Lào Cai",
+          "slug": "bac-ha",
+          "postalCode": "02839"
+        },
+        {
+          "code": "02842",
+          "name": "Tả Củ Tỷ",
+          "fullName": "Xã Tả Củ Tỷ, Tỉnh Lào Cai",
+          "slug": "ta-cu-ty",
+          "postalCode": "02842"
+        },
+        {
+          "code": "02848",
+          "name": "Lùng Phình",
+          "fullName": "Xã Lùng Phình, Tỉnh Lào Cai",
+          "slug": "lung-phinh",
+          "postalCode": "02848"
+        },
+        {
+          "code": "02869",
+          "name": "Bản Liền",
+          "fullName": "Xã Bản Liền, Tỉnh Lào Cai",
+          "slug": "ban-lien",
+          "postalCode": "02869"
+        },
+        {
+          "code": "02890",
+          "name": "Bảo Nhai",
+          "fullName": "Xã Bảo Nhai, Tỉnh Lào Cai",
+          "slug": "bao-nhai",
+          "postalCode": "02890"
+        },
+        {
+          "code": "02896",
+          "name": "Cốc Lầu",
+          "fullName": "Xã Cốc Lầu, Tỉnh Lào Cai",
+          "slug": "coc-lau",
+          "postalCode": "02896"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bảo Yên",
+      "slug": "huyen-bao-yen",
+      "wards": [
+        {
+          "code": "02947",
+          "name": "Bảo Yên",
+          "fullName": "Xã Bảo Yên, Tỉnh Lào Cai",
+          "slug": "bao-yen",
+          "postalCode": "02947"
+        },
+        {
+          "code": "02953",
+          "name": "Nghĩa Đô",
+          "fullName": "Xã Nghĩa Đô, Tỉnh Lào Cai",
+          "slug": "nghia-do",
+          "postalCode": "02953"
+        },
+        {
+          "code": "02962",
+          "name": "Xuân Hòa",
+          "fullName": "Xã Xuân Hòa, Tỉnh Lào Cai",
+          "slug": "xuan-hoa",
+          "postalCode": "02962"
+        },
+        {
+          "code": "02968",
+          "name": "Thượng Hà",
+          "fullName": "Xã Thượng Hà, Tỉnh Lào Cai",
+          "slug": "thuong-ha",
+          "postalCode": "02968"
+        },
+        {
+          "code": "02989",
+          "name": "Bảo Hà",
+          "fullName": "Xã Bảo Hà, Tỉnh Lào Cai",
+          "slug": "bao-ha",
+          "postalCode": "02989"
+        },
+        {
+          "code": "02998",
+          "name": "Phúc Khánh",
+          "fullName": "Xã Phúc Khánh, Tỉnh Lào Cai",
+          "slug": "phuc-khanh",
+          "postalCode": "02998"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Văn Bàn",
+      "slug": "huyen-van-ban",
+      "wards": [
+        {
+          "code": "02989",
+          "name": "Bảo Hà",
+          "fullName": "Xã Bảo Hà, Tỉnh Lào Cai",
+          "slug": "bao-ha",
+          "postalCode": "02989"
+        },
+        {
+          "code": "03061",
+          "name": "Võ Lao",
+          "fullName": "Xã Võ Lao, Tỉnh Lào Cai",
+          "slug": "vo-lao",
+          "postalCode": "03061"
+        },
+        {
+          "code": "03076",
+          "name": "Nậm Chày",
+          "fullName": "Xã Nậm Chày, Tỉnh Lào Cai",
+          "slug": "nam-chay",
+          "postalCode": "03076"
+        },
+        {
+          "code": "03082",
+          "name": "Văn Bàn",
+          "fullName": "Xã Văn Bàn, Tỉnh Lào Cai",
+          "slug": "van-ban",
+          "postalCode": "03082"
+        },
+        {
+          "code": "03085",
+          "name": "Nậm Xé",
+          "fullName": "Xã Nậm Xé, Tỉnh Lào Cai",
+          "slug": "nam-xe",
+          "postalCode": "03085"
+        },
+        {
+          "code": "03091",
+          "name": "Chiềng Ken",
+          "fullName": "Xã Chiềng Ken, Tỉnh Lào Cai",
+          "slug": "chieng-ken",
+          "postalCode": "03091"
+        },
+        {
+          "code": "03103",
+          "name": "Khánh Yên",
+          "fullName": "Xã Khánh Yên, Tỉnh Lào Cai",
+          "slug": "khanh-yen",
+          "postalCode": "03103"
+        },
+        {
+          "code": "03106",
+          "name": "Dương Quỳ",
+          "fullName": "Xã Dương Quỳ, Tỉnh Lào Cai",
+          "slug": "duong-quy",
+          "postalCode": "03106"
+        },
+        {
+          "code": "03121",
+          "name": "Minh Lương",
+          "fullName": "Xã Minh Lương, Tỉnh Lào Cai",
+          "slug": "minh-luong",
+          "postalCode": "03121"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lục Yên",
+      "slug": "huyen-luc-yen",
+      "wards": [
+        {
+          "code": "04303",
+          "name": "Lục Yên",
+          "fullName": "Xã Lục Yên, Tỉnh Lào Cai",
+          "slug": "luc-yen",
+          "postalCode": "04303"
+        },
+        {
+          "code": "04309",
+          "name": "Lâm Thượng",
+          "fullName": "Xã Lâm Thượng, Tỉnh Lào Cai",
+          "slug": "lam-thuong",
+          "postalCode": "04309"
+        },
+        {
+          "code": "04336",
+          "name": "Tân Lĩnh",
+          "fullName": "Xã Tân Lĩnh, Tỉnh Lào Cai",
+          "slug": "tan-linh",
+          "postalCode": "04336"
+        },
+        {
+          "code": "04342",
+          "name": "Khánh Hòa",
+          "fullName": "Xã Khánh Hòa, Tỉnh Lào Cai",
+          "slug": "khanh-hoa",
+          "postalCode": "04342"
+        },
+        {
+          "code": "04345",
+          "name": "Mường Lai",
+          "fullName": "Xã Mường Lai, Tỉnh Lào Cai",
+          "slug": "muong-lai",
+          "postalCode": "04345"
+        },
+        {
+          "code": "04363",
+          "name": "Phúc Lợi",
+          "fullName": "Xã Phúc Lợi, Tỉnh Lào Cai",
+          "slug": "phuc-loi",
+          "postalCode": "04363"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Văn Yên",
+      "slug": "huyen-van-yen",
+      "wards": [
+        {
+          "code": "04375",
+          "name": "Mậu A",
+          "fullName": "Xã Mậu A, Tỉnh Lào Cai",
+          "slug": "mau-a",
+          "postalCode": "04375"
+        },
+        {
+          "code": "04381",
+          "name": "Lâm Giang",
+          "fullName": "Xã Lâm Giang, Tỉnh Lào Cai",
+          "slug": "lam-giang",
+          "postalCode": "04381"
+        },
+        {
+          "code": "04387",
+          "name": "Châu Quế",
+          "fullName": "Xã Châu Quế, Tỉnh Lào Cai",
+          "slug": "chau-que",
+          "postalCode": "04387"
+        },
+        {
+          "code": "04399",
+          "name": "Đông Cuông",
+          "fullName": "Xã Đông Cuông, Tỉnh Lào Cai",
+          "slug": "dong-cuong",
+          "postalCode": "04399"
+        },
+        {
+          "code": "04402",
+          "name": "Phong Dụ Hạ",
+          "fullName": "Xã Phong Dụ Hạ, Tỉnh Lào Cai",
+          "slug": "phong-du-ha",
+          "postalCode": "04402"
+        },
+        {
+          "code": "04423",
+          "name": "Phong Dụ Thượng",
+          "fullName": "Xã Phong Dụ Thượng, Tỉnh Lào Cai",
+          "slug": "phong-du-thuong",
+          "postalCode": "04423"
+        },
+        {
+          "code": "04429",
+          "name": "Tân Hợp",
+          "fullName": "Xã Tân Hợp, Tỉnh Lào Cai",
+          "slug": "tan-hop",
+          "postalCode": "04429"
+        },
+        {
+          "code": "04441",
+          "name": "Xuân Ái",
+          "fullName": "Xã Xuân Ái, Tỉnh Lào Cai",
+          "slug": "xuan-ai",
+          "postalCode": "04441"
+        },
+        {
+          "code": "04450",
+          "name": "Mỏ Vàng",
+          "fullName": "Xã Mỏ Vàng, Tỉnh Lào Cai",
+          "slug": "mo-vang",
+          "postalCode": "04450"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mù Căng Chải",
+      "slug": "huyen-mu-cang-chai",
+      "wards": [
+        {
+          "code": "04456",
+          "name": "Mù Cang Chải",
+          "fullName": "Xã Mù Cang Chải, Tỉnh Lào Cai",
+          "slug": "mu-cang-chai",
+          "postalCode": "04456"
+        },
+        {
+          "code": "04462",
+          "name": "Nậm Có",
+          "fullName": "Xã Nậm Có, Tỉnh Lào Cai",
+          "slug": "nam-co",
+          "postalCode": "04462"
+        },
+        {
+          "code": "04465",
+          "name": "Khao Mang",
+          "fullName": "Xã Khao Mang, Tỉnh Lào Cai",
+          "slug": "khao-mang",
+          "postalCode": "04465"
+        },
+        {
+          "code": "04474",
+          "name": "Lao Chải",
+          "fullName": "Xã Lao Chải, Tỉnh Lào Cai",
+          "slug": "lao-chai",
+          "postalCode": "04474"
+        },
+        {
+          "code": "04489",
+          "name": "Chế Tạo",
+          "fullName": "Xã Chế Tạo, Tỉnh Lào Cai",
+          "slug": "che-tao",
+          "postalCode": "04489"
+        },
+        {
+          "code": "04492",
+          "name": "Púng Luông",
+          "fullName": "Xã Púng Luông, Tỉnh Lào Cai",
+          "slug": "pung-luong",
+          "postalCode": "04492"
+        },
+        {
+          "code": "04630",
+          "name": "Tú Lệ",
+          "fullName": "Xã Tú Lệ, Tỉnh Lào Cai",
+          "slug": "tu-le",
+          "postalCode": "04630"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trạm Tấu",
+      "slug": "huyen-tram-tau",
+      "wards": [
+        {
+          "code": "04585",
+          "name": "Hạnh Phúc",
+          "fullName": "Xã Hạnh Phúc, Tỉnh Lào Cai",
+          "slug": "hanh-phuc",
+          "postalCode": "04585"
+        },
+        {
+          "code": "04603",
+          "name": "Tà Xi Láng",
+          "fullName": "Xã Tà Xi Láng, Tỉnh Lào Cai",
+          "slug": "ta-xi-lang",
+          "postalCode": "04603"
+        },
+        {
+          "code": "04606",
+          "name": "Trạm Tấu",
+          "fullName": "Xã Trạm Tấu, Tỉnh Lào Cai",
+          "slug": "tram-tau",
+          "postalCode": "04606"
+        },
+        {
+          "code": "04609",
+          "name": "Phình Hồ",
+          "fullName": "Xã Phình Hồ, Tỉnh Lào Cai",
+          "slug": "phinh-ho",
+          "postalCode": "04609"
+        }
+      ]
+    }
+  ]
+}

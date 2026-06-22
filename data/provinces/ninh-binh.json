@@ -1,0 +1,2156 @@
+{
+  "code": "13",
+  "name": "Ninh Bình",
+  "slug": "ninh-binh",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Ninh Bình",
+  "wards": [
+    {
+      "code": "00011",
+      "name": "Nam Định",
+      "fullName": "Phường Nam Định, Tỉnh Ninh Bình",
+      "slug": "nam-dinh",
+      "type": "ward",
+      "postalCode": "13669"
+    },
+    {
+      "code": "00036",
+      "name": "Hoa Lư",
+      "fullName": "Phường Hoa Lư, Tỉnh Ninh Bình",
+      "slug": "hoa-lu",
+      "type": "ward",
+      "postalCode": "14329"
+    },
+    {
+      "code": "00261",
+      "name": "Xuân Trường",
+      "fullName": "Xã Xuân Trường, Tỉnh Ninh Bình",
+      "slug": "xuan-truong",
+      "type": "commune",
+      "postalCode": "14089"
+    },
+    {
+      "code": "00287",
+      "name": "Trường Thi",
+      "fullName": "Phường Trường Thi, Tỉnh Ninh Bình",
+      "slug": "truong-thi",
+      "type": "ward",
+      "postalCode": "13777"
+    },
+    {
+      "code": "00325",
+      "name": "Hải Hưng",
+      "fullName": "Xã Hải Hưng, Tỉnh Ninh Bình",
+      "slug": "hai-hung",
+      "type": "commune",
+      "postalCode": "14248"
+    },
+    {
+      "code": "00354",
+      "name": "Phủ Lý",
+      "fullName": "Phường Phủ Lý, Tỉnh Ninh Bình",
+      "slug": "phu-ly",
+      "type": "ward",
+      "postalCode": "13285"
+    },
+    {
+      "code": "00492",
+      "name": "Xuân Hưng",
+      "fullName": "Xã Xuân Hưng, Tỉnh Ninh Bình",
+      "slug": "xuan-hung",
+      "type": "commune",
+      "postalCode": "14122"
+    },
+    {
+      "code": "00494",
+      "name": "Nam Hoa Lư",
+      "fullName": "Phường Nam Hoa Lư, Tỉnh Ninh Bình",
+      "slug": "nam-hoa-lu",
+      "type": "ward",
+      "postalCode": "14359"
+    },
+    {
+      "code": "00497",
+      "name": "Ý Yên",
+      "fullName": "Xã Ý Yên, Tỉnh Ninh Bình",
+      "slug": "y-yen",
+      "type": "commune",
+      "postalCode": "13795"
+    },
+    {
+      "code": "00544",
+      "name": "Hải Anh",
+      "fullName": "Xã Hải Anh, Tỉnh Ninh Bình",
+      "slug": "hai-anh",
+      "type": "commune",
+      "postalCode": "14236"
+    },
+    {
+      "code": "00671",
+      "name": "Tây Hoa Lư",
+      "fullName": "Phường Tây Hoa Lư, Tỉnh Ninh Bình",
+      "slug": "tay-hoa-lu",
+      "type": "ward",
+      "postalCode": "14533"
+    },
+    {
+      "code": "00675",
+      "name": "Giao Thuỷ",
+      "fullName": "Xã Giao Thuỷ, Tỉnh Ninh Bình",
+      "slug": "giao-thuy",
+      "type": "commune",
+      "postalCode": "14167"
+    },
+    {
+      "code": "00689",
+      "name": "Xuân Giang",
+      "fullName": "Xã Xuân Giang, Tỉnh Ninh Bình",
+      "slug": "xuan-giang",
+      "type": "commune",
+      "postalCode": "14104"
+    },
+    {
+      "code": "00713",
+      "name": "Hải Hậu",
+      "fullName": "Xã Hải Hậu, Tỉnh Ninh Bình",
+      "slug": "hai-hau",
+      "type": "commune",
+      "postalCode": "14215"
+    },
+    {
+      "code": "00729",
+      "name": "Hải Tiến",
+      "fullName": "Xã Hải Tiến, Tỉnh Ninh Bình",
+      "slug": "hai-tien",
+      "type": "commune",
+      "postalCode": "14218"
+    },
+    {
+      "code": "00750",
+      "name": "Hải Xuân",
+      "fullName": "Xã Hải Xuân, Tỉnh Ninh Bình",
+      "slug": "hai-xuan",
+      "type": "commune",
+      "postalCode": "14308"
+    },
+    {
+      "code": "00791",
+      "name": "Yên Cường",
+      "fullName": "Xã Yên Cường, Tỉnh Ninh Bình",
+      "slug": "yen-cuong",
+      "type": "commune",
+      "postalCode": "13870"
+    },
+    {
+      "code": "00831",
+      "name": "Giao Hoà",
+      "fullName": "Xã Giao Hoà, Tỉnh Ninh Bình",
+      "slug": "giao-hoa",
+      "type": "commune",
+      "postalCode": "14182"
+    },
+    {
+      "code": "00863",
+      "name": "Phù Vân",
+      "fullName": "Phường Phù Vân, Tỉnh Ninh Bình",
+      "slug": "phu-van",
+      "type": "ward",
+      "postalCode": "13291"
+    },
+    {
+      "code": "00872",
+      "name": "Xuân Hồng",
+      "fullName": "Xã Xuân Hồng, Tỉnh Ninh Bình",
+      "slug": "xuan-hong",
+      "type": "commune",
+      "postalCode": "14095"
+    },
+    {
+      "code": "00900",
+      "name": "Cổ Lễ",
+      "fullName": "Xã Cổ Lễ, Tỉnh Ninh Bình",
+      "slug": "co-le",
+      "type": "commune",
+      "postalCode": "14026"
+    },
+    {
+      "code": "00904",
+      "name": "Yên Khánh",
+      "fullName": "Xã Yên Khánh, Tỉnh Ninh Bình",
+      "slug": "yen-khanh",
+      "type": "commune",
+      "postalCode": "14560"
+    },
+    {
+      "code": "00917",
+      "name": "Duy Tiên",
+      "fullName": "Phường Duy Tiên, Tỉnh Ninh Bình",
+      "slug": "duy-tien",
+      "type": "ward",
+      "postalCode": "13324"
+    },
+    {
+      "code": "00921",
+      "name": "Nam Trực",
+      "fullName": "Xã Nam Trực, Tỉnh Ninh Bình",
+      "slug": "nam-truc",
+      "type": "commune",
+      "postalCode": "13966"
+    },
+    {
+      "code": "00935",
+      "name": "Vũ Dương",
+      "fullName": "Xã Vũ Dương, Tỉnh Ninh Bình",
+      "slug": "vu-duong",
+      "type": "commune",
+      "postalCode": "13834"
+    },
+    {
+      "code": "00953",
+      "name": "Cát Thành",
+      "fullName": "Xã Cát Thành, Tỉnh Ninh Bình",
+      "slug": "cat-thanh",
+      "type": "commune",
+      "postalCode": "14056"
+    },
+    {
+      "code": "00960",
+      "name": "Bình An",
+      "fullName": "Xã Bình An, Tỉnh Ninh Bình",
+      "slug": "binh-an",
+      "type": "commune",
+      "postalCode": "13540"
+    },
+    {
+      "code": "00969",
+      "name": "Ninh Giang",
+      "fullName": "Xã Ninh Giang, Tỉnh Ninh Bình",
+      "slug": "ninh-giang",
+      "type": "commune",
+      "postalCode": "14038"
+    },
+    {
+      "code": "00975",
+      "name": "Nghĩa Hưng",
+      "fullName": "Xã Nghĩa Hưng, Tỉnh Ninh Bình",
+      "slug": "nghia-hung",
+      "type": "commune",
+      "postalCode": "13891"
+    },
+    {
+      "code": "00997",
+      "name": "Nam Minh",
+      "fullName": "Xã Nam Minh, Tỉnh Ninh Bình",
+      "slug": "nam-minh",
+      "type": "commune",
+      "postalCode": "14011"
+    },
+    {
+      "code": "01001",
+      "name": "Mỹ Lộc",
+      "fullName": "Phường Mỹ Lộc, Tỉnh Ninh Bình",
+      "slug": "my-loc",
+      "type": "ward",
+      "postalCode": "13708"
+    },
+    {
+      "code": "01010",
+      "name": "Nam Lý",
+      "fullName": "Xã Nam Lý, Tỉnh Ninh Bình",
+      "slug": "nam-ly",
+      "type": "commune",
+      "postalCode": "13627"
+    },
+    {
+      "code": "01023",
+      "name": "Nam Ninh",
+      "fullName": "Xã Nam Ninh, Tỉnh Ninh Bình",
+      "slug": "nam-ninh",
+      "type": "commune",
+      "postalCode": "14005"
+    },
+    {
+      "code": "01026",
+      "name": "Phát Diệm",
+      "fullName": "Xã Phát Diệm, Tỉnh Ninh Bình",
+      "slug": "phat-diem",
+      "type": "commune",
+      "postalCode": "14620"
+    },
+    {
+      "code": "01049",
+      "name": "Phong Doanh",
+      "fullName": "Xã Phong Doanh, Tỉnh Ninh Bình",
+      "slug": "phong-doanh",
+      "type": "commune",
+      "postalCode": "13822"
+    },
+    {
+      "code": "01106",
+      "name": "Vị Khê",
+      "fullName": "Phường Vị Khê, Tỉnh Ninh Bình",
+      "slug": "vi-khe",
+      "type": "ward",
+      "postalCode": "13972"
+    },
+    {
+      "code": "01111",
+      "name": "Vĩnh Trụ",
+      "fullName": "Xã Vĩnh Trụ, Tỉnh Ninh Bình",
+      "slug": "vinh-tru",
+      "type": "commune",
+      "postalCode": "13597"
+    },
+    {
+      "code": "01128",
+      "name": "Yên Đồng",
+      "fullName": "Xã Yên Đồng, Tỉnh Ninh Bình",
+      "slug": "yen-dong",
+      "type": "commune",
+      "postalCode": "13879"
+    },
+    {
+      "code": "01135",
+      "name": "Vạn Thắng",
+      "fullName": "Xã Vạn Thắng, Tỉnh Ninh Bình",
+      "slug": "van-thang",
+      "type": "commune",
+      "postalCode": "13864"
+    },
+    {
+      "code": "01137",
+      "name": "Hồng Quang",
+      "fullName": "Phường Hồng Quang, Tỉnh Ninh Bình",
+      "slug": "hong-quang",
+      "type": "ward",
+      "postalCode": "13984"
+    },
+    {
+      "code": "01162",
+      "name": "Yên Mô",
+      "fullName": "Xã Yên Mô, Tỉnh Ninh Bình",
+      "slug": "yen-mo",
+      "type": "commune",
+      "postalCode": "14701"
+    },
+    {
+      "code": "01171",
+      "name": "Bình Lục",
+      "fullName": "Xã Bình Lục, Tỉnh Ninh Bình",
+      "slug": "binh-luc",
+      "type": "commune",
+      "postalCode": "13504"
+    },
+    {
+      "code": "01186",
+      "name": "Tân Minh",
+      "fullName": "Xã Tân Minh, Tỉnh Ninh Bình",
+      "slug": "tan-minh",
+      "type": "commune",
+      "postalCode": "13807"
+    },
+    {
+      "code": "01205",
+      "name": "Đồng Văn",
+      "fullName": "Phường Đồng Văn, Tỉnh Ninh Bình",
+      "slug": "dong-van",
+      "type": "ward",
+      "postalCode": "13348"
+    },
+    {
+      "code": "01208",
+      "name": "Đông Hoa Lư",
+      "fullName": "Phường Đông Hoa Lư, Tỉnh Ninh Bình",
+      "slug": "dong-hoa-lu",
+      "type": "ward",
+      "postalCode": "14566"
+    },
+    {
+      "code": "01226",
+      "name": "Nam Xang",
+      "fullName": "Xã Nam Xang, Tỉnh Ninh Bình",
+      "slug": "nam-xang",
+      "type": "commune",
+      "postalCode": "13591"
+    },
+    {
+      "code": "01249",
+      "name": "Giao Ninh",
+      "fullName": "Xã Giao Ninh, Tỉnh Ninh Bình",
+      "slug": "giao-ninh",
+      "type": "commune",
+      "postalCode": "14212"
+    },
+    {
+      "code": "01259",
+      "name": "Hải Thịnh",
+      "fullName": "Xã Hải Thịnh, Tỉnh Ninh Bình",
+      "slug": "hai-thinh",
+      "type": "commune",
+      "postalCode": "14221"
+    },
+    {
+      "code": "01271",
+      "name": "Châu Sơn",
+      "fullName": "Phường Châu Sơn, Tỉnh Ninh Bình",
+      "slug": "chau-son",
+      "type": "ward",
+      "postalCode": "13318"
+    },
+    {
+      "code": "01272",
+      "name": "Hà Nam",
+      "fullName": "Phường Hà Nam, Tỉnh Ninh Bình",
+      "slug": "ha-nam",
+      "type": "ward",
+      "postalCode": "13366"
+    },
+    {
+      "code": "01275",
+      "name": "Minh Thái",
+      "fullName": "Xã Minh Thái, Tỉnh Ninh Bình",
+      "slug": "minh-thai",
+      "type": "commune",
+      "postalCode": "14071"
+    },
+    {
+      "code": "01282",
+      "name": "Bình Mỹ",
+      "fullName": "Xã Bình Mỹ, Tỉnh Ninh Bình",
+      "slug": "binh-my",
+      "type": "commune",
+      "postalCode": "13501"
+    },
+    {
+      "code": "01286",
+      "name": "Nho Quan",
+      "fullName": "Xã Nho Quan, Tỉnh Ninh Bình",
+      "slug": "nho-quan",
+      "type": "commune",
+      "postalCode": "14428"
+    },
+    {
+      "code": "01306",
+      "name": "Quỹ Nhất",
+      "fullName": "Xã Quỹ Nhất, Tỉnh Ninh Bình",
+      "slug": "quy-nhat",
+      "type": "commune",
+      "postalCode": "13939"
+    },
+    {
+      "code": "01313",
+      "name": "Ninh Cường",
+      "fullName": "Xã Ninh Cường, Tỉnh Ninh Bình",
+      "slug": "ninh-cuong",
+      "type": "commune",
+      "postalCode": "14077"
+    },
+    {
+      "code": "01341",
+      "name": "Bình Sơn",
+      "fullName": "Xã Bình Sơn, Tỉnh Ninh Bình",
+      "slug": "binh-son",
+      "type": "commune",
+      "postalCode": "13558"
+    },
+    {
+      "code": "01348",
+      "name": "Lê Hồ",
+      "fullName": "Phường Lê Hồ, Tỉnh Ninh Bình",
+      "slug": "le-ho",
+      "type": "ward",
+      "postalCode": "13393"
+    },
+    {
+      "code": "01357",
+      "name": "Lý Nhân",
+      "fullName": "Xã Lý Nhân, Tỉnh Ninh Bình",
+      "slug": "ly-nhan",
+      "type": "commune",
+      "postalCode": "13573"
+    },
+    {
+      "code": "01374",
+      "name": "Yên Từ",
+      "fullName": "Xã Yên Từ, Tỉnh Ninh Bình",
+      "slug": "yen-tu",
+      "type": "commune",
+      "postalCode": "14728"
+    },
+    {
+      "code": "01380",
+      "name": "Nam Hồng",
+      "fullName": "Xã Nam Hồng, Tỉnh Ninh Bình",
+      "slug": "nam-hong",
+      "type": "commune",
+      "postalCode": "13987"
+    },
+    {
+      "code": "01381",
+      "name": "Đông A",
+      "fullName": "Phường Đông A, Tỉnh Ninh Bình",
+      "slug": "dong-a",
+      "type": "ward",
+      "postalCode": "13693"
+    },
+    {
+      "code": "01400",
+      "name": "Trung Sơn",
+      "fullName": "Phường Trung Sơn, Tỉnh Ninh Bình",
+      "slug": "trung-son",
+      "type": "ward",
+      "postalCode": "14365"
+    },
+    {
+      "code": "01440",
+      "name": "Bình Minh",
+      "fullName": "Xã Bình Minh, Tỉnh Ninh Bình",
+      "slug": "binh-minh",
+      "type": "commune",
+      "postalCode": "14623"
+    },
+    {
+      "code": "01442",
+      "name": "Thiên Trường",
+      "fullName": "Phường Thiên Trường, Tỉnh Ninh Bình",
+      "slug": "thien-truong",
+      "type": "ward",
+      "postalCode": "13684"
+    },
+    {
+      "code": "01448",
+      "name": "Bắc Lý",
+      "fullName": "Xã Bắc Lý, Tỉnh Ninh Bình",
+      "slug": "bac-ly",
+      "type": "commune",
+      "postalCode": "13579"
+    },
+    {
+      "code": "01449",
+      "name": "Nghĩa Lâm",
+      "fullName": "Xã Nghĩa Lâm, Tỉnh Ninh Bình",
+      "slug": "nghia-lam",
+      "type": "commune",
+      "postalCode": "13957"
+    },
+    {
+      "code": "01450",
+      "name": "Rạng Đông",
+      "fullName": "Xã Rạng Đông, Tỉnh Ninh Bình",
+      "slug": "rang-dong",
+      "type": "commune",
+      "postalCode": "13894"
+    },
+    {
+      "code": "01452",
+      "name": "Đồng Thịnh",
+      "fullName": "Xã Đồng Thịnh, Tỉnh Ninh Bình",
+      "slug": "dong-thinh",
+      "type": "commune",
+      "postalCode": "13900"
+    },
+    {
+      "code": "01458",
+      "name": "Thành Nam",
+      "fullName": "Phường Thành Nam, Tỉnh Ninh Bình",
+      "slug": "thanh-nam",
+      "type": "ward",
+      "postalCode": "13699"
+    },
+    {
+      "code": "01519",
+      "name": "Hiển Khánh",
+      "fullName": "Xã Hiển Khánh, Tỉnh Ninh Bình",
+      "slug": "hien-khanh",
+      "type": "commune",
+      "postalCode": "13753"
+    },
+    {
+      "code": "01520",
+      "name": "Minh Tân",
+      "fullName": "Xã Minh Tân, Tỉnh Ninh Bình",
+      "slug": "minh-tan",
+      "type": "commune",
+      "postalCode": "13750"
+    },
+    {
+      "code": "01532",
+      "name": "Liên Minh",
+      "fullName": "Xã Liên Minh, Tỉnh Ninh Bình",
+      "slug": "lien-minh",
+      "type": "commune",
+      "postalCode": "13786"
+    },
+    {
+      "code": "01535",
+      "name": "Giao Phúc",
+      "fullName": "Xã Giao Phúc, Tỉnh Ninh Bình",
+      "slug": "giao-phuc",
+      "type": "commune",
+      "postalCode": "14203"
+    },
+    {
+      "code": "01551",
+      "name": "Thanh Lâm",
+      "fullName": "Xã Thanh Lâm, Tỉnh Ninh Bình",
+      "slug": "thanh-lam",
+      "type": "commune",
+      "postalCode": "13489"
+    },
+    {
+      "code": "01575",
+      "name": "Giao Minh",
+      "fullName": "Xã Giao Minh, Tỉnh Ninh Bình",
+      "slug": "giao-minh",
+      "type": "commune",
+      "postalCode": "14161"
+    },
+    {
+      "code": "01594",
+      "name": "Gia Viễn",
+      "fullName": "Xã Gia Viễn, Tỉnh Ninh Bình",
+      "slug": "gia-vien",
+      "type": "commune",
+      "postalCode": "14464"
+    },
+    {
+      "code": "01613",
+      "name": "Lai Thành",
+      "fullName": "Xã Lai Thành, Tỉnh Ninh Bình",
+      "slug": "lai-thanh",
+      "type": "commune",
+      "postalCode": "14674"
+    },
+    {
+      "code": "01616",
+      "name": "Nghĩa Sơn",
+      "fullName": "Xã Nghĩa Sơn, Tỉnh Ninh Bình",
+      "slug": "nghia-son",
+      "type": "commune",
+      "postalCode": "13918"
+    },
+    {
+      "code": "01636",
+      "name": "Yên Thắng",
+      "fullName": "Phường Yên Thắng, Tỉnh Ninh Bình",
+      "slug": "yen-thang",
+      "type": "ward",
+      "postalCode": "14725"
+    },
+    {
+      "code": "01639",
+      "name": "Nam Đồng",
+      "fullName": "Xã Nam Đồng, Tỉnh Ninh Bình",
+      "slug": "nam-dong",
+      "type": "commune",
+      "postalCode": "14014"
+    },
+    {
+      "code": "01642",
+      "name": "Duy Tân",
+      "fullName": "Phường Duy Tân, Tỉnh Ninh Bình",
+      "slug": "duy-tan",
+      "type": "ward",
+      "postalCode": "13330"
+    },
+    {
+      "code": "01649",
+      "name": "Hồng Phong",
+      "fullName": "Xã Hồng Phong, Tỉnh Ninh Bình",
+      "slug": "hong-phong",
+      "type": "commune",
+      "postalCode": "13927"
+    },
+    {
+      "code": "01660",
+      "name": "Giao Hưng",
+      "fullName": "Xã Giao Hưng, Tỉnh Ninh Bình",
+      "slug": "giao-hung",
+      "type": "commune",
+      "postalCode": "14179"
+    },
+    {
+      "code": "01684",
+      "name": "Liêm Tuyền",
+      "fullName": "Phường Liêm Tuyền, Tỉnh Ninh Bình",
+      "slug": "liem-tuyen",
+      "type": "ward",
+      "postalCode": "13444"
+    },
+    {
+      "code": "01687",
+      "name": "Liêm Hà",
+      "fullName": "Xã Liêm Hà, Tỉnh Ninh Bình",
+      "slug": "liem-ha",
+      "type": "commune",
+      "postalCode": "13456"
+    },
+    {
+      "code": "01691",
+      "name": "Nguyễn Uý",
+      "fullName": "Phường Nguyễn Uý, Tỉnh Ninh Bình",
+      "slug": "nguyen-uy",
+      "type": "ward",
+      "postalCode": "13396"
+    },
+    {
+      "code": "01742",
+      "name": "Tiên Sơn",
+      "fullName": "Phường Tiên Sơn, Tỉnh Ninh Bình",
+      "slug": "tien-son",
+      "type": "ward",
+      "postalCode": "13363"
+    },
+    {
+      "code": "01752",
+      "name": "Hải An",
+      "fullName": "Xã Hải An, Tỉnh Ninh Bình",
+      "slug": "hai-an",
+      "type": "commune",
+      "postalCode": "14236"
+    },
+    {
+      "code": "01758",
+      "name": "Quang Thiện",
+      "fullName": "Xã Quang Thiện, Tỉnh Ninh Bình",
+      "slug": "quang-thien",
+      "type": "commune",
+      "postalCode": "14647"
+    },
+    {
+      "code": "01760",
+      "name": "Tam Điệp",
+      "fullName": "Phường Tam Điệp, Tỉnh Ninh Bình",
+      "slug": "tam-diep",
+      "type": "ward",
+      "postalCode": "14362"
+    },
+    {
+      "code": "01770",
+      "name": "Giao Bình",
+      "fullName": "Xã Giao Bình, Tỉnh Ninh Bình",
+      "slug": "giao-binh",
+      "type": "commune",
+      "postalCode": "14194"
+    },
+    {
+      "code": "01772",
+      "name": "Vụ Bản",
+      "fullName": "Xã Vụ Bản, Tỉnh Ninh Bình",
+      "slug": "vu-ban",
+      "type": "commune",
+      "postalCode": "13741"
+    },
+    {
+      "code": "01792",
+      "name": "Khánh Trung",
+      "fullName": "Xã Khánh Trung, Tỉnh Ninh Bình",
+      "slug": "khanh-trung",
+      "type": "commune",
+      "postalCode": "14608"
+    },
+    {
+      "code": "01800",
+      "name": "Tân Thanh",
+      "fullName": "Xã Tân Thanh, Tỉnh Ninh Bình",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "13474"
+    },
+    {
+      "code": "01817",
+      "name": "Kim Thanh",
+      "fullName": "Phường Kim Thanh, Tỉnh Ninh Bình",
+      "slug": "kim-thanh",
+      "type": "ward",
+      "postalCode": "13402"
+    },
+    {
+      "code": "01825",
+      "name": "Gia Vân",
+      "fullName": "Xã Gia Vân, Tỉnh Ninh Bình",
+      "slug": "gia-van",
+      "type": "commune",
+      "postalCode": "14488"
+    },
+    {
+      "code": "01831",
+      "name": "Hải Quang",
+      "fullName": "Xã Hải Quang, Tỉnh Ninh Bình",
+      "slug": "hai-quang",
+      "type": "commune",
+      "postalCode": "14287"
+    },
+    {
+      "code": "01839",
+      "name": "Khánh Thiện",
+      "fullName": "Xã Khánh Thiện, Tỉnh Ninh Bình",
+      "slug": "khanh-thien",
+      "type": "commune",
+      "postalCode": "14563"
+    },
+    {
+      "code": "01847",
+      "name": "Khánh Nhạc",
+      "fullName": "Xã Khánh Nhạc, Tỉnh Ninh Bình",
+      "slug": "khanh-nhac",
+      "type": "commune",
+      "postalCode": "14611"
+    },
+    {
+      "code": "01933",
+      "name": "Nhân Hà",
+      "fullName": "Xã Nhân Hà, Tỉnh Ninh Bình",
+      "slug": "nhan-ha",
+      "type": "commune",
+      "postalCode": "13609"
+    },
+    {
+      "code": "01946",
+      "name": "Định Hóa",
+      "fullName": "Xã Định Hóa, Tỉnh Ninh Bình",
+      "slug": "dinh-hoa",
+      "type": "commune",
+      "postalCode": "14677"
+    },
+    {
+      "code": "01954",
+      "name": "Bình Giang",
+      "fullName": "Xã Bình Giang, Tỉnh Ninh Bình",
+      "slug": "binh-giang",
+      "type": "commune",
+      "postalCode": "13531"
+    },
+    {
+      "code": "01959",
+      "name": "Duy Hà",
+      "fullName": "Phường Duy Hà, Tỉnh Ninh Bình",
+      "slug": "duy-ha",
+      "type": "ward",
+      "postalCode": "13336"
+    },
+    {
+      "code": "01978",
+      "name": "Đồng Thái",
+      "fullName": "Xã Đồng Thái, Tỉnh Ninh Bình",
+      "slug": "dong-thai",
+      "type": "commune",
+      "postalCode": "14746"
+    },
+    {
+      "code": "01992",
+      "name": "Đại Hoàng",
+      "fullName": "Xã Đại Hoàng, Tỉnh Ninh Bình",
+      "slug": "dai-hoang",
+      "type": "commune",
+      "postalCode": "14500"
+    },
+    {
+      "code": "02000",
+      "name": "Thanh Sơn",
+      "fullName": "Xã Thanh Sơn, Tỉnh Ninh Bình",
+      "slug": "thanh-son",
+      "type": "commune",
+      "postalCode": "14434"
+    },
+    {
+      "code": "02010",
+      "name": "Khánh Hội",
+      "fullName": "Xã Khánh Hội, Tỉnh Ninh Bình",
+      "slug": "khanh-hoi",
+      "type": "commune",
+      "postalCode": "14614"
+    },
+    {
+      "code": "02012",
+      "name": "Thanh Liêm",
+      "fullName": "Xã Thanh Liêm, Tỉnh Ninh Bình",
+      "slug": "thanh-liem",
+      "type": "commune",
+      "postalCode": "13495"
+    },
+    {
+      "code": "02046",
+      "name": "Kim Bảng",
+      "fullName": "Phường Kim Bảng, Tỉnh Ninh Bình",
+      "slug": "kim-bang",
+      "type": "ward",
+      "postalCode": "13384"
+    },
+    {
+      "code": "02066",
+      "name": "Lý Thường Kiệt",
+      "fullName": "Phường Lý Thường Kiệt, Tỉnh Ninh Bình",
+      "slug": "ly-thuong-kiet",
+      "type": "ward",
+      "postalCode": "13435"
+    },
+    {
+      "code": "02088",
+      "name": "Phú Sơn",
+      "fullName": "Xã Phú Sơn, Tỉnh Ninh Bình",
+      "slug": "phu-son",
+      "type": "commune",
+      "postalCode": "14407"
+    },
+    {
+      "code": "02105",
+      "name": "Yên Mạc",
+      "fullName": "Xã Yên Mạc, Tỉnh Ninh Bình",
+      "slug": "yen-mac",
+      "type": "commune",
+      "postalCode": "14743"
+    },
+    {
+      "code": "02141",
+      "name": "Trần Thương",
+      "fullName": "Xã Trần Thương, Tỉnh Ninh Bình",
+      "slug": "tran-thuong",
+      "type": "commune",
+      "postalCode": "13594"
+    },
+    {
+      "code": "02152",
+      "name": "Thanh Bình",
+      "fullName": "Xã Thanh Bình, Tỉnh Ninh Bình",
+      "slug": "thanh-binh",
+      "type": "commune",
+      "postalCode": "13483"
+    },
+    {
+      "code": "02155",
+      "name": "Gia Hưng",
+      "fullName": "Xã Gia Hưng, Tỉnh Ninh Bình",
+      "slug": "gia-hung",
+      "type": "commune",
+      "postalCode": "14482"
+    },
+    {
+      "code": "02189",
+      "name": "Yên Sơn",
+      "fullName": "Phường Yên Sơn, Tỉnh Ninh Bình",
+      "slug": "yen-son",
+      "type": "ward",
+      "postalCode": "14371"
+    },
+    {
+      "code": "02222",
+      "name": "Quang Hưng",
+      "fullName": "Xã Quang Hưng, Tỉnh Ninh Bình",
+      "slug": "quang-hung",
+      "type": "commune",
+      "postalCode": "14062"
+    },
+    {
+      "code": "02226",
+      "name": "Gia Trấn",
+      "fullName": "Xã Gia Trấn, Tỉnh Ninh Bình",
+      "slug": "gia-tran",
+      "type": "commune",
+      "postalCode": "14494"
+    },
+    {
+      "code": "02249",
+      "name": "Gia Lâm",
+      "fullName": "Xã Gia Lâm, Tỉnh Ninh Bình",
+      "slug": "gia-lam",
+      "type": "commune",
+      "postalCode": "14389"
+    },
+    {
+      "code": "02252",
+      "name": "Kim Sơn",
+      "fullName": "Xã Kim Sơn, Tỉnh Ninh Bình",
+      "slug": "kim-son",
+      "type": "commune",
+      "postalCode": "14638"
+    },
+    {
+      "code": "02293",
+      "name": "Gia Tường",
+      "fullName": "Xã Gia Tường, Tỉnh Ninh Bình",
+      "slug": "gia-tuong",
+      "type": "commune",
+      "postalCode": "14401"
+    },
+    {
+      "code": "02365",
+      "name": "Trực Ninh",
+      "fullName": "Xã Trực Ninh, Tỉnh Ninh Bình",
+      "slug": "truc-ninh",
+      "type": "commune",
+      "postalCode": "14053"
+    },
+    {
+      "code": "02382",
+      "name": "Tam Chúc",
+      "fullName": "Phường Tam Chúc, Tỉnh Ninh Bình",
+      "slug": "tam-chuc",
+      "type": "ward",
+      "postalCode": "13420"
+    },
+    {
+      "code": "02392",
+      "name": "Quỳnh Lưu",
+      "fullName": "Xã Quỳnh Lưu, Tỉnh Ninh Bình",
+      "slug": "quynh-luu",
+      "type": "commune",
+      "postalCode": "14452"
+    },
+    {
+      "code": "02447",
+      "name": "Chất Bình",
+      "fullName": "Xã Chất Bình, Tỉnh Ninh Bình",
+      "slug": "chat-binh",
+      "type": "commune",
+      "postalCode": "14653"
+    },
+    {
+      "code": "02678",
+      "name": "Phú Long",
+      "fullName": "Xã Phú Long, Tỉnh Ninh Bình",
+      "slug": "phu-long",
+      "type": "commune",
+      "postalCode": "14458"
+    },
+    {
+      "code": "02708",
+      "name": "Gia Phong",
+      "fullName": "Xã Gia Phong, Tỉnh Ninh Bình",
+      "slug": "gia-phong",
+      "type": "commune",
+      "postalCode": "14524"
+    },
+    {
+      "code": "02964",
+      "name": "Kim Đông",
+      "fullName": "Xã Kim Đông, Tỉnh Ninh Bình",
+      "slug": "kim-dong",
+      "type": "commune",
+      "postalCode": "14698"
+    },
+    {
+      "code": "03019",
+      "name": "Cúc Phương",
+      "fullName": "Xã Cúc Phương, Tỉnh Ninh Bình",
+      "slug": "cuc-phuong",
+      "type": "commune",
+      "postalCode": "14404"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Phủ Lý",
+      "slug": "thanh-pho-phu-ly",
+      "wards": [
+        {
+          "code": "13285",
+          "name": "Phủ Lý",
+          "fullName": "Phường Phủ Lý, Tỉnh Ninh Bình",
+          "slug": "phu-ly",
+          "postalCode": "13285"
+        },
+        {
+          "code": "13291",
+          "name": "Phù Vân",
+          "fullName": "Phường Phù Vân, Tỉnh Ninh Bình",
+          "slug": "phu-van",
+          "postalCode": "13291"
+        },
+        {
+          "code": "13318",
+          "name": "Châu Sơn",
+          "fullName": "Phường Châu Sơn, Tỉnh Ninh Bình",
+          "slug": "chau-son",
+          "postalCode": "13318"
+        },
+        {
+          "code": "13366",
+          "name": "Hà Nam",
+          "fullName": "Phường Hà Nam, Tỉnh Ninh Bình",
+          "slug": "ha-nam",
+          "postalCode": "13366"
+        },
+        {
+          "code": "13444",
+          "name": "Liêm Tuyền",
+          "fullName": "Phường Liêm Tuyền, Tỉnh Ninh Bình",
+          "slug": "liem-tuyen",
+          "postalCode": "13444"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thanh Liêm",
+      "slug": "huyen-thanh-liem",
+      "wards": [
+        {
+          "code": "13318",
+          "name": "Châu Sơn",
+          "fullName": "Phường Châu Sơn, Tỉnh Ninh Bình",
+          "slug": "chau-son",
+          "postalCode": "13318"
+        },
+        {
+          "code": "13456",
+          "name": "Liêm Hà",
+          "fullName": "Xã Liêm Hà, Tỉnh Ninh Bình",
+          "slug": "liem-ha",
+          "postalCode": "13456"
+        },
+        {
+          "code": "13474",
+          "name": "Tân Thanh",
+          "fullName": "Xã Tân Thanh, Tỉnh Ninh Bình",
+          "slug": "tan-thanh",
+          "postalCode": "13474"
+        },
+        {
+          "code": "13483",
+          "name": "Thanh Bình",
+          "fullName": "Xã Thanh Bình, Tỉnh Ninh Bình",
+          "slug": "thanh-binh",
+          "postalCode": "13483"
+        },
+        {
+          "code": "13489",
+          "name": "Thanh Lâm",
+          "fullName": "Xã Thanh Lâm, Tỉnh Ninh Bình",
+          "slug": "thanh-lam",
+          "postalCode": "13489"
+        },
+        {
+          "code": "13495",
+          "name": "Thanh Liêm",
+          "fullName": "Xã Thanh Liêm, Tỉnh Ninh Bình",
+          "slug": "thanh-liem",
+          "postalCode": "13495"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Duy Tiên",
+      "slug": "thi-xa-duy-tien",
+      "wards": [
+        {
+          "code": "13324",
+          "name": "Duy Tiên",
+          "fullName": "Phường Duy Tiên, Tỉnh Ninh Bình",
+          "slug": "duy-tien",
+          "postalCode": "13324"
+        },
+        {
+          "code": "13330",
+          "name": "Duy Tân",
+          "fullName": "Phường Duy Tân, Tỉnh Ninh Bình",
+          "slug": "duy-tan",
+          "postalCode": "13330"
+        },
+        {
+          "code": "13336",
+          "name": "Duy Hà",
+          "fullName": "Phường Duy Hà, Tỉnh Ninh Bình",
+          "slug": "duy-ha",
+          "postalCode": "13336"
+        },
+        {
+          "code": "13348",
+          "name": "Đồng Văn",
+          "fullName": "Phường Đồng Văn, Tỉnh Ninh Bình",
+          "slug": "dong-van",
+          "postalCode": "13348"
+        },
+        {
+          "code": "13363",
+          "name": "Tiên Sơn",
+          "fullName": "Phường Tiên Sơn, Tỉnh Ninh Bình",
+          "slug": "tien-son",
+          "postalCode": "13363"
+        },
+        {
+          "code": "13366",
+          "name": "Hà Nam",
+          "fullName": "Phường Hà Nam, Tỉnh Ninh Bình",
+          "slug": "ha-nam",
+          "postalCode": "13366"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Kim Bảng",
+      "slug": "thi-xa-kim-bang",
+      "wards": [
+        {
+          "code": "13384",
+          "name": "Kim Bảng",
+          "fullName": "Phường Kim Bảng, Tỉnh Ninh Bình",
+          "slug": "kim-bang",
+          "postalCode": "13384"
+        },
+        {
+          "code": "13393",
+          "name": "Lê Hồ",
+          "fullName": "Phường Lê Hồ, Tỉnh Ninh Bình",
+          "slug": "le-ho",
+          "postalCode": "13393"
+        },
+        {
+          "code": "13396",
+          "name": "Nguyễn Uý",
+          "fullName": "Phường Nguyễn Uý, Tỉnh Ninh Bình",
+          "slug": "nguyen-uy",
+          "postalCode": "13396"
+        },
+        {
+          "code": "13402",
+          "name": "Kim Thanh",
+          "fullName": "Phường Kim Thanh, Tỉnh Ninh Bình",
+          "slug": "kim-thanh",
+          "postalCode": "13402"
+        },
+        {
+          "code": "13420",
+          "name": "Tam Chúc",
+          "fullName": "Phường Tam Chúc, Tỉnh Ninh Bình",
+          "slug": "tam-chuc",
+          "postalCode": "13420"
+        },
+        {
+          "code": "13435",
+          "name": "Lý Thường Kiệt",
+          "fullName": "Phường Lý Thường Kiệt, Tỉnh Ninh Bình",
+          "slug": "ly-thuong-kiet",
+          "postalCode": "13435"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Nam Định",
+      "slug": "thanh-pho-nam-dinh",
+      "wards": [
+        {
+          "code": "13669",
+          "name": "Nam Định",
+          "fullName": "Phường Nam Định, Tỉnh Ninh Bình",
+          "slug": "nam-dinh",
+          "postalCode": "13669"
+        },
+        {
+          "code": "13684",
+          "name": "Thiên Trường",
+          "fullName": "Phường Thiên Trường, Tỉnh Ninh Bình",
+          "slug": "thien-truong",
+          "postalCode": "13684"
+        },
+        {
+          "code": "13693",
+          "name": "Đông A",
+          "fullName": "Phường Đông A, Tỉnh Ninh Bình",
+          "slug": "dong-a",
+          "postalCode": "13693"
+        },
+        {
+          "code": "13699",
+          "name": "Thành Nam",
+          "fullName": "Phường Thành Nam, Tỉnh Ninh Bình",
+          "slug": "thanh-nam",
+          "postalCode": "13699"
+        },
+        {
+          "code": "13708",
+          "name": "Mỹ Lộc",
+          "fullName": "Phường Mỹ Lộc, Tỉnh Ninh Bình",
+          "slug": "my-loc",
+          "postalCode": "13708"
+        },
+        {
+          "code": "13777",
+          "name": "Trường Thi",
+          "fullName": "Phường Trường Thi, Tỉnh Ninh Bình",
+          "slug": "truong-thi",
+          "postalCode": "13777"
+        },
+        {
+          "code": "13972",
+          "name": "Vị Khê",
+          "fullName": "Phường Vị Khê, Tỉnh Ninh Bình",
+          "slug": "vi-khe",
+          "postalCode": "13972"
+        },
+        {
+          "code": "13984",
+          "name": "Hồng Quang",
+          "fullName": "Phường Hồng Quang, Tỉnh Ninh Bình",
+          "slug": "hong-quang",
+          "postalCode": "13984"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vụ Bản",
+      "slug": "huyen-vu-ban",
+      "wards": [
+        {
+          "code": "13699",
+          "name": "Thành Nam",
+          "fullName": "Phường Thành Nam, Tỉnh Ninh Bình",
+          "slug": "thanh-nam",
+          "postalCode": "13699"
+        },
+        {
+          "code": "13741",
+          "name": "Vụ Bản",
+          "fullName": "Xã Vụ Bản, Tỉnh Ninh Bình",
+          "slug": "vu-ban",
+          "postalCode": "13741"
+        },
+        {
+          "code": "13750",
+          "name": "Minh Tân",
+          "fullName": "Xã Minh Tân, Tỉnh Ninh Bình",
+          "slug": "minh-tan",
+          "postalCode": "13750"
+        },
+        {
+          "code": "13753",
+          "name": "Hiển Khánh",
+          "fullName": "Xã Hiển Khánh, Tỉnh Ninh Bình",
+          "slug": "hien-khanh",
+          "postalCode": "13753"
+        },
+        {
+          "code": "13777",
+          "name": "Trường Thi",
+          "fullName": "Phường Trường Thi, Tỉnh Ninh Bình",
+          "slug": "truong-thi",
+          "postalCode": "13777"
+        },
+        {
+          "code": "13786",
+          "name": "Liên Minh",
+          "fullName": "Xã Liên Minh, Tỉnh Ninh Bình",
+          "slug": "lien-minh",
+          "postalCode": "13786"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nam Trực",
+      "slug": "huyen-nam-truc",
+      "wards": [
+        {
+          "code": "13966",
+          "name": "Nam Trực",
+          "fullName": "Xã Nam Trực, Tỉnh Ninh Bình",
+          "slug": "nam-truc",
+          "postalCode": "13966"
+        },
+        {
+          "code": "13972",
+          "name": "Vị Khê",
+          "fullName": "Phường Vị Khê, Tỉnh Ninh Bình",
+          "slug": "vi-khe",
+          "postalCode": "13972"
+        },
+        {
+          "code": "13984",
+          "name": "Hồng Quang",
+          "fullName": "Phường Hồng Quang, Tỉnh Ninh Bình",
+          "slug": "hong-quang",
+          "postalCode": "13984"
+        },
+        {
+          "code": "13987",
+          "name": "Nam Hồng",
+          "fullName": "Xã Nam Hồng, Tỉnh Ninh Bình",
+          "slug": "nam-hong",
+          "postalCode": "13987"
+        },
+        {
+          "code": "14005",
+          "name": "Nam Ninh",
+          "fullName": "Xã Nam Ninh, Tỉnh Ninh Bình",
+          "slug": "nam-ninh",
+          "postalCode": "14005"
+        },
+        {
+          "code": "14011",
+          "name": "Nam Minh",
+          "fullName": "Xã Nam Minh, Tỉnh Ninh Bình",
+          "slug": "nam-minh",
+          "postalCode": "14011"
+        },
+        {
+          "code": "14014",
+          "name": "Nam Đồng",
+          "fullName": "Xã Nam Đồng, Tỉnh Ninh Bình",
+          "slug": "nam-dong",
+          "postalCode": "14014"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Hoa Lư",
+      "slug": "thanh-pho-hoa-lu",
+      "wards": [
+        {
+          "code": "14329",
+          "name": "Hoa Lư",
+          "fullName": "Phường Hoa Lư, Tỉnh Ninh Bình",
+          "slug": "hoa-lu",
+          "postalCode": "14329"
+        },
+        {
+          "code": "14359",
+          "name": "Nam Hoa Lư",
+          "fullName": "Phường Nam Hoa Lư, Tỉnh Ninh Bình",
+          "slug": "nam-hoa-lu",
+          "postalCode": "14359"
+        },
+        {
+          "code": "14533",
+          "name": "Tây Hoa Lư",
+          "fullName": "Phường Tây Hoa Lư, Tỉnh Ninh Bình",
+          "slug": "tay-hoa-lu",
+          "postalCode": "14533"
+        },
+        {
+          "code": "14566",
+          "name": "Đông Hoa Lư",
+          "fullName": "Phường Đông Hoa Lư, Tỉnh Ninh Bình",
+          "slug": "dong-hoa-lu",
+          "postalCode": "14566"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Tam Điệp",
+      "slug": "thanh-pho-tam-diep",
+      "wards": [
+        {
+          "code": "14362",
+          "name": "Tam Điệp",
+          "fullName": "Phường Tam Điệp, Tỉnh Ninh Bình",
+          "slug": "tam-diep",
+          "postalCode": "14362"
+        },
+        {
+          "code": "14365",
+          "name": "Trung Sơn",
+          "fullName": "Phường Trung Sơn, Tỉnh Ninh Bình",
+          "slug": "trung-son",
+          "postalCode": "14365"
+        },
+        {
+          "code": "14371",
+          "name": "Yên Sơn",
+          "fullName": "Phường Yên Sơn, Tỉnh Ninh Bình",
+          "slug": "yen-son",
+          "postalCode": "14371"
+        },
+        {
+          "code": "14725",
+          "name": "Yên Thắng",
+          "fullName": "Phường Yên Thắng, Tỉnh Ninh Bình",
+          "slug": "yen-thang",
+          "postalCode": "14725"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nho Quan",
+      "slug": "huyen-nho-quan",
+      "wards": [
+        {
+          "code": "14371",
+          "name": "Yên Sơn",
+          "fullName": "Phường Yên Sơn, Tỉnh Ninh Bình",
+          "slug": "yen-son",
+          "postalCode": "14371"
+        },
+        {
+          "code": "14389",
+          "name": "Gia Lâm",
+          "fullName": "Xã Gia Lâm, Tỉnh Ninh Bình",
+          "slug": "gia-lam",
+          "postalCode": "14389"
+        },
+        {
+          "code": "14401",
+          "name": "Gia Tường",
+          "fullName": "Xã Gia Tường, Tỉnh Ninh Bình",
+          "slug": "gia-tuong",
+          "postalCode": "14401"
+        },
+        {
+          "code": "14404",
+          "name": "Cúc Phương",
+          "fullName": "Xã Cúc Phương, Tỉnh Ninh Bình",
+          "slug": "cuc-phuong",
+          "postalCode": "14404"
+        },
+        {
+          "code": "14407",
+          "name": "Phú Sơn",
+          "fullName": "Xã Phú Sơn, Tỉnh Ninh Bình",
+          "slug": "phu-son",
+          "postalCode": "14407"
+        },
+        {
+          "code": "14428",
+          "name": "Nho Quan",
+          "fullName": "Xã Nho Quan, Tỉnh Ninh Bình",
+          "slug": "nho-quan",
+          "postalCode": "14428"
+        },
+        {
+          "code": "14434",
+          "name": "Thanh Sơn",
+          "fullName": "Xã Thanh Sơn, Tỉnh Ninh Bình",
+          "slug": "thanh-son",
+          "postalCode": "14434"
+        },
+        {
+          "code": "14452",
+          "name": "Quỳnh Lưu",
+          "fullName": "Xã Quỳnh Lưu, Tỉnh Ninh Bình",
+          "slug": "quynh-luu",
+          "postalCode": "14452"
+        },
+        {
+          "code": "14458",
+          "name": "Phú Long",
+          "fullName": "Xã Phú Long, Tỉnh Ninh Bình",
+          "slug": "phu-long",
+          "postalCode": "14458"
+        },
+        {
+          "code": "14533",
+          "name": "Tây Hoa Lư",
+          "fullName": "Phường Tây Hoa Lư, Tỉnh Ninh Bình",
+          "slug": "tay-hoa-lu",
+          "postalCode": "14533"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Gia Viễn",
+      "slug": "huyen-gia-vien",
+      "wards": [
+        {
+          "code": "14464",
+          "name": "Gia Viễn",
+          "fullName": "Xã Gia Viễn, Tỉnh Ninh Bình",
+          "slug": "gia-vien",
+          "postalCode": "14464"
+        },
+        {
+          "code": "14482",
+          "name": "Gia Hưng",
+          "fullName": "Xã Gia Hưng, Tỉnh Ninh Bình",
+          "slug": "gia-hung",
+          "postalCode": "14482"
+        },
+        {
+          "code": "14488",
+          "name": "Gia Vân",
+          "fullName": "Xã Gia Vân, Tỉnh Ninh Bình",
+          "slug": "gia-van",
+          "postalCode": "14488"
+        },
+        {
+          "code": "14494",
+          "name": "Gia Trấn",
+          "fullName": "Xã Gia Trấn, Tỉnh Ninh Bình",
+          "slug": "gia-tran",
+          "postalCode": "14494"
+        },
+        {
+          "code": "14500",
+          "name": "Đại Hoàng",
+          "fullName": "Xã Đại Hoàng, Tỉnh Ninh Bình",
+          "slug": "dai-hoang",
+          "postalCode": "14500"
+        },
+        {
+          "code": "14524",
+          "name": "Gia Phong",
+          "fullName": "Xã Gia Phong, Tỉnh Ninh Bình",
+          "slug": "gia-phong",
+          "postalCode": "14524"
+        },
+        {
+          "code": "14533",
+          "name": "Tây Hoa Lư",
+          "fullName": "Phường Tây Hoa Lư, Tỉnh Ninh Bình",
+          "slug": "tay-hoa-lu",
+          "postalCode": "14533"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Khánh",
+      "slug": "huyen-yen-khanh",
+      "wards": [
+        {
+          "code": "14560",
+          "name": "Yên Khánh",
+          "fullName": "Xã Yên Khánh, Tỉnh Ninh Bình",
+          "slug": "yen-khanh",
+          "postalCode": "14560"
+        },
+        {
+          "code": "14563",
+          "name": "Khánh Thiện",
+          "fullName": "Xã Khánh Thiện, Tỉnh Ninh Bình",
+          "slug": "khanh-thien",
+          "postalCode": "14563"
+        },
+        {
+          "code": "14566",
+          "name": "Đông Hoa Lư",
+          "fullName": "Phường Đông Hoa Lư, Tỉnh Ninh Bình",
+          "slug": "dong-hoa-lu",
+          "postalCode": "14566"
+        },
+        {
+          "code": "14608",
+          "name": "Khánh Trung",
+          "fullName": "Xã Khánh Trung, Tỉnh Ninh Bình",
+          "slug": "khanh-trung",
+          "postalCode": "14608"
+        },
+        {
+          "code": "14611",
+          "name": "Khánh Nhạc",
+          "fullName": "Xã Khánh Nhạc, Tỉnh Ninh Bình",
+          "slug": "khanh-nhac",
+          "postalCode": "14611"
+        },
+        {
+          "code": "14614",
+          "name": "Khánh Hội",
+          "fullName": "Xã Khánh Hội, Tỉnh Ninh Bình",
+          "slug": "khanh-hoi",
+          "postalCode": "14614"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Mô",
+      "slug": "huyen-yen-mo",
+      "wards": [
+        {
+          "code": "14701",
+          "name": "Yên Mô",
+          "fullName": "Xã Yên Mô, Tỉnh Ninh Bình",
+          "slug": "yen-mo",
+          "postalCode": "14701"
+        },
+        {
+          "code": "14725",
+          "name": "Yên Thắng",
+          "fullName": "Phường Yên Thắng, Tỉnh Ninh Bình",
+          "slug": "yen-thang",
+          "postalCode": "14725"
+        },
+        {
+          "code": "14728",
+          "name": "Yên Từ",
+          "fullName": "Xã Yên Từ, Tỉnh Ninh Bình",
+          "slug": "yen-tu",
+          "postalCode": "14728"
+        },
+        {
+          "code": "14743",
+          "name": "Yên Mạc",
+          "fullName": "Xã Yên Mạc, Tỉnh Ninh Bình",
+          "slug": "yen-mac",
+          "postalCode": "14743"
+        },
+        {
+          "code": "14746",
+          "name": "Đồng Thái",
+          "fullName": "Xã Đồng Thái, Tỉnh Ninh Bình",
+          "slug": "dong-thai",
+          "postalCode": "14746"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bình Lục",
+      "slug": "huyen-binh-luc",
+      "wards": [
+        {
+          "code": "13501",
+          "name": "Bình Mỹ",
+          "fullName": "Xã Bình Mỹ, Tỉnh Ninh Bình",
+          "slug": "binh-my",
+          "postalCode": "13501"
+        },
+        {
+          "code": "13504",
+          "name": "Bình Lục",
+          "fullName": "Xã Bình Lục, Tỉnh Ninh Bình",
+          "slug": "binh-luc",
+          "postalCode": "13504"
+        },
+        {
+          "code": "13531",
+          "name": "Bình Giang",
+          "fullName": "Xã Bình Giang, Tỉnh Ninh Bình",
+          "slug": "binh-giang",
+          "postalCode": "13531"
+        },
+        {
+          "code": "13540",
+          "name": "Bình An",
+          "fullName": "Xã Bình An, Tỉnh Ninh Bình",
+          "slug": "binh-an",
+          "postalCode": "13540"
+        },
+        {
+          "code": "13558",
+          "name": "Bình Sơn",
+          "fullName": "Xã Bình Sơn, Tỉnh Ninh Bình",
+          "slug": "binh-son",
+          "postalCode": "13558"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lý Nhân",
+      "slug": "huyen-ly-nhan",
+      "wards": [
+        {
+          "code": "13573",
+          "name": "Lý Nhân",
+          "fullName": "Xã Lý Nhân, Tỉnh Ninh Bình",
+          "slug": "ly-nhan",
+          "postalCode": "13573"
+        },
+        {
+          "code": "13579",
+          "name": "Bắc Lý",
+          "fullName": "Xã Bắc Lý, Tỉnh Ninh Bình",
+          "slug": "bac-ly",
+          "postalCode": "13579"
+        },
+        {
+          "code": "13591",
+          "name": "Nam Xang",
+          "fullName": "Xã Nam Xang, Tỉnh Ninh Bình",
+          "slug": "nam-xang",
+          "postalCode": "13591"
+        },
+        {
+          "code": "13594",
+          "name": "Trần Thương",
+          "fullName": "Xã Trần Thương, Tỉnh Ninh Bình",
+          "slug": "tran-thuong",
+          "postalCode": "13594"
+        },
+        {
+          "code": "13597",
+          "name": "Vĩnh Trụ",
+          "fullName": "Xã Vĩnh Trụ, Tỉnh Ninh Bình",
+          "slug": "vinh-tru",
+          "postalCode": "13597"
+        },
+        {
+          "code": "13609",
+          "name": "Nhân Hà",
+          "fullName": "Xã Nhân Hà, Tỉnh Ninh Bình",
+          "slug": "nhan-ha",
+          "postalCode": "13609"
+        },
+        {
+          "code": "13627",
+          "name": "Nam Lý",
+          "fullName": "Xã Nam Lý, Tỉnh Ninh Bình",
+          "slug": "nam-ly",
+          "postalCode": "13627"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ý Yên",
+      "slug": "huyen-y-yen",
+      "wards": [
+        {
+          "code": "13795",
+          "name": "Ý Yên",
+          "fullName": "Xã Ý Yên, Tỉnh Ninh Bình",
+          "slug": "y-yen",
+          "postalCode": "13795"
+        },
+        {
+          "code": "13807",
+          "name": "Tân Minh",
+          "fullName": "Xã Tân Minh, Tỉnh Ninh Bình",
+          "slug": "tan-minh",
+          "postalCode": "13807"
+        },
+        {
+          "code": "13822",
+          "name": "Phong Doanh",
+          "fullName": "Xã Phong Doanh, Tỉnh Ninh Bình",
+          "slug": "phong-doanh",
+          "postalCode": "13822"
+        },
+        {
+          "code": "13834",
+          "name": "Vũ Dương",
+          "fullName": "Xã Vũ Dương, Tỉnh Ninh Bình",
+          "slug": "vu-duong",
+          "postalCode": "13834"
+        },
+        {
+          "code": "13864",
+          "name": "Vạn Thắng",
+          "fullName": "Xã Vạn Thắng, Tỉnh Ninh Bình",
+          "slug": "van-thang",
+          "postalCode": "13864"
+        },
+        {
+          "code": "13870",
+          "name": "Yên Cường",
+          "fullName": "Xã Yên Cường, Tỉnh Ninh Bình",
+          "slug": "yen-cuong",
+          "postalCode": "13870"
+        },
+        {
+          "code": "13879",
+          "name": "Yên Đồng",
+          "fullName": "Xã Yên Đồng, Tỉnh Ninh Bình",
+          "slug": "yen-dong",
+          "postalCode": "13879"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nghĩa Hưng",
+      "slug": "huyen-nghia-hung",
+      "wards": [
+        {
+          "code": "13891",
+          "name": "Nghĩa Hưng",
+          "fullName": "Xã Nghĩa Hưng, Tỉnh Ninh Bình",
+          "slug": "nghia-hung",
+          "postalCode": "13891"
+        },
+        {
+          "code": "13894",
+          "name": "Rạng Đông",
+          "fullName": "Xã Rạng Đông, Tỉnh Ninh Bình",
+          "slug": "rang-dong",
+          "postalCode": "13894"
+        },
+        {
+          "code": "13900",
+          "name": "Đồng Thịnh",
+          "fullName": "Xã Đồng Thịnh, Tỉnh Ninh Bình",
+          "slug": "dong-thinh",
+          "postalCode": "13900"
+        },
+        {
+          "code": "13918",
+          "name": "Nghĩa Sơn",
+          "fullName": "Xã Nghĩa Sơn, Tỉnh Ninh Bình",
+          "slug": "nghia-son",
+          "postalCode": "13918"
+        },
+        {
+          "code": "13927",
+          "name": "Hồng Phong",
+          "fullName": "Xã Hồng Phong, Tỉnh Ninh Bình",
+          "slug": "hong-phong",
+          "postalCode": "13927"
+        },
+        {
+          "code": "13939",
+          "name": "Quỹ Nhất",
+          "fullName": "Xã Quỹ Nhất, Tỉnh Ninh Bình",
+          "slug": "quy-nhat",
+          "postalCode": "13939"
+        },
+        {
+          "code": "13957",
+          "name": "Nghĩa Lâm",
+          "fullName": "Xã Nghĩa Lâm, Tỉnh Ninh Bình",
+          "slug": "nghia-lam",
+          "postalCode": "13957"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trực Ninh",
+      "slug": "huyen-truc-ninh",
+      "wards": [
+        {
+          "code": "14026",
+          "name": "Cổ Lễ",
+          "fullName": "Xã Cổ Lễ, Tỉnh Ninh Bình",
+          "slug": "co-le",
+          "postalCode": "14026"
+        },
+        {
+          "code": "14038",
+          "name": "Ninh Giang",
+          "fullName": "Xã Ninh Giang, Tỉnh Ninh Bình",
+          "slug": "ninh-giang",
+          "postalCode": "14038"
+        },
+        {
+          "code": "14053",
+          "name": "Trực Ninh",
+          "fullName": "Xã Trực Ninh, Tỉnh Ninh Bình",
+          "slug": "truc-ninh",
+          "postalCode": "14053"
+        },
+        {
+          "code": "14056",
+          "name": "Cát Thành",
+          "fullName": "Xã Cát Thành, Tỉnh Ninh Bình",
+          "slug": "cat-thanh",
+          "postalCode": "14056"
+        },
+        {
+          "code": "14062",
+          "name": "Quang Hưng",
+          "fullName": "Xã Quang Hưng, Tỉnh Ninh Bình",
+          "slug": "quang-hung",
+          "postalCode": "14062"
+        },
+        {
+          "code": "14071",
+          "name": "Minh Thái",
+          "fullName": "Xã Minh Thái, Tỉnh Ninh Bình",
+          "slug": "minh-thai",
+          "postalCode": "14071"
+        },
+        {
+          "code": "14077",
+          "name": "Ninh Cường",
+          "fullName": "Xã Ninh Cường, Tỉnh Ninh Bình",
+          "slug": "ninh-cuong",
+          "postalCode": "14077"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Xuân Trường",
+      "slug": "huyen-xuan-truong",
+      "wards": [
+        {
+          "code": "14089",
+          "name": "Xuân Trường",
+          "fullName": "Xã Xuân Trường, Tỉnh Ninh Bình",
+          "slug": "xuan-truong",
+          "postalCode": "14089"
+        },
+        {
+          "code": "14095",
+          "name": "Xuân Hồng",
+          "fullName": "Xã Xuân Hồng, Tỉnh Ninh Bình",
+          "slug": "xuan-hong",
+          "postalCode": "14095"
+        },
+        {
+          "code": "14104",
+          "name": "Xuân Giang",
+          "fullName": "Xã Xuân Giang, Tỉnh Ninh Bình",
+          "slug": "xuan-giang",
+          "postalCode": "14104"
+        },
+        {
+          "code": "14122",
+          "name": "Xuân Hưng",
+          "fullName": "Xã Xuân Hưng, Tỉnh Ninh Bình",
+          "slug": "xuan-hung",
+          "postalCode": "14122"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Giao Thủy",
+      "slug": "huyen-giao-thuy",
+      "wards": [
+        {
+          "code": "14161",
+          "name": "Giao Minh",
+          "fullName": "Xã Giao Minh, Tỉnh Ninh Bình",
+          "slug": "giao-minh",
+          "postalCode": "14161"
+        },
+        {
+          "code": "14167",
+          "name": "Giao Thuỷ",
+          "fullName": "Xã Giao Thuỷ, Tỉnh Ninh Bình",
+          "slug": "giao-thuy",
+          "postalCode": "14167"
+        },
+        {
+          "code": "14179",
+          "name": "Giao Hưng",
+          "fullName": "Xã Giao Hưng, Tỉnh Ninh Bình",
+          "slug": "giao-hung",
+          "postalCode": "14179"
+        },
+        {
+          "code": "14182",
+          "name": "Giao Hòa",
+          "fullName": "Xã Giao Hòa, Tỉnh Ninh Bình",
+          "slug": "giao-hoa",
+          "postalCode": "14182"
+        },
+        {
+          "code": "14194",
+          "name": "Giao Bình",
+          "fullName": "Xã Giao Bình, Tỉnh Ninh Bình",
+          "slug": "giao-binh",
+          "postalCode": "14194"
+        },
+        {
+          "code": "14203",
+          "name": "Giao Phúc",
+          "fullName": "Xã Giao Phúc, Tỉnh Ninh Bình",
+          "slug": "giao-phuc",
+          "postalCode": "14203"
+        },
+        {
+          "code": "14212",
+          "name": "Giao Ninh",
+          "fullName": "Xã Giao Ninh, Tỉnh Ninh Bình",
+          "slug": "giao-ninh",
+          "postalCode": "14212"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hải Hậu",
+      "slug": "huyen-hai-hau",
+      "wards": [
+        {
+          "code": "14215",
+          "name": "Hải Hậu",
+          "fullName": "Xã Hải Hậu, Tỉnh Ninh Bình",
+          "slug": "hai-hau",
+          "postalCode": "14215"
+        },
+        {
+          "code": "14218",
+          "name": "Hải Tiến",
+          "fullName": "Xã Hải Tiến, Tỉnh Ninh Bình",
+          "slug": "hai-tien",
+          "postalCode": "14218"
+        },
+        {
+          "code": "14221",
+          "name": "Hải Thịnh",
+          "fullName": "Xã Hải Thịnh, Tỉnh Ninh Bình",
+          "slug": "hai-thinh",
+          "postalCode": "14221"
+        },
+        {
+          "code": "14236",
+          "name": "Hải Anh",
+          "fullName": "Xã Hải Anh, Tỉnh Ninh Bình",
+          "slug": "hai-anh",
+          "postalCode": "14236"
+        },
+        {
+          "code": "14248",
+          "name": "Hải Hưng",
+          "fullName": "Xã Hải Hưng, Tỉnh Ninh Bình",
+          "slug": "hai-hung",
+          "postalCode": "14248"
+        },
+        {
+          "code": "14281",
+          "name": "Hải An",
+          "fullName": "Xã Hải An, Tỉnh Ninh Bình",
+          "slug": "hai-an",
+          "postalCode": "14281"
+        },
+        {
+          "code": "14287",
+          "name": "Hải Quang",
+          "fullName": "Xã Hải Quang, Tỉnh Ninh Bình",
+          "slug": "hai-quang",
+          "postalCode": "14287"
+        },
+        {
+          "code": "14308",
+          "name": "Hải Xuân",
+          "fullName": "Xã Hải Xuân, Tỉnh Ninh Bình",
+          "slug": "hai-xuan",
+          "postalCode": "14308"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kim Sơn",
+      "slug": "huyen-kim-son",
+      "wards": [
+        {
+          "code": "14620",
+          "name": "Phát Diệm",
+          "fullName": "Xã Phát Diệm, Tỉnh Ninh Bình",
+          "slug": "phat-diem",
+          "postalCode": "14620"
+        },
+        {
+          "code": "14623",
+          "name": "Bình Minh",
+          "fullName": "Xã Bình Minh, Tỉnh Ninh Bình",
+          "slug": "binh-minh",
+          "postalCode": "14623"
+        },
+        {
+          "code": "14638",
+          "name": "Kim Sơn",
+          "fullName": "Xã Kim Sơn, Tỉnh Ninh Bình",
+          "slug": "kim-son",
+          "postalCode": "14638"
+        },
+        {
+          "code": "14647",
+          "name": "Quang Thiện",
+          "fullName": "Xã Quang Thiện, Tỉnh Ninh Bình",
+          "slug": "quang-thien",
+          "postalCode": "14647"
+        },
+        {
+          "code": "14653",
+          "name": "Chất Bình",
+          "fullName": "Xã Chất Bình, Tỉnh Ninh Bình",
+          "slug": "chat-binh",
+          "postalCode": "14653"
+        },
+        {
+          "code": "14674",
+          "name": "Lai Thành",
+          "fullName": "Xã Lai Thành, Tỉnh Ninh Bình",
+          "slug": "lai-thanh",
+          "postalCode": "14674"
+        },
+        {
+          "code": "14677",
+          "name": "Định Hoá",
+          "fullName": "Xã Định Hoá, Tỉnh Ninh Bình",
+          "slug": "dinh-hoa",
+          "postalCode": "14677"
+        },
+        {
+          "code": "14698",
+          "name": "Kim Đông",
+          "fullName": "Xã Kim Đông, Tỉnh Ninh Bình",
+          "slug": "kim-dong",
+          "postalCode": "14698"
+        }
+      ]
+    }
+  ]
+}

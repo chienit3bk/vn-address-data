@@ -1,0 +1,672 @@
+{
+  "code": "26",
+  "name": "Lai Châu",
+  "slug": "lai-chau",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Lai Châu",
+  "wards": [
+    {
+      "code": "01089",
+      "name": "Tân Phong",
+      "fullName": "Phường Tân Phong, Tỉnh Lai Châu",
+      "slug": "tan-phong",
+      "type": "ward",
+      "postalCode": "03408"
+    },
+    {
+      "code": "01487",
+      "name": "Tân Uyên",
+      "fullName": "Xã Tân Uyên, Tỉnh Lai Châu",
+      "slug": "tan-uyen",
+      "type": "commune",
+      "postalCode": "03598"
+    },
+    {
+      "code": "01722",
+      "name": "Than Uyên",
+      "fullName": "Xã Than Uyên, Tỉnh Lai Châu",
+      "slug": "than-uyen",
+      "type": "commune",
+      "postalCode": "03595"
+    },
+    {
+      "code": "01864",
+      "name": "Đoàn Kết",
+      "fullName": "Phường Đoàn Kết, Tỉnh Lai Châu",
+      "slug": "doan-ket",
+      "type": "ward",
+      "postalCode": "03388"
+    },
+    {
+      "code": "02042",
+      "name": "Phong Thổ",
+      "fullName": "Xã Phong Thổ, Tỉnh Lai Châu",
+      "slug": "phong-tho",
+      "type": "commune",
+      "postalCode": "03549"
+    },
+    {
+      "code": "02235",
+      "name": "Mường Kim",
+      "fullName": "Xã Mường Kim, Tỉnh Lai Châu",
+      "slug": "muong-kim",
+      "type": "commune",
+      "postalCode": "03637"
+    },
+    {
+      "code": "02356",
+      "name": "Bình Lư",
+      "fullName": "Xã Bình Lư, Tỉnh Lai Châu",
+      "slug": "binh-lu",
+      "type": "commune",
+      "postalCode": "03390"
+    },
+    {
+      "code": "02467",
+      "name": "Khổng Lào",
+      "fullName": "Xã Khổng Lào, Tỉnh Lai Châu",
+      "slug": "khong-lao",
+      "type": "commune",
+      "postalCode": "03583"
+    },
+    {
+      "code": "02501",
+      "name": "Sin Suối Hồ",
+      "fullName": "Xã Sin Suối Hồ, Tỉnh Lai Châu",
+      "slug": "sin-suoi-ho",
+      "type": "commune",
+      "postalCode": "03394"
+    },
+    {
+      "code": "02513",
+      "name": "Tủa Sín Chải",
+      "fullName": "Xã Tủa Sín Chải, Tỉnh Lai Châu",
+      "slug": "tua-sin-chai",
+      "type": "commune",
+      "postalCode": "03529"
+    },
+    {
+      "code": "02515",
+      "name": "Sì Lở Lầu",
+      "fullName": "Xã Sì Lở Lầu, Tỉnh Lai Châu",
+      "slug": "si-lo-lau",
+      "type": "commune",
+      "postalCode": "03562"
+    },
+    {
+      "code": "02521",
+      "name": "Dào San",
+      "fullName": "Xã Dào San, Tỉnh Lai Châu",
+      "slug": "dao-san",
+      "type": "commune",
+      "postalCode": "03571"
+    },
+    {
+      "code": "02659",
+      "name": "Sìn Hồ",
+      "fullName": "Xã Sìn Hồ, Tỉnh Lai Châu",
+      "slug": "sin-ho",
+      "type": "commune",
+      "postalCode": "03478"
+    },
+    {
+      "code": "02665",
+      "name": "Mường Than",
+      "fullName": "Xã Mường Than, Tỉnh Lai Châu",
+      "slug": "muong-than",
+      "type": "commune",
+      "postalCode": "03618"
+    },
+    {
+      "code": "02691",
+      "name": "Hồng Thu",
+      "fullName": "Xã Hồng Thu, Tỉnh Lai Châu",
+      "slug": "hong-thu",
+      "type": "commune",
+      "postalCode": "03508"
+    },
+    {
+      "code": "02723",
+      "name": "Nậm Tăm",
+      "fullName": "Xã Nậm Tăm, Tỉnh Lai Châu",
+      "slug": "nam-tam",
+      "type": "commune",
+      "postalCode": "03517"
+    },
+    {
+      "code": "02732",
+      "name": "Tả Lèng",
+      "fullName": "Xã Tả Lèng, Tỉnh Lai Châu",
+      "slug": "ta-leng",
+      "type": "commune",
+      "postalCode": "03405"
+    },
+    {
+      "code": "02742",
+      "name": "Mường Khoa",
+      "fullName": "Xã Mường Khoa, Tỉnh Lai Châu",
+      "slug": "muong-khoa",
+      "type": "commune",
+      "postalCode": "03601"
+    },
+    {
+      "code": "02791",
+      "name": "Bum Tở",
+      "fullName": "Xã Bum Tở, Tỉnh Lai Châu",
+      "slug": "bum-to",
+      "type": "commune",
+      "postalCode": "03433"
+    },
+    {
+      "code": "02796",
+      "name": "Pu Sam Cáp",
+      "fullName": "Xã Pu Sam Cáp, Tỉnh Lai Châu",
+      "slug": "pu-sam-cap",
+      "type": "commune",
+      "postalCode": "03532"
+    },
+    {
+      "code": "02821",
+      "name": "Nậm Hàng",
+      "fullName": "Xã Nậm Hàng, Tỉnh Lai Châu",
+      "slug": "nam-hang",
+      "type": "commune",
+      "postalCode": "03434"
+    },
+    {
+      "code": "02859",
+      "name": "Nậm Cuổi",
+      "fullName": "Xã Nậm Cuổi, Tỉnh Lai Châu",
+      "slug": "nam-cuoi",
+      "type": "commune",
+      "postalCode": "03544"
+    },
+    {
+      "code": "02868",
+      "name": "Pắc Ta",
+      "fullName": "Xã Pắc Ta, Tỉnh Lai Châu",
+      "slug": "pac-ta",
+      "type": "commune",
+      "postalCode": "03616"
+    },
+    {
+      "code": "02871",
+      "name": "Khoen On",
+      "fullName": "Xã Khoen On, Tỉnh Lai Châu",
+      "slug": "khoen-on",
+      "type": "commune",
+      "postalCode": "03640"
+    },
+    {
+      "code": "02877",
+      "name": "Nậm Sỏ",
+      "fullName": "Xã Nậm Sỏ, Tỉnh Lai Châu",
+      "slug": "nam-so",
+      "type": "commune",
+      "postalCode": "03613"
+    },
+    {
+      "code": "02956",
+      "name": "Bản Bo",
+      "fullName": "Xã Bản Bo, Tỉnh Lai Châu",
+      "slug": "ban-bo",
+      "type": "commune",
+      "postalCode": "03424"
+    },
+    {
+      "code": "02986",
+      "name": "Khun Há",
+      "fullName": "Xã Khun Há, Tỉnh Lai Châu",
+      "slug": "khun-ha",
+      "type": "commune",
+      "postalCode": "03430"
+    },
+    {
+      "code": "02987",
+      "name": "Lê Lợi",
+      "fullName": "Xã Lê Lợi, Tỉnh Lai Châu",
+      "slug": "le-loi",
+      "type": "commune",
+      "postalCode": "03487"
+    },
+    {
+      "code": "02993",
+      "name": "Pa Tần",
+      "fullName": "Xã Pa Tần, Tỉnh Lai Châu",
+      "slug": "pa-tan",
+      "type": "commune",
+      "postalCode": "03503"
+    },
+    {
+      "code": "03063",
+      "name": "Tà Tổng",
+      "fullName": "Xã Tà Tổng, Tỉnh Lai Châu",
+      "slug": "ta-tong",
+      "type": "commune",
+      "postalCode": "03463"
+    },
+    {
+      "code": "03100",
+      "name": "Mường Mô",
+      "fullName": "Xã Mường Mô, Tỉnh Lai Châu",
+      "slug": "muong-mo",
+      "type": "commune",
+      "postalCode": "03472"
+    },
+    {
+      "code": "03115",
+      "name": "Bum Nưa",
+      "fullName": "Xã Bum Nưa, Tỉnh Lai Châu",
+      "slug": "bum-nua",
+      "type": "commune",
+      "postalCode": "03466"
+    },
+    {
+      "code": "03162",
+      "name": "Nậm Mạ",
+      "fullName": "Xã Nậm Mạ, Tỉnh Lai Châu",
+      "slug": "nam-ma",
+      "type": "commune",
+      "postalCode": "03538"
+    },
+    {
+      "code": "03176",
+      "name": "Mường Tè",
+      "fullName": "Xã Mường Tè, Tỉnh Lai Châu",
+      "slug": "muong-te",
+      "type": "commune",
+      "postalCode": "03445"
+    },
+    {
+      "code": "03190",
+      "name": "Pa Ủ",
+      "fullName": "Xã Pa Ủ, Tỉnh Lai Châu",
+      "slug": "pa-u",
+      "type": "commune",
+      "postalCode": "03442"
+    },
+    {
+      "code": "03223",
+      "name": "Hua Bum",
+      "fullName": "Xã Hua Bum, Tỉnh Lai Châu",
+      "slug": "hua-bum",
+      "type": "commune",
+      "postalCode": "03460"
+    },
+    {
+      "code": "03244",
+      "name": "Thu Lũm",
+      "fullName": "Xã Thu Lũm, Tỉnh Lai Châu",
+      "slug": "thu-lum",
+      "type": "commune",
+      "postalCode": "03439"
+    },
+    {
+      "code": "03296",
+      "name": "Mù Cả",
+      "fullName": "Xã Mù Cả, Tỉnh Lai Châu",
+      "slug": "mu-ca",
+      "type": "commune",
+      "postalCode": "03451"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Huyện Phong Thổ",
+      "slug": "huyen-phong-tho",
+      "wards": [
+        {
+          "code": "03388",
+          "name": "Đoàn Kết",
+          "fullName": "Phường Đoàn Kết, Tỉnh Lai Châu",
+          "slug": "doan-ket",
+          "postalCode": "03388"
+        },
+        {
+          "code": "03394",
+          "name": "Sin Suối Hồ",
+          "fullName": "Xã Sin Suối Hồ, Tỉnh Lai Châu",
+          "slug": "sin-suoi-ho",
+          "postalCode": "03394"
+        },
+        {
+          "code": "03549",
+          "name": "Phong Thổ",
+          "fullName": "Xã Phong Thổ, Tỉnh Lai Châu",
+          "slug": "phong-tho",
+          "postalCode": "03549"
+        },
+        {
+          "code": "03562",
+          "name": "Sì Lở Lầu",
+          "fullName": "Xã Sì Lở Lầu, Tỉnh Lai Châu",
+          "slug": "si-lo-lau",
+          "postalCode": "03562"
+        },
+        {
+          "code": "03571",
+          "name": "Dào San",
+          "fullName": "Xã Dào San, Tỉnh Lai Châu",
+          "slug": "dao-san",
+          "postalCode": "03571"
+        },
+        {
+          "code": "03583",
+          "name": "Khổng Lào",
+          "fullName": "Xã Khổng Lào, Tỉnh Lai Châu",
+          "slug": "khong-lao",
+          "postalCode": "03583"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Lai Châu",
+      "slug": "thanh-pho-lai-chau",
+      "wards": [
+        {
+          "code": "03388",
+          "name": "Đoàn Kết",
+          "fullName": "Phường Đoàn Kết, Tỉnh Lai Châu",
+          "slug": "doan-ket",
+          "postalCode": "03388"
+        },
+        {
+          "code": "03408",
+          "name": "Tân Phong",
+          "fullName": "Phường Tân Phong, Tỉnh Lai Châu",
+          "slug": "tan-phong",
+          "postalCode": "03408"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tam Đường",
+      "slug": "huyen-tam-duong",
+      "wards": [
+        {
+          "code": "03390",
+          "name": "Bình Lư",
+          "fullName": "Xã Bình Lư, Tỉnh Lai Châu",
+          "slug": "binh-lu",
+          "postalCode": "03390"
+        },
+        {
+          "code": "03394",
+          "name": "Sin Suối Hồ",
+          "fullName": "Xã Sin Suối Hồ, Tỉnh Lai Châu",
+          "slug": "sin-suoi-ho",
+          "postalCode": "03394"
+        },
+        {
+          "code": "03405",
+          "name": "Tả Lèng",
+          "fullName": "Xã Tả Lèng, Tỉnh Lai Châu",
+          "slug": "ta-leng",
+          "postalCode": "03405"
+        },
+        {
+          "code": "03408",
+          "name": "Tân Phong",
+          "fullName": "Phường Tân Phong, Tỉnh Lai Châu",
+          "slug": "tan-phong",
+          "postalCode": "03408"
+        },
+        {
+          "code": "03424",
+          "name": "Bản Bo",
+          "fullName": "Xã Bản Bo, Tỉnh Lai Châu",
+          "slug": "ban-bo",
+          "postalCode": "03424"
+        },
+        {
+          "code": "03430",
+          "name": "Khun Há",
+          "fullName": "Xã Khun Há, Tỉnh Lai Châu",
+          "slug": "khun-ha",
+          "postalCode": "03430"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mường Tè",
+      "slug": "huyen-muong-te",
+      "wards": [
+        {
+          "code": "03433",
+          "name": "Bum Tở",
+          "fullName": "Xã Bum Tở, Tỉnh Lai Châu",
+          "slug": "bum-to",
+          "postalCode": "03433"
+        },
+        {
+          "code": "03439",
+          "name": "Thu Lũm",
+          "fullName": "Xã Thu Lũm, Tỉnh Lai Châu",
+          "slug": "thu-lum",
+          "postalCode": "03439"
+        },
+        {
+          "code": "03442",
+          "name": "Pa Ủ",
+          "fullName": "Xã Pa Ủ, Tỉnh Lai Châu",
+          "slug": "pa-u",
+          "postalCode": "03442"
+        },
+        {
+          "code": "03445",
+          "name": "Mường Tè",
+          "fullName": "Xã Mường Tè, Tỉnh Lai Châu",
+          "slug": "muong-te",
+          "postalCode": "03445"
+        },
+        {
+          "code": "03451",
+          "name": "Mù Cả",
+          "fullName": "Xã Mù Cả, Tỉnh Lai Châu",
+          "slug": "mu-ca",
+          "postalCode": "03451"
+        },
+        {
+          "code": "03460",
+          "name": "Hua Bum",
+          "fullName": "Xã Hua Bum, Tỉnh Lai Châu",
+          "slug": "hua-bum",
+          "postalCode": "03460"
+        },
+        {
+          "code": "03463",
+          "name": "Tà Tổng",
+          "fullName": "Xã Tà Tổng, Tỉnh Lai Châu",
+          "slug": "ta-tong",
+          "postalCode": "03463"
+        },
+        {
+          "code": "03466",
+          "name": "Bum Nưa",
+          "fullName": "Xã Bum Nưa, Tỉnh Lai Châu",
+          "slug": "bum-nua",
+          "postalCode": "03466"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nậm Nhùn",
+      "slug": "huyen-nam-nhun",
+      "wards": [
+        {
+          "code": "03434",
+          "name": "Nậm Hàng",
+          "fullName": "Xã Nậm Hàng, Tỉnh Lai Châu",
+          "slug": "nam-hang",
+          "postalCode": "03434"
+        },
+        {
+          "code": "03460",
+          "name": "Hua Bum",
+          "fullName": "Xã Hua Bum, Tỉnh Lai Châu",
+          "slug": "hua-bum",
+          "postalCode": "03460"
+        },
+        {
+          "code": "03472",
+          "name": "Mường Mô",
+          "fullName": "Xã Mường Mô, Tỉnh Lai Châu",
+          "slug": "muong-mo",
+          "postalCode": "03472"
+        },
+        {
+          "code": "03487",
+          "name": "Lê Lợi",
+          "fullName": "Xã Lê Lợi, Tỉnh Lai Châu",
+          "slug": "le-loi",
+          "postalCode": "03487"
+        },
+        {
+          "code": "03503",
+          "name": "Pa Tần",
+          "fullName": "Xã Pa Tần, Tỉnh Lai Châu",
+          "slug": "pa-tan",
+          "postalCode": "03503"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sìn Hồ",
+      "slug": "huyen-sin-ho",
+      "wards": [
+        {
+          "code": "03478",
+          "name": "Sìn Hồ",
+          "fullName": "Xã Sìn Hồ, Tỉnh Lai Châu",
+          "slug": "sin-ho",
+          "postalCode": "03478"
+        },
+        {
+          "code": "03487",
+          "name": "Lê Lợi",
+          "fullName": "Xã Lê Lợi, Tỉnh Lai Châu",
+          "slug": "le-loi",
+          "postalCode": "03487"
+        },
+        {
+          "code": "03503",
+          "name": "Pa Tần",
+          "fullName": "Xã Pa Tần, Tỉnh Lai Châu",
+          "slug": "pa-tan",
+          "postalCode": "03503"
+        },
+        {
+          "code": "03508",
+          "name": "Hồng Thu",
+          "fullName": "Xã Hồng Thu, Tỉnh Lai Châu",
+          "slug": "hong-thu",
+          "postalCode": "03508"
+        },
+        {
+          "code": "03517",
+          "name": "Nậm Tăm",
+          "fullName": "Xã Nậm Tăm, Tỉnh Lai Châu",
+          "slug": "nam-tam",
+          "postalCode": "03517"
+        },
+        {
+          "code": "03529",
+          "name": "Tủa Sín Chải",
+          "fullName": "Xã Tủa Sín Chải, Tỉnh Lai Châu",
+          "slug": "tua-sin-chai",
+          "postalCode": "03529"
+        },
+        {
+          "code": "03532",
+          "name": "Pu Sam Cáp",
+          "fullName": "Xã Pu Sam Cáp, Tỉnh Lai Châu",
+          "slug": "pu-sam-cap",
+          "postalCode": "03532"
+        },
+        {
+          "code": "03538",
+          "name": "Nậm Mạ",
+          "fullName": "Xã Nậm Mạ, Tỉnh Lai Châu",
+          "slug": "nam-ma",
+          "postalCode": "03538"
+        },
+        {
+          "code": "03544",
+          "name": "Nậm Cuổi",
+          "fullName": "Xã Nậm Cuổi, Tỉnh Lai Châu",
+          "slug": "nam-cuoi",
+          "postalCode": "03544"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Than Uyên",
+      "slug": "huyen-than-uyen",
+      "wards": [
+        {
+          "code": "03595",
+          "name": "Than Uyên",
+          "fullName": "Xã Than Uyên, Tỉnh Lai Châu",
+          "slug": "than-uyen",
+          "postalCode": "03595"
+        },
+        {
+          "code": "03618",
+          "name": "Mường Than",
+          "fullName": "Xã Mường Than, Tỉnh Lai Châu",
+          "slug": "muong-than",
+          "postalCode": "03618"
+        },
+        {
+          "code": "03637",
+          "name": "Mường Kim",
+          "fullName": "Xã Mường Kim, Tỉnh Lai Châu",
+          "slug": "muong-kim",
+          "postalCode": "03637"
+        },
+        {
+          "code": "03640",
+          "name": "Khoen On",
+          "fullName": "Xã Khoen On, Tỉnh Lai Châu",
+          "slug": "khoen-on",
+          "postalCode": "03640"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Uyên",
+      "slug": "huyen-tan-uyen",
+      "wards": [
+        {
+          "code": "03598",
+          "name": "Tân Uyên",
+          "fullName": "Xã Tân Uyên, Tỉnh Lai Châu",
+          "slug": "tan-uyen",
+          "postalCode": "03598"
+        },
+        {
+          "code": "03601",
+          "name": "Mường Khoa",
+          "fullName": "Xã Mường Khoa, Tỉnh Lai Châu",
+          "slug": "muong-khoa",
+          "postalCode": "03601"
+        },
+        {
+          "code": "03613",
+          "name": "Nậm Sỏ",
+          "fullName": "Xã Nậm Sỏ, Tỉnh Lai Châu",
+          "slug": "nam-so",
+          "postalCode": "03613"
+        },
+        {
+          "code": "03616",
+          "name": "Pắc Ta",
+          "fullName": "Xã Pắc Ta, Tỉnh Lai Châu",
+          "slug": "pac-ta",
+          "postalCode": "03616"
+        }
+      ]
+    }
+  ]
+}

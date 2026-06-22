@@ -1,0 +1,1125 @@
+{
+  "code": "14",
+  "name": "Khánh Hòa",
+  "slug": "khanh-hoa",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Khánh Hòa",
+  "wards": [
+    {
+      "code": "00045",
+      "name": "Nha Trang",
+      "fullName": "Phường Nha Trang, Tỉnh Khánh Hòa",
+      "slug": "nha-trang",
+      "type": "ward",
+      "postalCode": "22333"
+    },
+    {
+      "code": "00050",
+      "name": "Nam Nha Trang",
+      "fullName": "Phường Nam Nha Trang, Tỉnh Khánh Hòa",
+      "slug": "nam-nha-trang",
+      "type": "ward",
+      "postalCode": "22402"
+    },
+    {
+      "code": "00055",
+      "name": "Bắc Nha Trang",
+      "fullName": "Phường Bắc Nha Trang, Tỉnh Khánh Hòa",
+      "slug": "bac-nha-trang",
+      "type": "ward",
+      "postalCode": "22333"
+    },
+    {
+      "code": "00097",
+      "name": "Tây Nha Trang",
+      "fullName": "Phường Tây Nha Trang, Tỉnh Khánh Hòa",
+      "slug": "tay-nha-trang",
+      "type": "ward",
+      "postalCode": "22390"
+    },
+    {
+      "code": "00163",
+      "name": "Cam Lâm",
+      "fullName": "Xã Cam Lâm, Tỉnh Khánh Hòa",
+      "slug": "cam-lam",
+      "type": "commune",
+      "postalCode": "22453"
+    },
+    {
+      "code": "00251",
+      "name": "Phan Rang",
+      "fullName": "Phường Phan Rang, Tỉnh Khánh Hòa",
+      "slug": "phan-rang",
+      "type": "ward",
+      "postalCode": "22759"
+    },
+    {
+      "code": "00285",
+      "name": "Ninh Phước",
+      "fullName": "Xã Ninh Phước, Tỉnh Khánh Hòa",
+      "slug": "ninh-phuoc",
+      "type": "commune",
+      "postalCode": "22870"
+    },
+    {
+      "code": "00412",
+      "name": "Ninh Hòa",
+      "fullName": "Phường Ninh Hòa, Tỉnh Khánh Hòa",
+      "slug": "ninh-hoa",
+      "type": "ward",
+      "postalCode": "22528"
+    },
+    {
+      "code": "00468",
+      "name": "Đông Hải",
+      "fullName": "Phường Đông Hải, Tỉnh Khánh Hòa",
+      "slug": "dong-hai",
+      "type": "ward",
+      "postalCode": "22780"
+    },
+    {
+      "code": "00481",
+      "name": "Vạn Ninh",
+      "fullName": "Xã Vạn Ninh, Tỉnh Khánh Hòa",
+      "slug": "van-ninh",
+      "type": "commune",
+      "postalCode": "22489"
+    },
+    {
+      "code": "00591",
+      "name": "Phước Hậu",
+      "fullName": "Xã Phước Hậu, Tỉnh Khánh Hòa",
+      "slug": "phuoc-hau",
+      "type": "commune",
+      "postalCode": "22873"
+    },
+    {
+      "code": "00693",
+      "name": "Bảo An",
+      "fullName": "Phường Bảo An, Tỉnh Khánh Hòa",
+      "slug": "bao-an",
+      "type": "ward",
+      "postalCode": "22741"
+    },
+    {
+      "code": "00714",
+      "name": "Diên Khánh",
+      "fullName": "Xã Diên Khánh, Tỉnh Khánh Hòa",
+      "slug": "dien-khanh",
+      "type": "commune",
+      "postalCode": "22651"
+    },
+    {
+      "code": "00717",
+      "name": "Xuân Hải",
+      "fullName": "Xã Xuân Hải, Tỉnh Khánh Hòa",
+      "slug": "xuan-hai",
+      "type": "commune",
+      "postalCode": "22861"
+    },
+    {
+      "code": "00764",
+      "name": "Bắc Cam Ranh",
+      "fullName": "Phường Bắc Cam Ranh, Tỉnh Khánh Hòa",
+      "slug": "bac-cam-ranh",
+      "type": "ward",
+      "postalCode": "22411"
+    },
+    {
+      "code": "00773",
+      "name": "Đông Ninh Hòa",
+      "fullName": "Phường Đông Ninh Hòa, Tỉnh Khánh Hòa",
+      "slug": "dong-ninh-hoa",
+      "type": "ward",
+      "postalCode": "22561"
+    },
+    {
+      "code": "00881",
+      "name": "Tân Định",
+      "fullName": "Xã Tân Định, Tỉnh Khánh Hòa",
+      "slug": "tan-dinh",
+      "type": "commune",
+      "postalCode": "22576"
+    },
+    {
+      "code": "00927",
+      "name": "Ninh Chử",
+      "fullName": "Phường Ninh Chử, Tỉnh Khánh Hòa",
+      "slug": "ninh-chu",
+      "type": "ward",
+      "postalCode": "22834"
+    },
+    {
+      "code": "01004",
+      "name": "Diên Điền",
+      "fullName": "Xã Diên Điền, Tỉnh Khánh Hòa",
+      "slug": "dien-dien",
+      "type": "commune",
+      "postalCode": "22657"
+    },
+    {
+      "code": "01070",
+      "name": "Vĩnh Hải",
+      "fullName": "Xã Vĩnh Hải, Tỉnh Khánh Hòa",
+      "slug": "vinh-hai",
+      "type": "commune",
+      "postalCode": "22846"
+    },
+    {
+      "code": "01149",
+      "name": "Phước Hữu",
+      "fullName": "Xã Phước Hữu, Tỉnh Khánh Hòa",
+      "slug": "phuoc-huu",
+      "type": "commune",
+      "postalCode": "22891"
+    },
+    {
+      "code": "01168",
+      "name": "Phước Dinh",
+      "fullName": "Xã Phước Dinh, Tỉnh Khánh Hòa",
+      "slug": "phuoc-dinh",
+      "type": "commune",
+      "postalCode": "22888"
+    },
+    {
+      "code": "01285",
+      "name": "Đô Vinh",
+      "fullName": "Phường Đô Vinh, Tỉnh Khánh Hòa",
+      "slug": "do-vinh",
+      "type": "ward",
+      "postalCode": "22738"
+    },
+    {
+      "code": "01299",
+      "name": "Cam Linh",
+      "fullName": "Phường Cam Linh, Tỉnh Khánh Hòa",
+      "slug": "cam-linh",
+      "type": "ward",
+      "postalCode": "22432"
+    },
+    {
+      "code": "01351",
+      "name": "Bắc Ninh Hòa",
+      "fullName": "Xã Bắc Ninh Hòa, Tỉnh Khánh Hòa",
+      "slug": "bac-ninh-hoa",
+      "type": "commune",
+      "postalCode": "22546"
+    },
+    {
+      "code": "01370",
+      "name": "Ninh Sơn",
+      "fullName": "Xã Ninh Sơn, Tỉnh Khánh Hòa",
+      "slug": "ninh-son",
+      "type": "commune",
+      "postalCode": "22810"
+    },
+    {
+      "code": "01390",
+      "name": "Ba Ngòi",
+      "fullName": "Phường Ba Ngòi, Tỉnh Khánh Hòa",
+      "slug": "ba-ngoi",
+      "type": "ward",
+      "postalCode": "22423"
+    },
+    {
+      "code": "01396",
+      "name": "Vạn Thắng",
+      "fullName": "Xã Vạn Thắng, Tỉnh Khánh Hòa",
+      "slug": "van-thang",
+      "type": "commune",
+      "postalCode": "22516"
+    },
+    {
+      "code": "01423",
+      "name": "Nam Ninh Hòa",
+      "fullName": "Xã Nam Ninh Hòa, Tỉnh Khánh Hòa",
+      "slug": "nam-ninh-hoa",
+      "type": "commune",
+      "postalCode": "22597"
+    },
+    {
+      "code": "01429",
+      "name": "Cam Ranh",
+      "fullName": "Phường Cam Ranh, Tỉnh Khánh Hòa",
+      "slug": "cam-ranh",
+      "type": "ward",
+      "postalCode": "22411"
+    },
+    {
+      "code": "01435",
+      "name": "Ninh Hải",
+      "fullName": "Xã Ninh Hải, Tỉnh Khánh Hòa",
+      "slug": "ninh-hai",
+      "type": "commune",
+      "postalCode": "22852"
+    },
+    {
+      "code": "01536",
+      "name": "Tu Bông",
+      "fullName": "Xã Tu Bông, Tỉnh Khánh Hòa",
+      "slug": "tu-bong",
+      "type": "commune",
+      "postalCode": "22498"
+    },
+    {
+      "code": "01723",
+      "name": "Thuận Nam",
+      "fullName": "Xã Thuận Nam, Tỉnh Khánh Hòa",
+      "slug": "thuan-nam",
+      "type": "commune",
+      "postalCode": "22897"
+    },
+    {
+      "code": "01762",
+      "name": "Hòa Thắng",
+      "fullName": "Phường Hòa Thắng, Tỉnh Khánh Hòa",
+      "slug": "hoa-thang",
+      "type": "ward",
+      "postalCode": "22591"
+    },
+    {
+      "code": "01777",
+      "name": "Hòa Trí",
+      "fullName": "Xã Hòa Trí, Tỉnh Khánh Hòa",
+      "slug": "hoa-tri",
+      "type": "commune",
+      "postalCode": "22558"
+    },
+    {
+      "code": "01835",
+      "name": "Thuận Bắc",
+      "fullName": "Xã Thuận Bắc, Tỉnh Khánh Hòa",
+      "slug": "thuan-bac",
+      "type": "commune",
+      "postalCode": "22849"
+    },
+    {
+      "code": "01843",
+      "name": "Đại Lãnh",
+      "fullName": "Xã Đại Lãnh, Tỉnh Khánh Hòa",
+      "slug": "dai-lanh",
+      "type": "commune",
+      "postalCode": "22504"
+    },
+    {
+      "code": "01905",
+      "name": "Cà Ná",
+      "fullName": "Xã Cà Ná, Tỉnh Khánh Hòa",
+      "slug": "ca-na",
+      "type": "commune",
+      "postalCode": "22909"
+    },
+    {
+      "code": "01964",
+      "name": "Lâm Sơn",
+      "fullName": "Xã Lâm Sơn, Tỉnh Khánh Hòa",
+      "slug": "lam-son",
+      "type": "commune",
+      "postalCode": "22813"
+    },
+    {
+      "code": "01969",
+      "name": "Suối Dầu",
+      "fullName": "Xã Suối Dầu, Tỉnh Khánh Hòa",
+      "slug": "suoi-dau",
+      "type": "commune",
+      "postalCode": "22708"
+    },
+    {
+      "code": "01970",
+      "name": "Suối Hiệp",
+      "fullName": "Xã Suối Hiệp, Tỉnh Khánh Hòa",
+      "slug": "suoi-hiep",
+      "type": "commune",
+      "postalCode": "22702"
+    },
+    {
+      "code": "02022",
+      "name": "Nam Cam Ranh",
+      "fullName": "Xã Nam Cam Ranh, Tỉnh Khánh Hòa",
+      "slug": "nam-cam-ranh",
+      "type": "commune",
+      "postalCode": "22480"
+    },
+    {
+      "code": "02034",
+      "name": "Diên Lạc",
+      "fullName": "Xã Diên Lạc, Tỉnh Khánh Hòa",
+      "slug": "dien-lac",
+      "type": "commune",
+      "postalCode": "22678"
+    },
+    {
+      "code": "02289",
+      "name": "Cam An",
+      "fullName": "Xã Cam An, Tỉnh Khánh Hòa",
+      "slug": "cam-an",
+      "type": "commune",
+      "postalCode": "22465"
+    },
+    {
+      "code": "02337",
+      "name": "Vạn Hưng",
+      "fullName": "Xã Vạn Hưng, Tỉnh Khánh Hòa",
+      "slug": "van-hung",
+      "type": "commune",
+      "postalCode": "22525"
+    },
+    {
+      "code": "02425",
+      "name": "Tây Ninh Hòa",
+      "fullName": "Xã Tây Ninh Hòa, Tỉnh Khánh Hòa",
+      "slug": "tay-ninh-hoa",
+      "type": "commune",
+      "postalCode": "22552"
+    },
+    {
+      "code": "02480",
+      "name": "Diên Thọ",
+      "fullName": "Xã Diên Thọ, Tỉnh Khánh Hòa",
+      "slug": "dien-tho",
+      "type": "commune",
+      "postalCode": "22672"
+    },
+    {
+      "code": "02529",
+      "name": "Diên Lâm",
+      "fullName": "Xã Diên Lâm, Tỉnh Khánh Hòa",
+      "slug": "dien-lam",
+      "type": "commune",
+      "postalCode": "22660"
+    },
+    {
+      "code": "02550",
+      "name": "Mỹ Sơn",
+      "fullName": "Xã Mỹ Sơn, Tỉnh Khánh Hòa",
+      "slug": "my-son",
+      "type": "commune",
+      "postalCode": "22822"
+    },
+    {
+      "code": "02612",
+      "name": "Công Hải",
+      "fullName": "Xã Công Hải, Tỉnh Khánh Hòa",
+      "slug": "cong-hai",
+      "type": "commune",
+      "postalCode": "22840"
+    },
+    {
+      "code": "02759",
+      "name": "Bác Ái",
+      "fullName": "Xã Bác Ái, Tỉnh Khánh Hòa",
+      "slug": "bac-ai",
+      "type": "commune",
+      "postalCode": "22786"
+    },
+    {
+      "code": "02800",
+      "name": "Khánh Sơn",
+      "fullName": "Xã Khánh Sơn, Tỉnh Khánh Hòa",
+      "slug": "khanh-son",
+      "type": "commune",
+      "postalCode": "22714"
+    },
+    {
+      "code": "02822",
+      "name": "Khánh Vĩnh",
+      "fullName": "Xã Khánh Vĩnh, Tỉnh Khánh Hòa",
+      "slug": "khanh-vinh",
+      "type": "commune",
+      "postalCode": "22609"
+    },
+    {
+      "code": "02831",
+      "name": "Bác Ái Tây",
+      "fullName": "Xã Bác Ái Tây, Tỉnh Khánh Hòa",
+      "slug": "bac-ai-tay",
+      "type": "commune",
+      "postalCode": "22786"
+    },
+    {
+      "code": "02890",
+      "name": "Đông Khánh Sơn",
+      "fullName": "Xã Đông Khánh Sơn, Tỉnh Khánh Hòa",
+      "slug": "dong-khanh-son",
+      "type": "commune",
+      "postalCode": "22732"
+    },
+    {
+      "code": "02899",
+      "name": "Anh Dũng",
+      "fullName": "Xã Anh Dũng, Tỉnh Khánh Hòa",
+      "slug": "anh-dung",
+      "type": "commune",
+      "postalCode": "22828"
+    },
+    {
+      "code": "02901",
+      "name": "Nam Khánh Vĩnh",
+      "fullName": "Xã Nam Khánh Vĩnh, Tỉnh Khánh Hòa",
+      "slug": "nam-khanh-vinh",
+      "type": "commune",
+      "postalCode": "22648"
+    },
+    {
+      "code": "02971",
+      "name": "Bác Ái Đông",
+      "fullName": "Xã Bác Ái Đông, Tỉnh Khánh Hòa",
+      "slug": "bac-ai-dong",
+      "type": "commune",
+      "postalCode": "22801"
+    },
+    {
+      "code": "02980",
+      "name": "Bắc Khánh Vĩnh",
+      "fullName": "Xã Bắc Khánh Vĩnh, Tỉnh Khánh Hòa",
+      "slug": "bac-khanh-vinh",
+      "type": "commune",
+      "postalCode": "22615"
+    },
+    {
+      "code": "03002",
+      "name": "Phước Hà",
+      "fullName": "Xã Phước Hà, Tỉnh Khánh Hòa",
+      "slug": "phuoc-ha",
+      "type": "commune",
+      "postalCode": "22873"
+    },
+    {
+      "code": "03069",
+      "name": "Tây Khánh Sơn",
+      "fullName": "Xã Tây Khánh Sơn, Tỉnh Khánh Hòa",
+      "slug": "tay-khanh-son",
+      "type": "commune",
+      "postalCode": "22720"
+    },
+    {
+      "code": "03071",
+      "name": "Trung Khánh Vĩnh",
+      "fullName": "Xã Trung Khánh Vĩnh, Tỉnh Khánh Hòa",
+      "slug": "trung-khanh-vinh",
+      "type": "commune",
+      "postalCode": "22612"
+    },
+    {
+      "code": "03098",
+      "name": "Tây Khánh Vĩnh",
+      "fullName": "Xã Tây Khánh Vĩnh, Tỉnh Khánh Hòa",
+      "slug": "tay-khanh-vinh",
+      "type": "commune",
+      "postalCode": "22624"
+    },
+    {
+      "code": "03259",
+      "name": "Cam Hiệp",
+      "fullName": "Xã Cam Hiệp, Tỉnh Khánh Hòa",
+      "slug": "cam-hiep",
+      "type": "commune",
+      "postalCode": "22435"
+    },
+    {
+      "code": "03318",
+      "name": "Trường Sa",
+      "fullName": "Đặc khu Trường Sa, Tỉnh Khánh Hòa",
+      "slug": "truong-sa",
+      "type": "commune",
+      "postalCode": "22736"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Nha Trang",
+      "slug": "thanh-pho-nha-trang",
+      "wards": [
+        {
+          "code": "22333",
+          "name": "Bắc Nha Trang",
+          "fullName": "Phường Bắc Nha Trang, Tỉnh Khánh Hòa",
+          "slug": "bac-nha-trang",
+          "postalCode": "22333"
+        },
+        {
+          "code": "22366",
+          "name": "Nha Trang",
+          "fullName": "Phường Nha Trang, Tỉnh Khánh Hòa",
+          "slug": "nha-trang",
+          "postalCode": "22366"
+        },
+        {
+          "code": "22390",
+          "name": "Tây Nha Trang",
+          "fullName": "Phường Tây Nha Trang, Tỉnh Khánh Hòa",
+          "slug": "tay-nha-trang",
+          "postalCode": "22390"
+        },
+        {
+          "code": "22402",
+          "name": "Nam Nha Trang",
+          "fullName": "Phường Nam Nha Trang, Tỉnh Khánh Hòa",
+          "slug": "nam-nha-trang",
+          "postalCode": "22402"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Cam Ranh",
+      "slug": "thanh-pho-cam-ranh",
+      "wards": [
+        {
+          "code": "22411",
+          "name": "Bắc Cam Ranh",
+          "fullName": "Phường Bắc Cam Ranh, Tỉnh Khánh Hòa",
+          "slug": "bac-cam-ranh",
+          "postalCode": "22411"
+        },
+        {
+          "code": "22420",
+          "name": "Cam Ranh",
+          "fullName": "Phường Cam Ranh, Tỉnh Khánh Hòa",
+          "slug": "cam-ranh",
+          "postalCode": "22420"
+        },
+        {
+          "code": "22423",
+          "name": "Ba Ngòi",
+          "fullName": "Phường Ba Ngòi, Tỉnh Khánh Hòa",
+          "slug": "ba-ngoi",
+          "postalCode": "22423"
+        },
+        {
+          "code": "22432",
+          "name": "Cam Linh",
+          "fullName": "Phường Cam Linh, Tỉnh Khánh Hòa",
+          "slug": "cam-linh",
+          "postalCode": "22432"
+        },
+        {
+          "code": "22480",
+          "name": "Nam Cam Ranh",
+          "fullName": "Xã Nam Cam Ranh, Tỉnh Khánh Hòa",
+          "slug": "nam-cam-ranh",
+          "postalCode": "22480"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Ninh Hòa",
+      "slug": "thi-xa-ninh-hoa",
+      "wards": [
+        {
+          "code": "22528",
+          "name": "Ninh Hòa",
+          "fullName": "Phường Ninh Hòa, Tỉnh Khánh Hòa",
+          "slug": "ninh-hoa",
+          "postalCode": "22528"
+        },
+        {
+          "code": "22546",
+          "name": "Bắc Ninh Hòa",
+          "fullName": "Xã Bắc Ninh Hòa, Tỉnh Khánh Hòa",
+          "slug": "bac-ninh-hoa",
+          "postalCode": "22546"
+        },
+        {
+          "code": "22552",
+          "name": "Xã Tây Ninh Hòa",
+          "fullName": "Xã Tây Ninh Hòa, Tỉnh Khánh Hòa",
+          "slug": "xa-tay-ninh-hoa",
+          "postalCode": "22552"
+        },
+        {
+          "code": "22558",
+          "name": "Xã Hòa Trí",
+          "fullName": "Xã Hòa Trí, Tỉnh Khánh Hòa",
+          "slug": "xa-hoa-tri",
+          "postalCode": "22558"
+        },
+        {
+          "code": "22561",
+          "name": "Phường Đông Ninh Hòa",
+          "fullName": "Phường Đông Ninh Hòa, Tỉnh Khánh Hòa",
+          "slug": "phuong-dong-ninh-hoa",
+          "postalCode": "22561"
+        },
+        {
+          "code": "22576",
+          "name": "Tân Định",
+          "fullName": "Xã Tân Định, Tỉnh Khánh Hòa",
+          "slug": "tan-dinh",
+          "postalCode": "22576"
+        },
+        {
+          "code": "22591",
+          "name": "Phường Hòa Thắng",
+          "fullName": "Phường Hòa Thắng, Tỉnh Khánh Hòa",
+          "slug": "phuong-hoa-thang",
+          "postalCode": "22591"
+        },
+        {
+          "code": "22597",
+          "name": "Xã Nam Ninh Hòa",
+          "fullName": "Xã Nam Ninh Hòa, Tỉnh Khánh Hòa",
+          "slug": "xa-nam-ninh-hoa",
+          "postalCode": "22597"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Phan Rang-Tháp Chàm",
+      "slug": "thanh-pho-phan-rang-thap-cham",
+      "wards": [
+        {
+          "code": "22738",
+          "name": "Đô Vinh",
+          "fullName": "Phường Đô Vinh, Tỉnh Khánh Hòa",
+          "slug": "do-vinh",
+          "postalCode": "22738"
+        },
+        {
+          "code": "22741",
+          "name": "Bảo An",
+          "fullName": "Phường Bảo An, Tỉnh Khánh Hòa",
+          "slug": "bao-an",
+          "postalCode": "22741"
+        },
+        {
+          "code": "22759",
+          "name": "Phan Rang",
+          "fullName": "Phường Phan Rang, Tỉnh Khánh Hòa",
+          "slug": "phan-rang",
+          "postalCode": "22759"
+        },
+        {
+          "code": "22780",
+          "name": "Đông Hải",
+          "fullName": "Phường Đông Hải, Tỉnh Khánh Hòa",
+          "slug": "dong-hai",
+          "postalCode": "22780"
+        },
+        {
+          "code": "22834",
+          "name": "Ninh Chử",
+          "fullName": "Phường Ninh Chử, Tỉnh Khánh Hòa",
+          "slug": "ninh-chu",
+          "postalCode": "22834"
+        },
+        {
+          "code": "22888",
+          "name": "Phước Dinh",
+          "fullName": "Xã Phước Dinh, Tỉnh Khánh Hòa",
+          "slug": "phuoc-dinh",
+          "postalCode": "22888"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ninh Sơn",
+      "slug": "huyen-ninh-son",
+      "wards": [
+        {
+          "code": "22738",
+          "name": "Đô Vinh",
+          "fullName": "Phường Đô Vinh, Tỉnh Khánh Hòa",
+          "slug": "do-vinh",
+          "postalCode": "22738"
+        },
+        {
+          "code": "22810",
+          "name": "Ninh Sơn",
+          "fullName": "Xã Ninh Sơn, Tỉnh Khánh Hòa",
+          "slug": "ninh-son",
+          "postalCode": "22810"
+        },
+        {
+          "code": "22813",
+          "name": "Lâm Sơn",
+          "fullName": "Xã Lâm Sơn, Tỉnh Khánh Hòa",
+          "slug": "lam-son",
+          "postalCode": "22813"
+        },
+        {
+          "code": "22822",
+          "name": "Mỹ Sơn",
+          "fullName": "Xã Mỹ Sơn, Tỉnh Khánh Hòa",
+          "slug": "my-son",
+          "postalCode": "22822"
+        },
+        {
+          "code": "22828",
+          "name": "Anh Dũng",
+          "fullName": "Xã Anh Dũng, Tỉnh Khánh Hòa",
+          "slug": "anh-dung",
+          "postalCode": "22828"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ninh Hải",
+      "slug": "huyen-ninh-hai",
+      "wards": [
+        {
+          "code": "22834",
+          "name": "Ninh Chử",
+          "fullName": "Phường Ninh Chử, Tỉnh Khánh Hòa",
+          "slug": "ninh-chu",
+          "postalCode": "22834"
+        },
+        {
+          "code": "22846",
+          "name": "Vĩnh Hải",
+          "fullName": "Xã Vĩnh Hải, Tỉnh Khánh Hòa",
+          "slug": "vinh-hai",
+          "postalCode": "22846"
+        },
+        {
+          "code": "22852",
+          "name": "Ninh Hải",
+          "fullName": "Xã Ninh Hải, Tỉnh Khánh Hòa",
+          "slug": "ninh-hai",
+          "postalCode": "22852"
+        },
+        {
+          "code": "22861",
+          "name": "Xuân Hải",
+          "fullName": "Xã Xuân Hải, Tỉnh Khánh Hòa",
+          "slug": "xuan-hai",
+          "postalCode": "22861"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cam Lâm",
+      "slug": "huyen-cam-lam",
+      "wards": [
+        {
+          "code": "22435",
+          "name": "Cam Hiệp",
+          "fullName": "Xã Cam Hiệp, Tỉnh Khánh Hòa",
+          "slug": "cam-hiep",
+          "postalCode": "22435"
+        },
+        {
+          "code": "22453",
+          "name": "Cam Lâm",
+          "fullName": "Xã Cam Lâm, Tỉnh Khánh Hòa",
+          "slug": "cam-lam",
+          "postalCode": "22453"
+        },
+        {
+          "code": "22465",
+          "name": "Cam An",
+          "fullName": "Xã Cam An, Tỉnh Khánh Hòa",
+          "slug": "cam-an",
+          "postalCode": "22465"
+        },
+        {
+          "code": "22708",
+          "name": "Suối Dầu",
+          "fullName": "Xã Suối Dầu, Tỉnh Khánh Hòa",
+          "slug": "suoi-dau",
+          "postalCode": "22708"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vạn Ninh",
+      "slug": "huyen-van-ninh",
+      "wards": [
+        {
+          "code": "22489",
+          "name": "Vạn Ninh",
+          "fullName": "Xã Vạn Ninh, Tỉnh Khánh Hòa",
+          "slug": "van-ninh",
+          "postalCode": "22489"
+        },
+        {
+          "code": "22498",
+          "name": "Tu Bông",
+          "fullName": "Xã Tu Bông, Tỉnh Khánh Hòa",
+          "slug": "tu-bong",
+          "postalCode": "22498"
+        },
+        {
+          "code": "22504",
+          "name": "Đại Lãnh",
+          "fullName": "Xã Đại Lãnh, Tỉnh Khánh Hòa",
+          "slug": "dai-lanh",
+          "postalCode": "22504"
+        },
+        {
+          "code": "22516",
+          "name": "Vạn Thắng",
+          "fullName": "Xã Vạn Thắng, Tỉnh Khánh Hòa",
+          "slug": "van-thang",
+          "postalCode": "22516"
+        },
+        {
+          "code": "22525",
+          "name": "Vạn Hưng",
+          "fullName": "Xã Vạn Hưng, Tỉnh Khánh Hòa",
+          "slug": "van-hung",
+          "postalCode": "22525"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Khánh Vĩnh",
+      "slug": "huyen-khanh-vinh",
+      "wards": [
+        {
+          "code": "22609",
+          "name": "Khánh Vĩnh",
+          "fullName": "Xã Khánh Vĩnh, Tỉnh Khánh Hòa",
+          "slug": "khanh-vinh",
+          "postalCode": "22609"
+        },
+        {
+          "code": "22612",
+          "name": "Trung Khánh Vĩnh",
+          "fullName": "Xã Trung Khánh Vĩnh, Tỉnh Khánh Hòa",
+          "slug": "trung-khanh-vinh",
+          "postalCode": "22612"
+        },
+        {
+          "code": "22615",
+          "name": "Bắc Khánh Vĩnh",
+          "fullName": "Xã Bắc Khánh Vĩnh, Tỉnh Khánh Hòa",
+          "slug": "bac-khanh-vinh",
+          "postalCode": "22615"
+        },
+        {
+          "code": "22624",
+          "name": "Tây Khánh Vĩnh",
+          "fullName": "Xã Tây Khánh Vĩnh, Tỉnh Khánh Hòa",
+          "slug": "tay-khanh-vinh",
+          "postalCode": "22624"
+        },
+        {
+          "code": "22648",
+          "name": "Nam Khánh Vĩnh",
+          "fullName": "Xã Nam Khánh Vĩnh, Tỉnh Khánh Hòa",
+          "slug": "nam-khanh-vinh",
+          "postalCode": "22648"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Diên Khánh",
+      "slug": "huyen-dien-khanh",
+      "wards": [
+        {
+          "code": "22651",
+          "name": "Diên Khánh",
+          "fullName": "Xã Diên Khánh, Tỉnh Khánh Hòa",
+          "slug": "dien-khanh",
+          "postalCode": "22651"
+        },
+        {
+          "code": "22657",
+          "name": "Diên Điền",
+          "fullName": "Xã Diên Điền, Tỉnh Khánh Hòa",
+          "slug": "dien-dien",
+          "postalCode": "22657"
+        },
+        {
+          "code": "22660",
+          "name": "Diên Lâm",
+          "fullName": "Xã Diên Lâm, Tỉnh Khánh Hòa",
+          "slug": "dien-lam",
+          "postalCode": "22660"
+        },
+        {
+          "code": "22672",
+          "name": "Diên Thọ",
+          "fullName": "Xã Diên Thọ, Tỉnh Khánh Hòa",
+          "slug": "dien-tho",
+          "postalCode": "22672"
+        },
+        {
+          "code": "22678",
+          "name": "Diên Lạc",
+          "fullName": "Xã Diên Lạc, Tỉnh Khánh Hòa",
+          "slug": "dien-lac",
+          "postalCode": "22678"
+        },
+        {
+          "code": "22702",
+          "name": "Suối Hiệp",
+          "fullName": "Xã Suối Hiệp, Tỉnh Khánh Hòa",
+          "slug": "suoi-hiep",
+          "postalCode": "22702"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Khánh Sơn",
+      "slug": "huyen-khanh-son",
+      "wards": [
+        {
+          "code": "22714",
+          "name": "Khánh Sơn",
+          "fullName": "Xã Khánh Sơn, Tỉnh Khánh Hòa",
+          "slug": "khanh-son",
+          "postalCode": "22714"
+        },
+        {
+          "code": "22720",
+          "name": "Tây Khánh Sơn",
+          "fullName": "Xã Tây Khánh Sơn, Tỉnh Khánh Hòa",
+          "slug": "tay-khanh-son",
+          "postalCode": "22720"
+        },
+        {
+          "code": "22732",
+          "name": "Đông Khánh Sơn",
+          "fullName": "Xã Đông Khánh Sơn, Tỉnh Khánh Hòa",
+          "slug": "dong-khanh-son",
+          "postalCode": "22732"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bác Ái",
+      "slug": "huyen-bac-ai",
+      "wards": [
+        {
+          "code": "22786",
+          "name": "Bác Ái Tây",
+          "fullName": "Xã Bác Ái Tây, Tỉnh Khánh Hòa",
+          "slug": "bac-ai-tay",
+          "postalCode": "22786"
+        },
+        {
+          "code": "22795",
+          "name": "Bác Ái",
+          "fullName": "Xã Bác Ái, Tỉnh Khánh Hòa",
+          "slug": "bac-ai",
+          "postalCode": "22795"
+        },
+        {
+          "code": "22801",
+          "name": "Bác Ái Đông",
+          "fullName": "Xã Bác Ái Đông, Tỉnh Khánh Hòa",
+          "slug": "bac-ai-dong",
+          "postalCode": "22801"
+        },
+        {
+          "code": "22822",
+          "name": "Mỹ Sơn",
+          "fullName": "Xã Mỹ Sơn, Tỉnh Khánh Hòa",
+          "slug": "my-son",
+          "postalCode": "22822"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thuận Bắc",
+      "slug": "huyen-thuan-bac",
+      "wards": [
+        {
+          "code": "22840",
+          "name": "Công Hải",
+          "fullName": "Xã Công Hải, Tỉnh Khánh Hòa",
+          "slug": "cong-hai",
+          "postalCode": "22840"
+        },
+        {
+          "code": "22849",
+          "name": "Thuận Bắc",
+          "fullName": "Xã Thuận Bắc, Tỉnh Khánh Hòa",
+          "slug": "thuan-bac",
+          "postalCode": "22849"
+        },
+        {
+          "code": "22852",
+          "name": "Ninh Hải",
+          "fullName": "Xã Ninh Hải, Tỉnh Khánh Hòa",
+          "slug": "ninh-hai",
+          "postalCode": "22852"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ninh Phước",
+      "slug": "huyen-ninh-phuoc",
+      "wards": [
+        {
+          "code": "22870",
+          "name": "Ninh Phước",
+          "fullName": "Xã Ninh Phước, Tỉnh Khánh Hòa",
+          "slug": "ninh-phuoc",
+          "postalCode": "22870"
+        },
+        {
+          "code": "22873",
+          "name": "Phước Hậu",
+          "fullName": "Xã Phước Hậu, Tỉnh Khánh Hòa",
+          "slug": "phuoc-hau",
+          "postalCode": "22873"
+        },
+        {
+          "code": "22888",
+          "name": "Phước Dinh",
+          "fullName": "Xã Phước Dinh, Tỉnh Khánh Hòa",
+          "slug": "phuoc-dinh",
+          "postalCode": "22888"
+        },
+        {
+          "code": "22891",
+          "name": "Phước Hữu",
+          "fullName": "Xã Phước Hữu, Tỉnh Khánh Hòa",
+          "slug": "phuoc-huu",
+          "postalCode": "22891"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thuận Nam",
+      "slug": "huyen-thuan-nam",
+      "wards": [
+        {
+          "code": "22888",
+          "name": "Phước Dinh",
+          "fullName": "Xã Phước Dinh, Tỉnh Khánh Hòa",
+          "slug": "phuoc-dinh",
+          "postalCode": "22888"
+        },
+        {
+          "code": "22897",
+          "name": "Thuận Nam",
+          "fullName": "Xã Thuận Nam, Tỉnh Khánh Hòa",
+          "slug": "thuan-nam",
+          "postalCode": "22897"
+        },
+        {
+          "code": "22900",
+          "name": "Phước Hà",
+          "fullName": "Xã Phước Hà, Tỉnh Khánh Hòa",
+          "slug": "phuoc-ha",
+          "postalCode": "22900"
+        },
+        {
+          "code": "22909",
+          "name": "Cà Ná",
+          "fullName": "Xã Cà Ná, Tỉnh Khánh Hòa",
+          "slug": "ca-na",
+          "postalCode": "22909"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trường Sa",
+      "slug": "huyen-truong-sa",
+      "wards": [
+        {
+          "code": "22736",
+          "name": "Đặc khu Trường Sa",
+          "fullName": "Đặc khu Trường Sa, Tỉnh Khánh Hòa",
+          "slug": "dac-khu-truong-sa",
+          "postalCode": "22736"
+        }
+      ]
+    }
+  ]
+}

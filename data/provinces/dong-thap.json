@@ -1,0 +1,1737 @@
+{
+  "code": "16",
+  "name": "Đồng Tháp",
+  "slug": "dong-thap",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Đồng Tháp",
+  "wards": [
+    {
+      "code": "00042",
+      "name": "Cao Lãnh",
+      "fullName": "Phường Cao Lãnh, Tỉnh Đồng Tháp",
+      "slug": "cao-lanh",
+      "type": "ward",
+      "postalCode": "29869"
+    },
+    {
+      "code": "00107",
+      "name": "Sa Đéc",
+      "fullName": "Phường Sa Đéc, Tỉnh Đồng Tháp",
+      "slug": "sa-dec",
+      "type": "ward",
+      "postalCode": "29905"
+    },
+    {
+      "code": "00191",
+      "name": "Lai Vung",
+      "fullName": "Xã Lai Vung, Tỉnh Đồng Tháp",
+      "slug": "lai-vung",
+      "type": "commune",
+      "postalCode": "30226"
+    },
+    {
+      "code": "00219",
+      "name": "Tân Long",
+      "fullName": "Xã Tân Long, Tỉnh Đồng Tháp",
+      "slug": "tan-long",
+      "type": "commune",
+      "postalCode": "30154"
+    },
+    {
+      "code": "00224",
+      "name": "Tân Phước 3",
+      "fullName": "Xã Tân Phước 3, Tỉnh Đồng Tháp",
+      "slug": "tan-phuoc-3",
+      "type": "commune",
+      "postalCode": "28345"
+    },
+    {
+      "code": "00237",
+      "name": "Lấp Vò",
+      "fullName": "Xã Lấp Vò, Tỉnh Đồng Tháp",
+      "slug": "lap-vo",
+      "type": "commune",
+      "postalCode": "30169"
+    },
+    {
+      "code": "00243",
+      "name": "Đạo Thạnh",
+      "fullName": "Phường Đạo Thạnh, Tỉnh Đồng Tháp",
+      "slug": "dao-thanh",
+      "type": "ward",
+      "postalCode": "28249"
+    },
+    {
+      "code": "00262",
+      "name": "Phong Hòa",
+      "fullName": "Xã Phong Hòa, Tỉnh Đồng Tháp",
+      "slug": "phong-hoa",
+      "type": "commune",
+      "postalCode": "30235"
+    },
+    {
+      "code": "00280",
+      "name": "Trung An",
+      "fullName": "Phường Trung An, Tỉnh Đồng Tháp",
+      "slug": "trung-an",
+      "type": "ward",
+      "postalCode": "28285"
+    },
+    {
+      "code": "00295",
+      "name": "Hòa Long",
+      "fullName": "Xã Hòa Long, Tỉnh Đồng Tháp",
+      "slug": "hoa-long",
+      "type": "commune",
+      "postalCode": "30208"
+    },
+    {
+      "code": "00299",
+      "name": "Phú Hựu",
+      "fullName": "Xã Phú Hựu, Tỉnh Đồng Tháp",
+      "slug": "phu-huu",
+      "type": "commune",
+      "postalCode": "30244"
+    },
+    {
+      "code": "00313",
+      "name": "Tân Hương",
+      "fullName": "Xã Tân Hương, Tỉnh Đồng Tháp",
+      "slug": "tan-huong",
+      "type": "commune",
+      "postalCode": "28525"
+    },
+    {
+      "code": "00315",
+      "name": "Mỹ Tho",
+      "fullName": "Phường Mỹ Tho, Tỉnh Đồng Tháp",
+      "slug": "my-tho",
+      "type": "ward",
+      "postalCode": "28261"
+    },
+    {
+      "code": "00356",
+      "name": "Tân Phú Trung",
+      "fullName": "Xã Tân Phú Trung, Tỉnh Đồng Tháp",
+      "slug": "tan-phu-trung",
+      "type": "commune",
+      "postalCode": "30259"
+    },
+    {
+      "code": "00380",
+      "name": "Long Phú Thuận",
+      "fullName": "Xã Long Phú Thuận, Tỉnh Đồng Tháp",
+      "slug": "long-phu-thuan",
+      "type": "commune",
+      "postalCode": "29992"
+    },
+    {
+      "code": "00398",
+      "name": "Thường Phước",
+      "fullName": "Xã Thường Phước, Tỉnh Đồng Tháp",
+      "slug": "thuong-phuoc",
+      "type": "commune",
+      "postalCode": "29971"
+    },
+    {
+      "code": "00400",
+      "name": "Cái Bè",
+      "fullName": "Xã Cái Bè, Tỉnh Đồng Tháp",
+      "slug": "cai-be",
+      "type": "commune",
+      "postalCode": "28360"
+    },
+    {
+      "code": "00401",
+      "name": "Tân Nhuận Đông",
+      "fullName": "Xã Tân Nhuận Đông, Tỉnh Đồng Tháp",
+      "slug": "tan-nhuan-dong",
+      "type": "commune",
+      "postalCode": "30253"
+    },
+    {
+      "code": "00436",
+      "name": "Châu Thành",
+      "fullName": "Xã Châu Thành, Tỉnh Đồng Tháp",
+      "slug": "chau-thanh",
+      "type": "commune",
+      "postalCode": "28519"
+    },
+    {
+      "code": "00458",
+      "name": "Mỹ An Hưng",
+      "fullName": "Xã Mỹ An Hưng, Tỉnh Đồng Tháp",
+      "slug": "my-an-hung",
+      "type": "commune",
+      "postalCode": "30178"
+    },
+    {
+      "code": "00469",
+      "name": "Mỹ Hiệp",
+      "fullName": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp",
+      "slug": "my-hiep",
+      "type": "commune",
+      "postalCode": "30112"
+    },
+    {
+      "code": "00485",
+      "name": "Hồng Ngự",
+      "fullName": "Phường Hồng Ngự, Tỉnh Đồng Tháp",
+      "slug": "hong-ngu",
+      "type": "ward",
+      "postalCode": "29955"
+    },
+    {
+      "code": "00504",
+      "name": "Hội Cư",
+      "fullName": "Xã Hội Cư, Tỉnh Đồng Tháp",
+      "slug": "hoi-cu",
+      "type": "commune",
+      "postalCode": "28393"
+    },
+    {
+      "code": "00517",
+      "name": "An Hữu",
+      "fullName": "Xã An Hữu, Tỉnh Đồng Tháp",
+      "slug": "an-huu",
+      "type": "commune",
+      "postalCode": "28429"
+    },
+    {
+      "code": "00536",
+      "name": "Tân Đông",
+      "fullName": "Xã Tân Đông, Tỉnh Đồng Tháp",
+      "slug": "tan-dong",
+      "type": "commune",
+      "postalCode": "28723"
+    },
+    {
+      "code": "00545",
+      "name": "Mỹ Thọ",
+      "fullName": "Xã Mỹ Thọ, Tỉnh Đồng Tháp",
+      "slug": "my-tho",
+      "type": "commune",
+      "postalCode": "28261"
+    },
+    {
+      "code": "00548",
+      "name": "Bình Phú",
+      "fullName": "Xã Bình Phú, Tỉnh Đồng Tháp",
+      "slug": "binh-phu",
+      "type": "commune",
+      "postalCode": "28471"
+    },
+    {
+      "code": "00558",
+      "name": "Mỹ Phong",
+      "fullName": "Phường Mỹ Phong, Tỉnh Đồng Tháp",
+      "slug": "my-phong",
+      "type": "ward",
+      "postalCode": "28273"
+    },
+    {
+      "code": "00565",
+      "name": "Mỹ Ngãi",
+      "fullName": "Phường Mỹ Ngãi, Tỉnh Đồng Tháp",
+      "slug": "my-ngai",
+      "type": "ward",
+      "postalCode": "29884"
+    },
+    {
+      "code": "00574",
+      "name": "An Long",
+      "fullName": "Xã An Long, Tỉnh Đồng Tháp",
+      "slug": "an-long",
+      "type": "commune",
+      "postalCode": "30028"
+    },
+    {
+      "code": "00625",
+      "name": "Long Định",
+      "fullName": "Xã Long Định, Tỉnh Đồng Tháp",
+      "slug": "long-dinh",
+      "type": "commune",
+      "postalCode": "28543"
+    },
+    {
+      "code": "00643",
+      "name": "Thanh Bình",
+      "fullName": "Xã Thanh Bình, Tỉnh Đồng Tháp",
+      "slug": "thanh-binh",
+      "type": "commune",
+      "postalCode": "30130"
+    },
+    {
+      "code": "00645",
+      "name": "Long Hưng",
+      "fullName": "Xã Long Hưng, Tỉnh Đồng Tháp",
+      "slug": "long-hung",
+      "type": "commune",
+      "postalCode": "28537"
+    },
+    {
+      "code": "00662",
+      "name": "Tân Khánh Trung",
+      "fullName": "Xã Tân Khánh Trung, Tỉnh Đồng Tháp",
+      "slug": "tan-khanh-trung",
+      "type": "commune",
+      "postalCode": "30184"
+    },
+    {
+      "code": "00666",
+      "name": "Mỹ Trà",
+      "fullName": "Phường Mỹ Trà, Tỉnh Đồng Tháp",
+      "slug": "my-tra",
+      "type": "ward",
+      "postalCode": "29888"
+    },
+    {
+      "code": "00676",
+      "name": "Sơn Qui",
+      "fullName": "Phường Sơn Qui, Tỉnh Đồng Tháp",
+      "slug": "son-qui",
+      "type": "ward",
+      "postalCode": "28729"
+    },
+    {
+      "code": "00681",
+      "name": "Thanh Hưng",
+      "fullName": "Xã Thanh Hưng, Tỉnh Đồng Tháp",
+      "slug": "thanh-hung",
+      "type": "commune",
+      "postalCode": "28426"
+    },
+    {
+      "code": "00688",
+      "name": "Tân Dương",
+      "fullName": "Xã Tân Dương, Tỉnh Đồng Tháp",
+      "slug": "tan-duong",
+      "type": "commune",
+      "postalCode": "30214"
+    },
+    {
+      "code": "00694",
+      "name": "Gia Thuận",
+      "fullName": "Xã Gia Thuận, Tỉnh Đồng Tháp",
+      "slug": "gia-thuan",
+      "type": "commune",
+      "postalCode": "28720"
+    },
+    {
+      "code": "00736",
+      "name": "Vĩnh Bình",
+      "fullName": "Xã Vĩnh Bình, Tỉnh Đồng Tháp",
+      "slug": "vinh-binh",
+      "type": "commune",
+      "postalCode": "28651"
+    },
+    {
+      "code": "00741",
+      "name": "Tháp Mười",
+      "fullName": "Xã Tháp Mười, Tỉnh Đồng Tháp",
+      "slug": "thap-muoi",
+      "type": "commune",
+      "postalCode": "30037"
+    },
+    {
+      "code": "00751",
+      "name": "Long Tiên",
+      "fullName": "Xã Long Tiên, Tỉnh Đồng Tháp",
+      "slug": "long-tien",
+      "type": "commune",
+      "postalCode": "28504"
+    },
+    {
+      "code": "00850",
+      "name": "An Thạnh Thủy",
+      "fullName": "Xã An Thạnh Thủy, Tỉnh Đồng Tháp",
+      "slug": "an-thanh-thuy",
+      "type": "commune",
+      "postalCode": "28633"
+    },
+    {
+      "code": "00870",
+      "name": "Mỹ Phước Tây",
+      "fullName": "Phường Mỹ Phước Tây, Tỉnh Đồng Tháp",
+      "slug": "my-phuoc-tay",
+      "type": "ward",
+      "postalCode": "28435"
+    },
+    {
+      "code": "00877",
+      "name": "Ngũ Hiệp",
+      "fullName": "Xã Ngũ Hiệp, Tỉnh Đồng Tháp",
+      "slug": "ngu-hiep",
+      "type": "commune",
+      "postalCode": "28516"
+    },
+    {
+      "code": "00883",
+      "name": "Đồng Sơn",
+      "fullName": "Xã Đồng Sơn, Tỉnh Đồng Tháp",
+      "slug": "dong-son",
+      "type": "commune",
+      "postalCode": "28660"
+    },
+    {
+      "code": "00907",
+      "name": "Hậu Mỹ",
+      "fullName": "Xã Hậu Mỹ, Tỉnh Đồng Tháp",
+      "slug": "hau-my",
+      "type": "commune",
+      "postalCode": "28366"
+    },
+    {
+      "code": "00911",
+      "name": "Tân Thuận Bình",
+      "fullName": "Xã Tân Thuận Bình, Tỉnh Đồng Tháp",
+      "slug": "tan-thuan-binh",
+      "type": "commune",
+      "postalCode": "28627"
+    },
+    {
+      "code": "00915",
+      "name": "Tân Hồng",
+      "fullName": "Xã Tân Hồng, Tỉnh Đồng Tháp",
+      "slug": "tan-hong",
+      "type": "commune",
+      "postalCode": "29926"
+    },
+    {
+      "code": "00931",
+      "name": "Bình Hàng Trung",
+      "fullName": "Xã Bình Hàng Trung, Tỉnh Đồng Tháp",
+      "slug": "binh-hang-trung",
+      "type": "commune",
+      "postalCode": "30118"
+    },
+    {
+      "code": "00984",
+      "name": "Thới Sơn",
+      "fullName": "Phường Thới Sơn, Tỉnh Đồng Tháp",
+      "slug": "thoi-son",
+      "type": "ward",
+      "postalCode": "28270"
+    },
+    {
+      "code": "00993",
+      "name": "Thường Lạc",
+      "fullName": "Phường Thường Lạc, Tỉnh Đồng Tháp",
+      "slug": "thuong-lac",
+      "type": "ward",
+      "postalCode": "29978"
+    },
+    {
+      "code": "01024",
+      "name": "Lương Hòa Lạc",
+      "fullName": "Xã Lương Hòa Lạc, Tỉnh Đồng Tháp",
+      "slug": "luong-hoa-lac",
+      "type": "commune",
+      "postalCode": "28615"
+    },
+    {
+      "code": "01065",
+      "name": "Mỹ Tịnh An",
+      "fullName": "Xã Mỹ Tịnh An, Tỉnh Đồng Tháp",
+      "slug": "my-tinh-an",
+      "type": "commune",
+      "postalCode": "28603"
+    },
+    {
+      "code": "01069",
+      "name": "Mỹ Đức Tây",
+      "fullName": "Xã Mỹ Đức Tây, Tỉnh Đồng Tháp",
+      "slug": "my-duc-tay",
+      "type": "commune",
+      "postalCode": "28405"
+    },
+    {
+      "code": "01102",
+      "name": "Mỹ Quí",
+      "fullName": "Xã Mỹ Quí, Tỉnh Đồng Tháp",
+      "slug": "my-qui",
+      "type": "commune",
+      "postalCode": "30055"
+    },
+    {
+      "code": "01113",
+      "name": "Bình Ninh",
+      "fullName": "Xã Bình Ninh, Tỉnh Đồng Tháp",
+      "slug": "binh-ninh",
+      "type": "commune",
+      "postalCode": "28648"
+    },
+    {
+      "code": "01114",
+      "name": "Gò Công",
+      "fullName": "Phường Gò Công, Tỉnh Đồng Tháp",
+      "slug": "go-cong",
+      "type": "ward",
+      "postalCode": "28306"
+    },
+    {
+      "code": "01132",
+      "name": "Long Khánh",
+      "fullName": "Xã Long Khánh, Tỉnh Đồng Tháp",
+      "slug": "long-khanh",
+      "type": "commune",
+      "postalCode": "29983"
+    },
+    {
+      "code": "01139",
+      "name": "Mỹ Thành",
+      "fullName": "Xã Mỹ Thành, Tỉnh Đồng Tháp",
+      "slug": "my-thanh",
+      "type": "commune",
+      "postalCode": "28456"
+    },
+    {
+      "code": "01140",
+      "name": "Hiệp Đức",
+      "fullName": "Xã Hiệp Đức, Tỉnh Đồng Tháp",
+      "slug": "hiep-duc",
+      "type": "commune",
+      "postalCode": "28501"
+    },
+    {
+      "code": "01197",
+      "name": "Bình Trưng",
+      "fullName": "Xã Bình Trưng, Tỉnh Đồng Tháp",
+      "slug": "binh-trung",
+      "type": "commune",
+      "postalCode": "28564"
+    },
+    {
+      "code": "01227",
+      "name": "Tân Hòa",
+      "fullName": "Xã Tân Hòa, Tỉnh Đồng Tháp",
+      "slug": "tan-hoa",
+      "type": "commune",
+      "postalCode": "28702"
+    },
+    {
+      "code": "01231",
+      "name": "Cai Lậy",
+      "fullName": "Phường Cai Lậy, Tỉnh Đồng Tháp",
+      "slug": "cai-lay",
+      "type": "ward",
+      "postalCode": "28439"
+    },
+    {
+      "code": "01246",
+      "name": "Chợ Gạo",
+      "fullName": "Xã Chợ Gạo, Tỉnh Đồng Tháp",
+      "slug": "cho-gao",
+      "type": "commune",
+      "postalCode": "28594"
+    },
+    {
+      "code": "01248",
+      "name": "Mỹ Lợi",
+      "fullName": "Xã Mỹ Lợi, Tỉnh Đồng Tháp",
+      "slug": "my-loi",
+      "type": "commune",
+      "postalCode": "28414"
+    },
+    {
+      "code": "01274",
+      "name": "An Bình",
+      "fullName": "Phường An Bình, Tỉnh Đồng Tháp",
+      "slug": "an-binh",
+      "type": "ward",
+      "postalCode": "29954"
+    },
+    {
+      "code": "01294",
+      "name": "Thanh Mỹ",
+      "fullName": "Xã Thanh Mỹ, Tỉnh Đồng Tháp",
+      "slug": "thanh-my",
+      "type": "commune",
+      "postalCode": "30073"
+    },
+    {
+      "code": "01336",
+      "name": "Bình Xuân",
+      "fullName": "Phường Bình Xuân, Tỉnh Đồng Tháp",
+      "slug": "binh-xuan",
+      "type": "ward",
+      "postalCode": "28315"
+    },
+    {
+      "code": "01358",
+      "name": "Bình Thành",
+      "fullName": "Xã Bình Thành, Tỉnh Đồng Tháp",
+      "slug": "binh-thanh",
+      "type": "commune",
+      "postalCode": "30163"
+    },
+    {
+      "code": "01365",
+      "name": "Tân Thới",
+      "fullName": "Xã Tân Thới, Tỉnh Đồng Tháp",
+      "slug": "tan-thoi",
+      "type": "commune",
+      "postalCode": "28693"
+    },
+    {
+      "code": "01404",
+      "name": "Vĩnh Kim",
+      "fullName": "Xã Vĩnh Kim, Tỉnh Đồng Tháp",
+      "slug": "vinh-kim",
+      "type": "commune",
+      "postalCode": "28576"
+    },
+    {
+      "code": "01413",
+      "name": "Hưng Thạnh",
+      "fullName": "Xã Hưng Thạnh, Tỉnh Đồng Tháp",
+      "slug": "hung-thanh",
+      "type": "commune",
+      "postalCode": "28336"
+    },
+    {
+      "code": "01414",
+      "name": "Tân Phú",
+      "fullName": "Xã Tân Phú, Tỉnh Đồng Tháp",
+      "slug": "tan-phu",
+      "type": "commune",
+      "postalCode": "28321"
+    },
+    {
+      "code": "01434",
+      "name": "Phong Mỹ",
+      "fullName": "Xã Phong Mỹ, Tỉnh Đồng Tháp",
+      "slug": "phong-my",
+      "type": "commune",
+      "postalCode": "30088"
+    },
+    {
+      "code": "01461",
+      "name": "Long Bình",
+      "fullName": "Xã Long Bình, Tỉnh Đồng Tháp",
+      "slug": "long-binh",
+      "type": "commune",
+      "postalCode": "28687"
+    },
+    {
+      "code": "01474",
+      "name": "Tân Thành",
+      "fullName": "Xã Tân Thành, Tỉnh Đồng Tháp",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "29938"
+    },
+    {
+      "code": "01490",
+      "name": "Phú Thọ",
+      "fullName": "Xã Phú Thọ, Tỉnh Đồng Tháp",
+      "slug": "phu-tho",
+      "type": "commune",
+      "postalCode": "30034"
+    },
+    {
+      "code": "01508",
+      "name": "Gò Công Đông",
+      "fullName": "Xã Gò Công Đông, Tỉnh Đồng Tháp",
+      "slug": "go-cong-dong",
+      "type": "commune",
+      "postalCode": "28747"
+    },
+    {
+      "code": "01537",
+      "name": "Long Thuận",
+      "fullName": "Phường Long Thuận, Tỉnh Đồng Tháp",
+      "slug": "long-thuan",
+      "type": "ward",
+      "postalCode": "28297"
+    },
+    {
+      "code": "01566",
+      "name": "Kim Sơn",
+      "fullName": "Xã Kim Sơn, Tỉnh Đồng Tháp",
+      "slug": "kim-son",
+      "type": "commune",
+      "postalCode": "28582"
+    },
+    {
+      "code": "01605",
+      "name": "Đốc Binh Kiều",
+      "fullName": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp",
+      "slug": "doc-binh-kieu",
+      "type": "commune",
+      "postalCode": "30061"
+    },
+    {
+      "code": "01629",
+      "name": "Ba Sao",
+      "fullName": "Xã Ba Sao, Tỉnh Đồng Tháp",
+      "slug": "ba-sao",
+      "type": "commune",
+      "postalCode": "30085"
+    },
+    {
+      "code": "01631",
+      "name": "Thạnh Phú",
+      "fullName": "Xã Thạnh Phú, Tỉnh Đồng Tháp",
+      "slug": "thanh-phu",
+      "type": "commune",
+      "postalCode": "28444"
+    },
+    {
+      "code": "01686",
+      "name": "Mỹ Thiện",
+      "fullName": "Xã Mỹ Thiện, Tỉnh Đồng Tháp",
+      "slug": "my-thien",
+      "type": "commune",
+      "postalCode": "28378"
+    },
+    {
+      "code": "01700",
+      "name": "Nhị Quý",
+      "fullName": "Phường Nhị Quý, Tỉnh Đồng Tháp",
+      "slug": "nhi-quy",
+      "type": "ward",
+      "postalCode": "28477"
+    },
+    {
+      "code": "01829",
+      "name": "Tân Thạnh",
+      "fullName": "Xã Tân Thạnh, Tỉnh Đồng Tháp",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "29938"
+    },
+    {
+      "code": "01889",
+      "name": "Phú Thành",
+      "fullName": "Xã Phú Thành, Tỉnh Đồng Tháp",
+      "slug": "phu-thanh",
+      "type": "commune",
+      "postalCode": "28663"
+    },
+    {
+      "code": "01892",
+      "name": "Tân Hộ Cơ",
+      "fullName": "Xã Tân Hộ Cơ, Tỉnh Đồng Tháp",
+      "slug": "tan-ho-co",
+      "type": "commune",
+      "postalCode": "29929"
+    },
+    {
+      "code": "01966",
+      "name": "Vĩnh Hựu",
+      "fullName": "Xã Vĩnh Hựu, Tỉnh Đồng Tháp",
+      "slug": "vinh-huu",
+      "type": "commune",
+      "postalCode": "28678"
+    },
+    {
+      "code": "01995",
+      "name": "An Phước",
+      "fullName": "Xã An Phước, Tỉnh Đồng Tháp",
+      "slug": "an-phuoc",
+      "type": "commune",
+      "postalCode": "28321"
+    },
+    {
+      "code": "02011",
+      "name": "Tân Phú Đông",
+      "fullName": "Xã Tân Phú Đông, Tỉnh Đồng Tháp",
+      "slug": "tan-phu-dong",
+      "type": "commune",
+      "postalCode": "28696"
+    },
+    {
+      "code": "02087",
+      "name": "Tràm Chim",
+      "fullName": "Xã Tràm Chim, Tỉnh Đồng Tháp",
+      "slug": "tram-chim",
+      "type": "commune",
+      "postalCode": "30001"
+    },
+    {
+      "code": "02129",
+      "name": "Tân Điền",
+      "fullName": "Xã Tân Điền, Tỉnh Đồng Tháp",
+      "slug": "tan-dien",
+      "type": "commune",
+      "postalCode": "28738"
+    },
+    {
+      "code": "02154",
+      "name": "Phương Thịnh",
+      "fullName": "Xã Phương Thịnh, Tỉnh Đồng Tháp",
+      "slug": "phuong-thinh",
+      "type": "commune",
+      "postalCode": "30043"
+    },
+    {
+      "code": "02194",
+      "name": "Phú Cường",
+      "fullName": "Xã Phú Cường, Tỉnh Đồng Tháp",
+      "slug": "phu-cuong",
+      "type": "commune",
+      "postalCode": "30025"
+    },
+    {
+      "code": "02200",
+      "name": "Tam Nông",
+      "fullName": "Xã Tam Nông, Tỉnh Đồng Tháp",
+      "slug": "tam-nong",
+      "type": "commune",
+      "postalCode": "30010"
+    },
+    {
+      "code": "02213",
+      "name": "Thanh Hòa",
+      "fullName": "Phường Thanh Hòa, Tỉnh Đồng Tháp",
+      "slug": "thanh-hoa",
+      "type": "ward",
+      "postalCode": "28436"
+    },
+    {
+      "code": "02323",
+      "name": "An Hòa",
+      "fullName": "Xã An Hòa, Tỉnh Đồng Tháp",
+      "slug": "an-hoa",
+      "type": "commune",
+      "postalCode": "28702"
+    },
+    {
+      "code": "02380",
+      "name": "Trường Xuân",
+      "fullName": "Xã Trường Xuân, Tỉnh Đồng Tháp",
+      "slug": "truong-xuan",
+      "type": "commune",
+      "postalCode": "30046"
+    },
+    {
+      "code": "02718",
+      "name": "Tân Phước 1",
+      "fullName": "Xã Tân Phước 1, Tỉnh Đồng Tháp",
+      "slug": "tan-phuoc-1",
+      "type": "commune",
+      "postalCode": "28321"
+    },
+    {
+      "code": "02852",
+      "name": "Tân Phước 2",
+      "fullName": "Xã Tân Phước 2, Tỉnh Đồng Tháp",
+      "slug": "tan-phuoc-2",
+      "type": "commune",
+      "postalCode": "28327"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Mỹ Tho",
+      "slug": "thanh-pho-my-tho",
+      "wards": [
+        {
+          "code": "28249",
+          "name": "Đạo Thạnh",
+          "fullName": "Phường Đạo Thạnh, Tỉnh Đồng Tháp",
+          "slug": "dao-thanh",
+          "postalCode": "28249"
+        },
+        {
+          "code": "28261",
+          "name": "Mỹ Tho",
+          "fullName": "Phường Mỹ Tho, Tỉnh Đồng Tháp",
+          "slug": "my-tho",
+          "postalCode": "28261"
+        },
+        {
+          "code": "28270",
+          "name": "Thới Sơn",
+          "fullName": "Phường Thới Sơn, Tỉnh Đồng Tháp",
+          "slug": "thoi-son",
+          "postalCode": "28270"
+        },
+        {
+          "code": "28273",
+          "name": "Mỹ Phong",
+          "fullName": "Phường Mỹ Phong, Tỉnh Đồng Tháp",
+          "slug": "my-phong",
+          "postalCode": "28273"
+        },
+        {
+          "code": "28285",
+          "name": "Trung An",
+          "fullName": "Phường Trung An, Tỉnh Đồng Tháp",
+          "slug": "trung-an",
+          "postalCode": "28285"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Gò Công",
+      "slug": "thanh-pho-go-cong",
+      "wards": [
+        {
+          "code": "28297",
+          "name": "Long Thuận",
+          "fullName": "Phường Long Thuận, Tỉnh Đồng Tháp",
+          "slug": "long-thuan",
+          "postalCode": "28297"
+        },
+        {
+          "code": "28306",
+          "name": "Gò Công",
+          "fullName": "Phường Gò Công, Tỉnh Đồng Tháp",
+          "slug": "go-cong",
+          "postalCode": "28306"
+        },
+        {
+          "code": "28315",
+          "name": "Bình Xuân",
+          "fullName": "Phường Bình Xuân, Tỉnh Đồng Tháp",
+          "slug": "binh-xuan",
+          "postalCode": "28315"
+        },
+        {
+          "code": "28729",
+          "name": "Sơn Qui",
+          "fullName": "Phường Sơn Qui, Tỉnh Đồng Tháp",
+          "slug": "son-qui",
+          "postalCode": "28729"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Cai Lậy",
+      "slug": "thi-xa-cai-lay",
+      "wards": [
+        {
+          "code": "28435",
+          "name": "Mỹ Phước Tây",
+          "fullName": "Phường Mỹ Phước Tây, Tỉnh Đồng Tháp",
+          "slug": "my-phuoc-tay",
+          "postalCode": "28435"
+        },
+        {
+          "code": "28436",
+          "name": "Thanh Hòa",
+          "fullName": "Phường Thanh Hòa, Tỉnh Đồng Tháp",
+          "slug": "thanh-hoa",
+          "postalCode": "28436"
+        },
+        {
+          "code": "28439",
+          "name": "Cai Lậy",
+          "fullName": "Phường Cai Lậy, Tỉnh Đồng Tháp",
+          "slug": "cai-lay",
+          "postalCode": "28439"
+        },
+        {
+          "code": "28468",
+          "name": "Tân Phú",
+          "fullName": "Xã Tân Phú, Tỉnh Đồng Tháp",
+          "slug": "tan-phu",
+          "postalCode": "28468"
+        },
+        {
+          "code": "28477",
+          "name": "Nhị Quý",
+          "fullName": "Phường Nhị Quý, Tỉnh Đồng Tháp",
+          "slug": "nhi-quy",
+          "postalCode": "28477"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Cao Lãnh",
+      "slug": "thanh-pho-cao-lanh",
+      "wards": [
+        {
+          "code": "29869",
+          "name": "Cao Lãnh",
+          "fullName": "Phường Cao Lãnh, Tỉnh Đồng Tháp",
+          "slug": "cao-lanh",
+          "postalCode": "29869"
+        },
+        {
+          "code": "29884",
+          "name": "Mỹ Ngãi",
+          "fullName": "Phường Mỹ Ngãi, Tỉnh Đồng Tháp",
+          "slug": "my-ngai",
+          "postalCode": "29884"
+        },
+        {
+          "code": "29888",
+          "name": "Mỹ Trà",
+          "fullName": "Phường Mỹ Trà, Tỉnh Đồng Tháp",
+          "slug": "my-tra",
+          "postalCode": "29888"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cao Lãnh",
+      "slug": "huyen-cao-lanh",
+      "wards": [
+        {
+          "code": "29884",
+          "name": "Mỹ Ngãi",
+          "fullName": "Phường Mỹ Ngãi, Tỉnh Đồng Tháp",
+          "slug": "my-ngai",
+          "postalCode": "29884"
+        },
+        {
+          "code": "29888",
+          "name": "Mỹ Trà",
+          "fullName": "Phường Mỹ Trà, Tỉnh Đồng Tháp",
+          "slug": "my-tra",
+          "postalCode": "29888"
+        },
+        {
+          "code": "30025",
+          "name": "Phú Cường",
+          "fullName": "Xã Phú Cường, Tỉnh Đồng Tháp",
+          "slug": "phu-cuong",
+          "postalCode": "30025"
+        },
+        {
+          "code": "30043",
+          "name": "Phương Thịnh",
+          "fullName": "Xã Phương Thịnh, Tỉnh Đồng Tháp",
+          "slug": "phuong-thinh",
+          "postalCode": "30043"
+        },
+        {
+          "code": "30076",
+          "name": "Mỹ Thọ",
+          "fullName": "Xã Mỹ Thọ, Tỉnh Đồng Tháp",
+          "slug": "my-tho",
+          "postalCode": "30076"
+        },
+        {
+          "code": "30085",
+          "name": "Ba Sao",
+          "fullName": "Xã Ba Sao, Tỉnh Đồng Tháp",
+          "slug": "ba-sao",
+          "postalCode": "30085"
+        },
+        {
+          "code": "30088",
+          "name": "Phong Mỹ",
+          "fullName": "Xã Phong Mỹ, Tỉnh Đồng Tháp",
+          "slug": "phong-my",
+          "postalCode": "30088"
+        },
+        {
+          "code": "30112",
+          "name": "Mỹ Hiệp",
+          "fullName": "Xã Mỹ Hiệp, Tỉnh Đồng Tháp",
+          "slug": "my-hiep",
+          "postalCode": "30112"
+        },
+        {
+          "code": "30118",
+          "name": "Bình Hàng Trung",
+          "fullName": "Xã Bình Hàng Trung, Tỉnh Đồng Tháp",
+          "slug": "binh-hang-trung",
+          "postalCode": "30118"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Sa Đéc",
+      "slug": "thanh-pho-sa-dec",
+      "wards": [
+        {
+          "code": "29905",
+          "name": "Sa Đéc",
+          "fullName": "Phường Sa Đéc, Tỉnh Đồng Tháp",
+          "slug": "sa-dec",
+          "postalCode": "29905"
+        },
+        {
+          "code": "30214",
+          "name": "Tân Dương",
+          "fullName": "Xã Tân Dương, Tỉnh Đồng Tháp",
+          "slug": "tan-duong",
+          "postalCode": "30214"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Hồng Ngự",
+      "slug": "thanh-pho-hong-ngu",
+      "wards": [
+        {
+          "code": "29954",
+          "name": "An Bình",
+          "fullName": "Phường An Bình, Tỉnh Đồng Tháp",
+          "slug": "an-binh",
+          "postalCode": "29954"
+        },
+        {
+          "code": "29955",
+          "name": "Hồng Ngự",
+          "fullName": "Phường Hồng Ngự, Tỉnh Đồng Tháp",
+          "slug": "hong-ngu",
+          "postalCode": "29955"
+        },
+        {
+          "code": "29978",
+          "name": "Thường Lạc",
+          "fullName": "Phường Thường Lạc, Tỉnh Đồng Tháp",
+          "slug": "thuong-lac",
+          "postalCode": "29978"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hồng Ngự",
+      "slug": "huyen-hong-ngu",
+      "wards": [
+        {
+          "code": "29971",
+          "name": "Thường Phước",
+          "fullName": "Xã Thường Phước, Tỉnh Đồng Tháp",
+          "slug": "thuong-phuoc",
+          "postalCode": "29971"
+        },
+        {
+          "code": "29978",
+          "name": "Thường Lạc",
+          "fullName": "Phường Thường Lạc, Tỉnh Đồng Tháp",
+          "slug": "thuong-lac",
+          "postalCode": "29978"
+        },
+        {
+          "code": "29983",
+          "name": "Long Khánh",
+          "fullName": "Xã Long Khánh, Tỉnh Đồng Tháp",
+          "slug": "long-khanh",
+          "postalCode": "29983"
+        },
+        {
+          "code": "29992",
+          "name": "Long Phú Thuận",
+          "fullName": "Xã Long Phú Thuận, Tỉnh Đồng Tháp",
+          "slug": "long-phu-thuan",
+          "postalCode": "29992"
+        },
+        {
+          "code": "30154",
+          "name": "Tân Long",
+          "fullName": "Xã Tân Long, Tỉnh Đồng Tháp",
+          "slug": "tan-long",
+          "postalCode": "30154"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Phước",
+      "slug": "huyen-tan-phuoc",
+      "wards": [
+        {
+          "code": "28321",
+          "name": "Tân Phước 1",
+          "fullName": "Xã Tân Phước 1, Tỉnh Đồng Tháp",
+          "slug": "tan-phuoc-1",
+          "postalCode": "28321"
+        },
+        {
+          "code": "28327",
+          "name": "Tân Phước 2",
+          "fullName": "Xã Tân Phước 2, Tỉnh Đồng Tháp",
+          "slug": "tan-phuoc-2",
+          "postalCode": "28327"
+        },
+        {
+          "code": "28336",
+          "name": "Hưng Thạnh",
+          "fullName": "Xã Hưng Thạnh, Tỉnh Đồng Tháp",
+          "slug": "hung-thanh",
+          "postalCode": "28336"
+        },
+        {
+          "code": "28345",
+          "name": "Tân Phước 3",
+          "fullName": "Xã Tân Phước 3, Tỉnh Đồng Tháp",
+          "slug": "tan-phuoc-3",
+          "postalCode": "28345"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cái Bè",
+      "slug": "huyen-cai-be",
+      "wards": [
+        {
+          "code": "28360",
+          "name": "Cái Bè",
+          "fullName": "Xã Cái Bè, Tỉnh Đồng Tháp",
+          "slug": "cai-be",
+          "postalCode": "28360"
+        },
+        {
+          "code": "28366",
+          "name": "Hậu Mỹ",
+          "fullName": "Xã Hậu Mỹ, Tỉnh Đồng Tháp",
+          "slug": "hau-my",
+          "postalCode": "28366"
+        },
+        {
+          "code": "28378",
+          "name": "Mỹ Thiện",
+          "fullName": "Xã Mỹ Thiện, Tỉnh Đồng Tháp",
+          "slug": "my-thien",
+          "postalCode": "28378"
+        },
+        {
+          "code": "28393",
+          "name": "Hội Cư",
+          "fullName": "Xã Hội Cư, Tỉnh Đồng Tháp",
+          "slug": "hoi-cu",
+          "postalCode": "28393"
+        },
+        {
+          "code": "28405",
+          "name": "Mỹ Đức Tây",
+          "fullName": "Xã Mỹ Đức Tây, Tỉnh Đồng Tháp",
+          "slug": "my-duc-tay",
+          "postalCode": "28405"
+        },
+        {
+          "code": "28414",
+          "name": "Mỹ Lợi",
+          "fullName": "Xã Mỹ Lợi, Tỉnh Đồng Tháp",
+          "slug": "my-loi",
+          "postalCode": "28414"
+        },
+        {
+          "code": "28426",
+          "name": "Thanh Hưng",
+          "fullName": "Xã Thanh Hưng, Tỉnh Đồng Tháp",
+          "slug": "thanh-hung",
+          "postalCode": "28426"
+        },
+        {
+          "code": "28429",
+          "name": "An Hữu",
+          "fullName": "Xã An Hữu, Tỉnh Đồng Tháp",
+          "slug": "an-huu",
+          "postalCode": "28429"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cai Lậy",
+      "slug": "huyen-cai-lay",
+      "wards": [
+        {
+          "code": "28444",
+          "name": "Thạnh Phú",
+          "fullName": "Xã Thạnh Phú, Tỉnh Đồng Tháp",
+          "slug": "thanh-phu",
+          "postalCode": "28444"
+        },
+        {
+          "code": "28456",
+          "name": "Mỹ Thành",
+          "fullName": "Xã Mỹ Thành, Tỉnh Đồng Tháp",
+          "slug": "my-thanh",
+          "postalCode": "28456"
+        },
+        {
+          "code": "28471",
+          "name": "Bình Phú",
+          "fullName": "Xã Bình Phú, Tỉnh Đồng Tháp",
+          "slug": "binh-phu",
+          "postalCode": "28471"
+        },
+        {
+          "code": "28501",
+          "name": "Hiệp Đức",
+          "fullName": "Xã Hiệp Đức, Tỉnh Đồng Tháp",
+          "slug": "hiep-duc",
+          "postalCode": "28501"
+        },
+        {
+          "code": "28504",
+          "name": "Long Tiên",
+          "fullName": "Xã Long Tiên, Tỉnh Đồng Tháp",
+          "slug": "long-tien",
+          "postalCode": "28504"
+        },
+        {
+          "code": "28516",
+          "name": "Ngũ Hiệp",
+          "fullName": "Xã Ngũ Hiệp, Tỉnh Đồng Tháp",
+          "slug": "ngu-hiep",
+          "postalCode": "28516"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "slug": "huyen-chau-thanh",
+      "wards": [
+        {
+          "code": "28519",
+          "name": "Châu Thành",
+          "fullName": "Xã Châu Thành, Tỉnh Đồng Tháp",
+          "slug": "chau-thanh",
+          "postalCode": "28519"
+        },
+        {
+          "code": "28525",
+          "name": "Tân Hương",
+          "fullName": "Xã Tân Hương, Tỉnh Đồng Tháp",
+          "slug": "tan-huong",
+          "postalCode": "28525"
+        },
+        {
+          "code": "28537",
+          "name": "Long Hưng",
+          "fullName": "Xã Long Hưng, Tỉnh Đồng Tháp",
+          "slug": "long-hung",
+          "postalCode": "28537"
+        },
+        {
+          "code": "28543",
+          "name": "Long Định",
+          "fullName": "Xã Long Định, Tỉnh Đồng Tháp",
+          "slug": "long-dinh",
+          "postalCode": "28543"
+        },
+        {
+          "code": "28564",
+          "name": "Bình Trưng",
+          "fullName": "Xã Bình Trưng, Tỉnh Đồng Tháp",
+          "slug": "binh-trung",
+          "postalCode": "28564"
+        },
+        {
+          "code": "28576",
+          "name": "Vĩnh Kim",
+          "fullName": "Xã Vĩnh Kim, Tỉnh Đồng Tháp",
+          "slug": "vinh-kim",
+          "postalCode": "28576"
+        },
+        {
+          "code": "28582",
+          "name": "Kim Sơn",
+          "fullName": "Xã Kim Sơn, Tỉnh Đồng Tháp",
+          "slug": "kim-son",
+          "postalCode": "28582"
+        },
+        {
+          "code": "30244",
+          "name": "Phú Hựu",
+          "fullName": "Xã Phú Hựu, Tỉnh Đồng Tháp",
+          "slug": "phu-huu",
+          "postalCode": "30244"
+        },
+        {
+          "code": "30253",
+          "name": "Tân Nhuận Đông",
+          "fullName": "Xã Tân Nhuận Đông, Tỉnh Đồng Tháp",
+          "slug": "tan-nhuan-dong",
+          "postalCode": "30253"
+        },
+        {
+          "code": "30259",
+          "name": "Tân Phú Trung",
+          "fullName": "Xã Tân Phú Trung, Tỉnh Đồng Tháp",
+          "slug": "tan-phu-trung",
+          "postalCode": "30259"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chợ Gạo",
+      "slug": "huyen-cho-gao",
+      "wards": [
+        {
+          "code": "28594",
+          "name": "Chợ Gạo",
+          "fullName": "Xã Chợ Gạo, Tỉnh Đồng Tháp",
+          "slug": "cho-gao",
+          "postalCode": "28594"
+        },
+        {
+          "code": "28603",
+          "name": "Mỹ Tịnh An",
+          "fullName": "Xã Mỹ Tịnh An, Tỉnh Đồng Tháp",
+          "slug": "my-tinh-an",
+          "postalCode": "28603"
+        },
+        {
+          "code": "28615",
+          "name": "Lương Hòa Lạc",
+          "fullName": "Xã Lương Hòa Lạc, Tỉnh Đồng Tháp",
+          "slug": "luong-hoa-lac",
+          "postalCode": "28615"
+        },
+        {
+          "code": "28627",
+          "name": "Tân Thuận Bình",
+          "fullName": "Xã Tân Thuận Bình, Tỉnh Đồng Tháp",
+          "slug": "tan-thuan-binh",
+          "postalCode": "28627"
+        },
+        {
+          "code": "28633",
+          "name": "An Thạnh Thủy",
+          "fullName": "Xã An Thạnh Thủy, Tỉnh Đồng Tháp",
+          "slug": "an-thanh-thuy",
+          "postalCode": "28633"
+        },
+        {
+          "code": "28648",
+          "name": "Bình Ninh",
+          "fullName": "Xã Bình Ninh, Tỉnh Đồng Tháp",
+          "slug": "binh-ninh",
+          "postalCode": "28648"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Gò Công Tây",
+      "slug": "huyen-go-cong-tay",
+      "wards": [
+        {
+          "code": "28651",
+          "name": "Vĩnh Bình",
+          "fullName": "Xã Vĩnh Bình, Tỉnh Đồng Tháp",
+          "slug": "vinh-binh",
+          "postalCode": "28651"
+        },
+        {
+          "code": "28660",
+          "name": "Đồng Sơn",
+          "fullName": "Xã Đồng Sơn, Tỉnh Đồng Tháp",
+          "slug": "dong-son",
+          "postalCode": "28660"
+        },
+        {
+          "code": "28663",
+          "name": "Phú Thành",
+          "fullName": "Xã Phú Thành, Tỉnh Đồng Tháp",
+          "slug": "phu-thanh",
+          "postalCode": "28663"
+        },
+        {
+          "code": "28678",
+          "name": "Vĩnh Hựu",
+          "fullName": "Xã Vĩnh Hựu, Tỉnh Đồng Tháp",
+          "slug": "vinh-huu",
+          "postalCode": "28678"
+        },
+        {
+          "code": "28687",
+          "name": "Long Bình",
+          "fullName": "Xã Long Bình, Tỉnh Đồng Tháp",
+          "slug": "long-binh",
+          "postalCode": "28687"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Phú Đông",
+      "slug": "huyen-tan-phu-dong",
+      "wards": [
+        {
+          "code": "28693",
+          "name": "Tân Thới",
+          "fullName": "Xã Tân Thới, Tỉnh Đồng Tháp",
+          "slug": "tan-thoi",
+          "postalCode": "28693"
+        },
+        {
+          "code": "28696",
+          "name": "Tân Phú Đông",
+          "fullName": "Xã Tân Phú Đông, Tỉnh Đồng Tháp",
+          "slug": "tan-phu-dong",
+          "postalCode": "28696"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Gò Công Đông",
+      "slug": "huyen-go-cong-dong",
+      "wards": [
+        {
+          "code": "28702",
+          "name": "Tân Hòa",
+          "fullName": "Xã Tân Hòa, Tỉnh Đồng Tháp",
+          "slug": "tan-hoa",
+          "postalCode": "28702"
+        },
+        {
+          "code": "28720",
+          "name": "Gia Thuận",
+          "fullName": "Xã Gia Thuận, Tỉnh Đồng Tháp",
+          "slug": "gia-thuan",
+          "postalCode": "28720"
+        },
+        {
+          "code": "28723",
+          "name": "Tân Đông",
+          "fullName": "Xã Tân Đông, Tỉnh Đồng Tháp",
+          "slug": "tan-dong",
+          "postalCode": "28723"
+        },
+        {
+          "code": "28738",
+          "name": "Tân Điền",
+          "fullName": "Xã Tân Điền, Tỉnh Đồng Tháp",
+          "slug": "tan-dien",
+          "postalCode": "28738"
+        },
+        {
+          "code": "28747",
+          "name": "Gò Công Đông",
+          "fullName": "Xã Gò Công Đông, Tỉnh Đồng Tháp",
+          "slug": "go-cong-dong",
+          "postalCode": "28747"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Hồng",
+      "slug": "huyen-tan-hong",
+      "wards": [
+        {
+          "code": "29926",
+          "name": "Tân Hồng",
+          "fullName": "Xã Tân Hồng, Tỉnh Đồng Tháp",
+          "slug": "tan-hong",
+          "postalCode": "29926"
+        },
+        {
+          "code": "29929",
+          "name": "Tân Hộ Cơ",
+          "fullName": "Xã Tân Hộ Cơ, Tỉnh Đồng Tháp",
+          "slug": "tan-ho-co",
+          "postalCode": "29929"
+        },
+        {
+          "code": "29938",
+          "name": "Tân Thành",
+          "fullName": "Xã Tân Thành, Tỉnh Đồng Tháp",
+          "slug": "tan-thanh",
+          "postalCode": "29938"
+        },
+        {
+          "code": "29944",
+          "name": "An Phước",
+          "fullName": "Xã An Phước, Tỉnh Đồng Tháp",
+          "slug": "an-phuoc",
+          "postalCode": "29944"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tam Nông",
+      "slug": "huyen-tam-nong",
+      "wards": [
+        {
+          "code": "30001",
+          "name": "Tràm Chim",
+          "fullName": "Xã Tràm Chim, Tỉnh Đồng Tháp",
+          "slug": "tram-chim",
+          "postalCode": "30001"
+        },
+        {
+          "code": "30010",
+          "name": "Tam Nông",
+          "fullName": "Xã Tam Nông, Tỉnh Đồng Tháp",
+          "slug": "tam-nong",
+          "postalCode": "30010"
+        },
+        {
+          "code": "30019",
+          "name": "An Hòa",
+          "fullName": "Xã An Hòa, Tỉnh Đồng Tháp",
+          "slug": "an-hoa",
+          "postalCode": "30019"
+        },
+        {
+          "code": "30025",
+          "name": "Phú Cường",
+          "fullName": "Xã Phú Cường, Tỉnh Đồng Tháp",
+          "slug": "phu-cuong",
+          "postalCode": "30025"
+        },
+        {
+          "code": "30028",
+          "name": "An Long",
+          "fullName": "Xã An Long, Tỉnh Đồng Tháp",
+          "slug": "an-long",
+          "postalCode": "30028"
+        },
+        {
+          "code": "30034",
+          "name": "Phú Thọ",
+          "fullName": "Xã Phú Thọ, Tỉnh Đồng Tháp",
+          "slug": "phu-tho",
+          "postalCode": "30034"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thanh Bình",
+      "slug": "huyen-thanh-binh",
+      "wards": [
+        {
+          "code": "30028",
+          "name": "An Long",
+          "fullName": "Xã An Long, Tỉnh Đồng Tháp",
+          "slug": "an-long",
+          "postalCode": "30028"
+        },
+        {
+          "code": "30130",
+          "name": "Thanh Bình",
+          "fullName": "Xã Thanh Bình, Tỉnh Đồng Tháp",
+          "slug": "thanh-binh",
+          "postalCode": "30130"
+        },
+        {
+          "code": "30154",
+          "name": "Tân Long",
+          "fullName": "Xã Tân Long, Tỉnh Đồng Tháp",
+          "slug": "tan-long",
+          "postalCode": "30154"
+        },
+        {
+          "code": "30157",
+          "name": "Tân Thạnh",
+          "fullName": "Xã Tân Thạnh, Tỉnh Đồng Tháp",
+          "slug": "tan-thanh",
+          "postalCode": "30157"
+        },
+        {
+          "code": "30163",
+          "name": "Bình Thành",
+          "fullName": "Xã Bình Thành, Tỉnh Đồng Tháp",
+          "slug": "binh-thanh",
+          "postalCode": "30163"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tháp Mười",
+      "slug": "huyen-thap-muoi",
+      "wards": [
+        {
+          "code": "30037",
+          "name": "Tháp Mười",
+          "fullName": "Xã Tháp Mười, Tỉnh Đồng Tháp",
+          "slug": "thap-muoi",
+          "postalCode": "30037"
+        },
+        {
+          "code": "30043",
+          "name": "Phương Thịnh",
+          "fullName": "Xã Phương Thịnh, Tỉnh Đồng Tháp",
+          "slug": "phuong-thinh",
+          "postalCode": "30043"
+        },
+        {
+          "code": "30046",
+          "name": "Trường Xuân",
+          "fullName": "Xã Trường Xuân, Tỉnh Đồng Tháp",
+          "slug": "truong-xuan",
+          "postalCode": "30046"
+        },
+        {
+          "code": "30055",
+          "name": "Mỹ Quí",
+          "fullName": "Xã Mỹ Quí, Tỉnh Đồng Tháp",
+          "slug": "my-qui",
+          "postalCode": "30055"
+        },
+        {
+          "code": "30061",
+          "name": "Đốc Binh Kiều",
+          "fullName": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp",
+          "slug": "doc-binh-kieu",
+          "postalCode": "30061"
+        },
+        {
+          "code": "30073",
+          "name": "Thanh Mỹ",
+          "fullName": "Xã Thanh Mỹ, Tỉnh Đồng Tháp",
+          "slug": "thanh-my",
+          "postalCode": "30073"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lấp Vò",
+      "slug": "huyen-lap-vo",
+      "wards": [
+        {
+          "code": "30169",
+          "name": "Lấp Vò",
+          "fullName": "Xã Lấp Vò, Tỉnh Đồng Tháp",
+          "slug": "lap-vo",
+          "postalCode": "30169"
+        },
+        {
+          "code": "30178",
+          "name": "Mỹ An Hưng",
+          "fullName": "Xã Mỹ An Hưng, Tỉnh Đồng Tháp",
+          "slug": "my-an-hung",
+          "postalCode": "30178"
+        },
+        {
+          "code": "30184",
+          "name": "Tân Khánh Trung",
+          "fullName": "Xã Tân Khánh Trung, Tỉnh Đồng Tháp",
+          "slug": "tan-khanh-trung",
+          "postalCode": "30184"
+        },
+        {
+          "code": "30226",
+          "name": "Lai Vung",
+          "fullName": "Xã Lai Vung, Tỉnh Đồng Tháp",
+          "slug": "lai-vung",
+          "postalCode": "30226"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lai Vung",
+      "slug": "huyen-lai-vung",
+      "wards": [
+        {
+          "code": "30208",
+          "name": "Hòa Long",
+          "fullName": "Xã Hòa Long, Tỉnh Đồng Tháp",
+          "slug": "hoa-long",
+          "postalCode": "30208"
+        },
+        {
+          "code": "30214",
+          "name": "Tân Dương",
+          "fullName": "Xã Tân Dương, Tỉnh Đồng Tháp",
+          "slug": "tan-duong",
+          "postalCode": "30214"
+        },
+        {
+          "code": "30226",
+          "name": "Lai Vung",
+          "fullName": "Xã Lai Vung, Tỉnh Đồng Tháp",
+          "slug": "lai-vung",
+          "postalCode": "30226"
+        },
+        {
+          "code": "30235",
+          "name": "Phong Hòa",
+          "fullName": "Xã Phong Hòa, Tỉnh Đồng Tháp",
+          "slug": "phong-hoa",
+          "postalCode": "30235"
+        }
+      ]
+    }
+  ]
+}

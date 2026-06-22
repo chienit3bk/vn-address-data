@@ -1,0 +1,1599 @@
+{
+  "code": "12",
+  "name": "Đà Nẵng",
+  "slug": "da-nang",
+  "type": "city",
+  "isCentral": true,
+  "fullName": "Thành phố Đà Nẵng",
+  "wards": [
+    {
+      "code": "00006",
+      "name": "Thanh Khê",
+      "fullName": "Phường Thanh Khê, Thành phố Đà Nẵng",
+      "slug": "thanh-khe",
+      "type": "ward",
+      "postalCode": "20209"
+    },
+    {
+      "code": "00048",
+      "name": "Hải Châu",
+      "fullName": "Phường Hải Châu, Thành phố Đà Nẵng",
+      "slug": "hai-chau",
+      "type": "ward",
+      "postalCode": "20242"
+    },
+    {
+      "code": "00076",
+      "name": "Hòa Cường",
+      "fullName": "Phường Hòa Cường, Thành phố Đà Nẵng",
+      "slug": "hoa-cuong",
+      "type": "ward",
+      "postalCode": "20257"
+    },
+    {
+      "code": "00085",
+      "name": "Ngũ Hành Sơn",
+      "fullName": "Phường Ngũ Hành Sơn, Thành phố Đà Nẵng",
+      "slug": "ngu-hanh-son",
+      "type": "ward",
+      "postalCode": "20285"
+    },
+    {
+      "code": "00090",
+      "name": "Hòa Khánh",
+      "fullName": "Phường Hòa Khánh, Thành phố Đà Nẵng",
+      "slug": "hoa-khanh",
+      "type": "ward",
+      "postalCode": "20200"
+    },
+    {
+      "code": "00135",
+      "name": "An Khê",
+      "fullName": "Phường An Khê, Thành phố Đà Nẵng",
+      "slug": "an-khe",
+      "type": "ward",
+      "postalCode": "20305"
+    },
+    {
+      "code": "00161",
+      "name": "Sơn Trà",
+      "fullName": "Phường Sơn Trà, Thành phố Đà Nẵng",
+      "slug": "son-tra",
+      "type": "ward",
+      "postalCode": "20263"
+    },
+    {
+      "code": "00167",
+      "name": "Hòa Xuân",
+      "fullName": "Phường Hòa Xuân, Thành phố Đà Nẵng",
+      "slug": "hoa-xuan",
+      "type": "ward",
+      "postalCode": "20314"
+    },
+    {
+      "code": "00184",
+      "name": "An Hải",
+      "fullName": "Phường An Hải, Thành phố Đà Nẵng",
+      "slug": "an-hai",
+      "type": "ward",
+      "postalCode": "20275"
+    },
+    {
+      "code": "00199",
+      "name": "Cẩm Lệ",
+      "fullName": "Phường Cẩm Lệ, Thành phố Đà Nẵng",
+      "slug": "cam-le",
+      "type": "ward",
+      "postalCode": "20260"
+    },
+    {
+      "code": "00250",
+      "name": "Điện Bàn Đông",
+      "fullName": "Phường Điện Bàn Đông, Thành phố Đà Nẵng",
+      "slug": "dien-ban-dong",
+      "type": "ward",
+      "postalCode": "20579"
+    },
+    {
+      "code": "00278",
+      "name": "Liên Chiểu",
+      "fullName": "Phường Liên Chiểu, Thành phố Đà Nẵng",
+      "slug": "lien-chieu",
+      "type": "ward",
+      "postalCode": "20197"
+    },
+    {
+      "code": "00290",
+      "name": "Núi Thành",
+      "fullName": "Xã Núi Thành, Thành phố Đà Nẵng",
+      "slug": "nui-thanh",
+      "type": "commune",
+      "postalCode": "20965"
+    },
+    {
+      "code": "00375",
+      "name": "Đại Lộc",
+      "fullName": "Xã Đại Lộc, Thành phố Đà Nẵng",
+      "slug": "dai-loc",
+      "type": "commune",
+      "postalCode": "20500"
+    },
+    {
+      "code": "00475",
+      "name": "Thăng Bình",
+      "fullName": "Xã Thăng Bình, Thành phố Đà Nẵng",
+      "slug": "thang-binh",
+      "type": "commune",
+      "postalCode": "20791"
+    },
+    {
+      "code": "00495",
+      "name": "Nam Phước",
+      "fullName": "Xã Nam Phước, Thành phố Đà Nẵng",
+      "slug": "nam-phuoc",
+      "type": "commune",
+      "postalCode": "20599"
+    },
+    {
+      "code": "00520",
+      "name": "Thăng An",
+      "fullName": "Xã Thăng An, Thành phố Đà Nẵng",
+      "slug": "thang-an",
+      "type": "commune",
+      "postalCode": "20794"
+    },
+    {
+      "code": "00607",
+      "name": "Hải Vân",
+      "fullName": "Phường Hải Vân, Thành phố Đà Nẵng",
+      "slug": "hai-van",
+      "type": "ward",
+      "postalCode": "20194"
+    },
+    {
+      "code": "00740",
+      "name": "Điện Bàn Tây",
+      "fullName": "Xã Điện Bàn Tây, Thành phố Đà Nẵng",
+      "slug": "dien-ban-tay",
+      "type": "commune",
+      "postalCode": "20569"
+    },
+    {
+      "code": "00749",
+      "name": "Tam Kỳ",
+      "fullName": "Phường Tam Kỳ, Thành phố Đà Nẵng",
+      "slug": "tam-ky",
+      "type": "ward",
+      "postalCode": "20341"
+    },
+    {
+      "code": "00790",
+      "name": "Tam Xuân",
+      "fullName": "Xã Tam Xuân, Thành phố Đà Nẵng",
+      "slug": "tam-xuan",
+      "type": "commune",
+      "postalCode": "20971"
+    },
+    {
+      "code": "00809",
+      "name": "Hội An Tây",
+      "fullName": "Phường Hội An Tây, Thành phố Đà Nẵng",
+      "slug": "hoi-an-tay",
+      "type": "ward",
+      "postalCode": "20401"
+    },
+    {
+      "code": "00813",
+      "name": "Thăng Điền",
+      "fullName": "Xã Thăng Điền, Thành phố Đà Nẵng",
+      "slug": "thang-dien",
+      "type": "commune",
+      "postalCode": "20848"
+    },
+    {
+      "code": "00846",
+      "name": "Điện Bàn",
+      "fullName": "Phường Điện Bàn, Thành phố Đà Nẵng",
+      "slug": "dien-ban",
+      "type": "ward",
+      "postalCode": "20551"
+    },
+    {
+      "code": "00964",
+      "name": "Hòa Tiến",
+      "fullName": "Xã Hòa Tiến, Thành phố Đà Nẵng",
+      "slug": "hoa-tien",
+      "type": "commune",
+      "postalCode": "20332"
+    },
+    {
+      "code": "00994",
+      "name": "Hà Nha",
+      "fullName": "Xã Hà Nha, Thành phố Đà Nẵng",
+      "slug": "ha-nha",
+      "type": "commune",
+      "postalCode": "20515"
+    },
+    {
+      "code": "01050",
+      "name": "Hội An",
+      "fullName": "Phường Hội An, Thành phố Đà Nẵng",
+      "slug": "hoi-an",
+      "type": "ward",
+      "postalCode": "20401"
+    },
+    {
+      "code": "01055",
+      "name": "Xuân Phú",
+      "fullName": "Xã Xuân Phú, Thành phố Đà Nẵng",
+      "slug": "xuan-phu",
+      "type": "commune",
+      "postalCode": "20650"
+    },
+    {
+      "code": "01068",
+      "name": "Thu Bồn",
+      "fullName": "Xã Thu Bồn, Thành phố Đà Nẵng",
+      "slug": "thu-bon",
+      "type": "commune",
+      "postalCode": "20611"
+    },
+    {
+      "code": "01076",
+      "name": "Bàn Thạch",
+      "fullName": "Phường Bàn Thạch, Thành phố Đà Nẵng",
+      "slug": "ban-thach",
+      "type": "ward",
+      "postalCode": "20335"
+    },
+    {
+      "code": "01155",
+      "name": "Tây Hồ",
+      "fullName": "Xã Tây Hồ, Thành phố Đà Nẵng",
+      "slug": "tay-ho",
+      "type": "commune",
+      "postalCode": "20380"
+    },
+    {
+      "code": "01220",
+      "name": "An Thắng",
+      "fullName": "Phường An Thắng, Thành phố Đà Nẵng",
+      "slug": "an-thang",
+      "type": "ward",
+      "postalCode": "20575"
+    },
+    {
+      "code": "01229",
+      "name": "Quế Sơn",
+      "fullName": "Xã Quế Sơn, Thành phố Đà Nẵng",
+      "slug": "que-son",
+      "type": "commune",
+      "postalCode": "20641"
+    },
+    {
+      "code": "01258",
+      "name": "Hương Trà",
+      "fullName": "Phường Hương Trà, Thành phố Đà Nẵng",
+      "slug": "huong-tra",
+      "type": "ward",
+      "postalCode": "20350"
+    },
+    {
+      "code": "01279",
+      "name": "Quế Sơn Trung",
+      "fullName": "Xã Quế Sơn Trung, Thành phố Đà Nẵng",
+      "slug": "que-son-trung",
+      "type": "commune",
+      "postalCode": "20662"
+    },
+    {
+      "code": "01355",
+      "name": "Duy Xuyên",
+      "fullName": "Xã Duy Xuyên, Thành phố Đà Nẵng",
+      "slug": "duy-xuyen",
+      "type": "commune",
+      "postalCode": "20623"
+    },
+    {
+      "code": "01362",
+      "name": "Chiên Đàn",
+      "fullName": "Xã Chiên Đàn, Thành phố Đà Nẵng",
+      "slug": "chien-dan",
+      "type": "commune",
+      "postalCode": "20364"
+    },
+    {
+      "code": "01364",
+      "name": "Duy Nghĩa",
+      "fullName": "Xã Duy Nghĩa, Thành phố Đà Nẵng",
+      "slug": "duy-nghia",
+      "type": "commune",
+      "postalCode": "20635"
+    },
+    {
+      "code": "01436",
+      "name": "Hội An Đông",
+      "fullName": "Phường Hội An Đông, Thành phố Đà Nẵng",
+      "slug": "hoi-an-dong",
+      "type": "ward",
+      "postalCode": "20413"
+    },
+    {
+      "code": "01443",
+      "name": "Tam Anh",
+      "fullName": "Xã Tam Anh, Thành phố Đà Nẵng",
+      "slug": "tam-anh",
+      "type": "commune",
+      "postalCode": "20984"
+    },
+    {
+      "code": "01462",
+      "name": "Điện Bàn Bắc",
+      "fullName": "Phường Điện Bàn Bắc, Thành phố Đà Nẵng",
+      "slug": "dien-ban-bac",
+      "type": "ward",
+      "postalCode": "20557"
+    },
+    {
+      "code": "01518",
+      "name": "Gò Nổi",
+      "fullName": "Xã Gò Nổi, Thành phố Đà Nẵng",
+      "slug": "go-noi",
+      "type": "commune",
+      "postalCode": "20587"
+    },
+    {
+      "code": "01562",
+      "name": "Quảng Phú",
+      "fullName": "Phường Quảng Phú, Thành phố Đà Nẵng",
+      "slug": "quang-phu",
+      "type": "ward",
+      "postalCode": "20356"
+    },
+    {
+      "code": "01653",
+      "name": "Tiên Phước",
+      "fullName": "Xã Tiên Phước, Thành phố Đà Nẵng",
+      "slug": "tien-phuoc",
+      "type": "commune",
+      "postalCode": "20854"
+    },
+    {
+      "code": "01693",
+      "name": "Vu Gia",
+      "fullName": "Xã Vu Gia, Thành phố Đà Nẵng",
+      "slug": "vu-gia",
+      "type": "commune",
+      "postalCode": "20539"
+    },
+    {
+      "code": "01699",
+      "name": "Phú Thuận",
+      "fullName": "Xã Phú Thuận, Thành phố Đà Nẵng",
+      "slug": "phu-thuan",
+      "type": "commune",
+      "postalCode": "20542"
+    },
+    {
+      "code": "01750",
+      "name": "Phú Ninh",
+      "fullName": "Xã Phú Ninh, Thành phố Đà Nẵng",
+      "slug": "phu-ninh",
+      "type": "commune",
+      "postalCode": "20392"
+    },
+    {
+      "code": "01769",
+      "name": "Hòa Vang",
+      "fullName": "Xã Hòa Vang, Thành phố Đà Nẵng",
+      "slug": "hoa-vang",
+      "type": "commune",
+      "postalCode": "20320"
+    },
+    {
+      "code": "01807",
+      "name": "Việt An",
+      "fullName": "Xã Việt An, Thành phố Đà Nẵng",
+      "slug": "viet-an",
+      "type": "commune",
+      "postalCode": "20767"
+    },
+    {
+      "code": "01879",
+      "name": "Bà Nà",
+      "fullName": "Xã Bà Nà, Thành phố Đà Nẵng",
+      "slug": "ba-na",
+      "type": "commune",
+      "postalCode": "20308"
+    },
+    {
+      "code": "01913",
+      "name": "Thăng Trường",
+      "fullName": "Xã Thăng Trường, Thành phố Đà Nẵng",
+      "slug": "thang-truong",
+      "type": "commune",
+      "postalCode": "20836"
+    },
+    {
+      "code": "01914",
+      "name": "Thạnh Bình",
+      "fullName": "Xã Thạnh Bình, Thành phố Đà Nẵng",
+      "slug": "thanh-binh",
+      "type": "commune",
+      "postalCode": "20878"
+    },
+    {
+      "code": "01916",
+      "name": "Đồng Dương",
+      "fullName": "Xã Đồng Dương, Thành phố Đà Nẵng",
+      "slug": "dong-duong",
+      "type": "commune",
+      "postalCode": "20818"
+    },
+    {
+      "code": "02106",
+      "name": "Thượng Đức",
+      "fullName": "Xã Thượng Đức, Thành phố Đà Nẵng",
+      "slug": "thuong-duc",
+      "type": "commune",
+      "postalCode": "20506"
+    },
+    {
+      "code": "02201",
+      "name": "Nông Sơn",
+      "fullName": "Xã Nông Sơn, Thành phố Đà Nẵng",
+      "slug": "nong-son",
+      "type": "commune",
+      "postalCode": "20656"
+    },
+    {
+      "code": "02267",
+      "name": "Trà My",
+      "fullName": "Xã Trà My, Thành phố Đà Nẵng",
+      "slug": "tra-my",
+      "type": "commune",
+      "postalCode": "20900"
+    },
+    {
+      "code": "02386",
+      "name": "Tam Mỹ",
+      "fullName": "Xã Tam Mỹ, Thành phố Đà Nẵng",
+      "slug": "tam-my",
+      "type": "commune",
+      "postalCode": "21004"
+    },
+    {
+      "code": "02418",
+      "name": "Sơn Cẩm Hà",
+      "fullName": "Xã Sơn Cẩm Hà, Thành phố Đà Nẵng",
+      "slug": "son-cam-ha",
+      "type": "commune",
+      "postalCode": "20857"
+    },
+    {
+      "code": "02444",
+      "name": "Thăng Phú",
+      "fullName": "Xã Thăng Phú, Thành phố Đà Nẵng",
+      "slug": "thang-phu",
+      "type": "commune",
+      "postalCode": "20827"
+    },
+    {
+      "code": "02595",
+      "name": "Hiệp Đức",
+      "fullName": "Xã Hiệp Đức, Thành phố Đà Nẵng",
+      "slug": "hiep-duc",
+      "type": "commune",
+      "postalCode": "20779"
+    },
+    {
+      "code": "02605",
+      "name": "Lãnh Ngọc",
+      "fullName": "Xã Lãnh Ngọc, Thành phố Đà Nẵng",
+      "slug": "lanh-ngoc",
+      "type": "commune",
+      "postalCode": "20875"
+    },
+    {
+      "code": "02649",
+      "name": "Quế Phước",
+      "fullName": "Xã Quế Phước, Thành phố Đà Nẵng",
+      "slug": "que-phuoc",
+      "type": "commune",
+      "postalCode": "20669"
+    },
+    {
+      "code": "02882",
+      "name": "Trà Đốc",
+      "fullName": "Xã Trà Đốc, Thành phố Đà Nẵng",
+      "slug": "tra-doc",
+      "type": "commune",
+      "postalCode": "20920"
+    },
+    {
+      "code": "02896",
+      "name": "Tam Hải",
+      "fullName": "Xã Tam Hải, Thành phố Đà Nẵng",
+      "slug": "tam-hai",
+      "type": "commune",
+      "postalCode": "20992"
+    },
+    {
+      "code": "02937",
+      "name": "Khâm Đức",
+      "fullName": "Xã Khâm Đức, Thành phố Đà Nẵng",
+      "slug": "kham-duc",
+      "type": "commune",
+      "postalCode": "20722"
+    },
+    {
+      "code": "02977",
+      "name": "Đức Phú",
+      "fullName": "Xã Đức Phú, Thành phố Đà Nẵng",
+      "slug": "duc-phu",
+      "type": "commune",
+      "postalCode": "20977"
+    },
+    {
+      "code": "02991",
+      "name": "Thạnh Mỹ",
+      "fullName": "Xã Thạnh Mỹ, Thành phố Đà Nẵng",
+      "slug": "thanh-my",
+      "type": "commune",
+      "postalCode": "20695"
+    },
+    {
+      "code": "03006",
+      "name": "Đông Giang",
+      "fullName": "Xã Đông Giang, Thành phố Đà Nẵng",
+      "slug": "dong-giang",
+      "type": "commune",
+      "postalCode": "20467"
+    },
+    {
+      "code": "03012",
+      "name": "Sông Kôn",
+      "fullName": "Xã Sông Kôn, Thành phố Đà Nẵng",
+      "slug": "song-kon",
+      "type": "commune",
+      "postalCode": "20476"
+    },
+    {
+      "code": "03020",
+      "name": "Tây Giang",
+      "fullName": "Xã Tây Giang, Thành phố Đà Nẵng",
+      "slug": "tay-giang",
+      "type": "commune",
+      "postalCode": "20455"
+    },
+    {
+      "code": "03032",
+      "name": "Phước Năng",
+      "fullName": "Xã Phước Năng, Thành phố Đà Nẵng",
+      "slug": "phuoc-nang",
+      "type": "commune",
+      "postalCode": "20734"
+    },
+    {
+      "code": "03039",
+      "name": "Trà Tập",
+      "fullName": "Xã Trà Tập, Thành phố Đà Nẵng",
+      "slug": "tra-tap",
+      "type": "commune",
+      "postalCode": "20941"
+    },
+    {
+      "code": "03045",
+      "name": "Bến Giằng",
+      "fullName": "Xã Bến Giằng, Thành phố Đà Nẵng",
+      "slug": "ben-giang",
+      "type": "commune",
+      "postalCode": "20710"
+    },
+    {
+      "code": "03064",
+      "name": "Hùng Sơn",
+      "fullName": "Xã Hùng Sơn, Thành phố Đà Nẵng",
+      "slug": "hung-son",
+      "type": "commune",
+      "postalCode": "20443"
+    },
+    {
+      "code": "03118",
+      "name": "Trà Linh",
+      "fullName": "Xã Trà Linh, Thành phố Đà Nẵng",
+      "slug": "tra-linh",
+      "type": "commune",
+      "postalCode": "20950"
+    },
+    {
+      "code": "03120",
+      "name": "Trà Liên",
+      "fullName": "Xã Trà Liên, Thành phố Đà Nẵng",
+      "slug": "tra-lien",
+      "type": "commune",
+      "postalCode": "20908"
+    },
+    {
+      "code": "03123",
+      "name": "Sông Vàng",
+      "fullName": "Xã Sông Vàng, Thành phố Đà Nẵng",
+      "slug": "song-vang",
+      "type": "commune",
+      "postalCode": "20485"
+    },
+    {
+      "code": "03126",
+      "name": "Phước Trà",
+      "fullName": "Xã Phước Trà, Thành phố Đà Nẵng",
+      "slug": "phuoc-tra",
+      "type": "commune",
+      "postalCode": "20770"
+    },
+    {
+      "code": "03150",
+      "name": "Trà Leng",
+      "fullName": "Xã Trà Leng, Thành phố Đà Nẵng",
+      "slug": "tra-leng",
+      "type": "commune",
+      "postalCode": "20938"
+    },
+    {
+      "code": "03179",
+      "name": "Trà Tân",
+      "fullName": "Xã Trà Tân, Thành phố Đà Nẵng",
+      "slug": "tra-tan",
+      "type": "commune",
+      "postalCode": "20923"
+    },
+    {
+      "code": "03205",
+      "name": "Trà Giáp",
+      "fullName": "Xã Trà Giáp, Thành phố Đà Nẵng",
+      "slug": "tra-giap",
+      "type": "commune",
+      "postalCode": "20929"
+    },
+    {
+      "code": "03239",
+      "name": "Avương",
+      "fullName": "Xã Avương, Thành phố Đà Nẵng",
+      "slug": "avuong",
+      "type": "commune",
+      "postalCode": "20458"
+    },
+    {
+      "code": "03242",
+      "name": "Trà Vân",
+      "fullName": "Xã Trà Vân, Thành phố Đà Nẵng",
+      "slug": "tra-van",
+      "type": "commune",
+      "postalCode": "20959"
+    },
+    {
+      "code": "03260",
+      "name": "Nam Giang",
+      "fullName": "Xã Nam Giang, Thành phố Đà Nẵng",
+      "slug": "nam-giang",
+      "type": "commune",
+      "postalCode": "20707"
+    },
+    {
+      "code": "03264",
+      "name": "Phước Thành",
+      "fullName": "Xã Phước Thành, Thành phố Đà Nẵng",
+      "slug": "phuoc-thanh",
+      "type": "commune",
+      "postalCode": "20752"
+    },
+    {
+      "code": "03267",
+      "name": "Bến Hiên",
+      "fullName": "Xã Bến Hiên, Thành phố Đà Nẵng",
+      "slug": "ben-hien",
+      "type": "commune",
+      "postalCode": "20494"
+    },
+    {
+      "code": "03270",
+      "name": "Phước Hiệp",
+      "fullName": "Xã Phước Hiệp, Thành phố Đà Nẵng",
+      "slug": "phuoc-hiep",
+      "type": "commune",
+      "postalCode": "20728"
+    },
+    {
+      "code": "03274",
+      "name": "Phước Chánh",
+      "fullName": "Xã Phước Chánh, Thành phố Đà Nẵng",
+      "slug": "phuoc-chanh",
+      "type": "commune",
+      "postalCode": "20740"
+    },
+    {
+      "code": "03299",
+      "name": "Đắc Pring",
+      "fullName": "Xã Đắc Pring, Thành phố Đà Nẵng",
+      "slug": "dac-pring",
+      "type": "commune",
+      "postalCode": "20716"
+    },
+    {
+      "code": "03303",
+      "name": "La Dêê",
+      "fullName": "Xã La Dêê, Thành phố Đà Nẵng",
+      "slug": "la-dee",
+      "type": "commune",
+      "postalCode": "20704"
+    },
+    {
+      "code": "03306",
+      "name": "Tân Hiệp",
+      "fullName": "Xã Tân Hiệp, Thành phố Đà Nẵng",
+      "slug": "tan-hiep",
+      "type": "commune",
+      "postalCode": "20434"
+    },
+    {
+      "code": "03308",
+      "name": "La Êê",
+      "fullName": "Xã La Êê, Thành phố Đà Nẵng",
+      "slug": "la-ee",
+      "type": "commune",
+      "postalCode": "20698"
+    },
+    {
+      "code": "03320",
+      "name": "Hoàng Sa",
+      "fullName": "Đặc khu Hoàng Sa, Thành phố Đà Nẵng",
+      "slug": "hoang-sa",
+      "type": "commune",
+      "postalCode": "20333"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Quận Liên Chiểu",
+      "slug": "quan-lien-chieu",
+      "wards": [
+        {
+          "code": "20194",
+          "name": "Hải Vân",
+          "fullName": "Phường Hải Vân, Tỉnh Đà Nẵng",
+          "slug": "hai-van",
+          "postalCode": "20194"
+        },
+        {
+          "code": "20197",
+          "name": "Liên Chiểu",
+          "fullName": "Phường Liên Chiểu, Tỉnh Đà Nẵng",
+          "slug": "lien-chieu",
+          "postalCode": "20197"
+        },
+        {
+          "code": "20200",
+          "name": "Hòa Khánh",
+          "fullName": "Phường Hòa Khánh, Tỉnh Đà Nẵng",
+          "slug": "hoa-khanh",
+          "postalCode": "20200"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hòa Vang",
+      "slug": "huyen-hoa-vang",
+      "wards": [
+        {
+          "code": "20194",
+          "name": "Hải Vân",
+          "fullName": "Phường Hải Vân, Tỉnh Đà Nẵng",
+          "slug": "hai-van",
+          "postalCode": "20194"
+        },
+        {
+          "code": "20197",
+          "name": "Liên Chiểu",
+          "fullName": "Phường Liên Chiểu, Tỉnh Đà Nẵng",
+          "slug": "lien-chieu",
+          "postalCode": "20197"
+        },
+        {
+          "code": "20200",
+          "name": "Hòa Khánh",
+          "fullName": "Phường Hòa Khánh, Tỉnh Đà Nẵng",
+          "slug": "hoa-khanh",
+          "postalCode": "20200"
+        },
+        {
+          "code": "20308",
+          "name": "Bà Nà",
+          "fullName": "Xã Bà Nà, Tỉnh Đà Nẵng",
+          "slug": "ba-na",
+          "postalCode": "20308"
+        },
+        {
+          "code": "20314",
+          "name": "Hòa Xuân",
+          "fullName": "Phường Hòa Xuân, Tỉnh Đà Nẵng",
+          "slug": "hoa-xuan",
+          "postalCode": "20314"
+        },
+        {
+          "code": "20320",
+          "name": "Hòa Vang",
+          "fullName": "Xã Hòa Vang, Tỉnh Đà Nẵng",
+          "slug": "hoa-vang",
+          "postalCode": "20320"
+        },
+        {
+          "code": "20332",
+          "name": "Hòa Tiến",
+          "fullName": "Xã Hòa Tiến, Tỉnh Đà Nẵng",
+          "slug": "hoa-tien",
+          "postalCode": "20332"
+        }
+      ]
+    },
+    {
+      "name": "Quận Thanh Khê",
+      "slug": "quan-thanh-khe",
+      "wards": [
+        {
+          "code": "20209",
+          "name": "Thanh Khê",
+          "fullName": "Phường Thanh Khê, Tỉnh Đà Nẵng",
+          "slug": "thanh-khe",
+          "postalCode": "20209"
+        },
+        {
+          "code": "20305",
+          "name": "An Khê",
+          "fullName": "Phường An Khê, Tỉnh Đà Nẵng",
+          "slug": "an-khe",
+          "postalCode": "20305"
+        }
+      ]
+    },
+    {
+      "name": "Quận Hải Châu",
+      "slug": "quan-hai-chau",
+      "wards": [
+        {
+          "code": "20242",
+          "name": "Hải Châu",
+          "fullName": "Phường Hải Châu, Tỉnh Đà Nẵng",
+          "slug": "hai-chau",
+          "postalCode": "20242"
+        },
+        {
+          "code": "20257",
+          "name": "Hòa Cường",
+          "fullName": "Phường Hòa Cường, Tỉnh Đà Nẵng",
+          "slug": "hoa-cuong",
+          "postalCode": "20257"
+        }
+      ]
+    },
+    {
+      "name": "Quận Cẩm Lệ",
+      "slug": "quan-cam-le",
+      "wards": [
+        {
+          "code": "20260",
+          "name": "Cẩm Lệ",
+          "fullName": "Phường Cẩm Lệ, Tỉnh Đà Nẵng",
+          "slug": "cam-le",
+          "postalCode": "20260"
+        },
+        {
+          "code": "20305",
+          "name": "An Khê",
+          "fullName": "Phường An Khê, Tỉnh Đà Nẵng",
+          "slug": "an-khe",
+          "postalCode": "20305"
+        },
+        {
+          "code": "20314",
+          "name": "Hòa Xuân",
+          "fullName": "Phường Hòa Xuân, Tỉnh Đà Nẵng",
+          "slug": "hoa-xuan",
+          "postalCode": "20314"
+        }
+      ]
+    },
+    {
+      "name": "Quận Sơn Trà",
+      "slug": "quan-son-tra",
+      "wards": [
+        {
+          "code": "20263",
+          "name": "Sơn Trà",
+          "fullName": "Phường Sơn Trà, Tỉnh Đà Nẵng",
+          "slug": "son-tra",
+          "postalCode": "20263"
+        },
+        {
+          "code": "20275",
+          "name": "An Hải",
+          "fullName": "Phường An Hải, Tỉnh Đà Nẵng",
+          "slug": "an-hai",
+          "postalCode": "20275"
+        }
+      ]
+    },
+    {
+      "name": "Quận Ngũ Hành Sơn",
+      "slug": "quan-ngu-hanh-son",
+      "wards": [
+        {
+          "code": "20285",
+          "name": "Ngũ Hành Sơn",
+          "fullName": "Phường Ngũ Hành Sơn, Tỉnh Đà Nẵng",
+          "slug": "ngu-hanh-son",
+          "postalCode": "20285"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Tam Kỳ",
+      "slug": "thanh-pho-tam-ky",
+      "wards": [
+        {
+          "code": "20335",
+          "name": "Bàn Thạch",
+          "fullName": "Phường Bàn Thạch, Tỉnh Đà Nẵng",
+          "slug": "ban-thach",
+          "postalCode": "20335"
+        },
+        {
+          "code": "20341",
+          "name": "Tam Kỳ",
+          "fullName": "Phường Tam Kỳ, Tỉnh Đà Nẵng",
+          "slug": "tam-ky",
+          "postalCode": "20341"
+        },
+        {
+          "code": "20350",
+          "name": "Hương Trà",
+          "fullName": "Phường Hương Trà, Tỉnh Đà Nẵng",
+          "slug": "huong-tra",
+          "postalCode": "20350"
+        },
+        {
+          "code": "20356",
+          "name": "Quảng Phú",
+          "fullName": "Phường Quảng Phú, Tỉnh Đà Nẵng",
+          "slug": "quang-phu",
+          "postalCode": "20356"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Hội An",
+      "slug": "thanh-pho-hoi-an",
+      "wards": [
+        {
+          "code": "20401",
+          "name": "Hội An Tây",
+          "fullName": "Phường Hội An Tây, Tỉnh Đà Nẵng",
+          "slug": "hoi-an-tay",
+          "postalCode": "20401"
+        },
+        {
+          "code": "20410",
+          "name": "Hội An",
+          "fullName": "Phường Hội An, Tỉnh Đà Nẵng",
+          "slug": "hoi-an",
+          "postalCode": "20410"
+        },
+        {
+          "code": "20413",
+          "name": "Hội An Đông",
+          "fullName": "Phường Hội An Đông, Tỉnh Đà Nẵng",
+          "slug": "hoi-an-dong",
+          "postalCode": "20413"
+        },
+        {
+          "code": "20434",
+          "name": "Tân Hiệp",
+          "fullName": "Xã Tân Hiệp, Tỉnh Đà Nẵng",
+          "slug": "tan-hiep",
+          "postalCode": "20434"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Điện Bàn",
+      "slug": "thi-xa-dien-ban",
+      "wards": [
+        {
+          "code": "20551",
+          "name": "Điện Bàn",
+          "fullName": "Phường Điện Bàn, Tỉnh Đà Nẵng",
+          "slug": "dien-ban",
+          "postalCode": "20551"
+        },
+        {
+          "code": "20557",
+          "name": "Điện Bàn Bắc",
+          "fullName": "Phường Điện Bàn Bắc, Tỉnh Đà Nẵng",
+          "slug": "dien-ban-bac",
+          "postalCode": "20557"
+        },
+        {
+          "code": "20569",
+          "name": "Điện Bàn Tây",
+          "fullName": "Xã Điện Bàn Tây, Tỉnh Đà Nẵng",
+          "slug": "dien-ban-tay",
+          "postalCode": "20569"
+        },
+        {
+          "code": "20575",
+          "name": "An Thắng",
+          "fullName": "Phường An Thắng, Tỉnh Đà Nẵng",
+          "slug": "an-thang",
+          "postalCode": "20575"
+        },
+        {
+          "code": "20579",
+          "name": "Điện Bàn Đông",
+          "fullName": "Phường Điện Bàn Đông, Tỉnh Đà Nẵng",
+          "slug": "dien-ban-dong",
+          "postalCode": "20579"
+        },
+        {
+          "code": "20587",
+          "name": "Gò Nổi",
+          "fullName": "Xã Gò Nổi, Tỉnh Đà Nẵng",
+          "slug": "go-noi",
+          "postalCode": "20587"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Ninh",
+      "slug": "huyen-phu-ninh",
+      "wards": [
+        {
+          "code": "20364",
+          "name": "Chiên Đàn",
+          "fullName": "Xã Chiên Đàn, Tỉnh Đà Nẵng",
+          "slug": "chien-dan",
+          "postalCode": "20364"
+        },
+        {
+          "code": "20380",
+          "name": "Tây Hồ",
+          "fullName": "Xã Tây Hồ, Tỉnh Đà Nẵng",
+          "slug": "tay-ho",
+          "postalCode": "20380"
+        },
+        {
+          "code": "20392",
+          "name": "Phú Ninh",
+          "fullName": "Xã Phú Ninh, Tỉnh Đà Nẵng",
+          "slug": "phu-ninh",
+          "postalCode": "20392"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tây Giang",
+      "slug": "huyen-tay-giang",
+      "wards": [
+        {
+          "code": "20443",
+          "name": "Hùng Sơn",
+          "fullName": "Xã Hùng Sơn, Tỉnh Đà Nẵng",
+          "slug": "hung-son",
+          "postalCode": "20443"
+        },
+        {
+          "code": "20455",
+          "name": "Tây Giang",
+          "fullName": "Xã Tây Giang, Tỉnh Đà Nẵng",
+          "slug": "tay-giang",
+          "postalCode": "20455"
+        },
+        {
+          "code": "20458",
+          "name": "Avương",
+          "fullName": "Xã Avương, Tỉnh Đà Nẵng",
+          "slug": "avuong",
+          "postalCode": "20458"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đông Giang",
+      "slug": "huyen-dong-giang",
+      "wards": [
+        {
+          "code": "20467",
+          "name": "Đông Giang",
+          "fullName": "Xã Đông Giang, Tỉnh Đà Nẵng",
+          "slug": "dong-giang",
+          "postalCode": "20467"
+        },
+        {
+          "code": "20476",
+          "name": "Sông Kôn",
+          "fullName": "Xã Sông Kôn, Tỉnh Đà Nẵng",
+          "slug": "song-kon",
+          "postalCode": "20476"
+        },
+        {
+          "code": "20485",
+          "name": "Sông Vàng",
+          "fullName": "Xã Sông Vàng, Tỉnh Đà Nẵng",
+          "slug": "song-vang",
+          "postalCode": "20485"
+        },
+        {
+          "code": "20494",
+          "name": "Bến Hiên",
+          "fullName": "Xã Bến Hiên, Tỉnh Đà Nẵng",
+          "slug": "ben-hien",
+          "postalCode": "20494"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đại Lộc",
+      "slug": "huyen-dai-loc",
+      "wards": [
+        {
+          "code": "20500",
+          "name": "Đại Lộc",
+          "fullName": "Xã Đại Lộc, Tỉnh Đà Nẵng",
+          "slug": "dai-loc",
+          "postalCode": "20500"
+        },
+        {
+          "code": "20506",
+          "name": "Thượng Đức",
+          "fullName": "Xã Thượng Đức, Tỉnh Đà Nẵng",
+          "slug": "thuong-duc",
+          "postalCode": "20506"
+        },
+        {
+          "code": "20515",
+          "name": "Hà Nha",
+          "fullName": "Xã Hà Nha, Tỉnh Đà Nẵng",
+          "slug": "ha-nha",
+          "postalCode": "20515"
+        },
+        {
+          "code": "20539",
+          "name": "Vu Gia",
+          "fullName": "Xã Vu Gia, Tỉnh Đà Nẵng",
+          "slug": "vu-gia",
+          "postalCode": "20539"
+        },
+        {
+          "code": "20542",
+          "name": "Phú Thuận",
+          "fullName": "Xã Phú Thuận, Tỉnh Đà Nẵng",
+          "slug": "phu-thuan",
+          "postalCode": "20542"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Duy Xuyên",
+      "slug": "huyen-duy-xuyen",
+      "wards": [
+        {
+          "code": "20599",
+          "name": "Nam Phước",
+          "fullName": "Xã Nam Phước, Tỉnh Đà Nẵng",
+          "slug": "nam-phuoc",
+          "postalCode": "20599"
+        },
+        {
+          "code": "20611",
+          "name": "Thu Bồn",
+          "fullName": "Xã Thu Bồn, Tỉnh Đà Nẵng",
+          "slug": "thu-bon",
+          "postalCode": "20611"
+        },
+        {
+          "code": "20623",
+          "name": "Duy Xuyên",
+          "fullName": "Xã Duy Xuyên, Tỉnh Đà Nẵng",
+          "slug": "duy-xuyen",
+          "postalCode": "20623"
+        },
+        {
+          "code": "20635",
+          "name": "Duy Nghĩa",
+          "fullName": "Xã Duy Nghĩa, Tỉnh Đà Nẵng",
+          "slug": "duy-nghia",
+          "postalCode": "20635"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Quế Sơn",
+      "slug": "huyen-que-son",
+      "wards": [
+        {
+          "code": "20641",
+          "name": "Quế Sơn",
+          "fullName": "Xã Quế Sơn, Tỉnh Đà Nẵng",
+          "slug": "que-son",
+          "postalCode": "20641"
+        },
+        {
+          "code": "20650",
+          "name": "Xuân Phú",
+          "fullName": "Xã Xuân Phú, Tỉnh Đà Nẵng",
+          "slug": "xuan-phu",
+          "postalCode": "20650"
+        },
+        {
+          "code": "20656",
+          "name": "Nông Sơn",
+          "fullName": "Xã Nông Sơn, Tỉnh Đà Nẵng",
+          "slug": "nong-son",
+          "postalCode": "20656"
+        },
+        {
+          "code": "20662",
+          "name": "Quế Sơn Trung",
+          "fullName": "Xã Quế Sơn Trung, Tỉnh Đà Nẵng",
+          "slug": "que-son-trung",
+          "postalCode": "20662"
+        },
+        {
+          "code": "20669",
+          "name": "Quế Phước",
+          "fullName": "Xã Quế Phước, Tỉnh Đà Nẵng",
+          "slug": "que-phuoc",
+          "postalCode": "20669"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nam Giang",
+      "slug": "huyen-nam-giang",
+      "wards": [
+        {
+          "code": "20695",
+          "name": "Thạnh Mỹ",
+          "fullName": "Xã Thạnh Mỹ, Tỉnh Đà Nẵng",
+          "slug": "thanh-my",
+          "postalCode": "20695"
+        },
+        {
+          "code": "20698",
+          "name": "La Êê",
+          "fullName": "Xã La Êê, Tỉnh Đà Nẵng",
+          "slug": "la-ee",
+          "postalCode": "20698"
+        },
+        {
+          "code": "20704",
+          "name": "La Dêê",
+          "fullName": "Xã La Dêê, Tỉnh Đà Nẵng",
+          "slug": "la-dee",
+          "postalCode": "20704"
+        },
+        {
+          "code": "20707",
+          "name": "Nam Giang",
+          "fullName": "Xã Nam Giang, Tỉnh Đà Nẵng",
+          "slug": "nam-giang",
+          "postalCode": "20707"
+        },
+        {
+          "code": "20710",
+          "name": "Bến Giằng",
+          "fullName": "Xã Bến Giằng, Tỉnh Đà Nẵng",
+          "slug": "ben-giang",
+          "postalCode": "20710"
+        },
+        {
+          "code": "20716",
+          "name": "Đắc Pring",
+          "fullName": "Xã Đắc Pring, Tỉnh Đà Nẵng",
+          "slug": "dac-pring",
+          "postalCode": "20716"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phước Sơn",
+      "slug": "huyen-phuoc-son",
+      "wards": [
+        {
+          "code": "20722",
+          "name": "Khâm Đức",
+          "fullName": "Xã Khâm Đức, Tỉnh Đà Nẵng",
+          "slug": "kham-duc",
+          "postalCode": "20722"
+        },
+        {
+          "code": "20728",
+          "name": "Phước Hiệp",
+          "fullName": "Xã Phước Hiệp, Tỉnh Đà Nẵng",
+          "slug": "phuoc-hiep",
+          "postalCode": "20728"
+        },
+        {
+          "code": "20734",
+          "name": "Phước Năng",
+          "fullName": "Xã Phước Năng, Tỉnh Đà Nẵng",
+          "slug": "phuoc-nang",
+          "postalCode": "20734"
+        },
+        {
+          "code": "20740",
+          "name": "Phước Chánh",
+          "fullName": "Xã Phước Chánh, Tỉnh Đà Nẵng",
+          "slug": "phuoc-chanh",
+          "postalCode": "20740"
+        },
+        {
+          "code": "20752",
+          "name": "Phước Thành",
+          "fullName": "Xã Phước Thành, Tỉnh Đà Nẵng",
+          "slug": "phuoc-thanh",
+          "postalCode": "20752"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hiệp Đức",
+      "slug": "huyen-hiep-duc",
+      "wards": [
+        {
+          "code": "20767",
+          "name": "Việt An",
+          "fullName": "Xã Việt An, Tỉnh Đà Nẵng",
+          "slug": "viet-an",
+          "postalCode": "20767"
+        },
+        {
+          "code": "20770",
+          "name": "Phước Trà",
+          "fullName": "Xã Phước Trà, Tỉnh Đà Nẵng",
+          "slug": "phuoc-tra",
+          "postalCode": "20770"
+        },
+        {
+          "code": "20779",
+          "name": "Hiệp Đức",
+          "fullName": "Xã Hiệp Đức, Tỉnh Đà Nẵng",
+          "slug": "hiep-duc",
+          "postalCode": "20779"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thăng Bình",
+      "slug": "huyen-thang-binh",
+      "wards": [
+        {
+          "code": "20791",
+          "name": "Thăng Bình",
+          "fullName": "Xã Thăng Bình, Tỉnh Đà Nẵng",
+          "slug": "thang-binh",
+          "postalCode": "20791"
+        },
+        {
+          "code": "20794",
+          "name": "Thăng An",
+          "fullName": "Xã Thăng An, Tỉnh Đà Nẵng",
+          "slug": "thang-an",
+          "postalCode": "20794"
+        },
+        {
+          "code": "20818",
+          "name": "Đồng Dương",
+          "fullName": "Xã Đồng Dương, Tỉnh Đà Nẵng",
+          "slug": "dong-duong",
+          "postalCode": "20818"
+        },
+        {
+          "code": "20827",
+          "name": "Thăng Phú",
+          "fullName": "Xã Thăng Phú, Tỉnh Đà Nẵng",
+          "slug": "thang-phu",
+          "postalCode": "20827"
+        },
+        {
+          "code": "20836",
+          "name": "Thăng Trường",
+          "fullName": "Xã Thăng Trường, Tỉnh Đà Nẵng",
+          "slug": "thang-truong",
+          "postalCode": "20836"
+        },
+        {
+          "code": "20848",
+          "name": "Thăng Điền",
+          "fullName": "Xã Thăng Điền, Tỉnh Đà Nẵng",
+          "slug": "thang-dien",
+          "postalCode": "20848"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tiên Phước",
+      "slug": "huyen-tien-phuoc",
+      "wards": [
+        {
+          "code": "20854",
+          "name": "Tiên Phước",
+          "fullName": "Xã Tiên Phước, Tỉnh Đà Nẵng",
+          "slug": "tien-phuoc",
+          "postalCode": "20854"
+        },
+        {
+          "code": "20857",
+          "name": "Sơn Cẩm Hà",
+          "fullName": "Xã Sơn Cẩm Hà, Tỉnh Đà Nẵng",
+          "slug": "son-cam-ha",
+          "postalCode": "20857"
+        },
+        {
+          "code": "20875",
+          "name": "Lãnh Ngọc",
+          "fullName": "Xã Lãnh Ngọc, Tỉnh Đà Nẵng",
+          "slug": "lanh-ngoc",
+          "postalCode": "20875"
+        },
+        {
+          "code": "20878",
+          "name": "Thạnh Bình",
+          "fullName": "Xã Thạnh Bình, Tỉnh Đà Nẵng",
+          "slug": "thanh-binh",
+          "postalCode": "20878"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bắc Trà My",
+      "slug": "huyen-bac-tra-my",
+      "wards": [
+        {
+          "code": "20900",
+          "name": "Trà My",
+          "fullName": "Xã Trà My, Tỉnh Đà Nẵng",
+          "slug": "tra-my",
+          "postalCode": "20900"
+        },
+        {
+          "code": "20908",
+          "name": "Trà Liên",
+          "fullName": "Xã Trà Liên, Tỉnh Đà Nẵng",
+          "slug": "tra-lien",
+          "postalCode": "20908"
+        },
+        {
+          "code": "20920",
+          "name": "Trà Đốc",
+          "fullName": "Xã Trà Đốc, Tỉnh Đà Nẵng",
+          "slug": "tra-doc",
+          "postalCode": "20920"
+        },
+        {
+          "code": "20923",
+          "name": "Trà Tân",
+          "fullName": "Xã Trà Tân, Tỉnh Đà Nẵng",
+          "slug": "tra-tan",
+          "postalCode": "20923"
+        },
+        {
+          "code": "20929",
+          "name": "Trà Giáp",
+          "fullName": "Xã Trà Giáp, Tỉnh Đà Nẵng",
+          "slug": "tra-giap",
+          "postalCode": "20929"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nam Trà My",
+      "slug": "huyen-nam-tra-my",
+      "wards": [
+        {
+          "code": "20938",
+          "name": "Trà Leng",
+          "fullName": "Xã Trà Leng, Tỉnh Đà Nẵng",
+          "slug": "tra-leng",
+          "postalCode": "20938"
+        },
+        {
+          "code": "20941",
+          "name": "Trà Tập",
+          "fullName": "Xã Trà Tập, Tỉnh Đà Nẵng",
+          "slug": "tra-tap",
+          "postalCode": "20941"
+        },
+        {
+          "code": "20944",
+          "name": "Nam Trà My",
+          "fullName": "Xã Nam Trà My, Tỉnh Đà Nẵng",
+          "slug": "nam-tra-my",
+          "postalCode": "20944"
+        },
+        {
+          "code": "20950",
+          "name": "Trà Linh",
+          "fullName": "Xã Trà Linh, Tỉnh Đà Nẵng",
+          "slug": "tra-linh",
+          "postalCode": "20950"
+        },
+        {
+          "code": "20959",
+          "name": "Trà Vân",
+          "fullName": "Xã Trà Vân, Tỉnh Đà Nẵng",
+          "slug": "tra-van",
+          "postalCode": "20959"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Núi Thành",
+      "slug": "huyen-nui-thanh",
+      "wards": [
+        {
+          "code": "20965",
+          "name": "Núi Thành",
+          "fullName": "Xã Núi Thành, Tỉnh Đà Nẵng",
+          "slug": "nui-thanh",
+          "postalCode": "20965"
+        },
+        {
+          "code": "20971",
+          "name": "Tam Xuân",
+          "fullName": "Xã Tam Xuân, Tỉnh Đà Nẵng",
+          "slug": "tam-xuan",
+          "postalCode": "20971"
+        },
+        {
+          "code": "20977",
+          "name": "Đức Phú",
+          "fullName": "Xã Đức Phú, Tỉnh Đà Nẵng",
+          "slug": "duc-phu",
+          "postalCode": "20977"
+        },
+        {
+          "code": "20984",
+          "name": "Tam Anh",
+          "fullName": "Xã Tam Anh, Tỉnh Đà Nẵng",
+          "slug": "tam-anh",
+          "postalCode": "20984"
+        },
+        {
+          "code": "20992",
+          "name": "Tam Hải",
+          "fullName": "Xã Tam Hải, Tỉnh Đà Nẵng",
+          "slug": "tam-hai",
+          "postalCode": "20992"
+        },
+        {
+          "code": "21004",
+          "name": "Tam Mỹ",
+          "fullName": "Xã Tam Mỹ, Tỉnh Đà Nẵng",
+          "slug": "tam-my",
+          "postalCode": "21004"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hoàng Sa",
+      "slug": "huyen-hoang-sa",
+      "wards": [
+        {
+          "code": "20333",
+          "name": "Đặc khu Hoàng Sa",
+          "fullName": "Đặc khu Hoàng Sa, Tỉnh Đà Nẵng",
+          "slug": "dac-khu-hoang-sa",
+          "postalCode": "20333"
+        }
+      ]
+    }
+  ]
+}

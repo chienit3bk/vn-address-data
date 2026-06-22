@@ -1,0 +1,968 @@
+{
+  "code": "25",
+  "name": "Cao Bằng",
+  "slug": "cao-bang",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Cao Bằng",
+  "wards": [
+    {
+      "code": "00851",
+      "name": "Thục Phán",
+      "fullName": "Phường Thục Phán, Tỉnh Cao Bằng",
+      "slug": "thuc-phan",
+      "type": "ward",
+      "postalCode": "01273"
+    },
+    {
+      "code": "02241",
+      "name": "Hòa An",
+      "fullName": "Xã Hòa An, Tỉnh Cao Bằng",
+      "slug": "hoa-an",
+      "type": "commune",
+      "postalCode": "01654"
+    },
+    {
+      "code": "02291",
+      "name": "Nùng Trí Cao",
+      "fullName": "Phường Nùng Trí Cao, Tỉnh Cao Bằng",
+      "slug": "nung-tri-cao",
+      "type": "ward",
+      "postalCode": "01279"
+    },
+    {
+      "code": "02378",
+      "name": "Tân Giang",
+      "fullName": "Phường Tân Giang, Tỉnh Cao Bằng",
+      "slug": "tan-giang",
+      "type": "ward",
+      "postalCode": "01288"
+    },
+    {
+      "code": "02403",
+      "name": "Trùng Khánh",
+      "fullName": "Xã Trùng Khánh, Tỉnh Cao Bằng",
+      "slug": "trung-khanh",
+      "type": "commune",
+      "postalCode": "01477"
+    },
+    {
+      "code": "02481",
+      "name": "Quảng Uyên",
+      "fullName": "Xã Quảng Uyên, Tỉnh Cao Bằng",
+      "slug": "quang-uyen",
+      "type": "commune",
+      "postalCode": "01576"
+    },
+    {
+      "code": "02505",
+      "name": "Nam Tuấn",
+      "fullName": "Xã Nam Tuấn, Tỉnh Cao Bằng",
+      "slug": "nam-tuan",
+      "type": "commune",
+      "postalCode": "01660"
+    },
+    {
+      "code": "02579",
+      "name": "Quảng Lâm",
+      "fullName": "Xã Quảng Lâm, Tỉnh Cao Bằng",
+      "slug": "quang-lam",
+      "type": "commune",
+      "postalCode": "01304"
+    },
+    {
+      "code": "02589",
+      "name": "Hạnh Phúc",
+      "fullName": "Xã Hạnh Phúc, Tỉnh Cao Bằng",
+      "slug": "hanh-phuc",
+      "type": "commune",
+      "postalCode": "01618"
+    },
+    {
+      "code": "02635",
+      "name": "Phục Hòa",
+      "fullName": "Xã Phục Hòa, Tỉnh Cao Bằng",
+      "slug": "phuc-hoa",
+      "type": "commune",
+      "postalCode": "01648"
+    },
+    {
+      "code": "02645",
+      "name": "Bảo Lâm",
+      "fullName": "Xã Bảo Lâm, Tỉnh Cao Bằng",
+      "slug": "bao-lam",
+      "type": "commune",
+      "postalCode": "01290"
+    },
+    {
+      "code": "02720",
+      "name": "Yên Thổ",
+      "fullName": "Xã Yên Thổ, Tỉnh Cao Bằng",
+      "slug": "yen-tho",
+      "type": "commune",
+      "postalCode": "01318"
+    },
+    {
+      "code": "02725",
+      "name": "Trường Hà",
+      "fullName": "Xã Trường Hà, Tỉnh Cao Bằng",
+      "slug": "truong-ha",
+      "type": "commune",
+      "postalCode": "01392"
+    },
+    {
+      "code": "02740",
+      "name": "Đoài Dương",
+      "fullName": "Xã Đoài Dương, Tỉnh Cao Bằng",
+      "slug": "doai-duong",
+      "type": "commune",
+      "postalCode": "01525"
+    },
+    {
+      "code": "02757",
+      "name": "Đàm Thuỷ",
+      "fullName": "Xã Đàm Thuỷ, Tỉnh Cao Bằng",
+      "slug": "dam-thuy",
+      "type": "commune",
+      "postalCode": "01501"
+    },
+    {
+      "code": "02786",
+      "name": "Lý Bôn",
+      "fullName": "Xã Lý Bôn, Tỉnh Cao Bằng",
+      "slug": "ly-bon",
+      "type": "commune",
+      "postalCode": "01294"
+    },
+    {
+      "code": "02842",
+      "name": "Hà Quảng",
+      "fullName": "Xã Hà Quảng, Tỉnh Cao Bằng",
+      "slug": "ha-quang",
+      "type": "commune",
+      "postalCode": "01438"
+    },
+    {
+      "code": "02850",
+      "name": "Bảo Lạc",
+      "fullName": "Xã Bảo Lạc, Tỉnh Cao Bằng",
+      "slug": "bao-lac",
+      "type": "commune",
+      "postalCode": "01321"
+    },
+    {
+      "code": "02857",
+      "name": "Trà Lĩnh",
+      "fullName": "Xã Trà Lĩnh, Tỉnh Cao Bằng",
+      "slug": "tra-linh",
+      "type": "commune",
+      "postalCode": "01447"
+    },
+    {
+      "code": "02863",
+      "name": "Đình Phong",
+      "fullName": "Xã Đình Phong, Tỉnh Cao Bằng",
+      "slug": "dinh-phong",
+      "type": "commune",
+      "postalCode": "01489"
+    },
+    {
+      "code": "02891",
+      "name": "Cần Yên",
+      "fullName": "Xã Cần Yên, Tỉnh Cao Bằng",
+      "slug": "can-yen",
+      "type": "commune",
+      "postalCode": "01366"
+    },
+    {
+      "code": "02902",
+      "name": "Bế Văn Đàn",
+      "fullName": "Xã Bế Văn Đàn, Tỉnh Cao Bằng",
+      "slug": "be-van-dan",
+      "type": "commune",
+      "postalCode": "01636"
+    },
+    {
+      "code": "02905",
+      "name": "Nam Quang",
+      "fullName": "Xã Nam Quang, Tỉnh Cao Bằng",
+      "slug": "nam-quang",
+      "type": "commune",
+      "postalCode": "01297"
+    },
+    {
+      "code": "02907",
+      "name": "Cốc Pàng",
+      "fullName": "Xã Cốc Pàng, Tỉnh Cao Bằng",
+      "slug": "coc-pang",
+      "type": "commune",
+      "postalCode": "01324"
+    },
+    {
+      "code": "02959",
+      "name": "Thông Nông",
+      "fullName": "Xã Thông Nông, Tỉnh Cao Bằng",
+      "slug": "thong-nong",
+      "type": "commune",
+      "postalCode": "01363"
+    },
+    {
+      "code": "02965",
+      "name": "Hưng Đạo",
+      "fullName": "Xã Hưng Đạo, Tỉnh Cao Bằng",
+      "slug": "hung-dao",
+      "type": "commune",
+      "postalCode": "01351"
+    },
+    {
+      "code": "02968",
+      "name": "Nguyễn Huệ",
+      "fullName": "Xã Nguyễn Huệ, Tỉnh Cao Bằng",
+      "slug": "nguyen-hue",
+      "type": "commune",
+      "postalCode": "01699"
+    },
+    {
+      "code": "02976",
+      "name": "Nguyên Bình",
+      "fullName": "Xã Nguyên Bình, Tỉnh Cao Bằng",
+      "slug": "nguyen-binh",
+      "type": "commune",
+      "postalCode": "01726"
+    },
+    {
+      "code": "02989",
+      "name": "Đông Khê",
+      "fullName": "Xã Đông Khê, Tỉnh Cao Bằng",
+      "slug": "dong-khe",
+      "type": "commune",
+      "postalCode": "01786"
+    },
+    {
+      "code": "03036",
+      "name": "Độc Lập",
+      "fullName": "Xã Độc Lập, Tỉnh Cao Bằng",
+      "slug": "doc-lap",
+      "type": "commune",
+      "postalCode": "01594"
+    },
+    {
+      "code": "03038",
+      "name": "Cô Ba",
+      "fullName": "Xã Cô Ba, Tỉnh Cao Bằng",
+      "slug": "co-ba",
+      "type": "commune",
+      "postalCode": "01327"
+    },
+    {
+      "code": "03054",
+      "name": "Minh Tâm",
+      "fullName": "Xã Minh Tâm, Tỉnh Cao Bằng",
+      "slug": "minh-tam",
+      "type": "commune",
+      "postalCode": "01747"
+    },
+    {
+      "code": "03057",
+      "name": "Hạ Lang",
+      "fullName": "Xã Hạ Lang, Tỉnh Cao Bằng",
+      "slug": "ha-lang",
+      "type": "commune",
+      "postalCode": "01558"
+    },
+    {
+      "code": "03081",
+      "name": "Thạch An",
+      "fullName": "Xã Thạch An, Tỉnh Cao Bằng",
+      "slug": "thach-an",
+      "type": "commune",
+      "postalCode": "01807"
+    },
+    {
+      "code": "03097",
+      "name": "Huy Giáp",
+      "fullName": "Xã Huy Giáp, Tỉnh Cao Bằng",
+      "slug": "huy-giap",
+      "type": "commune",
+      "postalCode": "01354"
+    },
+    {
+      "code": "03109",
+      "name": "Lũng Nặm",
+      "fullName": "Xã Lũng Nặm, Tỉnh Cao Bằng",
+      "slug": "lung-nam",
+      "type": "commune",
+      "postalCode": "01393"
+    },
+    {
+      "code": "03128",
+      "name": "Vinh Quý",
+      "fullName": "Xã Vinh Quý, Tỉnh Cao Bằng",
+      "slug": "vinh-quy",
+      "type": "commune",
+      "postalCode": "01561"
+    },
+    {
+      "code": "03129",
+      "name": "Quang Hán",
+      "fullName": "Xã Quang Hán, Tỉnh Cao Bằng",
+      "slug": "quang-han",
+      "type": "commune",
+      "postalCode": "01456"
+    },
+    {
+      "code": "03132",
+      "name": "Tổng Cọt",
+      "fullName": "Xã Tổng Cọt, Tỉnh Cao Bằng",
+      "slug": "tong-cot",
+      "type": "commune",
+      "postalCode": "01414"
+    },
+    {
+      "code": "03146",
+      "name": "Phan Thanh",
+      "fullName": "Xã Phan Thanh, Tỉnh Cao Bằng",
+      "slug": "phan-thanh",
+      "type": "commune",
+      "postalCode": "01768"
+    },
+    {
+      "code": "03154",
+      "name": "Khánh Xuân",
+      "fullName": "Xã Khánh Xuân, Tỉnh Cao Bằng",
+      "slug": "khanh-xuan",
+      "type": "commune",
+      "postalCode": "01336"
+    },
+    {
+      "code": "03159",
+      "name": "Thanh Long",
+      "fullName": "Xã Thanh Long, Tỉnh Cao Bằng",
+      "slug": "thanh-long",
+      "type": "commune",
+      "postalCode": "01387"
+    },
+    {
+      "code": "03192",
+      "name": "Kim Đồng",
+      "fullName": "Xã Kim Đồng, Tỉnh Cao Bằng",
+      "slug": "kim-dong",
+      "type": "commune",
+      "postalCode": "01792"
+    },
+    {
+      "code": "03199",
+      "name": "Quang Trung",
+      "fullName": "Xã Quang Trung, Tỉnh Cao Bằng",
+      "slug": "quang-trung",
+      "type": "commune",
+      "postalCode": "01465"
+    },
+    {
+      "code": "03200",
+      "name": "Lý Quốc",
+      "fullName": "Xã Lý Quốc, Tỉnh Cao Bằng",
+      "slug": "ly-quoc",
+      "type": "commune",
+      "postalCode": "01537"
+    },
+    {
+      "code": "03211",
+      "name": "Tam Kim",
+      "fullName": "Xã Tam Kim, Tỉnh Cao Bằng",
+      "slug": "tam-kim",
+      "type": "commune",
+      "postalCode": "01774"
+    },
+    {
+      "code": "03214",
+      "name": "Tĩnh Túc",
+      "fullName": "Xã Tĩnh Túc, Tỉnh Cao Bằng",
+      "slug": "tinh-tuc",
+      "type": "commune",
+      "postalCode": "01729"
+    },
+    {
+      "code": "03217",
+      "name": "Quang Long",
+      "fullName": "Xã Quang Long, Tỉnh Cao Bằng",
+      "slug": "quang-long",
+      "type": "commune",
+      "postalCode": "01552"
+    },
+    {
+      "code": "03227",
+      "name": "Xuân Trường",
+      "fullName": "Xã Xuân Trường, Tỉnh Cao Bằng",
+      "slug": "xuan-truong",
+      "type": "commune",
+      "postalCode": "01339"
+    },
+    {
+      "code": "03233",
+      "name": "Sơn Lộ",
+      "fullName": "Xã Sơn Lộ, Tỉnh Cao Bằng",
+      "slug": "son-lo",
+      "type": "commune",
+      "postalCode": "01360"
+    },
+    {
+      "code": "03246",
+      "name": "Đức Long",
+      "fullName": "Xã Đức Long, Tỉnh Cao Bằng",
+      "slug": "duc-long",
+      "type": "commune",
+      "postalCode": "01822"
+    },
+    {
+      "code": "03253",
+      "name": "Thành Công",
+      "fullName": "Xã Thành Công, Tỉnh Cao Bằng",
+      "slug": "thanh-cong",
+      "type": "commune",
+      "postalCode": "01777"
+    },
+    {
+      "code": "03261",
+      "name": "Bạch Đằng",
+      "fullName": "Xã Bạch Đằng, Tỉnh Cao Bằng",
+      "slug": "bach-dang",
+      "type": "commune",
+      "postalCode": "01708"
+    },
+    {
+      "code": "03263",
+      "name": "Ca Thành",
+      "fullName": "Xã Ca Thành, Tỉnh Cao Bằng",
+      "slug": "ca-thanh",
+      "type": "commune",
+      "postalCode": "01738"
+    },
+    {
+      "code": "03272",
+      "name": "Canh Tân",
+      "fullName": "Xã Canh Tân, Tỉnh Cao Bằng",
+      "slug": "canh-tan",
+      "type": "commune",
+      "postalCode": "01789"
+    },
+    {
+      "code": "03275",
+      "name": "Minh Khai",
+      "fullName": "Xã Minh Khai, Tỉnh Cao Bằng",
+      "slug": "minh-khai",
+      "type": "commune",
+      "postalCode": "01795"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Cao Bằng",
+      "slug": "thanh-pho-cao-bang",
+      "wards": [
+        {
+          "code": "01273",
+          "name": "Thục Phán",
+          "fullName": "Phường Thục Phán, Tỉnh Cao Bằng",
+          "slug": "thuc-phan",
+          "postalCode": "01273"
+        },
+        {
+          "code": "01279",
+          "name": "Nùng Trí Cao",
+          "fullName": "Phường Nùng Trí Cao, Tỉnh Cao Bằng",
+          "slug": "nung-tri-cao",
+          "postalCode": "01279"
+        },
+        {
+          "code": "01288",
+          "name": "Tân Giang",
+          "fullName": "Phường Tân Giang, Tỉnh Cao Bằng",
+          "slug": "tan-giang",
+          "postalCode": "01288"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hoà An",
+      "slug": "huyen-hoa-an",
+      "wards": [
+        {
+          "code": "01273",
+          "name": "Thục Phán",
+          "fullName": "Phường Thục Phán, Tỉnh Cao Bằng",
+          "slug": "thuc-phan",
+          "postalCode": "01273"
+        },
+        {
+          "code": "01288",
+          "name": "Tân Giang",
+          "fullName": "Phường Tân Giang, Tỉnh Cao Bằng",
+          "slug": "tan-giang",
+          "postalCode": "01288"
+        },
+        {
+          "code": "01654",
+          "name": "Hòa An",
+          "fullName": "Xã Hòa An, Tỉnh Cao Bằng",
+          "slug": "hoa-an",
+          "postalCode": "01654"
+        },
+        {
+          "code": "01660",
+          "name": "Nam Tuấn",
+          "fullName": "Xã Nam Tuấn, Tỉnh Cao Bằng",
+          "slug": "nam-tuan",
+          "postalCode": "01660"
+        },
+        {
+          "code": "01699",
+          "name": "Nguyễn Huệ",
+          "fullName": "Xã Nguyễn Huệ, Tỉnh Cao Bằng",
+          "slug": "nguyen-hue",
+          "postalCode": "01699"
+        },
+        {
+          "code": "01708",
+          "name": "Bạch Đằng",
+          "fullName": "Xã Bạch Đằng, Tỉnh Cao Bằng",
+          "slug": "bach-dang",
+          "postalCode": "01708"
+        },
+        {
+          "code": "01747",
+          "name": "Minh Tâm",
+          "fullName": "Xã Minh Tâm, Tỉnh Cao Bằng",
+          "slug": "minh-tam",
+          "postalCode": "01747"
+        },
+        {
+          "code": "01792",
+          "name": "Kim Đồng",
+          "fullName": "Xã Kim Đồng, Tỉnh Cao Bằng",
+          "slug": "kim-dong",
+          "postalCode": "01792"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bảo Lâm",
+      "slug": "huyen-bao-lam",
+      "wards": [
+        {
+          "code": "01290",
+          "name": "Bảo Lâm",
+          "fullName": "Xã Bảo Lâm, Tỉnh Cao Bằng",
+          "slug": "bao-lam",
+          "postalCode": "01290"
+        },
+        {
+          "code": "01294",
+          "name": "Lý Bôn",
+          "fullName": "Xã Lý Bôn, Tỉnh Cao Bằng",
+          "slug": "ly-bon",
+          "postalCode": "01294"
+        },
+        {
+          "code": "01297",
+          "name": "Nam Quang",
+          "fullName": "Xã Nam Quang, Tỉnh Cao Bằng",
+          "slug": "nam-quang",
+          "postalCode": "01297"
+        },
+        {
+          "code": "01304",
+          "name": "Quảng Lâm",
+          "fullName": "Xã Quảng Lâm, Tỉnh Cao Bằng",
+          "slug": "quang-lam",
+          "postalCode": "01304"
+        },
+        {
+          "code": "01318",
+          "name": "Yên Thổ",
+          "fullName": "Xã Yên Thổ, Tỉnh Cao Bằng",
+          "slug": "yen-tho",
+          "postalCode": "01318"
+        },
+        {
+          "code": "01324",
+          "name": "Cốc Pàng",
+          "fullName": "Xã Cốc Pàng, Tỉnh Cao Bằng",
+          "slug": "coc-pang",
+          "postalCode": "01324"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bảo Lạc",
+      "slug": "huyen-bao-lac",
+      "wards": [
+        {
+          "code": "01321",
+          "name": "Bảo Lạc",
+          "fullName": "Xã Bảo Lạc, Tỉnh Cao Bằng",
+          "slug": "bao-lac",
+          "postalCode": "01321"
+        },
+        {
+          "code": "01324",
+          "name": "Cốc Pàng",
+          "fullName": "Xã Cốc Pàng, Tỉnh Cao Bằng",
+          "slug": "coc-pang",
+          "postalCode": "01324"
+        },
+        {
+          "code": "01327",
+          "name": "Cô Ba",
+          "fullName": "Xã Cô Ba, Tỉnh Cao Bằng",
+          "slug": "co-ba",
+          "postalCode": "01327"
+        },
+        {
+          "code": "01336",
+          "name": "Khánh Xuân",
+          "fullName": "Xã Khánh Xuân, Tỉnh Cao Bằng",
+          "slug": "khanh-xuan",
+          "postalCode": "01336"
+        },
+        {
+          "code": "01339",
+          "name": "Xuân Trường",
+          "fullName": "Xã Xuân Trường, Tỉnh Cao Bằng",
+          "slug": "xuan-truong",
+          "postalCode": "01339"
+        },
+        {
+          "code": "01351",
+          "name": "Hưng Đạo",
+          "fullName": "Xã Hưng Đạo, Tỉnh Cao Bằng",
+          "slug": "hung-dao",
+          "postalCode": "01351"
+        },
+        {
+          "code": "01354",
+          "name": "Huy Giáp",
+          "fullName": "Xã Huy Giáp, Tỉnh Cao Bằng",
+          "slug": "huy-giap",
+          "postalCode": "01354"
+        },
+        {
+          "code": "01360",
+          "name": "Sơn Lộ",
+          "fullName": "Xã Sơn Lộ, Tỉnh Cao Bằng",
+          "slug": "son-lo",
+          "postalCode": "01360"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hà Quảng",
+      "slug": "huyen-ha-quang",
+      "wards": [
+        {
+          "code": "01363",
+          "name": "Thông Nông",
+          "fullName": "Xã Thông Nông, Tỉnh Cao Bằng",
+          "slug": "thong-nong",
+          "postalCode": "01363"
+        },
+        {
+          "code": "01366",
+          "name": "Cần Yên",
+          "fullName": "Xã Cần Yên, Tỉnh Cao Bằng",
+          "slug": "can-yen",
+          "postalCode": "01366"
+        },
+        {
+          "code": "01387",
+          "name": "Thanh Long",
+          "fullName": "Xã Thanh Long, Tỉnh Cao Bằng",
+          "slug": "thanh-long",
+          "postalCode": "01387"
+        },
+        {
+          "code": "01392",
+          "name": "Trường Hà",
+          "fullName": "Xã Trường Hà, Tỉnh Cao Bằng",
+          "slug": "truong-ha",
+          "postalCode": "01392"
+        },
+        {
+          "code": "01393",
+          "name": "Lũng Nặm",
+          "fullName": "Xã Lũng Nặm, Tỉnh Cao Bằng",
+          "slug": "lung-nam",
+          "postalCode": "01393"
+        },
+        {
+          "code": "01414",
+          "name": "Tổng Cọt",
+          "fullName": "Xã Tổng Cọt, Tỉnh Cao Bằng",
+          "slug": "tong-cot",
+          "postalCode": "01414"
+        },
+        {
+          "code": "01438",
+          "name": "Hà Quảng",
+          "fullName": "Xã Hà Quảng, Tỉnh Cao Bằng",
+          "slug": "ha-quang",
+          "postalCode": "01438"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trùng Khánh",
+      "slug": "huyen-trung-khanh",
+      "wards": [
+        {
+          "code": "01447",
+          "name": "Trà Lĩnh",
+          "fullName": "Xã Trà Lĩnh, Tỉnh Cao Bằng",
+          "slug": "tra-linh",
+          "postalCode": "01447"
+        },
+        {
+          "code": "01456",
+          "name": "Quang Hán",
+          "fullName": "Xã Quang Hán, Tỉnh Cao Bằng",
+          "slug": "quang-han",
+          "postalCode": "01456"
+        },
+        {
+          "code": "01465",
+          "name": "Quang Trung",
+          "fullName": "Xã Quang Trung, Tỉnh Cao Bằng",
+          "slug": "quang-trung",
+          "postalCode": "01465"
+        },
+        {
+          "code": "01477",
+          "name": "Trùng Khánh",
+          "fullName": "Xã Trùng Khánh, Tỉnh Cao Bằng",
+          "slug": "trung-khanh",
+          "postalCode": "01477"
+        },
+        {
+          "code": "01489",
+          "name": "Đình Phong",
+          "fullName": "Xã Đình Phong, Tỉnh Cao Bằng",
+          "slug": "dinh-phong",
+          "postalCode": "01489"
+        },
+        {
+          "code": "01501",
+          "name": "Đàm Thủy",
+          "fullName": "Xã Đàm Thủy, Tỉnh Cao Bằng",
+          "slug": "dam-thuy",
+          "postalCode": "01501"
+        },
+        {
+          "code": "01525",
+          "name": "Đoài Dương",
+          "fullName": "Xã Đoài Dương, Tỉnh Cao Bằng",
+          "slug": "doai-duong",
+          "postalCode": "01525"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Quảng Hòa",
+      "slug": "huyen-quang-hoa",
+      "wards": [
+        {
+          "code": "01447",
+          "name": "Trà Lĩnh",
+          "fullName": "Xã Trà Lĩnh, Tỉnh Cao Bằng",
+          "slug": "tra-linh",
+          "postalCode": "01447"
+        },
+        {
+          "code": "01576",
+          "name": "Quảng Uyên",
+          "fullName": "Xã Quảng Uyên, Tỉnh Cao Bằng",
+          "slug": "quang-uyen",
+          "postalCode": "01576"
+        },
+        {
+          "code": "01594",
+          "name": "Độc Lập",
+          "fullName": "Xã Độc Lập, Tỉnh Cao Bằng",
+          "slug": "doc-lap",
+          "postalCode": "01594"
+        },
+        {
+          "code": "01618",
+          "name": "Hạnh Phúc",
+          "fullName": "Xã Hạnh Phúc, Tỉnh Cao Bằng",
+          "slug": "hanh-phuc",
+          "postalCode": "01618"
+        },
+        {
+          "code": "01636",
+          "name": "Bế Văn Đàn",
+          "fullName": "Xã Bế Văn Đàn, Tỉnh Cao Bằng",
+          "slug": "be-van-dan",
+          "postalCode": "01636"
+        },
+        {
+          "code": "01648",
+          "name": "Phục Hòa",
+          "fullName": "Xã Phục Hòa, Tỉnh Cao Bằng",
+          "slug": "phuc-hoa",
+          "postalCode": "01648"
+        },
+        {
+          "code": "01807",
+          "name": "Thạch An",
+          "fullName": "Xã Thạch An, Tỉnh Cao Bằng",
+          "slug": "thach-an",
+          "postalCode": "01807"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hạ Lang",
+      "slug": "huyen-ha-lang",
+      "wards": [
+        {
+          "code": "01537",
+          "name": "Lý Quốc",
+          "fullName": "Xã Lý Quốc, Tỉnh Cao Bằng",
+          "slug": "ly-quoc",
+          "postalCode": "01537"
+        },
+        {
+          "code": "01552",
+          "name": "Quang Long",
+          "fullName": "Xã Quang Long, Tỉnh Cao Bằng",
+          "slug": "quang-long",
+          "postalCode": "01552"
+        },
+        {
+          "code": "1558",
+          "name": "Hạ Lang",
+          "fullName": "Xã Hạ Lang, Tỉnh Cao Bằng",
+          "slug": "ha-lang",
+          "postalCode": "1558"
+        },
+        {
+          "code": "1561",
+          "name": "Vinh Quý",
+          "fullName": "Xã Vinh Quý, Tỉnh Cao Bằng",
+          "slug": "vinh-quy",
+          "postalCode": "1561"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nguyên Bình",
+      "slug": "huyen-nguyen-binh",
+      "wards": [
+        {
+          "code": "01708",
+          "name": "Bạch Đằng",
+          "fullName": "Xã Bạch Đằng, Tỉnh Cao Bằng",
+          "slug": "bach-dang",
+          "postalCode": "01708"
+        },
+        {
+          "code": "01726",
+          "name": "Nguyên Bình",
+          "fullName": "Xã Nguyên Bình, Tỉnh Cao Bằng",
+          "slug": "nguyen-binh",
+          "postalCode": "01726"
+        },
+        {
+          "code": "01729",
+          "name": "Tĩnh Túc",
+          "fullName": "Xã Tĩnh Túc, Tỉnh Cao Bằng",
+          "slug": "tinh-tuc",
+          "postalCode": "01729"
+        },
+        {
+          "code": "01738",
+          "name": "Ca Thành",
+          "fullName": "Xã Ca Thành, Tỉnh Cao Bằng",
+          "slug": "ca-thanh",
+          "postalCode": "01738"
+        },
+        {
+          "code": "01747",
+          "name": "Minh Tâm",
+          "fullName": "Xã Minh Tâm, Tỉnh Cao Bằng",
+          "slug": "minh-tam",
+          "postalCode": "01747"
+        },
+        {
+          "code": "01768",
+          "name": "Phan Thanh",
+          "fullName": "Xã Phan Thanh, Tỉnh Cao Bằng",
+          "slug": "phan-thanh",
+          "postalCode": "01768"
+        },
+        {
+          "code": "01774",
+          "name": "Tam Kim",
+          "fullName": "Xã Tam Kim, Tỉnh Cao Bằng",
+          "slug": "tam-kim",
+          "postalCode": "01774"
+        },
+        {
+          "code": "01777",
+          "name": "Thành Công",
+          "fullName": "Xã Thành Công, Tỉnh Cao Bằng",
+          "slug": "thanh-cong",
+          "postalCode": "01777"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thạch An",
+      "slug": "huyen-thach-an",
+      "wards": [
+        {
+          "code": "01786",
+          "name": "Đông Khê",
+          "fullName": "Xã Đông Khê, Tỉnh Cao Bằng",
+          "slug": "dong-khe",
+          "postalCode": "01786"
+        },
+        {
+          "code": "01789",
+          "name": "Canh Tân",
+          "fullName": "Xã Canh Tân, Tỉnh Cao Bằng",
+          "slug": "canh-tan",
+          "postalCode": "01789"
+        },
+        {
+          "code": "01792",
+          "name": "Kim Đồng",
+          "fullName": "Xã Kim Đồng, Tỉnh Cao Bằng",
+          "slug": "kim-dong",
+          "postalCode": "01792"
+        },
+        {
+          "code": "01795",
+          "name": "Minh Khai",
+          "fullName": "Xã Minh Khai, Tỉnh Cao Bằng",
+          "slug": "minh-khai",
+          "postalCode": "01795"
+        },
+        {
+          "code": "01807",
+          "name": "Thạch An",
+          "fullName": "Xã Thạch An, Tỉnh Cao Bằng",
+          "slug": "thach-an",
+          "postalCode": "01807"
+        },
+        {
+          "code": "01822",
+          "name": "Đức Long",
+          "fullName": "Xã Đức Long, Tỉnh Cao Bằng",
+          "slug": "duc-long",
+          "postalCode": "01822"
+        }
+      ]
+    }
+  ]
+}

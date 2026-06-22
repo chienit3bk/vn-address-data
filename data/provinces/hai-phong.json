@@ -1,0 +1,2038 @@
+{
+  "code": "05",
+  "name": "Hải Phòng",
+  "slug": "hai-phong",
+  "type": "city",
+  "isCentral": true,
+  "fullName": "Thành phố Hải Phòng",
+  "wards": [
+    {
+      "code": "00026",
+      "name": "Lê Chân",
+      "fullName": "Phường Lê Chân, Thành phố Hải Phòng",
+      "slug": "le-chan",
+      "type": "ward",
+      "postalCode": "11383"
+    },
+    {
+      "code": "00084",
+      "name": "An Biên",
+      "fullName": "Phường An Biên, Thành phố Hải Phòng",
+      "slug": "an-bien",
+      "type": "ward",
+      "postalCode": "11407"
+    },
+    {
+      "code": "00089",
+      "name": "Hồng Bàng",
+      "fullName": "Phường Hồng Bàng, Thành phố Hải Phòng",
+      "slug": "hong-bang",
+      "type": "ward",
+      "postalCode": "11311"
+    },
+    {
+      "code": "00113",
+      "name": "Hải An",
+      "fullName": "Phường Hải An, Thành phố Hải Phòng",
+      "slug": "hai-an",
+      "type": "ward",
+      "postalCode": "11413"
+    },
+    {
+      "code": "00115",
+      "name": "Gia Viên",
+      "fullName": "Phường Gia Viên, Thành phố Hải Phòng",
+      "slug": "gia-vien",
+      "type": "ward",
+      "postalCode": "11359"
+    },
+    {
+      "code": "00154",
+      "name": "Ngô Quyền",
+      "fullName": "Phường Ngô Quyền, Thành phố Hải Phòng",
+      "slug": "ngo-quyen",
+      "type": "ward",
+      "postalCode": "11329"
+    },
+    {
+      "code": "00186",
+      "name": "Lê Thanh Nghị",
+      "fullName": "Phường Lê Thanh Nghị, Thành phố Hải Phòng",
+      "slug": "le-thanh-nghi",
+      "type": "ward",
+      "postalCode": "10532"
+    },
+    {
+      "code": "00212",
+      "name": "An Hải",
+      "fullName": "Phường An Hải, Thành phố Hải Phòng",
+      "slug": "an-hai",
+      "type": "ward",
+      "postalCode": "11617"
+    },
+    {
+      "code": "00217",
+      "name": "An Dương",
+      "fullName": "Phường An Dương, Thành phố Hải Phòng",
+      "slug": "an-duong",
+      "type": "ward",
+      "postalCode": "11581"
+    },
+    {
+      "code": "00258",
+      "name": "Thuỷ Nguyên",
+      "fullName": "Phường Thuỷ Nguyên, Thành phố Hải Phòng",
+      "slug": "thuy-nguyen",
+      "type": "ward",
+      "postalCode": "11560"
+    },
+    {
+      "code": "00271",
+      "name": "Cát Hải",
+      "fullName": "Đặc khu Cát Hải, Thành phố Hải Phòng",
+      "slug": "cat-hai",
+      "type": "commune",
+      "postalCode": "11914"
+    },
+    {
+      "code": "00312",
+      "name": "Kiến An",
+      "fullName": "Phường Kiến An, Thành phố Hải Phòng",
+      "slug": "kien-an",
+      "type": "ward",
+      "postalCode": "11443"
+    },
+    {
+      "code": "00327",
+      "name": "Hồng An",
+      "fullName": "Phường Hồng An, Thành phố Hải Phòng",
+      "slug": "hong-an",
+      "type": "ward",
+      "postalCode": "11602"
+    },
+    {
+      "code": "00386",
+      "name": "Phù Liễn",
+      "fullName": "Phường Phù Liễn, Thành phố Hải Phòng",
+      "slug": "phu-lien",
+      "type": "ward",
+      "postalCode": "11446"
+    },
+    {
+      "code": "00447",
+      "name": "Chu Văn An",
+      "fullName": "Phường Chu Văn An, Thành phố Hải Phòng",
+      "slug": "chu-van-an",
+      "type": "ward",
+      "postalCode": "10549"
+    },
+    {
+      "code": "00525",
+      "name": "Lê Ích Mộc",
+      "fullName": "Phường Lê Ích Mộc, Thành phố Hải Phòng",
+      "slug": "le-ich-moc",
+      "type": "ward",
+      "postalCode": "11506"
+    },
+    {
+      "code": "00532",
+      "name": "Bạch Đằng",
+      "fullName": "Phường Bạch Đằng, Thành phố Hải Phòng",
+      "slug": "bach-dang",
+      "type": "ward",
+      "postalCode": "11473"
+    },
+    {
+      "code": "00534",
+      "name": "Hải Dương",
+      "fullName": "Phường Hải Dương, Thành phố Hải Phòng",
+      "slug": "hai-duong",
+      "type": "ward",
+      "postalCode": "10525"
+    },
+    {
+      "code": "00556",
+      "name": "Đông Hải",
+      "fullName": "Phường Đông Hải, Thành phố Hải Phòng",
+      "slug": "dong-hai",
+      "type": "ward",
+      "postalCode": "11411"
+    },
+    {
+      "code": "00571",
+      "name": "Thành Đông",
+      "fullName": "Phường Thành Đông, Thành phố Hải Phòng",
+      "slug": "thanh-dong",
+      "type": "ward",
+      "postalCode": "10507"
+    },
+    {
+      "code": "00596",
+      "name": "Lưu Kiếm",
+      "fullName": "Phường Lưu Kiếm, Thành phố Hải Phòng",
+      "slug": "luu-kiem",
+      "type": "ward",
+      "postalCode": "11488"
+    },
+    {
+      "code": "00648",
+      "name": "An Lão",
+      "fullName": "Xã An Lão, Thành phố Hải Phòng",
+      "slug": "an-lao",
+      "type": "commune",
+      "postalCode": "11629"
+    },
+    {
+      "code": "00651",
+      "name": "Hoà Bình",
+      "fullName": "Phường Hoà Bình, Thành phố Hải Phòng",
+      "slug": "hoa-binh",
+      "type": "ward",
+      "postalCode": "11533"
+    },
+    {
+      "code": "00669",
+      "name": "Gia Lộc",
+      "fullName": "Xã Gia Lộc, Thành phố Hải Phòng",
+      "slug": "gia-loc",
+      "type": "commune",
+      "postalCode": "10999"
+    },
+    {
+      "code": "00683",
+      "name": "Phú Thái",
+      "fullName": "Xã Phú Thái, Thành phố Hải Phòng",
+      "slug": "phu-thai",
+      "type": "commune",
+      "postalCode": "10750"
+    },
+    {
+      "code": "00708",
+      "name": "Thanh Miện",
+      "fullName": "Xã Thanh Miện, Thành phố Hải Phòng",
+      "slug": "thanh-mien",
+      "type": "commune",
+      "postalCode": "11239"
+    },
+    {
+      "code": "00710",
+      "name": "Vĩnh Bảo",
+      "fullName": "Xã Vĩnh Bảo, Thành phố Hải Phòng",
+      "slug": "vinh-bao",
+      "type": "commune",
+      "postalCode": "11824"
+    },
+    {
+      "code": "00716",
+      "name": "Thiên Hương",
+      "fullName": "Phường Thiên Hương, Thành phố Hải Phòng",
+      "slug": "thien-huong",
+      "type": "ward",
+      "postalCode": "11557"
+    },
+    {
+      "code": "00721",
+      "name": "Kiến Hải",
+      "fullName": "Xã Kiến Hải, Thành phố Hải Phòng",
+      "slug": "kien-hai",
+      "type": "commune",
+      "postalCode": "11749"
+    },
+    {
+      "code": "00731",
+      "name": "An Phong",
+      "fullName": "Phường An Phong, Thành phố Hải Phòng",
+      "slug": "an-phong",
+      "type": "ward",
+      "postalCode": "11593"
+    },
+    {
+      "code": "00759",
+      "name": "Nhị Chiểu",
+      "fullName": "Phường Nhị Chiểu, Thành phố Hải Phòng",
+      "slug": "nhi-chieu",
+      "type": "ward",
+      "postalCode": "10714"
+    },
+    {
+      "code": "00778",
+      "name": "Mao Điền",
+      "fullName": "Xã Mao Điền, Thành phố Hải Phòng",
+      "slug": "mao-dien",
+      "type": "commune",
+      "postalCode": "10930"
+    },
+    {
+      "code": "00786",
+      "name": "Kim Thành",
+      "fullName": "Xã Kim Thành, Thành phố Hải Phòng",
+      "slug": "kim-thanh",
+      "type": "commune",
+      "postalCode": "10804"
+    },
+    {
+      "code": "00788",
+      "name": "Lai Khê",
+      "fullName": "Xã Lai Khê, Thành phố Hải Phòng",
+      "slug": "lai-khe",
+      "type": "commune",
+      "postalCode": "10756"
+    },
+    {
+      "code": "00874",
+      "name": "Gia Phúc",
+      "fullName": "Xã Gia Phúc, Thành phố Hải Phòng",
+      "slug": "gia-phuc",
+      "type": "commune",
+      "postalCode": "11050"
+    },
+    {
+      "code": "00882",
+      "name": "Tiên Lãng",
+      "fullName": "Xã Tiên Lãng, Thành phố Hải Phòng",
+      "slug": "tien-lang",
+      "type": "commune",
+      "postalCode": "11755"
+    },
+    {
+      "code": "00893",
+      "name": "Nam Triệu",
+      "fullName": "Phường Nam Triệu, Thành phố Hải Phòng",
+      "slug": "nam-trieu",
+      "type": "ward",
+      "postalCode": "11542"
+    },
+    {
+      "code": "00928",
+      "name": "Kẻ Sặt",
+      "fullName": "Xã Kẻ Sặt, Thành phố Hải Phòng",
+      "slug": "ke-sat",
+      "type": "commune",
+      "postalCode": "10945"
+    },
+    {
+      "code": "00930",
+      "name": "Ninh Giang",
+      "fullName": "Xã Ninh Giang, Thành phố Hải Phòng",
+      "slug": "ninh-giang",
+      "type": "commune",
+      "postalCode": "11203"
+    },
+    {
+      "code": "00956",
+      "name": "Vĩnh Lại",
+      "fullName": "Xã Vĩnh Lại, Thành phố Hải Phòng",
+      "slug": "vinh-lai",
+      "type": "commune",
+      "postalCode": "11164"
+    },
+    {
+      "code": "00967",
+      "name": "Tân Hưng",
+      "fullName": "Phường Tân Hưng, Thành phố Hải Phòng",
+      "slug": "tan-hung",
+      "type": "ward",
+      "postalCode": "10537"
+    },
+    {
+      "code": "00996",
+      "name": "Tân Kỳ",
+      "fullName": "Xã Tân Kỳ, Thành phố Hải Phòng",
+      "slug": "tan-ky",
+      "type": "commune",
+      "postalCode": "11113"
+    },
+    {
+      "code": "01006",
+      "name": "Kiến Thụy",
+      "fullName": "Xã Kiến Thụy, Thành phố Hải Phòng",
+      "slug": "kien-thuy",
+      "type": "commune",
+      "postalCode": "11680"
+    },
+    {
+      "code": "01009",
+      "name": "Việt Khê",
+      "fullName": "Xã Việt Khê, Thành phố Hải Phòng",
+      "slug": "viet-khe",
+      "type": "commune",
+      "postalCode": "11503"
+    },
+    {
+      "code": "01014",
+      "name": "Hưng Đạo",
+      "fullName": "Phường Hưng Đạo, Thành phố Hải Phòng",
+      "slug": "hung-dao",
+      "type": "ward",
+      "postalCode": "10570"
+    },
+    {
+      "code": "01018",
+      "name": "Tứ Kỳ",
+      "fullName": "Xã Tứ Kỳ, Thành phố Hải Phòng",
+      "slug": "tu-ky",
+      "type": "commune",
+      "postalCode": "11074"
+    },
+    {
+      "code": "01028",
+      "name": "Vĩnh Hải",
+      "fullName": "Xã Vĩnh Hải, Thành phố Hải Phòng",
+      "slug": "vinh-hai",
+      "type": "commune",
+      "postalCode": "11875"
+    },
+    {
+      "code": "01080",
+      "name": "Nam Sách",
+      "fullName": "Xã Nam Sách, Thành phố Hải Phòng",
+      "slug": "nam-sach",
+      "type": "commune",
+      "postalCode": "10606"
+    },
+    {
+      "code": "01084",
+      "name": "Tân Minh",
+      "fullName": "Xã Tân Minh, Thành phố Hải Phòng",
+      "slug": "tan-minh",
+      "type": "commune",
+      "postalCode": "11779"
+    },
+    {
+      "code": "01088",
+      "name": "Đồ Sơn",
+      "fullName": "Phường Đồ Sơn, Thành phố Hải Phòng",
+      "slug": "do-son",
+      "type": "ward",
+      "postalCode": "11455"
+    },
+    {
+      "code": "01091",
+      "name": "Hà Bắc",
+      "fullName": "Xã Hà Bắc, Thành phố Hải Phòng",
+      "slug": "ha-bac",
+      "type": "commune",
+      "postalCode": "10816"
+    },
+    {
+      "code": "01100",
+      "name": "Tiên Minh",
+      "fullName": "Xã Tiên Minh, Thành phố Hải Phòng",
+      "slug": "tien-minh",
+      "type": "commune",
+      "postalCode": "11791"
+    },
+    {
+      "code": "01109",
+      "name": "Thanh Hà",
+      "fullName": "Xã Thanh Hà, Thành phố Hải Phòng",
+      "slug": "thanh-ha",
+      "type": "commune",
+      "postalCode": "10813"
+    },
+    {
+      "code": "01124",
+      "name": "Trần Phú",
+      "fullName": "Xã Trần Phú, Thành phố Hải Phòng",
+      "slug": "tran-phu",
+      "type": "commune",
+      "postalCode": "10633"
+    },
+    {
+      "code": "01125",
+      "name": "Trần Hưng Đạo",
+      "fullName": "Phường Trần Hưng Đạo, Thành phố Hải Phòng",
+      "slug": "tran-hung-dao",
+      "type": "ward",
+      "postalCode": "10570"
+    },
+    {
+      "code": "01179",
+      "name": "An Phú",
+      "fullName": "Xã An Phú, Thành phố Hải Phòng",
+      "slug": "an-phu",
+      "type": "commune",
+      "postalCode": "10678"
+    },
+    {
+      "code": "01202",
+      "name": "Vĩnh Am",
+      "fullName": "Xã Vĩnh Am, Thành phố Hải Phòng",
+      "slug": "vinh-am",
+      "type": "commune",
+      "postalCode": "11887"
+    },
+    {
+      "code": "01203",
+      "name": "Cẩm Giang",
+      "fullName": "Xã Cẩm Giang, Thành phố Hải Phòng",
+      "slug": "cam-giang",
+      "type": "commune",
+      "postalCode": "10888"
+    },
+    {
+      "code": "01207",
+      "name": "Thạch Khôi",
+      "fullName": "Phường Thạch Khôi, Thành phố Hải Phòng",
+      "slug": "thach-khoi",
+      "type": "ward",
+      "postalCode": "11002"
+    },
+    {
+      "code": "01211",
+      "name": "Đường An",
+      "fullName": "Xã Đường An, Thành phố Hải Phòng",
+      "slug": "duong-an",
+      "type": "commune",
+      "postalCode": "10972"
+    },
+    {
+      "code": "01219",
+      "name": "Hà Tây",
+      "fullName": "Xã Hà Tây, Thành phố Hải Phòng",
+      "slug": "ha-tay",
+      "type": "commune",
+      "postalCode": "10846"
+    },
+    {
+      "code": "01233",
+      "name": "Cẩm Giàng",
+      "fullName": "Xã Cẩm Giàng, Thành phố Hải Phòng",
+      "slug": "cam-giang",
+      "type": "commune",
+      "postalCode": "10888"
+    },
+    {
+      "code": "01239",
+      "name": "An Khánh",
+      "fullName": "Xã An Khánh, Thành phố Hải Phòng",
+      "slug": "an-khanh",
+      "type": "commune",
+      "postalCode": "11668"
+    },
+    {
+      "code": "01245",
+      "name": "Nguyễn Lương Bằng",
+      "fullName": "Xã Nguyễn Lương Bằng, Thành phố Hải Phòng",
+      "slug": "nguyen-luong-bang",
+      "type": "commune",
+      "postalCode": "11242"
+    },
+    {
+      "code": "01247",
+      "name": "Khúc Thừa Dụ",
+      "fullName": "Xã Khúc Thừa Dụ, Thành phố Hải Phòng",
+      "slug": "khuc-thua-du",
+      "type": "commune",
+      "postalCode": "11224"
+    },
+    {
+      "code": "01263",
+      "name": "Yết Kiêu",
+      "fullName": "Xã Yết Kiêu, Thành phố Hải Phòng",
+      "slug": "yet-kieu",
+      "type": "commune",
+      "postalCode": "11020"
+    },
+    {
+      "code": "01264",
+      "name": "Hà Đông",
+      "fullName": "Xã Hà Đông, Thành phố Hải Phòng",
+      "slug": "ha-dong",
+      "type": "commune",
+      "postalCode": "10882"
+    },
+    {
+      "code": "01283",
+      "name": "Nam Thanh Miện",
+      "fullName": "Xã Nam Thanh Miện, Thành phố Hải Phòng",
+      "slug": "nam-thanh-mien",
+      "type": "commune",
+      "postalCode": "11284"
+    },
+    {
+      "code": "01310",
+      "name": "Bình Giang",
+      "fullName": "Xã Bình Giang, Thành phố Hải Phòng",
+      "slug": "binh-giang",
+      "type": "commune",
+      "postalCode": "10966"
+    },
+    {
+      "code": "01324",
+      "name": "Hồng Châu",
+      "fullName": "Xã Hồng Châu, Thành phố Hải Phòng",
+      "slug": "hong-chau",
+      "type": "commune",
+      "postalCode": "11218"
+    },
+    {
+      "code": "01332",
+      "name": "Chí Minh",
+      "fullName": "Xã Chí Minh, Thành phố Hải Phòng",
+      "slug": "chi-minh",
+      "type": "commune",
+      "postalCode": "11131"
+    },
+    {
+      "code": "01372",
+      "name": "Chí Linh",
+      "fullName": "Phường Chí Linh, Thành phố Hải Phòng",
+      "slug": "chi-linh",
+      "type": "ward",
+      "postalCode": "10546"
+    },
+    {
+      "code": "01387",
+      "name": "Trường Tân",
+      "fullName": "Xã Trường Tân, Thành phố Hải Phòng",
+      "slug": "truong-tan",
+      "type": "commune",
+      "postalCode": "11065"
+    },
+    {
+      "code": "01447",
+      "name": "Việt Hòa",
+      "fullName": "Phường Việt Hòa, Thành phố Hải Phòng",
+      "slug": "viet-hoa",
+      "type": "ward",
+      "postalCode": "10543"
+    },
+    {
+      "code": "01473",
+      "name": "Đại Sơn",
+      "fullName": "Xã Đại Sơn, Thành phố Hải Phòng",
+      "slug": "dai-son",
+      "type": "commune",
+      "postalCode": "11086"
+    },
+    {
+      "code": "01486",
+      "name": "Tứ Minh",
+      "fullName": "Phường Tứ Minh, Thành phố Hải Phòng",
+      "slug": "tu-minh",
+      "type": "ward",
+      "postalCode": "10891"
+    },
+    {
+      "code": "01491",
+      "name": "Nam Đồ Sơn",
+      "fullName": "Phường Nam Đồ Sơn, Thành phố Hải Phòng",
+      "slug": "nam-do-son",
+      "type": "ward",
+      "postalCode": "11737"
+    },
+    {
+      "code": "01499",
+      "name": "An Trường",
+      "fullName": "Xã An Trường, Thành phố Hải Phòng",
+      "slug": "an-truong",
+      "type": "commune",
+      "postalCode": "11635"
+    },
+    {
+      "code": "01581",
+      "name": "An Quang",
+      "fullName": "Xã An Quang, Thành phố Hải Phòng",
+      "slug": "an-quang",
+      "type": "commune",
+      "postalCode": "11647"
+    },
+    {
+      "code": "01582",
+      "name": "Nguyễn Đại Năng",
+      "fullName": "Phường Nguyễn Đại Năng, Thành phố Hải Phòng",
+      "slug": "nguyen-dai-nang",
+      "type": "ward",
+      "postalCode": "10744"
+    },
+    {
+      "code": "01596",
+      "name": "Vĩnh Thuận",
+      "fullName": "Xã Vĩnh Thuận, Thành phố Hải Phòng",
+      "slug": "vinh-thuan",
+      "type": "commune",
+      "postalCode": "11842"
+    },
+    {
+      "code": "01607",
+      "name": "An Thành",
+      "fullName": "Xã An Thành, Thành phố Hải Phòng",
+      "slug": "an-thanh",
+      "type": "commune",
+      "postalCode": "10792"
+    },
+    {
+      "code": "01619",
+      "name": "Lạc Phượng",
+      "fullName": "Xã Lạc Phượng, Thành phố Hải Phòng",
+      "slug": "lac-phuong",
+      "type": "commune",
+      "postalCode": "11140"
+    },
+    {
+      "code": "01652",
+      "name": "Vĩnh Hòa",
+      "fullName": "Xã Vĩnh Hòa, Thành phố Hải Phòng",
+      "slug": "vinh-hoa",
+      "type": "commune",
+      "postalCode": "11848"
+    },
+    {
+      "code": "01655",
+      "name": "Nguyên Giáp",
+      "fullName": "Xã Nguyên Giáp, Thành phố Hải Phòng",
+      "slug": "nguyen-giap",
+      "type": "commune",
+      "postalCode": "11146"
+    },
+    {
+      "code": "01657",
+      "name": "Kiến Hưng",
+      "fullName": "Xã Kiến Hưng, Thành phố Hải Phòng",
+      "slug": "kien-hung",
+      "type": "commune",
+      "postalCode": "11728"
+    },
+    {
+      "code": "01672",
+      "name": "Nam An Phụ",
+      "fullName": "Xã Nam An Phụ, Thành phố Hải Phòng",
+      "slug": "nam-an-phu",
+      "type": "commune",
+      "postalCode": "10705"
+    },
+    {
+      "code": "01678",
+      "name": "Hà Nam",
+      "fullName": "Xã Hà Nam, Thành phố Hải Phòng",
+      "slug": "ha-nam",
+      "type": "commune",
+      "postalCode": "10843"
+    },
+    {
+      "code": "01702",
+      "name": "Tân An",
+      "fullName": "Xã Tân An, Thành phố Hải Phòng",
+      "slug": "tan-an",
+      "type": "commune",
+      "postalCode": "11167"
+    },
+    {
+      "code": "01715",
+      "name": "Dương Kinh",
+      "fullName": "Phường Dương Kinh, Thành phố Hải Phòng",
+      "slug": "duong-kinh",
+      "type": "ward",
+      "postalCode": "11692"
+    },
+    {
+      "code": "01717",
+      "name": "Hải Hưng",
+      "fullName": "Xã Hải Hưng, Thành phố Hải Phòng",
+      "slug": "hai-hung",
+      "type": "commune",
+      "postalCode": "11257"
+    },
+    {
+      "code": "01725",
+      "name": "Bắc Thanh Miện",
+      "fullName": "Xã Bắc Thanh Miện, Thành phố Hải Phòng",
+      "slug": "bac-thanh-mien",
+      "type": "commune",
+      "postalCode": "11254"
+    },
+    {
+      "code": "01727",
+      "name": "Tuệ Tĩnh",
+      "fullName": "Xã Tuệ Tĩnh, Thành phố Hải Phòng",
+      "slug": "tue-tinh",
+      "type": "commune",
+      "postalCode": "10909"
+    },
+    {
+      "code": "01743",
+      "name": "Trần Nhân Tông",
+      "fullName": "Phường Trần Nhân Tông, Thành phố Hải Phòng",
+      "slug": "tran-nhan-tong",
+      "type": "ward",
+      "postalCode": "10573"
+    },
+    {
+      "code": "01757",
+      "name": "Hùng Thắng",
+      "fullName": "Xã Hùng Thắng, Thành phố Hải Phòng",
+      "slug": "hung-thang",
+      "type": "commune",
+      "postalCode": "11809"
+    },
+    {
+      "code": "01771",
+      "name": "Trần Liễu",
+      "fullName": "Phường Trần Liễu, Thành phố Hải Phòng",
+      "slug": "tran-lieu",
+      "type": "ward",
+      "postalCode": "10729"
+    },
+    {
+      "code": "01797",
+      "name": "Vĩnh Thịnh",
+      "fullName": "Xã Vĩnh Thịnh, Thành phố Hải Phòng",
+      "slug": "vinh-thinh",
+      "type": "commune",
+      "postalCode": "11836"
+    },
+    {
+      "code": "01808",
+      "name": "Kiến Minh",
+      "fullName": "Xã Kiến Minh, Thành phố Hải Phòng",
+      "slug": "kien-minh",
+      "type": "commune",
+      "postalCode": "11725"
+    },
+    {
+      "code": "01814",
+      "name": "Chấn Hưng",
+      "fullName": "Xã Chấn Hưng, Thành phố Hải Phòng",
+      "slug": "chan-hung",
+      "type": "commune",
+      "postalCode": "11806"
+    },
+    {
+      "code": "01840",
+      "name": "Nghi Dương",
+      "fullName": "Xã Nghi Dương, Thành phố Hải Phòng",
+      "slug": "nghi-duong",
+      "type": "commune",
+      "postalCode": "11713"
+    },
+    {
+      "code": "01853",
+      "name": "An Hưng",
+      "fullName": "Xã An Hưng, Thành phố Hải Phòng",
+      "slug": "an-hung",
+      "type": "commune",
+      "postalCode": "10537"
+    },
+    {
+      "code": "01901",
+      "name": "Kinh Môn",
+      "fullName": "Phường Kinh Môn, Thành phố Hải Phòng",
+      "slug": "kinh-mon",
+      "type": "ward",
+      "postalCode": "10675"
+    },
+    {
+      "code": "01904",
+      "name": "Phạm Sư Mạnh",
+      "fullName": "Phường Phạm Sư Mạnh, Thành phố Hải Phòng",
+      "slug": "pham-su-manh",
+      "type": "ward",
+      "postalCode": "10726"
+    },
+    {
+      "code": "01906",
+      "name": "Nam Đồng",
+      "fullName": "Phường Nam Đồng, Thành phố Hải Phòng",
+      "slug": "nam-dong",
+      "type": "ward",
+      "postalCode": "10837"
+    },
+    {
+      "code": "01919",
+      "name": "Ái Quốc",
+      "fullName": "Phường Ái Quốc, Thành phố Hải Phòng",
+      "slug": "ai-quoc",
+      "type": "ward",
+      "postalCode": "10660"
+    },
+    {
+      "code": "01925",
+      "name": "Lê Đại Hành",
+      "fullName": "Phường Lê Đại Hành, Thành phố Hải Phòng",
+      "slug": "le-dai-hanh",
+      "type": "ward",
+      "postalCode": "10603"
+    },
+    {
+      "code": "01929",
+      "name": "Thượng Hồng",
+      "fullName": "Xã Thượng Hồng, Thành phố Hải Phòng",
+      "slug": "thuong-hong",
+      "type": "commune",
+      "postalCode": "10993"
+    },
+    {
+      "code": "01931",
+      "name": "Nguyễn Bỉnh Khiêm",
+      "fullName": "Xã Nguyễn Bỉnh Khiêm, Thành phố Hải Phòng",
+      "slug": "nguyen-binh-khiem",
+      "type": "commune",
+      "postalCode": "11911"
+    },
+    {
+      "code": "02081",
+      "name": "Bắc An Phụ",
+      "fullName": "Phường Bắc An Phụ, Thành phố Hải Phòng",
+      "slug": "bac-an-phu",
+      "type": "ward",
+      "postalCode": "10678"
+    },
+    {
+      "code": "02103",
+      "name": "Quyết Thắng",
+      "fullName": "Xã Quyết Thắng, Thành phố Hải Phòng",
+      "slug": "quyet-thang",
+      "type": "commune",
+      "postalCode": "11761"
+    },
+    {
+      "code": "02219",
+      "name": "Hợp Tiến",
+      "fullName": "Xã Hợp Tiến, Thành phố Hải Phòng",
+      "slug": "hop-tien",
+      "type": "commune",
+      "postalCode": "10615"
+    },
+    {
+      "code": "02240",
+      "name": "Thái Tân",
+      "fullName": "Xã Thái Tân, Thành phố Hải Phòng",
+      "slug": "thai-tan",
+      "type": "commune",
+      "postalCode": "10642"
+    },
+    {
+      "code": "02525",
+      "name": "Nguyễn Trãi",
+      "fullName": "Phường Nguyễn Trãi, Thành phố Hải Phòng",
+      "slug": "nguyen-trai",
+      "type": "ward",
+      "postalCode": "10552"
+    },
+    {
+      "code": "03317",
+      "name": "Bạch Long Vĩ",
+      "fullName": "Đặc khu Bạch Long Vĩ, Thành phố Hải Phòng",
+      "slug": "bach-long-vi",
+      "type": "commune",
+      "postalCode": "11948"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Hải Dương",
+      "slug": "thanh-pho-hai-duong",
+      "wards": [
+        {
+          "code": "10507",
+          "name": "Thành Đông",
+          "fullName": "Phường Thành Đông, Tỉnh Hải Phòng",
+          "slug": "thanh-dong",
+          "postalCode": "10507"
+        },
+        {
+          "code": "10525",
+          "name": "Hải Dương",
+          "fullName": "Phường Hải Dương, Tỉnh Hải Phòng",
+          "slug": "hai-duong",
+          "postalCode": "10525"
+        },
+        {
+          "code": "10532",
+          "name": "Lê Thanh Nghị",
+          "fullName": "Phường Lê Thanh Nghị, Tỉnh Hải Phòng",
+          "slug": "le-thanh-nghi",
+          "postalCode": "10532"
+        },
+        {
+          "code": "10537",
+          "name": "Tân Hưng",
+          "fullName": "Phường Tân Hưng, Tỉnh Hải Phòng",
+          "slug": "tan-hung",
+          "postalCode": "10537"
+        },
+        {
+          "code": "10543",
+          "name": "Việt Hòa",
+          "fullName": "Phường Việt Hòa, Tỉnh Hải Phòng",
+          "slug": "viet-hoa",
+          "postalCode": "10543"
+        },
+        {
+          "code": "10660",
+          "name": "Ái Quốc",
+          "fullName": "Phường Ái Quốc, Tỉnh Hải Phòng",
+          "slug": "ai-quoc",
+          "postalCode": "10660"
+        },
+        {
+          "code": "10837",
+          "name": "Nam Đồng",
+          "fullName": "Phường Nam Đồng, Tỉnh Hải Phòng",
+          "slug": "nam-dong",
+          "postalCode": "10837"
+        },
+        {
+          "code": "10891",
+          "name": "Tứ Minh",
+          "fullName": "Phường Tứ Minh, Tỉnh Hải Phòng",
+          "slug": "tu-minh",
+          "postalCode": "10891"
+        },
+        {
+          "code": "11002",
+          "name": "Thạch Khôi",
+          "fullName": "Phường Thạch Khôi, Tỉnh Hải Phòng",
+          "slug": "thach-khoi",
+          "postalCode": "11002"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cẩm Giàng",
+      "slug": "huyen-cam-giang",
+      "wards": [
+        {
+          "code": "10543",
+          "name": "Việt Hòa",
+          "fullName": "Phường Việt Hòa, Tỉnh Hải Phòng",
+          "slug": "viet-hoa",
+          "postalCode": "10543"
+        },
+        {
+          "code": "10888",
+          "name": "Cẩm Giang",
+          "fullName": "Xã Cẩm Giang, Tỉnh Hải Phòng",
+          "slug": "cam-giang",
+          "postalCode": "10888"
+        },
+        {
+          "code": "10891",
+          "name": "Tứ Minh",
+          "fullName": "Phường Tứ Minh, Tỉnh Hải Phòng",
+          "slug": "tu-minh",
+          "postalCode": "10891"
+        },
+        {
+          "code": "10903",
+          "name": "Cẩm Giàng",
+          "fullName": "Xã Cẩm Giàng, Tỉnh Hải Phòng",
+          "slug": "cam-giang",
+          "postalCode": "10903"
+        },
+        {
+          "code": "10909",
+          "name": "Tuệ Tĩnh",
+          "fullName": "Xã Tuệ Tĩnh, Tỉnh Hải Phòng",
+          "slug": "tue-tinh",
+          "postalCode": "10909"
+        },
+        {
+          "code": "10930",
+          "name": "Mao Điền",
+          "fullName": "Xã Mao Điền, Tỉnh Hải Phòng",
+          "slug": "mao-dien",
+          "postalCode": "10930"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Chí Linh",
+      "slug": "thanh-pho-chi-linh",
+      "wards": [
+        {
+          "code": "10546",
+          "name": "Chí Linh",
+          "fullName": "Phường Chí Linh, Tỉnh Hải Phòng",
+          "slug": "chi-linh",
+          "postalCode": "10546"
+        },
+        {
+          "code": "10549",
+          "name": "Chu Văn An",
+          "fullName": "Phường Chu Văn An, Tỉnh Hải Phòng",
+          "slug": "chu-van-an",
+          "postalCode": "10549"
+        },
+        {
+          "code": "10552",
+          "name": "Nguyễn Trãi",
+          "fullName": "Phường Nguyễn Trãi, Tỉnh Hải Phòng",
+          "slug": "nguyen-trai",
+          "postalCode": "10552"
+        },
+        {
+          "code": "10570",
+          "name": "Trần Hưng Đạo",
+          "fullName": "Phường Trần Hưng Đạo, Tỉnh Hải Phòng",
+          "slug": "tran-hung-dao",
+          "postalCode": "10570"
+        },
+        {
+          "code": "10573",
+          "name": "Trần Nhân Tông",
+          "fullName": "Phường Trần Nhân Tông, Tỉnh Hải Phòng",
+          "slug": "tran-nhan-tong",
+          "postalCode": "10573"
+        },
+        {
+          "code": "10603",
+          "name": "Lê Đại Hành",
+          "fullName": "Phường Lê Đại Hành, Tỉnh Hải Phòng",
+          "slug": "le-dai-hanh",
+          "postalCode": "10603"
+        },
+        {
+          "code": "10678",
+          "name": "Bắc An Phụ",
+          "fullName": "Phường Bắc An Phụ, Tỉnh Hải Phòng",
+          "slug": "bac-an-phu",
+          "postalCode": "10678"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thanh Hà",
+      "slug": "huyen-thanh-ha",
+      "wards": [
+        {
+          "code": "10660",
+          "name": "Ái Quốc",
+          "fullName": "Phường Ái Quốc, Tỉnh Hải Phòng",
+          "slug": "ai-quoc",
+          "postalCode": "10660"
+        },
+        {
+          "code": "10756",
+          "name": "Lai Khê",
+          "fullName": "Xã Lai Khê, Tỉnh Hải Phòng",
+          "slug": "lai-khe",
+          "postalCode": "10756"
+        },
+        {
+          "code": "10813",
+          "name": "Thanh Hà",
+          "fullName": "Xã Thanh Hà, Tỉnh Hải Phòng",
+          "slug": "thanh-ha",
+          "postalCode": "10813"
+        },
+        {
+          "code": "10816",
+          "name": "Hà Bắc",
+          "fullName": "Xã Hà Bắc, Tỉnh Hải Phòng",
+          "slug": "ha-bac",
+          "postalCode": "10816"
+        },
+        {
+          "code": "10843",
+          "name": "Hà Nam",
+          "fullName": "Xã Hà Nam, Tỉnh Hải Phòng",
+          "slug": "ha-nam",
+          "postalCode": "10843"
+        },
+        {
+          "code": "10846",
+          "name": "Hà Tây",
+          "fullName": "Xã Hà Tây, Tỉnh Hải Phòng",
+          "slug": "ha-tay",
+          "postalCode": "10846"
+        },
+        {
+          "code": "10882",
+          "name": "Hà Đông",
+          "fullName": "Xã Hà Đông, Tỉnh Hải Phòng",
+          "slug": "ha-dong",
+          "postalCode": "10882"
+        },
+        {
+          "code": "11086",
+          "name": "Đại Sơn",
+          "fullName": "Xã Đại Sơn, Tỉnh Hải Phòng",
+          "slug": "dai-son",
+          "postalCode": "11086"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Kinh Môn",
+      "slug": "thi-xa-kinh-mon",
+      "wards": [
+        {
+          "code": "10675",
+          "name": "Kinh Môn",
+          "fullName": "Phường Kinh Môn, Tỉnh Hải Phòng",
+          "slug": "kinh-mon",
+          "postalCode": "10675"
+        },
+        {
+          "code": "10678",
+          "name": "Bắc An Phụ",
+          "fullName": "Phường Bắc An Phụ, Tỉnh Hải Phòng",
+          "slug": "bac-an-phu",
+          "postalCode": "10678"
+        },
+        {
+          "code": "10705",
+          "name": "Nam An Phụ",
+          "fullName": "Xã Nam An Phụ, Tỉnh Hải Phòng",
+          "slug": "nam-an-phu",
+          "postalCode": "10705"
+        },
+        {
+          "code": "10714",
+          "name": "Nhị Chiểu",
+          "fullName": "Phường Nhị Chiểu, Tỉnh Hải Phòng",
+          "slug": "nhi-chieu",
+          "postalCode": "10714"
+        },
+        {
+          "code": "10726",
+          "name": "Phạm Sư Mạnh",
+          "fullName": "Phường Phạm Sư Mạnh, Tỉnh Hải Phòng",
+          "slug": "pham-su-manh",
+          "postalCode": "10726"
+        },
+        {
+          "code": "10729",
+          "name": "Trần Liễu",
+          "fullName": "Phường Trần Liễu, Tỉnh Hải Phòng",
+          "slug": "tran-lieu",
+          "postalCode": "10729"
+        },
+        {
+          "code": "10744",
+          "name": "Nguyễn Đại Năng",
+          "fullName": "Phường Nguyễn Đại Năng, Tỉnh Hải Phòng",
+          "slug": "nguyen-dai-nang",
+          "postalCode": "10744"
+        },
+        {
+          "code": "10750",
+          "name": "Phú Thái",
+          "fullName": "Xã Phú Thái, Tỉnh Hải Phòng",
+          "slug": "phu-thai",
+          "postalCode": "10750"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Gia Lộc",
+      "slug": "huyen-gia-loc",
+      "wards": [
+        {
+          "code": "10999",
+          "name": "Gia Lộc",
+          "fullName": "Xã Gia Lộc, Tỉnh Hải Phòng",
+          "slug": "gia-loc",
+          "postalCode": "10999"
+        },
+        {
+          "code": "11002",
+          "name": "Thạch Khôi",
+          "fullName": "Phường Thạch Khôi, Tỉnh Hải Phòng",
+          "slug": "thach-khoi",
+          "postalCode": "11002"
+        },
+        {
+          "code": "11020",
+          "name": "Yết Kiêu",
+          "fullName": "Xã Yết Kiêu, Tỉnh Hải Phòng",
+          "slug": "yet-kieu",
+          "postalCode": "11020"
+        },
+        {
+          "code": "11050",
+          "name": "Gia Phúc",
+          "fullName": "Xã Gia Phúc, Tỉnh Hải Phòng",
+          "slug": "gia-phuc",
+          "postalCode": "11050"
+        },
+        {
+          "code": "11065",
+          "name": "Trường Tân",
+          "fullName": "Xã Trường Tân, Tỉnh Hải Phòng",
+          "slug": "truong-tan",
+          "postalCode": "11065"
+        }
+      ]
+    },
+    {
+      "name": "Quận Hồng Bàng",
+      "slug": "quan-hong-bang",
+      "wards": [
+        {
+          "code": "11311",
+          "name": "Hồng Bàng",
+          "fullName": "Phường Hồng Bàng, Tỉnh Hải Phòng",
+          "slug": "hong-bang",
+          "postalCode": "11311"
+        },
+        {
+          "code": "11581",
+          "name": "An Dương",
+          "fullName": "Phường An Dương, Tỉnh Hải Phòng",
+          "slug": "an-duong",
+          "postalCode": "11581"
+        },
+        {
+          "code": "11593",
+          "name": "An Phong",
+          "fullName": "Phường An Phong, Tỉnh Hải Phòng",
+          "slug": "an-phong",
+          "postalCode": "11593"
+        },
+        {
+          "code": "11602",
+          "name": "Hồng An",
+          "fullName": "Phường Hồng An, Tỉnh Hải Phòng",
+          "slug": "hong-an",
+          "postalCode": "11602"
+        }
+      ]
+    },
+    {
+      "name": "Quận Ngô Quyền",
+      "slug": "quan-ngo-quyen",
+      "wards": [
+        {
+          "code": "11311",
+          "name": "Hồng Bàng",
+          "fullName": "Phường Hồng Bàng, Tỉnh Hải Phòng",
+          "slug": "hong-bang",
+          "postalCode": "11311"
+        },
+        {
+          "code": "11329",
+          "name": "Ngô Quyền",
+          "fullName": "Phường Ngô Quyền, Tỉnh Hải Phòng",
+          "slug": "ngo-quyen",
+          "postalCode": "11329"
+        },
+        {
+          "code": "11359",
+          "name": "Gia Viên",
+          "fullName": "Phường Gia Viên, Tỉnh Hải Phòng",
+          "slug": "gia-vien",
+          "postalCode": "11359"
+        },
+        {
+          "code": "11383",
+          "name": "Lê Chân",
+          "fullName": "Phường Lê Chân, Tỉnh Hải Phòng",
+          "slug": "le-chan",
+          "postalCode": "11383"
+        }
+      ]
+    },
+    {
+      "name": "Quận Lê Chân",
+      "slug": "quan-le-chan",
+      "wards": [
+        {
+          "code": "11383",
+          "name": "Lê Chân",
+          "fullName": "Phường Lê Chân, Tỉnh Hải Phòng",
+          "slug": "le-chan",
+          "postalCode": "11383"
+        },
+        {
+          "code": "11407",
+          "name": "An Biên",
+          "fullName": "Phường An Biên, Tỉnh Hải Phòng",
+          "slug": "an-bien",
+          "postalCode": "11407"
+        }
+      ]
+    },
+    {
+      "name": "Quận Hải An",
+      "slug": "quan-hai-an",
+      "wards": [
+        {
+          "code": "11411",
+          "name": "Đông Hải",
+          "fullName": "Phường Đông Hải, Tỉnh Hải Phòng",
+          "slug": "dong-hai",
+          "postalCode": "11411"
+        },
+        {
+          "code": "11413",
+          "name": "Hải An",
+          "fullName": "Phường Hải An, Tỉnh Hải Phòng",
+          "slug": "hai-an",
+          "postalCode": "11413"
+        }
+      ]
+    },
+    {
+      "name": "Quận Kiến An",
+      "slug": "quan-kien-an",
+      "wards": [
+        {
+          "code": "11443",
+          "name": "Kiến An",
+          "fullName": "Phường Kiến An, Tỉnh Hải Phòng",
+          "slug": "kien-an",
+          "postalCode": "11443"
+        },
+        {
+          "code": "11446",
+          "name": "Phù Liễn",
+          "fullName": "Phường Phù Liễn, Tỉnh Hải Phòng",
+          "slug": "phu-lien",
+          "postalCode": "11446"
+        }
+      ]
+    },
+    {
+      "name": "Huyện An Lão",
+      "slug": "huyen-an-lao",
+      "wards": [
+        {
+          "code": "11446",
+          "name": "Phù Liễn",
+          "fullName": "Phường Phù Liễn, Tỉnh Hải Phòng",
+          "slug": "phu-lien",
+          "postalCode": "11446"
+        },
+        {
+          "code": "11629",
+          "name": "An Lão",
+          "fullName": "Xã An Lão, Tỉnh Hải Phòng",
+          "slug": "an-lao",
+          "postalCode": "11629"
+        },
+        {
+          "code": "11635",
+          "name": "An Trường",
+          "fullName": "Xã An Trường, Tỉnh Hải Phòng",
+          "slug": "an-truong",
+          "postalCode": "11635"
+        },
+        {
+          "code": "11647",
+          "name": "An Quang",
+          "fullName": "Xã An Quang, Tỉnh Hải Phòng",
+          "slug": "an-quang",
+          "postalCode": "11647"
+        },
+        {
+          "code": "11668",
+          "name": "An Khánh",
+          "fullName": "Xã An Khánh, Tỉnh Hải Phòng",
+          "slug": "an-khanh",
+          "postalCode": "11668"
+        },
+        {
+          "code": "11674",
+          "name": "An Hưng",
+          "fullName": "Xã An Hưng, Tỉnh Hải Phòng",
+          "slug": "an-hung",
+          "postalCode": "11674"
+        }
+      ]
+    },
+    {
+      "name": "Quận Đồ Sơn",
+      "slug": "quan-do-son",
+      "wards": [
+        {
+          "code": "11455",
+          "name": "Đồ Sơn",
+          "fullName": "Phường Đồ Sơn, Tỉnh Hải Phòng",
+          "slug": "do-son",
+          "postalCode": "11455"
+        },
+        {
+          "code": "11737",
+          "name": "Nam Đồ Sơn",
+          "fullName": "Phường Nam Đồ Sơn, Tỉnh Hải Phòng",
+          "slug": "nam-do-son",
+          "postalCode": "11737"
+        }
+      ]
+    },
+    {
+      "name": "Quận Dương Kinh",
+      "slug": "quan-duong-kinh",
+      "wards": [
+        {
+          "code": "11455",
+          "name": "Đồ Sơn",
+          "fullName": "Phường Đồ Sơn, Tỉnh Hải Phòng",
+          "slug": "do-son",
+          "postalCode": "11455"
+        },
+        {
+          "code": "11689",
+          "name": "Hưng Đạo",
+          "fullName": "Phường Hưng Đạo, Tỉnh Hải Phòng",
+          "slug": "hung-dao",
+          "postalCode": "11689"
+        },
+        {
+          "code": "11692",
+          "name": "Dương Kinh",
+          "fullName": "Phường Dương Kinh, Tỉnh Hải Phòng",
+          "slug": "duong-kinh",
+          "postalCode": "11692"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Thuỷ Nguyên",
+      "slug": "thanh-pho-thuy-nguyen",
+      "wards": [
+        {
+          "code": "11473",
+          "name": "Bạch Đằng",
+          "fullName": "Phường Bạch Đằng, Tỉnh Hải Phòng",
+          "slug": "bach-dang",
+          "postalCode": "11473"
+        },
+        {
+          "code": "11488",
+          "name": "Lưu Kiếm",
+          "fullName": "Phường Lưu Kiếm, Tỉnh Hải Phòng",
+          "slug": "luu-kiem",
+          "postalCode": "11488"
+        },
+        {
+          "code": "11503",
+          "name": "Việt Khê",
+          "fullName": "Xã Việt Khê, Tỉnh Hải Phòng",
+          "slug": "viet-khe",
+          "postalCode": "11503"
+        },
+        {
+          "code": "11506",
+          "name": "Lê Ích Mộc",
+          "fullName": "Phường Lê Ích Mộc, Tỉnh Hải Phòng",
+          "slug": "le-ich-moc",
+          "postalCode": "11506"
+        },
+        {
+          "code": "11533",
+          "name": "Hòa Bình",
+          "fullName": "Phường Hòa Bình, Tỉnh Hải Phòng",
+          "slug": "hoa-binh",
+          "postalCode": "11533"
+        },
+        {
+          "code": "11542",
+          "name": "Nam Triệu",
+          "fullName": "Phường Nam Triệu, Tỉnh Hải Phòng",
+          "slug": "nam-trieu",
+          "postalCode": "11542"
+        },
+        {
+          "code": "11557",
+          "name": "Thiên Hương",
+          "fullName": "Phường Thiên Hương, Tỉnh Hải Phòng",
+          "slug": "thien-huong",
+          "postalCode": "11557"
+        },
+        {
+          "code": "11560",
+          "name": "Thủy Nguyên",
+          "fullName": "Phường Thủy Nguyên, Tỉnh Hải Phòng",
+          "slug": "thuy-nguyen",
+          "postalCode": "11560"
+        }
+      ]
+    },
+    {
+      "name": "Quận An Dương",
+      "slug": "quan-an-duong",
+      "wards": [
+        {
+          "code": "11581",
+          "name": "An Dương",
+          "fullName": "Phường An Dương, Tỉnh Hải Phòng",
+          "slug": "an-duong",
+          "postalCode": "11581"
+        },
+        {
+          "code": "11593",
+          "name": "An Phong",
+          "fullName": "Phường An Phong, Tỉnh Hải Phòng",
+          "slug": "an-phong",
+          "postalCode": "11593"
+        },
+        {
+          "code": "11602",
+          "name": "Hồng An",
+          "fullName": "Phường Hồng An, Tỉnh Hải Phòng",
+          "slug": "hong-an",
+          "postalCode": "11602"
+        },
+        {
+          "code": "11617",
+          "name": "An Hải",
+          "fullName": "Phường An Hải, Tỉnh Hải Phòng",
+          "slug": "an-hai",
+          "postalCode": "11617"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nam Sách",
+      "slug": "huyen-nam-sach",
+      "wards": [
+        {
+          "code": "10606",
+          "name": "Nam Sách",
+          "fullName": "Xã Nam Sách, Tỉnh Hải Phòng",
+          "slug": "nam-sach",
+          "postalCode": "10606"
+        },
+        {
+          "code": "10615",
+          "name": "Hợp Tiến",
+          "fullName": "Xã Hợp Tiến, Tỉnh Hải Phòng",
+          "slug": "hop-tien",
+          "postalCode": "10615"
+        },
+        {
+          "code": "10633",
+          "name": "Trần Phú",
+          "fullName": "Xã Trần Phú, Tỉnh Hải Phòng",
+          "slug": "tran-phu",
+          "postalCode": "10633"
+        },
+        {
+          "code": "10642",
+          "name": "Thái Tân",
+          "fullName": "Xã Thái Tân, Tỉnh Hải Phòng",
+          "slug": "thai-tan",
+          "postalCode": "10642"
+        },
+        {
+          "code": "10645",
+          "name": "An Phú",
+          "fullName": "Xã An Phú, Tỉnh Hải Phòng",
+          "slug": "an-phu",
+          "postalCode": "10645"
+        },
+        {
+          "code": "10705",
+          "name": "Nam An Phụ",
+          "fullName": "Xã Nam An Phụ, Tỉnh Hải Phòng",
+          "slug": "nam-an-phu",
+          "postalCode": "10705"
+        },
+        {
+          "code": "10756",
+          "name": "Lai Khê",
+          "fullName": "Xã Lai Khê, Tỉnh Hải Phòng",
+          "slug": "lai-khe",
+          "postalCode": "10756"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kim Thành",
+      "slug": "huyen-kim-thanh",
+      "wards": [
+        {
+          "code": "10705",
+          "name": "Nam An Phụ",
+          "fullName": "Xã Nam An Phụ, Tỉnh Hải Phòng",
+          "slug": "nam-an-phu",
+          "postalCode": "10705"
+        },
+        {
+          "code": "10750",
+          "name": "Phú Thái",
+          "fullName": "Xã Phú Thái, Tỉnh Hải Phòng",
+          "slug": "phu-thai",
+          "postalCode": "10750"
+        },
+        {
+          "code": "10756",
+          "name": "Lai Khê",
+          "fullName": "Xã Lai Khê, Tỉnh Hải Phòng",
+          "slug": "lai-khe",
+          "postalCode": "10756"
+        },
+        {
+          "code": "10792",
+          "name": "An Thành",
+          "fullName": "Xã An Thành, Tỉnh Hải Phòng",
+          "slug": "an-thanh",
+          "postalCode": "10792"
+        },
+        {
+          "code": "10804",
+          "name": "Kim Thành",
+          "fullName": "Xã Kim Thành, Tỉnh Hải Phòng",
+          "slug": "kim-thanh",
+          "postalCode": "10804"
+        },
+        {
+          "code": "10843",
+          "name": "Hà Nam",
+          "fullName": "Xã Hà Nam, Tỉnh Hải Phòng",
+          "slug": "ha-nam",
+          "postalCode": "10843"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bình Giang",
+      "slug": "huyen-binh-giang",
+      "wards": [
+        {
+          "code": "10945",
+          "name": "Kẻ Sặt",
+          "fullName": "Xã Kẻ Sặt, Tỉnh Hải Phòng",
+          "slug": "ke-sat",
+          "postalCode": "10945"
+        },
+        {
+          "code": "10966",
+          "name": "Bình Giang",
+          "fullName": "Xã Bình Giang, Tỉnh Hải Phòng",
+          "slug": "binh-giang",
+          "postalCode": "10966"
+        },
+        {
+          "code": "10972",
+          "name": "Đường An",
+          "fullName": "Xã Đường An, Tỉnh Hải Phòng",
+          "slug": "duong-an",
+          "postalCode": "10972"
+        },
+        {
+          "code": "10993",
+          "name": "Thượng Hồng",
+          "fullName": "Xã Thượng Hồng, Tỉnh Hải Phòng",
+          "slug": "thuong-hong",
+          "postalCode": "10993"
+        },
+        {
+          "code": "11242",
+          "name": "Nguyễn Lương Bằng",
+          "fullName": "Xã Nguyễn Lương Bằng, Tỉnh Hải Phòng",
+          "slug": "nguyen-luong-bang",
+          "postalCode": "11242"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thanh Miện",
+      "slug": "huyen-thanh-mien",
+      "wards": [
+        {
+          "code": "10993",
+          "name": "Thượng Hồng",
+          "fullName": "Xã Thượng Hồng, Tỉnh Hải Phòng",
+          "slug": "thuong-hong",
+          "postalCode": "10993"
+        },
+        {
+          "code": "11065",
+          "name": "Trường Tân",
+          "fullName": "Xã Trường Tân, Tỉnh Hải Phòng",
+          "slug": "truong-tan",
+          "postalCode": "11065"
+        },
+        {
+          "code": "11239",
+          "name": "Thanh Miện",
+          "fullName": "Xã Thanh Miện, Tỉnh Hải Phòng",
+          "slug": "thanh-mien",
+          "postalCode": "11239"
+        },
+        {
+          "code": "11242",
+          "name": "Nguyễn Lương Bằng",
+          "fullName": "Xã Nguyễn Lương Bằng, Tỉnh Hải Phòng",
+          "slug": "nguyen-luong-bang",
+          "postalCode": "11242"
+        },
+        {
+          "code": "11254",
+          "name": "Bắc Thanh Miện",
+          "fullName": "Xã Bắc Thanh Miện, Tỉnh Hải Phòng",
+          "slug": "bac-thanh-mien",
+          "postalCode": "11254"
+        },
+        {
+          "code": "11257",
+          "name": "Hải Hưng",
+          "fullName": "Xã Hải Hưng, Tỉnh Hải Phòng",
+          "slug": "hai-hung",
+          "postalCode": "11257"
+        },
+        {
+          "code": "11284",
+          "name": "Nam Thanh Miện",
+          "fullName": "Xã Nam Thanh Miện, Tỉnh Hải Phòng",
+          "slug": "nam-thanh-mien",
+          "postalCode": "11284"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tứ Kỳ",
+      "slug": "huyen-tu-ky",
+      "wards": [
+        {
+          "code": "11074",
+          "name": "Tứ Kỳ",
+          "fullName": "Xã Tứ Kỳ, Tỉnh Hải Phòng",
+          "slug": "tu-ky",
+          "postalCode": "11074"
+        },
+        {
+          "code": "11086",
+          "name": "Đại Sơn",
+          "fullName": "Xã Đại Sơn, Tỉnh Hải Phòng",
+          "slug": "dai-son",
+          "postalCode": "11086"
+        },
+        {
+          "code": "11113",
+          "name": "Tân Kỳ",
+          "fullName": "Xã Tân Kỳ, Tỉnh Hải Phòng",
+          "slug": "tan-ky",
+          "postalCode": "11113"
+        },
+        {
+          "code": "11131",
+          "name": "Chí Minh",
+          "fullName": "Xã Chí Minh, Tỉnh Hải Phòng",
+          "slug": "chi-minh",
+          "postalCode": "11131"
+        },
+        {
+          "code": "11140",
+          "name": "Lạc Phượng",
+          "fullName": "Xã Lạc Phượng, Tỉnh Hải Phòng",
+          "slug": "lac-phuong",
+          "postalCode": "11140"
+        },
+        {
+          "code": "11146",
+          "name": "Nguyên Giáp",
+          "fullName": "Xã Nguyên Giáp, Tỉnh Hải Phòng",
+          "slug": "nguyen-giap",
+          "postalCode": "11146"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ninh Giang",
+      "slug": "huyen-ninh-giang",
+      "wards": [
+        {
+          "code": "11164",
+          "name": "Vĩnh Lại",
+          "fullName": "Xã Vĩnh Lại, Tỉnh Hải Phòng",
+          "slug": "vinh-lai",
+          "postalCode": "11164"
+        },
+        {
+          "code": "11167",
+          "name": "Tân An",
+          "fullName": "Xã Tân An, Tỉnh Hải Phòng",
+          "slug": "tan-an",
+          "postalCode": "11167"
+        },
+        {
+          "code": "11203",
+          "name": "Ninh Giang",
+          "fullName": "Xã Ninh Giang, Tỉnh Hải Phòng",
+          "slug": "ninh-giang",
+          "postalCode": "11203"
+        },
+        {
+          "code": "11218",
+          "name": "Hồng Châu",
+          "fullName": "Xã Hồng Châu, Tỉnh Hải Phòng",
+          "slug": "hong-chau",
+          "postalCode": "11218"
+        },
+        {
+          "code": "11224",
+          "name": "Khúc Thừa Dụ",
+          "fullName": "Xã Khúc Thừa Dụ, Tỉnh Hải Phòng",
+          "slug": "khuc-thua-du",
+          "postalCode": "11224"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kiến Thuỵ",
+      "slug": "huyen-kien-thuy",
+      "wards": [
+        {
+          "code": "11680",
+          "name": "Kiến Thụy",
+          "fullName": "Xã Kiến Thụy, Tỉnh Hải Phòng",
+          "slug": "kien-thuy",
+          "postalCode": "11680"
+        },
+        {
+          "code": "11713",
+          "name": "Nghi Dương",
+          "fullName": "Xã Nghi Dương, Tỉnh Hải Phòng",
+          "slug": "nghi-duong",
+          "postalCode": "11713"
+        },
+        {
+          "code": "11725",
+          "name": "Kiến Minh",
+          "fullName": "Xã Kiến Minh, Tỉnh Hải Phòng",
+          "slug": "kien-minh",
+          "postalCode": "11725"
+        },
+        {
+          "code": "11728",
+          "name": "Kiến Hưng",
+          "fullName": "Xã Kiến Hưng, Tỉnh Hải Phòng",
+          "slug": "kien-hung",
+          "postalCode": "11728"
+        },
+        {
+          "code": "11749",
+          "name": "Kiến Hải",
+          "fullName": "Xã Kiến Hải, Tỉnh Hải Phòng",
+          "slug": "kien-hai",
+          "postalCode": "11749"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tiên Lãng",
+      "slug": "huyen-tien-lang",
+      "wards": [
+        {
+          "code": "11755",
+          "name": "Tiên Lãng",
+          "fullName": "Xã Tiên Lãng, Tỉnh Hải Phòng",
+          "slug": "tien-lang",
+          "postalCode": "11755"
+        },
+        {
+          "code": "11761",
+          "name": "Quyết Thắng",
+          "fullName": "Xã Quyết Thắng, Tỉnh Hải Phòng",
+          "slug": "quyet-thang",
+          "postalCode": "11761"
+        },
+        {
+          "code": "11779",
+          "name": "Tân Minh",
+          "fullName": "Xã Tân Minh, Tỉnh Hải Phòng",
+          "slug": "tan-minh",
+          "postalCode": "11779"
+        },
+        {
+          "code": "11791",
+          "name": "Tiên Minh",
+          "fullName": "Xã Tiên Minh, Tỉnh Hải Phòng",
+          "slug": "tien-minh",
+          "postalCode": "11791"
+        },
+        {
+          "code": "11806",
+          "name": "Chấn Hưng",
+          "fullName": "Xã Chấn Hưng, Tỉnh Hải Phòng",
+          "slug": "chan-hung",
+          "postalCode": "11806"
+        },
+        {
+          "code": "11809",
+          "name": "Hùng Thắng",
+          "fullName": "Xã Hùng Thắng, Tỉnh Hải Phòng",
+          "slug": "hung-thang",
+          "postalCode": "11809"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Bảo",
+      "slug": "huyen-vinh-bao",
+      "wards": [
+        {
+          "code": "11824",
+          "name": "Vĩnh Bảo",
+          "fullName": "Xã Vĩnh Bảo, Tỉnh Hải Phòng",
+          "slug": "vinh-bao",
+          "postalCode": "11824"
+        },
+        {
+          "code": "11836",
+          "name": "Vĩnh Thịnh",
+          "fullName": "Xã Vĩnh Thịnh, Tỉnh Hải Phòng",
+          "slug": "vinh-thinh",
+          "postalCode": "11836"
+        },
+        {
+          "code": "11842",
+          "name": "Vĩnh Thuận",
+          "fullName": "Xã Vĩnh Thuận, Tỉnh Hải Phòng",
+          "slug": "vinh-thuan",
+          "postalCode": "11842"
+        },
+        {
+          "code": "11848",
+          "name": "Vĩnh Hòa",
+          "fullName": "Xã Vĩnh Hòa, Tỉnh Hải Phòng",
+          "slug": "vinh-hoa",
+          "postalCode": "11848"
+        },
+        {
+          "code": "11875",
+          "name": "Vĩnh Hải",
+          "fullName": "Xã Vĩnh Hải, Tỉnh Hải Phòng",
+          "slug": "vinh-hai",
+          "postalCode": "11875"
+        },
+        {
+          "code": "11887",
+          "name": "Vĩnh Am",
+          "fullName": "Xã Vĩnh Am, Tỉnh Hải Phòng",
+          "slug": "vinh-am",
+          "postalCode": "11887"
+        },
+        {
+          "code": "11911",
+          "name": "Nguyễn Bỉnh Khiêm",
+          "fullName": "Xã Nguyễn Bỉnh Khiêm, Tỉnh Hải Phòng",
+          "slug": "nguyen-binh-khiem",
+          "postalCode": "11911"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cát Hải",
+      "slug": "huyen-cat-hai",
+      "wards": [
+        {
+          "code": "11914",
+          "name": "Đặc khu Cát Hải",
+          "fullName": "Đặc khu Cát Hải, Tỉnh Hải Phòng",
+          "slug": "dac-khu-cat-hai",
+          "postalCode": "11914"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bạch Long Vĩ",
+      "slug": "huyen-bach-long-vi",
+      "wards": [
+        {
+          "code": "11948",
+          "name": "Đặc khu Bạch Long Vĩ",
+          "fullName": "Đặc khu Bạch Long Vĩ, Tỉnh Hải Phòng",
+          "slug": "dac-khu-bach-long-vi",
+          "postalCode": "11948"
+        }
+      ]
+    }
+  ]
+}

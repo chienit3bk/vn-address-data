@@ -1,0 +1,2886 @@
+{
+  "code": "30",
+  "name": "Hồ Chí Minh",
+  "slug": "ho-chi-minh",
+  "type": "city",
+  "isCentral": true,
+  "fullName": "Thành phố Hồ Chí Minh",
+  "wards": [
+    {
+      "code": "00002",
+      "name": "Dĩ An",
+      "fullName": "Phường Dĩ An, Thành phố Hồ Chí Minh",
+      "slug": "di-an",
+      "type": "ward",
+      "postalCode": "25942"
+    },
+    {
+      "code": "00003",
+      "name": "Hiệp Bình",
+      "fullName": "Phường Hiệp Bình, Thành phố Hồ Chí Minh",
+      "slug": "hiep-binh",
+      "type": "ward",
+      "postalCode": "26809"
+    },
+    {
+      "code": "00004",
+      "name": "Tăng Nhơn Phú",
+      "fullName": "Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh",
+      "slug": "tang-nhon-phu",
+      "type": "ward",
+      "postalCode": "26842"
+    },
+    {
+      "code": "00005",
+      "name": "Bà Điểm",
+      "fullName": "Xã Bà Điểm, Thành phố Hồ Chí Minh",
+      "slug": "ba-diem",
+      "type": "commune",
+      "postalCode": "27592"
+    },
+    {
+      "code": "00009",
+      "name": "Chánh Hưng",
+      "fullName": "Phường Chánh Hưng, Thành phố Hồ Chí Minh",
+      "slug": "chanh-hung",
+      "type": "ward",
+      "postalCode": "27418"
+    },
+    {
+      "code": "00010",
+      "name": "Đông Thạnh",
+      "fullName": "Xã Đông Thạnh, Thành phố Hồ Chí Minh",
+      "slug": "dong-thanh",
+      "type": "commune",
+      "postalCode": "27568"
+    },
+    {
+      "code": "00012",
+      "name": "Bình Hưng Hòa",
+      "fullName": "Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh",
+      "slug": "binh-hung-hoa",
+      "type": "ward",
+      "postalCode": "27439"
+    },
+    {
+      "code": "00014",
+      "name": "Bình Hưng",
+      "fullName": "Xã Bình Hưng, Thành phố Hồ Chí Minh",
+      "slug": "binh-hung",
+      "type": "commune",
+      "postalCode": "27439"
+    },
+    {
+      "code": "00015",
+      "name": "Đông Hưng Thuận",
+      "fullName": "Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh",
+      "slug": "dong-hung-thuan",
+      "type": "ward",
+      "postalCode": "26791"
+    },
+    {
+      "code": "00016",
+      "name": "An Phú Đông",
+      "fullName": "Phường An Phú Đông, Thành phố Hồ Chí Minh",
+      "slug": "an-phu-dong",
+      "type": "ward",
+      "postalCode": "26767"
+    },
+    {
+      "code": "00017",
+      "name": "An Lạc",
+      "fullName": "Phường An Lạc, Thành phố Hồ Chí Minh",
+      "slug": "an-lac",
+      "type": "ward",
+      "postalCode": "27460"
+    },
+    {
+      "code": "00020",
+      "name": "Tân Thới Hiệp",
+      "fullName": "Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh",
+      "slug": "tan-thoi-hiep",
+      "type": "ward",
+      "postalCode": "26782"
+    },
+    {
+      "code": "00021",
+      "name": "Vĩnh Lộc",
+      "fullName": "Xã Vĩnh Lộc, Thành phố Hồ Chí Minh",
+      "slug": "vinh-loc",
+      "type": "commune",
+      "postalCode": "27601"
+    },
+    {
+      "code": "00022",
+      "name": "Bình Trị Đông",
+      "fullName": "Phường Bình Trị Đông, Thành phố Hồ Chí Minh",
+      "slug": "binh-tri-dong",
+      "type": "ward",
+      "postalCode": "27448"
+    },
+    {
+      "code": "00023",
+      "name": "Tân Vĩnh Lộc",
+      "fullName": "Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh",
+      "slug": "tan-vinh-loc",
+      "type": "commune",
+      "postalCode": "27604"
+    },
+    {
+      "code": "00024",
+      "name": "An Phú",
+      "fullName": "Phường An Phú, Thành phố Hồ Chí Minh",
+      "slug": "an-phu",
+      "type": "ward",
+      "postalCode": "25975"
+    },
+    {
+      "code": "00025",
+      "name": "Bình Tân",
+      "fullName": "Phường Bình Tân, Thành phố Hồ Chí Minh",
+      "slug": "binh-tan",
+      "type": "ward",
+      "postalCode": "27442"
+    },
+    {
+      "code": "00027",
+      "name": "Linh Xuân",
+      "fullName": "Phường Linh Xuân, Thành phố Hồ Chí Minh",
+      "slug": "linh-xuan",
+      "type": "ward",
+      "postalCode": "26800"
+    },
+    {
+      "code": "00029",
+      "name": "Bình Đông",
+      "fullName": "Phường Bình Đông, Thành phố Hồ Chí Minh",
+      "slug": "binh-dong",
+      "type": "ward",
+      "postalCode": "27424"
+    },
+    {
+      "code": "00031",
+      "name": "Tân Hưng",
+      "fullName": "Phường Tân Hưng, Thành phố Hồ Chí Minh",
+      "slug": "tan-hung",
+      "type": "ward",
+      "postalCode": "27475"
+    },
+    {
+      "code": "00032",
+      "name": "Tam Bình",
+      "fullName": "Phường Tam Bình, Thành phố Hồ Chí Minh",
+      "slug": "tam-binh",
+      "type": "ward",
+      "postalCode": "26803"
+    },
+    {
+      "code": "00033",
+      "name": "Thạnh Mỹ Tây",
+      "fullName": "Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh",
+      "slug": "thanh-my-tay",
+      "type": "ward",
+      "postalCode": "26956"
+    },
+    {
+      "code": "00034",
+      "name": "Thuận Giao",
+      "fullName": "Phường Thuận Giao, Thành phố Hồ Chí Minh",
+      "slug": "thuan-giao",
+      "type": "ward",
+      "postalCode": "25969"
+    },
+    {
+      "code": "00035",
+      "name": "Phú Định",
+      "fullName": "Phường Phú Định, Thành phố Hồ Chí Minh",
+      "slug": "phu-dinh",
+      "type": "ward",
+      "postalCode": "27427"
+    },
+    {
+      "code": "00037",
+      "name": "Tân Thuận",
+      "fullName": "Phường Tân Thuận, Thành phố Hồ Chí Minh",
+      "slug": "tan-thuan",
+      "type": "ward",
+      "postalCode": "27478"
+    },
+    {
+      "code": "00038",
+      "name": "Tân Hiệp",
+      "fullName": "Phường Tân Hiệp, Thành phố Hồ Chí Minh",
+      "slug": "tan-hiep",
+      "type": "ward",
+      "postalCode": "25920"
+    },
+    {
+      "code": "00040",
+      "name": "Phú Thọ Hòa",
+      "fullName": "Phường Phú Thọ Hòa, Thành phố Hồ Chí Minh",
+      "slug": "phu-tho-hoa",
+      "type": "ward",
+      "postalCode": "27022"
+    },
+    {
+      "code": "00043",
+      "name": "Phước Long",
+      "fullName": "Phường Phước Long, Thành phố Hồ Chí Minh",
+      "slug": "phuoc-long",
+      "type": "ward",
+      "postalCode": "26848"
+    },
+    {
+      "code": "00046",
+      "name": "Bảy Hiền",
+      "fullName": "Phường Bảy Hiền, Thành phố Hồ Chí Minh",
+      "slug": "bay-hien",
+      "type": "ward",
+      "postalCode": "26983"
+    },
+    {
+      "code": "00047",
+      "name": "Đông Hòa",
+      "fullName": "Phường Đông Hòa, Thành phố Hồ Chí Minh",
+      "slug": "dong-hoa",
+      "type": "ward",
+      "postalCode": "25951"
+    },
+    {
+      "code": "00053",
+      "name": "Hạnh Thông",
+      "fullName": "Phường Hạnh Thông, Thành phố Hồ Chí Minh",
+      "slug": "hanh-thong",
+      "type": "ward",
+      "postalCode": "26890"
+    },
+    {
+      "code": "00054",
+      "name": "Củ Chi",
+      "fullName": "Xã Củ Chi, Thành phố Hồ Chí Minh",
+      "slug": "cu-chi",
+      "type": "commune",
+      "postalCode": "27553"
+    },
+    {
+      "code": "00056",
+      "name": "Trung Mỹ Tây",
+      "fullName": "Phường Trung Mỹ Tây, Thành phố Hồ Chí Minh",
+      "slug": "trung-my-tay",
+      "type": "ward",
+      "postalCode": "26785"
+    },
+    {
+      "code": "00057",
+      "name": "Tân Khánh",
+      "fullName": "Phường Tân Khánh, Thành phố Hồ Chí Minh",
+      "slug": "tan-khanh",
+      "type": "ward",
+      "postalCode": "25891"
+    },
+    {
+      "code": "00058",
+      "name": "Bình Thạnh",
+      "fullName": "Phường Bình Thạnh, Thành phố Hồ Chí Minh",
+      "slug": "binh-thanh",
+      "type": "ward",
+      "postalCode": "26929"
+    },
+    {
+      "code": "00060",
+      "name": "Gia Định",
+      "fullName": "Phường Gia Định, Thành phố Hồ Chí Minh",
+      "slug": "gia-dinh",
+      "type": "ward",
+      "postalCode": "26944"
+    },
+    {
+      "code": "00061",
+      "name": "Nhà Bè",
+      "fullName": "Xã Nhà Bè, Thành phố Hồ Chí Minh",
+      "slug": "nha-be",
+      "type": "commune",
+      "postalCode": "27655"
+    },
+    {
+      "code": "00062",
+      "name": "Thới An",
+      "fullName": "Phường Thới An, Thành phố Hồ Chí Minh",
+      "slug": "thoi-an",
+      "type": "ward",
+      "postalCode": "26773"
+    },
+    {
+      "code": "00064",
+      "name": "An Hội Đông",
+      "fullName": "Phường An Hội Đông, Thành phố Hồ Chí Minh",
+      "slug": "an-hoi-dong",
+      "type": "ward",
+      "postalCode": "26878"
+    },
+    {
+      "code": "00068",
+      "name": "Bình Trưng",
+      "fullName": "Phường Bình Trưng, Thành phố Hồ Chí Minh",
+      "slug": "binh-trung",
+      "type": "ward",
+      "postalCode": "27097"
+    },
+    {
+      "code": "00069",
+      "name": "Thông Tây Hội",
+      "fullName": "Phường Thông Tây Hội, Thành phố Hồ Chí Minh",
+      "slug": "thong-tay-hoi",
+      "type": "ward",
+      "postalCode": "26898"
+    },
+    {
+      "code": "00070",
+      "name": "An Hội Tây",
+      "fullName": "Phường An Hội Tây, Thành phố Hồ Chí Minh",
+      "slug": "an-hoi-tay",
+      "type": "ward",
+      "postalCode": "26882"
+    },
+    {
+      "code": "00071",
+      "name": "Bình Hòa",
+      "fullName": "Phường Bình Hòa, Thành phố Hồ Chí Minh",
+      "slug": "binh-hoa",
+      "type": "ward",
+      "postalCode": "25987"
+    },
+    {
+      "code": "00074",
+      "name": "Long Bình",
+      "fullName": "Phường Long Bình, Thành phố Hồ Chí Minh",
+      "slug": "long-binh",
+      "type": "ward",
+      "postalCode": "26833"
+    },
+    {
+      "code": "00077",
+      "name": "Thủ Đức",
+      "fullName": "Phường Thủ Đức, Thành phố Hồ Chí Minh",
+      "slug": "thu-duc",
+      "type": "ward",
+      "postalCode": "26824"
+    },
+    {
+      "code": "00078",
+      "name": "Lái Thiêu",
+      "fullName": "Phường Lái Thiêu, Thành phố Hồ Chí Minh",
+      "slug": "lai-thieu",
+      "type": "ward",
+      "postalCode": "25966"
+    },
+    {
+      "code": "00081",
+      "name": "Vũng Tàu",
+      "fullName": "Phường Vũng Tàu, Thành phố Hồ Chí Minh",
+      "slug": "vung-tau",
+      "type": "ward",
+      "postalCode": "26506"
+    },
+    {
+      "code": "00082",
+      "name": "Tân Sơn Nhì",
+      "fullName": "Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh",
+      "slug": "tan-son-nhi",
+      "type": "ward",
+      "postalCode": "27019"
+    },
+    {
+      "code": "00083",
+      "name": "Bình Lợi Trung",
+      "fullName": "Phường Bình Lợi Trung, Thành phố Hồ Chí Minh",
+      "slug": "binh-loi-trung",
+      "type": "ward",
+      "postalCode": "26905"
+    },
+    {
+      "code": "00086",
+      "name": "Tân Nhựt",
+      "fullName": "Xã Tân Nhựt, Thành phố Hồ Chí Minh",
+      "slug": "tan-nhut",
+      "type": "commune",
+      "postalCode": "27595"
+    },
+    {
+      "code": "00087",
+      "name": "An Nhơn",
+      "fullName": "Phường An Nhơn, Thành phố Hồ Chí Minh",
+      "slug": "an-nhon",
+      "type": "ward",
+      "postalCode": "26876"
+    },
+    {
+      "code": "00088",
+      "name": "Tân Tạo",
+      "fullName": "Phường Tân Tạo, Thành phố Hồ Chí Minh",
+      "slug": "tan-tao",
+      "type": "ward",
+      "postalCode": "27457"
+    },
+    {
+      "code": "00094",
+      "name": "Gò Vấp",
+      "fullName": "Phường Gò Vấp, Thành phố Hồ Chí Minh",
+      "slug": "go-vap",
+      "type": "ward",
+      "postalCode": "26884"
+    },
+    {
+      "code": "00095",
+      "name": "Long Hải",
+      "fullName": "Xã Long Hải, Thành phố Hồ Chí Minh",
+      "slug": "long-hai",
+      "type": "commune",
+      "postalCode": "26662"
+    },
+    {
+      "code": "00098",
+      "name": "Phú Lợi",
+      "fullName": "Phường Phú Lợi, Thành phố Hồ Chí Minh",
+      "slug": "phu-loi",
+      "type": "ward",
+      "postalCode": "25750"
+    },
+    {
+      "code": "00099",
+      "name": "Bình Dương",
+      "fullName": "Phường Bình Dương, Thành phố Hồ Chí Minh",
+      "slug": "binh-duong",
+      "type": "ward",
+      "postalCode": "25760"
+    },
+    {
+      "code": "00109",
+      "name": "Vườn Lài",
+      "fullName": "Phường Vườn Lài, Thành phố Hồ Chí Minh",
+      "slug": "vuon-lai",
+      "type": "ward",
+      "postalCode": "27190"
+    },
+    {
+      "code": "00110",
+      "name": "Phú Thạnh",
+      "fullName": "Phường Phú Thạnh, Thành phố Hồ Chí Minh",
+      "slug": "phu-thanh",
+      "type": "ward",
+      "postalCode": "27028"
+    },
+    {
+      "code": "00111",
+      "name": "Xuân Thới Sơn",
+      "fullName": "Xã Xuân Thới Sơn, Thành phố Hồ Chí Minh",
+      "slug": "xuan-thoi-son",
+      "type": "commune",
+      "postalCode": "27577"
+    },
+    {
+      "code": "00118",
+      "name": "Tân Đông Hiệp",
+      "fullName": "Phường Tân Đông Hiệp, Thành phố Hồ Chí Minh",
+      "slug": "tan-dong-hiep",
+      "type": "ward",
+      "postalCode": "25945"
+    },
+    {
+      "code": "00122",
+      "name": "Bình Mỹ",
+      "fullName": "Xã Bình Mỹ, Thành phố Hồ Chí Minh",
+      "slug": "binh-my",
+      "type": "commune",
+      "postalCode": "27544"
+    },
+    {
+      "code": "00125",
+      "name": "Bến Cát",
+      "fullName": "Phường Bến Cát, Thành phố Hồ Chí Minh",
+      "slug": "ben-cat",
+      "type": "ward",
+      "postalCode": "25813"
+    },
+    {
+      "code": "00126",
+      "name": "Phú Hòa Đông",
+      "fullName": "Xã Phú Hòa Đông, Thành phố Hồ Chí Minh",
+      "slug": "phu-hoa-dong",
+      "type": "commune",
+      "postalCode": "27541"
+    },
+    {
+      "code": "00131",
+      "name": "Hòa Hưng",
+      "fullName": "Phường Hòa Hưng, Thành phố Hồ Chí Minh",
+      "slug": "hoa-hung",
+      "type": "ward",
+      "postalCode": "27163"
+    },
+    {
+      "code": "00134",
+      "name": "Khánh Hội",
+      "fullName": "Phường Khánh Hội, Thành phố Hồ Chí Minh",
+      "slug": "khanh-hoi",
+      "type": "ward",
+      "postalCode": "27265"
+    },
+    {
+      "code": "00137",
+      "name": "Tân Hòa",
+      "fullName": "Phường Tân Hòa, Thành phố Hồ Chí Minh",
+      "slug": "tan-hoa",
+      "type": "ward",
+      "postalCode": "26995"
+    },
+    {
+      "code": "00138",
+      "name": "Hóc Môn",
+      "fullName": "Xã Hóc Môn, Thành phố Hồ Chí Minh",
+      "slug": "hoc-mon",
+      "type": "commune",
+      "postalCode": "27559"
+    },
+    {
+      "code": "00139",
+      "name": "Tân Phú",
+      "fullName": "Phường Tân Phú, Thành phố Hồ Chí Minh",
+      "slug": "tan-phu",
+      "type": "ward",
+      "postalCode": "26713"
+    },
+    {
+      "code": "00144",
+      "name": "Bình Tiên",
+      "fullName": "Phường Bình Tiên, Thành phố Hồ Chí Minh",
+      "slug": "binh-tien",
+      "type": "ward",
+      "postalCode": "27373"
+    },
+    {
+      "code": "00146",
+      "name": "Minh Phụng",
+      "fullName": "Phường Minh Phụng, Thành phố Hồ Chí Minh",
+      "slug": "minh-phung",
+      "type": "ward",
+      "postalCode": "27238"
+    },
+    {
+      "code": "00150",
+      "name": "Tân Bình",
+      "fullName": "Phường Tân Bình, Thành phố Hồ Chí Minh",
+      "slug": "tan-binh",
+      "type": "ward",
+      "postalCode": "27004"
+    },
+    {
+      "code": "00155",
+      "name": "Thủ Dầu Một",
+      "fullName": "Phường Thủ Dầu Một, Thành phố Hồ Chí Minh",
+      "slug": "thu-dau-mot",
+      "type": "ward",
+      "postalCode": "25747"
+    },
+    {
+      "code": "00156",
+      "name": "Nhiêu Lộc",
+      "fullName": "Phường Nhiêu Lộc, Thành phố Hồ Chí Minh",
+      "slug": "nhieu-loc",
+      "type": "ward",
+      "postalCode": "27142"
+    },
+    {
+      "code": "00160",
+      "name": "Phú Lâm",
+      "fullName": "Phường Phú Lâm, Thành phố Hồ Chí Minh",
+      "slug": "phu-lam",
+      "type": "ward",
+      "postalCode": "27349"
+    },
+    {
+      "code": "00164",
+      "name": "Tam Thắng",
+      "fullName": "Phường Tam Thắng, Thành phố Hồ Chí Minh",
+      "slug": "tam-thang",
+      "type": "ward",
+      "postalCode": "26526"
+    },
+    {
+      "code": "00172",
+      "name": "Chợ Lớn",
+      "fullName": "Phường Chợ Lớn, Thành phố Hồ Chí Minh",
+      "slug": "cho-lon",
+      "type": "ward",
+      "postalCode": "27343"
+    },
+    {
+      "code": "00173",
+      "name": "Tân Sơn Nhất",
+      "fullName": "Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh",
+      "slug": "tan-son-nhat",
+      "type": "ward",
+      "postalCode": "26968"
+    },
+    {
+      "code": "00174",
+      "name": "Tân An Hội",
+      "fullName": "Xã Tân An Hội, Thành phố Hồ Chí Minh",
+      "slug": "tan-an-hoi",
+      "type": "commune",
+      "postalCode": "27496"
+    },
+    {
+      "code": "00178",
+      "name": "Phú Thuận",
+      "fullName": "Phường Phú Thuận, Thành phố Hồ Chí Minh",
+      "slug": "phu-thuan",
+      "type": "ward",
+      "postalCode": "27484"
+    },
+    {
+      "code": "00189",
+      "name": "An Đông",
+      "fullName": "Phường An Đông, Thành phố Hồ Chí Minh",
+      "slug": "an-dong",
+      "type": "ward",
+      "postalCode": "25945"
+    },
+    {
+      "code": "00194",
+      "name": "Hòa Lợi",
+      "fullName": "Phường Hòa Lợi, Thành phố Hồ Chí Minh",
+      "slug": "hoa-loi",
+      "type": "ward",
+      "postalCode": "25849"
+    },
+    {
+      "code": "00195",
+      "name": "Thới Hòa",
+      "fullName": "Phường Thới Hòa, Thành phố Hồ Chí Minh",
+      "slug": "thoi-hoa",
+      "type": "ward",
+      "postalCode": "25846"
+    },
+    {
+      "code": "00200",
+      "name": "Cầu Ông Lãnh",
+      "fullName": "Phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh",
+      "slug": "cau-ong-lanh",
+      "type": "ward",
+      "postalCode": "26758"
+    },
+    {
+      "code": "00201",
+      "name": "Phú Mỹ",
+      "fullName": "Phường Phú Mỹ, Thành phố Hồ Chí Minh",
+      "slug": "phu-my",
+      "type": "ward",
+      "postalCode": "26704"
+    },
+    {
+      "code": "00211",
+      "name": "Tân Sơn",
+      "fullName": "Phường Tân Sơn, Thành phố Hồ Chí Minh",
+      "slug": "tan-son",
+      "type": "ward",
+      "postalCode": "26968"
+    },
+    {
+      "code": "00216",
+      "name": "An Khánh",
+      "fullName": "Phường An Khánh, Thành phố Hồ Chí Minh",
+      "slug": "an-khanh",
+      "type": "ward",
+      "postalCode": "25891"
+    },
+    {
+      "code": "00220",
+      "name": "Bình Thới",
+      "fullName": "Phường Bình Thới, Thành phố Hồ Chí Minh",
+      "slug": "binh-thoi",
+      "type": "ward",
+      "postalCode": "27232"
+    },
+    {
+      "code": "00221",
+      "name": "Rạch Dừa",
+      "fullName": "Phường Rạch Dừa, Thành phố Hồ Chí Minh",
+      "slug": "rach-dua",
+      "type": "ward",
+      "postalCode": "26536"
+    },
+    {
+      "code": "00223",
+      "name": "Bình Chánh",
+      "fullName": "Xã Bình Chánh, Thành phố Hồ Chí Minh",
+      "slug": "binh-chanh",
+      "type": "commune",
+      "postalCode": "27637"
+    },
+    {
+      "code": "00225",
+      "name": "Bình Phú",
+      "fullName": "Phường Bình Phú, Thành phố Hồ Chí Minh",
+      "slug": "binh-phu",
+      "type": "ward",
+      "postalCode": "27364"
+    },
+    {
+      "code": "00227",
+      "name": "Diên Hồng",
+      "fullName": "Phường Diên Hồng, Thành phố Hồ Chí Minh",
+      "slug": "dien-hong",
+      "type": "ward",
+      "postalCode": "27169"
+    },
+    {
+      "code": "00239",
+      "name": "Long Trường",
+      "fullName": "Phường Long Trường, Thành phố Hồ Chí Minh",
+      "slug": "long-truong",
+      "type": "ward",
+      "postalCode": "26860"
+    },
+    {
+      "code": "00246",
+      "name": "Tân Uyên",
+      "fullName": "Phường Tân Uyên, Thành phố Hồ Chí Minh",
+      "slug": "tan-uyen",
+      "type": "ward",
+      "postalCode": "25888"
+    },
+    {
+      "code": "00249",
+      "name": "Tây Thạnh",
+      "fullName": "Phường Tây Thạnh, Thành phố Hồ Chí Minh",
+      "slug": "tay-thanh",
+      "type": "ward",
+      "postalCode": "27013"
+    },
+    {
+      "code": "00257",
+      "name": "Bến Thành",
+      "fullName": "Phường Bến Thành, Thành phố Hồ Chí Minh",
+      "slug": "ben-thanh",
+      "type": "ward",
+      "postalCode": "26743"
+    },
+    {
+      "code": "00263",
+      "name": "Hưng Long",
+      "fullName": "Xã Hưng Long, Thành phố Hồ Chí Minh",
+      "slug": "hung-long",
+      "type": "commune",
+      "postalCode": "27628"
+    },
+    {
+      "code": "00264",
+      "name": "Đức Nhuận",
+      "fullName": "Phường Đức Nhuận, Thành phố Hồ Chí Minh",
+      "slug": "duc-nhuan",
+      "type": "ward",
+      "postalCode": "27043"
+    },
+    {
+      "code": "00291",
+      "name": "Hoà Bình",
+      "fullName": "Phường Hoà Bình, Thành phố Hồ Chí Minh",
+      "slug": "hoa-binh",
+      "type": "ward",
+      "postalCode": "27211"
+    },
+    {
+      "code": "00297",
+      "name": "Cát Lái",
+      "fullName": "Phường Cát Lái, Thành phố Hồ Chí Minh",
+      "slug": "cat-lai",
+      "type": "ward",
+      "postalCode": "27112"
+    },
+    {
+      "code": "00301",
+      "name": "Phú Nhuận",
+      "fullName": "Phường Phú Nhuận, Thành phố Hồ Chí Minh",
+      "slug": "phu-nhuan",
+      "type": "ward",
+      "postalCode": "27073"
+    },
+    {
+      "code": "00303",
+      "name": "Tân Mỹ",
+      "fullName": "Phường Tân Mỹ, Thành phố Hồ Chí Minh",
+      "slug": "tan-my",
+      "type": "ward",
+      "postalCode": "27487"
+    },
+    {
+      "code": "00307",
+      "name": "Hiệp Phước",
+      "fullName": "Xã Hiệp Phước, Thành phố Hồ Chí Minh",
+      "slug": "hiep-phuoc",
+      "type": "commune",
+      "postalCode": "27658"
+    },
+    {
+      "code": "00308",
+      "name": "Bàn Cờ",
+      "fullName": "Phường Bàn Cờ, Thành phố Hồ Chí Minh",
+      "slug": "ban-co",
+      "type": "ward",
+      "postalCode": "27154"
+    },
+    {
+      "code": "00323",
+      "name": "Phú Thọ",
+      "fullName": "Phường Phú Thọ, Thành phố Hồ Chí Minh",
+      "slug": "phu-tho",
+      "type": "ward",
+      "postalCode": "27022"
+    },
+    {
+      "code": "00330",
+      "name": "Thuận An",
+      "fullName": "Phường Thuận An, Thành phố Hồ Chí Minh",
+      "slug": "thuan-an",
+      "type": "ward",
+      "postalCode": "25978"
+    },
+    {
+      "code": "00332",
+      "name": "Bình Cơ",
+      "fullName": "Phường Bình Cơ, Thành phố Hồ Chí Minh",
+      "slug": "binh-co",
+      "type": "ward",
+      "postalCode": "25915"
+    },
+    {
+      "code": "00336",
+      "name": "Tân Sơn Hòa",
+      "fullName": "Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh",
+      "slug": "tan-son-hoa",
+      "type": "ward",
+      "postalCode": "26977"
+    },
+    {
+      "code": "00340",
+      "name": "Chợ Quán",
+      "fullName": "Phường Chợ Quán, Thành phố Hồ Chí Minh",
+      "slug": "cho-quan",
+      "type": "ward",
+      "postalCode": "27301"
+    },
+    {
+      "code": "00346",
+      "name": "Bình Tây",
+      "fullName": "Phường Bình Tây, Thành phố Hồ Chí Minh",
+      "slug": "binh-tay",
+      "type": "ward",
+      "postalCode": "27367"
+    },
+    {
+      "code": "00352",
+      "name": "Vĩnh Hội",
+      "fullName": "Phường Vĩnh Hội, Thành phố Hồ Chí Minh",
+      "slug": "vinh-hoi",
+      "type": "ward",
+      "postalCode": "27286"
+    },
+    {
+      "code": "00359",
+      "name": "Cầu Kiệu",
+      "fullName": "Phường Cầu Kiệu, Thành phố Hồ Chí Minh",
+      "slug": "cau-kieu",
+      "type": "ward",
+      "postalCode": "27058"
+    },
+    {
+      "code": "00365",
+      "name": "Vĩnh Tân",
+      "fullName": "Phường Vĩnh Tân, Thành phố Hồ Chí Minh",
+      "slug": "vinh-tan",
+      "type": "ward",
+      "postalCode": "25912"
+    },
+    {
+      "code": "00425",
+      "name": "Xóm Chiếu",
+      "fullName": "Phường Xóm Chiếu, Thành phố Hồ Chí Minh",
+      "slug": "xom-chieu",
+      "type": "ward",
+      "postalCode": "27259"
+    },
+    {
+      "code": "00434",
+      "name": "Chánh Hiệp",
+      "fullName": "Phường Chánh Hiệp, Thành phố Hồ Chí Minh",
+      "slug": "chanh-hiep",
+      "type": "ward",
+      "postalCode": "25771"
+    },
+    {
+      "code": "00440",
+      "name": "Tây Nam",
+      "fullName": "Phường Tây Nam, Thành phố Hồ Chí Minh",
+      "slug": "tay-nam",
+      "type": "ward",
+      "postalCode": "25843"
+    },
+    {
+      "code": "00486",
+      "name": "Chánh Phú Hòa",
+      "fullName": "Phường Chánh Phú Hòa, Thành phố Hồ Chí Minh",
+      "slug": "chanh-phu-hoa",
+      "type": "ward",
+      "postalCode": "25837"
+    },
+    {
+      "code": "00498",
+      "name": "Long Nguyên",
+      "fullName": "Phường Long Nguyên, Thành phố Hồ Chí Minh",
+      "slug": "long-nguyen",
+      "type": "ward",
+      "postalCode": "25840"
+    },
+    {
+      "code": "00500",
+      "name": "Long Phước",
+      "fullName": "Phường Long Phước, Thành phố Hồ Chí Minh",
+      "slug": "long-phuoc",
+      "type": "ward",
+      "postalCode": "26857"
+    },
+    {
+      "code": "00510",
+      "name": "Phước Thắng",
+      "fullName": "Phường Phước Thắng, Thành phố Hồ Chí Minh",
+      "slug": "phuoc-thang",
+      "type": "ward",
+      "postalCode": "26542"
+    },
+    {
+      "code": "00515",
+      "name": "Bà Rịa",
+      "fullName": "Phường Bà Rịa, Thành phố Hồ Chí Minh",
+      "slug": "ba-ria",
+      "type": "ward",
+      "postalCode": "26560"
+    },
+    {
+      "code": "00524",
+      "name": "Hồ Tràm",
+      "fullName": "Xã Hồ Tràm, Thành phố Hồ Chí Minh",
+      "slug": "ho-tram",
+      "type": "commune",
+      "postalCode": "26620"
+    },
+    {
+      "code": "00578",
+      "name": "Thái Mỹ",
+      "fullName": "Xã Thái Mỹ, Thành phố Hồ Chí Minh",
+      "slug": "thai-my",
+      "type": "commune",
+      "postalCode": "27526"
+    },
+    {
+      "code": "00604",
+      "name": "Ngãi Giao",
+      "fullName": "Xã Ngãi Giao, Thành phố Hồ Chí Minh",
+      "slug": "ngai-giao",
+      "type": "commune",
+      "postalCode": "26575"
+    },
+    {
+      "code": "00622",
+      "name": "Tân Định",
+      "fullName": "Phường Tân Định, Thành phố Hồ Chí Minh",
+      "slug": "tan-dinh",
+      "type": "ward",
+      "postalCode": "26737"
+    },
+    {
+      "code": "00624",
+      "name": "Xuân Hòa",
+      "fullName": "Phường Xuân Hòa, Thành phố Hồ Chí Minh",
+      "slug": "xuan-hoa",
+      "type": "ward",
+      "postalCode": "27139"
+    },
+    {
+      "code": "00628",
+      "name": "Long Điền",
+      "fullName": "Xã Long Điền, Thành phố Hồ Chí Minh",
+      "slug": "long-dien",
+      "type": "commune",
+      "postalCode": "26659"
+    },
+    {
+      "code": "00649",
+      "name": "Bình Lợi",
+      "fullName": "Xã Bình Lợi, Thành phố Hồ Chí Minh",
+      "slug": "binh-loi",
+      "type": "commune",
+      "postalCode": "26905"
+    },
+    {
+      "code": "00656",
+      "name": "Sài Gòn",
+      "fullName": "Phường Sài Gòn, Thành phố Hồ Chí Minh",
+      "slug": "sai-gon",
+      "type": "ward",
+      "postalCode": "26740"
+    },
+    {
+      "code": "00684",
+      "name": "Bình Quới",
+      "fullName": "Phường Bình Quới, Thành phố Hồ Chí Minh",
+      "slug": "binh-quoi",
+      "type": "ward",
+      "postalCode": "26911"
+    },
+    {
+      "code": "00686",
+      "name": "Phú An",
+      "fullName": "Phường Phú An, Thành phố Hồ Chí Minh",
+      "slug": "phu-an",
+      "type": "ward",
+      "postalCode": "25768"
+    },
+    {
+      "code": "00757",
+      "name": "Đất Đỏ",
+      "fullName": "Xã Đất Đỏ, Thành phố Hồ Chí Minh",
+      "slug": "dat-do",
+      "type": "commune",
+      "postalCode": "26680"
+    },
+    {
+      "code": "00765",
+      "name": "Phước Hải",
+      "fullName": "Xã Phước Hải, Thành phố Hồ Chí Minh",
+      "slug": "phuoc-hai",
+      "type": "commune",
+      "postalCode": "26686"
+    },
+    {
+      "code": "00798",
+      "name": "Phú Giáo",
+      "fullName": "Xã Phú Giáo, Thành phố Hồ Chí Minh",
+      "slug": "phu-giao",
+      "type": "commune",
+      "postalCode": "25858"
+    },
+    {
+      "code": "00805",
+      "name": "Phước Hòa",
+      "fullName": "Xã Phước Hòa, Thành phố Hồ Chí Minh",
+      "slug": "phuoc-hoa",
+      "type": "commune",
+      "postalCode": "25882"
+    },
+    {
+      "code": "00818",
+      "name": "Bàu Bàng",
+      "fullName": "Xã Bàu Bàng, Thành phố Hồ Chí Minh",
+      "slug": "bau-bang",
+      "type": "commune",
+      "postalCode": "25822"
+    },
+    {
+      "code": "00853",
+      "name": "Tam Long",
+      "fullName": "Phường Tam Long, Thành phố Hồ Chí Minh",
+      "slug": "tam-long",
+      "type": "ward",
+      "postalCode": "26572"
+    },
+    {
+      "code": "00865",
+      "name": "An Nhơn Tây",
+      "fullName": "Xã An Nhơn Tây, Thành phố Hồ Chí Minh",
+      "slug": "an-nhon-tay",
+      "type": "commune",
+      "postalCode": "27508"
+    },
+    {
+      "code": "00891",
+      "name": "Nhuận Đức",
+      "fullName": "Xã Nhuận Đức, Thành phố Hồ Chí Minh",
+      "slug": "nhuan-duc",
+      "type": "commune",
+      "postalCode": "27511"
+    },
+    {
+      "code": "00952",
+      "name": "Dầu Tiếng",
+      "fullName": "Xã Dầu Tiếng, Thành phố Hồ Chí Minh",
+      "slug": "dau-tieng",
+      "type": "commune",
+      "postalCode": "25777"
+    },
+    {
+      "code": "01108",
+      "name": "Hòa Hội",
+      "fullName": "Xã Hòa Hội, Thành phố Hồ Chí Minh",
+      "slug": "hoa-hoi",
+      "type": "commune",
+      "postalCode": "26641"
+    },
+    {
+      "code": "01158",
+      "name": "Bình Khánh",
+      "fullName": "Xã Bình Khánh, Thành phố Hồ Chí Minh",
+      "slug": "binh-khanh",
+      "type": "commune",
+      "postalCode": "27667"
+    },
+    {
+      "code": "01216",
+      "name": "Bình Giã",
+      "fullName": "Xã Bình Giã, Thành phố Hồ Chí Minh",
+      "slug": "binh-gia",
+      "type": "commune",
+      "postalCode": "26590"
+    },
+    {
+      "code": "01237",
+      "name": "Tân Thành",
+      "fullName": "Phường Tân Thành, Thành phố Hồ Chí Minh",
+      "slug": "tan-thanh",
+      "type": "ward",
+      "postalCode": "26725"
+    },
+    {
+      "code": "01270",
+      "name": "Kim Long",
+      "fullName": "Xã Kim Long, Thành phố Hồ Chí Minh",
+      "slug": "kim-long",
+      "type": "commune",
+      "postalCode": "26608"
+    },
+    {
+      "code": "01407",
+      "name": "Long Hương",
+      "fullName": "Phường Long Hương, Thành phố Hồ Chí Minh",
+      "slug": "long-huong",
+      "type": "ward",
+      "postalCode": "26566"
+    },
+    {
+      "code": "01497",
+      "name": "Tân Hải",
+      "fullName": "Phường Tân Hải, Thành phố Hồ Chí Minh",
+      "slug": "tan-hai",
+      "type": "ward",
+      "postalCode": "26710"
+    },
+    {
+      "code": "01570",
+      "name": "Tân Phước",
+      "fullName": "Phường Tân Phước, Thành phố Hồ Chí Minh",
+      "slug": "tan-phuoc",
+      "type": "ward",
+      "postalCode": "26713"
+    },
+    {
+      "code": "01646",
+      "name": "Châu Đức",
+      "fullName": "Xã Châu Đức, Thành phố Hồ Chí Minh",
+      "slug": "chau-duc",
+      "type": "commune",
+      "postalCode": "26596"
+    },
+    {
+      "code": "01662",
+      "name": "Bắc Tân Uyên",
+      "fullName": "Xã Bắc Tân Uyên, Thành phố Hồ Chí Minh",
+      "slug": "bac-tan-uyen",
+      "type": "commune",
+      "postalCode": "25906"
+    },
+    {
+      "code": "01676",
+      "name": "Nghĩa Thành",
+      "fullName": "Xã Nghĩa Thành, Thành phố Hồ Chí Minh",
+      "slug": "nghia-thanh",
+      "type": "commune",
+      "postalCode": "26617"
+    },
+    {
+      "code": "01713",
+      "name": "Xuân Sơn",
+      "fullName": "Xã Xuân Sơn, Thành phố Hồ Chí Minh",
+      "slug": "xuan-son",
+      "type": "commune",
+      "postalCode": "26584"
+    },
+    {
+      "code": "01735",
+      "name": "Cần Giờ",
+      "fullName": "Xã Cần Giờ, Thành phố Hồ Chí Minh",
+      "slug": "can-gio",
+      "type": "commune",
+      "postalCode": "27664"
+    },
+    {
+      "code": "01753",
+      "name": "Xuyên Mộc",
+      "fullName": "Xã Xuyên Mộc, Thành phố Hồ Chí Minh",
+      "slug": "xuyen-moc",
+      "type": "commune",
+      "postalCode": "26632"
+    },
+    {
+      "code": "01816",
+      "name": "Bình Châu",
+      "fullName": "Xã Bình Châu, Thành phố Hồ Chí Minh",
+      "slug": "binh-chau",
+      "type": "commune",
+      "postalCode": "26656"
+    },
+    {
+      "code": "01822",
+      "name": "Hòa Hiệp",
+      "fullName": "Xã Hòa Hiệp, Thành phố Hồ Chí Minh",
+      "slug": "hoa-hiep",
+      "type": "commune",
+      "postalCode": "26647"
+    },
+    {
+      "code": "01862",
+      "name": "Châu Pha",
+      "fullName": "Xã Châu Pha, Thành phố Hồ Chí Minh",
+      "slug": "chau-pha",
+      "type": "commune",
+      "postalCode": "26728"
+    },
+    {
+      "code": "01872",
+      "name": "Thanh An",
+      "fullName": "Xã Thanh An, Thành phố Hồ Chí Minh",
+      "slug": "thanh-an",
+      "type": "commune",
+      "postalCode": "25807"
+    },
+    {
+      "code": "01885",
+      "name": "Long Hòa",
+      "fullName": "Xã Long Hòa, Thành phố Hồ Chí Minh",
+      "slug": "long-hoa",
+      "type": "commune",
+      "postalCode": "25792"
+    },
+    {
+      "code": "01935",
+      "name": "Trừ Văn Thố",
+      "fullName": "Xã Trừ Văn Thố, Thành phố Hồ Chí Minh",
+      "slug": "tru-van-tho",
+      "type": "commune",
+      "postalCode": "25819"
+    },
+    {
+      "code": "01965",
+      "name": "Minh Thạnh",
+      "fullName": "Xã Minh Thạnh, Thành phố Hồ Chí Minh",
+      "slug": "minh-thanh",
+      "type": "commune",
+      "postalCode": "25780"
+    },
+    {
+      "code": "02099",
+      "name": "An Thới Đông",
+      "fullName": "Xã An Thới Đông, Thành phố Hồ Chí Minh",
+      "slug": "an-thoi-dong",
+      "type": "commune",
+      "postalCode": "27673"
+    },
+    {
+      "code": "02101",
+      "name": "Bàu Lâm",
+      "fullName": "Xã Bàu Lâm, Thành phố Hồ Chí Minh",
+      "slug": "bau-lam",
+      "type": "commune",
+      "postalCode": "26638"
+    },
+    {
+      "code": "02184",
+      "name": "Thường Tân",
+      "fullName": "Xã Thường Tân, Thành phố Hồ Chí Minh",
+      "slug": "thuong-tan",
+      "type": "commune",
+      "postalCode": "25909"
+    },
+    {
+      "code": "02401",
+      "name": "An Long",
+      "fullName": "Xã An Long, Thành phố Hồ Chí Minh",
+      "slug": "an-long",
+      "type": "commune",
+      "postalCode": "25867"
+    },
+    {
+      "code": "02408",
+      "name": "Long Sơn",
+      "fullName": "Xã Long Sơn, Thành phố Hồ Chí Minh",
+      "slug": "long-son",
+      "type": "commune",
+      "postalCode": "26545"
+    },
+    {
+      "code": "02549",
+      "name": "Phước Thành",
+      "fullName": "Xã Phước Thành, Thành phố Hồ Chí Minh",
+      "slug": "phuoc-thanh",
+      "type": "commune",
+      "postalCode": "25864"
+    },
+    {
+      "code": "03163",
+      "name": "Côn Đảo",
+      "fullName": "Đặc khu Côn Đảo, Thành phố Hồ Chí Minh",
+      "slug": "con-dao",
+      "type": "commune",
+      "postalCode": "26732"
+    },
+    {
+      "code": "03249",
+      "name": "Thạnh An",
+      "fullName": "Xã Thạnh An, Thành phố Hồ Chí Minh",
+      "slug": "thanh-an",
+      "type": "commune",
+      "postalCode": "25807"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Thủ Dầu Một",
+      "slug": "thanh-pho-thu-dau-mot",
+      "wards": [
+        {
+          "code": "25747",
+          "name": "Thủ Dầu Một",
+          "fullName": "Phường Thủ Dầu Một, Tỉnh Hồ Chí Minh",
+          "slug": "thu-dau-mot",
+          "postalCode": "25747"
+        },
+        {
+          "code": "25750",
+          "name": "Phú Lợi",
+          "fullName": "Phường Phú Lợi, Tỉnh Hồ Chí Minh",
+          "slug": "phu-loi",
+          "postalCode": "25750"
+        },
+        {
+          "code": "25760",
+          "name": "Bình Dương",
+          "fullName": "Phường Bình Dương, Tỉnh Hồ Chí Minh",
+          "slug": "binh-duong",
+          "postalCode": "25760"
+        },
+        {
+          "code": "25768",
+          "name": "Phú An",
+          "fullName": "Phường Phú An, Tỉnh Hồ Chí Minh",
+          "slug": "phu-an",
+          "postalCode": "25768"
+        },
+        {
+          "code": "25771",
+          "name": "Chánh Hiệp",
+          "fullName": "Phường Chánh Hiệp, Tỉnh Hồ Chí Minh",
+          "slug": "chanh-hiep",
+          "postalCode": "25771"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Tân Uyên",
+      "slug": "thanh-pho-tan-uyen",
+      "wards": [
+        {
+          "code": "25760",
+          "name": "Bình Dương",
+          "fullName": "Phường Bình Dương, Tỉnh Hồ Chí Minh",
+          "slug": "binh-duong",
+          "postalCode": "25760"
+        },
+        {
+          "code": "25888",
+          "name": "Tân Uyên",
+          "fullName": "Phường Tân Uyên, Tỉnh Hồ Chí Minh",
+          "slug": "tan-uyen",
+          "postalCode": "25888"
+        },
+        {
+          "code": "25891",
+          "name": "Tân Khánh",
+          "fullName": "Phường Tân Khánh, Tỉnh Hồ Chí Minh",
+          "slug": "tan-khanh",
+          "postalCode": "25891"
+        },
+        {
+          "code": "25912",
+          "name": "Vĩnh Tân",
+          "fullName": "Phường Vĩnh Tân, Tỉnh Hồ Chí Minh",
+          "slug": "vinh-tan",
+          "postalCode": "25912"
+        },
+        {
+          "code": "25915",
+          "name": "Bình Cơ",
+          "fullName": "Phường Bình Cơ, Tỉnh Hồ Chí Minh",
+          "slug": "binh-co",
+          "postalCode": "25915"
+        },
+        {
+          "code": "25920",
+          "name": "Tân Hiệp",
+          "fullName": "Phường Tân Hiệp, Tỉnh Hồ Chí Minh",
+          "slug": "tan-hiep",
+          "postalCode": "25920"
+        },
+        {
+          "code": "25945",
+          "name": "Tân Đông Hiệp",
+          "fullName": "Phường Tân Đông Hiệp, Tỉnh Hồ Chí Minh",
+          "slug": "tan-dong-hiep",
+          "postalCode": "25945"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Bến Cát",
+      "slug": "thanh-pho-ben-cat",
+      "wards": [
+        {
+          "code": "25768",
+          "name": "Phú An",
+          "fullName": "Phường Phú An, Tỉnh Hồ Chí Minh",
+          "slug": "phu-an",
+          "postalCode": "25768"
+        },
+        {
+          "code": "25813",
+          "name": "Bến Cát",
+          "fullName": "Phường Bến Cát, Tỉnh Hồ Chí Minh",
+          "slug": "ben-cat",
+          "postalCode": "25813"
+        },
+        {
+          "code": "25837",
+          "name": "Chánh Phú Hòa",
+          "fullName": "Phường Chánh Phú Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "chanh-phu-hoa",
+          "postalCode": "25837"
+        },
+        {
+          "code": "25840",
+          "name": "Long Nguyên",
+          "fullName": "Phường Long Nguyên, Tỉnh Hồ Chí Minh",
+          "slug": "long-nguyen",
+          "postalCode": "25840"
+        },
+        {
+          "code": "25843",
+          "name": "Tây Nam",
+          "fullName": "Phường Tây Nam, Tỉnh Hồ Chí Minh",
+          "slug": "tay-nam",
+          "postalCode": "25843"
+        },
+        {
+          "code": "25846",
+          "name": "Thới Hòa",
+          "fullName": "Phường Thới Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "thoi-hoa",
+          "postalCode": "25846"
+        },
+        {
+          "code": "25849",
+          "name": "Hòa Lợi",
+          "fullName": "Phường Hòa Lợi, Tỉnh Hồ Chí Minh",
+          "slug": "hoa-loi",
+          "postalCode": "25849"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bàu Bàng",
+      "slug": "huyen-bau-bang",
+      "wards": [
+        {
+          "code": "25813",
+          "name": "Bến Cát",
+          "fullName": "Phường Bến Cát, Tỉnh Hồ Chí Minh",
+          "slug": "ben-cat",
+          "postalCode": "25813"
+        },
+        {
+          "code": "25819",
+          "name": "Trừ Văn Thố",
+          "fullName": "Xã Trừ Văn Thố, Tỉnh Hồ Chí Minh",
+          "slug": "tru-van-tho",
+          "postalCode": "25819"
+        },
+        {
+          "code": "25822",
+          "name": "Bàu Bàng",
+          "fullName": "Xã Bàu Bàng, Tỉnh Hồ Chí Minh",
+          "slug": "bau-bang",
+          "postalCode": "25822"
+        },
+        {
+          "code": "25837",
+          "name": "Chánh Phú Hòa",
+          "fullName": "Phường Chánh Phú Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "chanh-phu-hoa",
+          "postalCode": "25837"
+        },
+        {
+          "code": "25840",
+          "name": "Long Nguyên",
+          "fullName": "Phường Long Nguyên, Tỉnh Hồ Chí Minh",
+          "slug": "long-nguyen",
+          "postalCode": "25840"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Dầu Tiếng",
+      "slug": "huyen-dau-tieng",
+      "wards": [
+        {
+          "code": "25777",
+          "name": "Dầu Tiếng",
+          "fullName": "Xã Dầu Tiếng, Tỉnh Hồ Chí Minh",
+          "slug": "dau-tieng",
+          "postalCode": "25777"
+        },
+        {
+          "code": "25780",
+          "name": "Minh Thạnh",
+          "fullName": "Xã Minh Thạnh, Tỉnh Hồ Chí Minh",
+          "slug": "minh-thanh",
+          "postalCode": "25780"
+        },
+        {
+          "code": "25792",
+          "name": "Long Hòa",
+          "fullName": "Xã Long Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "long-hoa",
+          "postalCode": "25792"
+        },
+        {
+          "code": "25807",
+          "name": "Thanh An",
+          "fullName": "Xã Thanh An, Tỉnh Hồ Chí Minh",
+          "slug": "thanh-an",
+          "postalCode": "25807"
+        },
+        {
+          "code": "25843",
+          "name": "Tây Nam",
+          "fullName": "Phường Tây Nam, Tỉnh Hồ Chí Minh",
+          "slug": "tay-nam",
+          "postalCode": "25843"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bắc Tân Uyên",
+      "slug": "huyen-bac-tan-uyen",
+      "wards": [
+        {
+          "code": "25888",
+          "name": "Tân Uyên",
+          "fullName": "Phường Tân Uyên, Tỉnh Hồ Chí Minh",
+          "slug": "tan-uyen",
+          "postalCode": "25888"
+        },
+        {
+          "code": "25906",
+          "name": "Bắc Tân Uyên",
+          "fullName": "Xã Bắc Tân Uyên, Tỉnh Hồ Chí Minh",
+          "slug": "bac-tan-uyen",
+          "postalCode": "25906"
+        },
+        {
+          "code": "25909",
+          "name": "Thường Tân",
+          "fullName": "Xã Thường Tân, Tỉnh Hồ Chí Minh",
+          "slug": "thuong-tan",
+          "postalCode": "25909"
+        },
+        {
+          "code": "25912",
+          "name": "Vĩnh Tân",
+          "fullName": "Phường Vĩnh Tân, Tỉnh Hồ Chí Minh",
+          "slug": "vinh-tan",
+          "postalCode": "25912"
+        },
+        {
+          "code": "25915",
+          "name": "Bình Cơ",
+          "fullName": "Phường Bình Cơ, Tỉnh Hồ Chí Minh",
+          "slug": "binh-co",
+          "postalCode": "25915"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Dĩ An",
+      "slug": "thanh-pho-di-an",
+      "wards": [
+        {
+          "code": "25942",
+          "name": "Dĩ An",
+          "fullName": "Phường Dĩ An, Tỉnh Hồ Chí Minh",
+          "slug": "di-an",
+          "postalCode": "25942"
+        },
+        {
+          "code": "25945",
+          "name": "Tân Đông Hiệp",
+          "fullName": "Phường Tân Đông Hiệp, Tỉnh Hồ Chí Minh",
+          "slug": "tan-dong-hiep",
+          "postalCode": "25945"
+        },
+        {
+          "code": "25951",
+          "name": "Đông Hòa",
+          "fullName": "Phường Đông Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "dong-hoa",
+          "postalCode": "25951"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Thuận An",
+      "slug": "thanh-pho-thuan-an",
+      "wards": [
+        {
+          "code": "25966",
+          "name": "Lái Thiêu",
+          "fullName": "Phường Lái Thiêu, Tỉnh Hồ Chí Minh",
+          "slug": "lai-thieu",
+          "postalCode": "25966"
+        },
+        {
+          "code": "25969",
+          "name": "Thuận Giao",
+          "fullName": "Phường Thuận Giao, Tỉnh Hồ Chí Minh",
+          "slug": "thuan-giao",
+          "postalCode": "25969"
+        },
+        {
+          "code": "25975",
+          "name": "An Phú",
+          "fullName": "Phường An Phú, Tỉnh Hồ Chí Minh",
+          "slug": "an-phu",
+          "postalCode": "25975"
+        },
+        {
+          "code": "25978",
+          "name": "Thuận An",
+          "fullName": "Phường Thuận An, Tỉnh Hồ Chí Minh",
+          "slug": "thuan-an",
+          "postalCode": "25978"
+        },
+        {
+          "code": "25987",
+          "name": "Bình Hòa",
+          "fullName": "Phường Bình Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "binh-hoa",
+          "postalCode": "25987"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Vũng Tàu",
+      "slug": "thanh-pho-vung-tau",
+      "wards": [
+        {
+          "code": "26506",
+          "name": "Vũng Tàu",
+          "fullName": "Phường Vũng Tàu, Tỉnh Hồ Chí Minh",
+          "slug": "vung-tau",
+          "postalCode": "26506"
+        },
+        {
+          "code": "26526",
+          "name": "Tam Thắng",
+          "fullName": "Phường Tam Thắng, Tỉnh Hồ Chí Minh",
+          "slug": "tam-thang",
+          "postalCode": "26526"
+        },
+        {
+          "code": "26536",
+          "name": "Rạch Dừa",
+          "fullName": "Phường Rạch Dừa, Tỉnh Hồ Chí Minh",
+          "slug": "rach-dua",
+          "postalCode": "26536"
+        },
+        {
+          "code": "26542",
+          "name": "Phước Thắng",
+          "fullName": "Phường Phước Thắng, Tỉnh Hồ Chí Minh",
+          "slug": "phuoc-thang",
+          "postalCode": "26542"
+        },
+        {
+          "code": "26545",
+          "name": "Long Sơn",
+          "fullName": "Xã Long Sơn, Tỉnh Hồ Chí Minh",
+          "slug": "long-son",
+          "postalCode": "26545"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Bà Rịa",
+      "slug": "thanh-pho-ba-ria",
+      "wards": [
+        {
+          "code": "26560",
+          "name": "Bà Rịa",
+          "fullName": "Phường Bà Rịa, Tỉnh Hồ Chí Minh",
+          "slug": "ba-ria",
+          "postalCode": "26560"
+        },
+        {
+          "code": "26566",
+          "name": "Long Hương",
+          "fullName": "Phường Long Hương, Tỉnh Hồ Chí Minh",
+          "slug": "long-huong",
+          "postalCode": "26566"
+        },
+        {
+          "code": "26572",
+          "name": "Tam Long",
+          "fullName": "Phường Tam Long, Tỉnh Hồ Chí Minh",
+          "slug": "tam-long",
+          "postalCode": "26572"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Phú Mỹ",
+      "slug": "thanh-pho-phu-my",
+      "wards": [
+        {
+          "code": "26704",
+          "name": "Phú Mỹ",
+          "fullName": "Phường Phú Mỹ, Tỉnh Hồ Chí Minh",
+          "slug": "phu-my",
+          "postalCode": "26704"
+        },
+        {
+          "code": "26710",
+          "name": "Tân Hải",
+          "fullName": "Phường Tân Hải, Tỉnh Hồ Chí Minh",
+          "slug": "tan-hai",
+          "postalCode": "26710"
+        },
+        {
+          "code": "26713",
+          "name": "Tân Phước",
+          "fullName": "Phường Tân Phước, Tỉnh Hồ Chí Minh",
+          "slug": "tan-phuoc",
+          "postalCode": "26713"
+        },
+        {
+          "code": "26725",
+          "name": "Tân Thành",
+          "fullName": "Phường Tân Thành, Tỉnh Hồ Chí Minh",
+          "slug": "tan-thanh",
+          "postalCode": "26725"
+        },
+        {
+          "code": "26728",
+          "name": "Châu Pha",
+          "fullName": "Xã Châu Pha, Tỉnh Hồ Chí Minh",
+          "slug": "chau-pha",
+          "postalCode": "26728"
+        }
+      ]
+    },
+    {
+      "name": "Quận 1",
+      "slug": "quan-1",
+      "wards": [
+        {
+          "code": "26737",
+          "name": "Tân Định",
+          "fullName": "Phường Tân Định, Tỉnh Hồ Chí Minh",
+          "slug": "tan-dinh",
+          "postalCode": "26737"
+        },
+        {
+          "code": "26740",
+          "name": "Sài Gòn",
+          "fullName": "Phường Sài Gòn, Tỉnh Hồ Chí Minh",
+          "slug": "sai-gon",
+          "postalCode": "26740"
+        },
+        {
+          "code": "26743",
+          "name": "Bến Thành",
+          "fullName": "Phường Bến Thành, Tỉnh Hồ Chí Minh",
+          "slug": "ben-thanh",
+          "postalCode": "26743"
+        },
+        {
+          "code": "26758",
+          "name": "Cầu Ông Lãnh",
+          "fullName": "Phường Cầu Ông Lãnh, Tỉnh Hồ Chí Minh",
+          "slug": "cau-ong-lanh",
+          "postalCode": "26758"
+        }
+      ]
+    },
+    {
+      "name": "Quận 12",
+      "slug": "quan-12",
+      "wards": [
+        {
+          "code": "26767",
+          "name": "An Phú Đông",
+          "fullName": "Phường An Phú Đông, Tỉnh Hồ Chí Minh",
+          "slug": "an-phu-dong",
+          "postalCode": "26767"
+        },
+        {
+          "code": "26773",
+          "name": "Thới An",
+          "fullName": "Phường Thới An, Tỉnh Hồ Chí Minh",
+          "slug": "thoi-an",
+          "postalCode": "26773"
+        },
+        {
+          "code": "26782",
+          "name": "Tân Thới Hiệp",
+          "fullName": "Phường Tân Thới Hiệp, Tỉnh Hồ Chí Minh",
+          "slug": "tan-thoi-hiep",
+          "postalCode": "26782"
+        },
+        {
+          "code": "26785",
+          "name": "Trung Mỹ Tây",
+          "fullName": "Phường Trung Mỹ Tây, Tỉnh Hồ Chí Minh",
+          "slug": "trung-my-tay",
+          "postalCode": "26785"
+        },
+        {
+          "code": "26791",
+          "name": "Đông Hưng Thuận",
+          "fullName": "Phường Đông Hưng Thuận, Tỉnh Hồ Chí Minh",
+          "slug": "dong-hung-thuan",
+          "postalCode": "26791"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Thủ Đức",
+      "slug": "thanh-pho-thu-duc",
+      "wards": [
+        {
+          "code": "26800",
+          "name": "Linh Xuân",
+          "fullName": "Phường Linh Xuân, Tỉnh Hồ Chí Minh",
+          "slug": "linh-xuan",
+          "postalCode": "26800"
+        },
+        {
+          "code": "26803",
+          "name": "Tam Bình",
+          "fullName": "Phường Tam Bình, Tỉnh Hồ Chí Minh",
+          "slug": "tam-binh",
+          "postalCode": "26803"
+        },
+        {
+          "code": "26809",
+          "name": "Hiệp Bình",
+          "fullName": "Phường Hiệp Bình, Tỉnh Hồ Chí Minh",
+          "slug": "hiep-binh",
+          "postalCode": "26809"
+        },
+        {
+          "code": "26824",
+          "name": "Thủ Đức",
+          "fullName": "Phường Thủ Đức, Tỉnh Hồ Chí Minh",
+          "slug": "thu-duc",
+          "postalCode": "26824"
+        },
+        {
+          "code": "26833",
+          "name": "Long Bình",
+          "fullName": "Phường Long Bình, Tỉnh Hồ Chí Minh",
+          "slug": "long-binh",
+          "postalCode": "26833"
+        },
+        {
+          "code": "26842",
+          "name": "Tăng Nhơn Phú",
+          "fullName": "Phường Tăng Nhơn Phú, Tỉnh Hồ Chí Minh",
+          "slug": "tang-nhon-phu",
+          "postalCode": "26842"
+        },
+        {
+          "code": "26848",
+          "name": "Phước Long",
+          "fullName": "Phường Phước Long, Tỉnh Hồ Chí Minh",
+          "slug": "phuoc-long",
+          "postalCode": "26848"
+        },
+        {
+          "code": "26857",
+          "name": "Long Phước",
+          "fullName": "Phường Long Phước, Tỉnh Hồ Chí Minh",
+          "slug": "long-phuoc",
+          "postalCode": "26857"
+        },
+        {
+          "code": "26860",
+          "name": "Long Trường",
+          "fullName": "Phường Long Trường, Tỉnh Hồ Chí Minh",
+          "slug": "long-truong",
+          "postalCode": "26860"
+        },
+        {
+          "code": "27094",
+          "name": "An Khánh",
+          "fullName": "Phường An Khánh, Tỉnh Hồ Chí Minh",
+          "slug": "an-khanh",
+          "postalCode": "27094"
+        },
+        {
+          "code": "27097",
+          "name": "Bình Trưng",
+          "fullName": "Phường Bình Trưng, Tỉnh Hồ Chí Minh",
+          "slug": "binh-trung",
+          "postalCode": "27097"
+        },
+        {
+          "code": "27112",
+          "name": "Cát Lái",
+          "fullName": "Phường Cát Lái, Tỉnh Hồ Chí Minh",
+          "slug": "cat-lai",
+          "postalCode": "27112"
+        }
+      ]
+    },
+    {
+      "name": "Quận Gò Vấp",
+      "slug": "quan-go-vap",
+      "wards": [
+        {
+          "code": "26876",
+          "name": "An Nhơn",
+          "fullName": "Phường An Nhơn, Tỉnh Hồ Chí Minh",
+          "slug": "an-nhon",
+          "postalCode": "26876"
+        },
+        {
+          "code": "26878",
+          "name": "An Hội Đông",
+          "fullName": "Phường An Hội Đông, Tỉnh Hồ Chí Minh",
+          "slug": "an-hoi-dong",
+          "postalCode": "26878"
+        },
+        {
+          "code": "26882",
+          "name": "An Hội Tây",
+          "fullName": "Phường An Hội Tây, Tỉnh Hồ Chí Minh",
+          "slug": "an-hoi-tay",
+          "postalCode": "26882"
+        },
+        {
+          "code": "26884",
+          "name": "Gò Vấp",
+          "fullName": "Phường Gò Vấp, Tỉnh Hồ Chí Minh",
+          "slug": "go-vap",
+          "postalCode": "26884"
+        },
+        {
+          "code": "26890",
+          "name": "Hạnh Thông",
+          "fullName": "Phường Hạnh Thông, Tỉnh Hồ Chí Minh",
+          "slug": "hanh-thong",
+          "postalCode": "26890"
+        },
+        {
+          "code": "26898",
+          "name": "Thông Tây Hội",
+          "fullName": "Phường Thông Tây Hội, Tỉnh Hồ Chí Minh",
+          "slug": "thong-tay-hoi",
+          "postalCode": "26898"
+        }
+      ]
+    },
+    {
+      "name": "Quận Bình Thạnh",
+      "slug": "quan-binh-thanh",
+      "wards": [
+        {
+          "code": "26905",
+          "name": "Bình Lợi Trung",
+          "fullName": "Phường Bình Lợi Trung, Tỉnh Hồ Chí Minh",
+          "slug": "binh-loi-trung",
+          "postalCode": "26905"
+        },
+        {
+          "code": "26911",
+          "name": "Bình Quới",
+          "fullName": "Phường Bình Quới, Tỉnh Hồ Chí Minh",
+          "slug": "binh-quoi",
+          "postalCode": "26911"
+        },
+        {
+          "code": "26929",
+          "name": "Bình Thạnh",
+          "fullName": "Phường Bình Thạnh, Tỉnh Hồ Chí Minh",
+          "slug": "binh-thanh",
+          "postalCode": "26929"
+        },
+        {
+          "code": "26944",
+          "name": "Gia Định",
+          "fullName": "Phường Gia Định, Tỉnh Hồ Chí Minh",
+          "slug": "gia-dinh",
+          "postalCode": "26944"
+        },
+        {
+          "code": "26956",
+          "name": "Thạnh Mỹ Tây",
+          "fullName": "Phường Thạnh Mỹ Tây, Tỉnh Hồ Chí Minh",
+          "slug": "thanh-my-tay",
+          "postalCode": "26956"
+        }
+      ]
+    },
+    {
+      "name": "Quận Tân Bình",
+      "slug": "quan-tan-binh",
+      "wards": [
+        {
+          "code": "26968",
+          "name": "Tân Sơn Nhất",
+          "fullName": "Phường Tân Sơn Nhất, Tỉnh Hồ Chí Minh",
+          "slug": "tan-son-nhat",
+          "postalCode": "26968"
+        },
+        {
+          "code": "26977",
+          "name": "Tân Sơn Hòa",
+          "fullName": "Phường Tân Sơn Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "tan-son-hoa",
+          "postalCode": "26977"
+        },
+        {
+          "code": "26983",
+          "name": "Bảy Hiền",
+          "fullName": "Phường Bảy Hiền, Tỉnh Hồ Chí Minh",
+          "slug": "bay-hien",
+          "postalCode": "26983"
+        },
+        {
+          "code": "26995",
+          "name": "Tân Hòa",
+          "fullName": "Phường Tân Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "tan-hoa",
+          "postalCode": "26995"
+        },
+        {
+          "code": "27004",
+          "name": "Tân Bình",
+          "fullName": "Phường Tân Bình, Tỉnh Hồ Chí Minh",
+          "slug": "tan-binh",
+          "postalCode": "27004"
+        },
+        {
+          "code": "27007",
+          "name": "Tân Sơn",
+          "fullName": "Phường Tân Sơn, Tỉnh Hồ Chí Minh",
+          "slug": "tan-son",
+          "postalCode": "27007"
+        }
+      ]
+    },
+    {
+      "name": "Quận Tân Phú",
+      "slug": "quan-tan-phu",
+      "wards": [
+        {
+          "code": "27013",
+          "name": "Tây Thạnh",
+          "fullName": "Phường Tây Thạnh, Tỉnh Hồ Chí Minh",
+          "slug": "tay-thanh",
+          "postalCode": "27013"
+        },
+        {
+          "code": "27019",
+          "name": "Tân Sơn Nhì",
+          "fullName": "Phường Tân Sơn Nhì, Tỉnh Hồ Chí Minh",
+          "slug": "tan-son-nhi",
+          "postalCode": "27019"
+        },
+        {
+          "code": "27022",
+          "name": "Phú Thọ Hòa",
+          "fullName": "Phường Phú Thọ Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "phu-tho-hoa",
+          "postalCode": "27022"
+        },
+        {
+          "code": "27028",
+          "name": "Phú Thạnh",
+          "fullName": "Phường Phú Thạnh, Tỉnh Hồ Chí Minh",
+          "slug": "phu-thanh",
+          "postalCode": "27028"
+        },
+        {
+          "code": "27031",
+          "name": "Tân Phú",
+          "fullName": "Phường Tân Phú, Tỉnh Hồ Chí Minh",
+          "slug": "tan-phu",
+          "postalCode": "27031"
+        },
+        {
+          "code": "27439",
+          "name": "Bình Hưng Hòa",
+          "fullName": "Phường Bình Hưng Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "binh-hung-hoa",
+          "postalCode": "27439"
+        }
+      ]
+    },
+    {
+      "name": "Quận Phú Nhuận",
+      "slug": "quan-phu-nhuan",
+      "wards": [
+        {
+          "code": "27043",
+          "name": "Đức Nhuận",
+          "fullName": "Phường Đức Nhuận, Tỉnh Hồ Chí Minh",
+          "slug": "duc-nhuan",
+          "postalCode": "27043"
+        },
+        {
+          "code": "27058",
+          "name": "Cầu Kiệu",
+          "fullName": "Phường Cầu Kiệu, Tỉnh Hồ Chí Minh",
+          "slug": "cau-kieu",
+          "postalCode": "27058"
+        },
+        {
+          "code": "27073",
+          "name": "Phú Nhuận",
+          "fullName": "Phường Phú Nhuận, Tỉnh Hồ Chí Minh",
+          "slug": "phu-nhuan",
+          "postalCode": "27073"
+        }
+      ]
+    },
+    {
+      "name": "Quận 3",
+      "slug": "quan-3",
+      "wards": [
+        {
+          "code": "27139",
+          "name": "Xuân Hòa",
+          "fullName": "Phường Xuân Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "xuan-hoa",
+          "postalCode": "27139"
+        },
+        {
+          "code": "27142",
+          "name": "Nhiêu Lộc",
+          "fullName": "Phường Nhiêu Lộc, Tỉnh Hồ Chí Minh",
+          "slug": "nhieu-loc",
+          "postalCode": "27142"
+        },
+        {
+          "code": "27154",
+          "name": "Bàn Cờ",
+          "fullName": "Phường Bàn Cờ, Tỉnh Hồ Chí Minh",
+          "slug": "ban-co",
+          "postalCode": "27154"
+        }
+      ]
+    },
+    {
+      "name": "Quận 10",
+      "slug": "quan-10",
+      "wards": [
+        {
+          "code": "27163",
+          "name": "Hòa Hưng",
+          "fullName": "Phường Hòa Hưng, Tỉnh Hồ Chí Minh",
+          "slug": "hoa-hung",
+          "postalCode": "27163"
+        },
+        {
+          "code": "27169",
+          "name": "Diên Hồng",
+          "fullName": "Phường Diên Hồng, Tỉnh Hồ Chí Minh",
+          "slug": "dien-hong",
+          "postalCode": "27169"
+        },
+        {
+          "code": "27190",
+          "name": "Vườn Lài",
+          "fullName": "Phường Vườn Lài, Tỉnh Hồ Chí Minh",
+          "slug": "vuon-lai",
+          "postalCode": "27190"
+        }
+      ]
+    },
+    {
+      "name": "Quận 11",
+      "slug": "quan-11",
+      "wards": [
+        {
+          "code": "27211",
+          "name": "Hòa Bình",
+          "fullName": "Phường Hòa Bình, Tỉnh Hồ Chí Minh",
+          "slug": "hoa-binh",
+          "postalCode": "27211"
+        },
+        {
+          "code": "27226",
+          "name": "Phú Thọ",
+          "fullName": "Phường Phú Thọ, Tỉnh Hồ Chí Minh",
+          "slug": "phu-tho",
+          "postalCode": "27226"
+        },
+        {
+          "code": "27232",
+          "name": "Bình Thới",
+          "fullName": "Phường Bình Thới, Tỉnh Hồ Chí Minh",
+          "slug": "binh-thoi",
+          "postalCode": "27232"
+        },
+        {
+          "code": "27238",
+          "name": "Minh Phụng",
+          "fullName": "Phường Minh Phụng, Tỉnh Hồ Chí Minh",
+          "slug": "minh-phung",
+          "postalCode": "27238"
+        }
+      ]
+    },
+    {
+      "name": "Quận 4",
+      "slug": "quan-4",
+      "wards": [
+        {
+          "code": "27259",
+          "name": "Xóm Chiếu",
+          "fullName": "Phường Xóm Chiếu, Tỉnh Hồ Chí Minh",
+          "slug": "xom-chieu",
+          "postalCode": "27259"
+        },
+        {
+          "code": "27265",
+          "name": "Khánh Hội",
+          "fullName": "Phường Khánh Hội, Tỉnh Hồ Chí Minh",
+          "slug": "khanh-hoi",
+          "postalCode": "27265"
+        },
+        {
+          "code": "27286",
+          "name": "Vĩnh Hội",
+          "fullName": "Phường Vĩnh Hội, Tỉnh Hồ Chí Minh",
+          "slug": "vinh-hoi",
+          "postalCode": "27286"
+        }
+      ]
+    },
+    {
+      "name": "Quận 5",
+      "slug": "quan-5",
+      "wards": [
+        {
+          "code": "27301",
+          "name": "Chợ Quán",
+          "fullName": "Phường Chợ Quán, Tỉnh Hồ Chí Minh",
+          "slug": "cho-quan",
+          "postalCode": "27301"
+        },
+        {
+          "code": "27316",
+          "name": "An Đông",
+          "fullName": "Phường An Đông, Tỉnh Hồ Chí Minh",
+          "slug": "an-dong",
+          "postalCode": "27316"
+        },
+        {
+          "code": "27343",
+          "name": "Chợ Lớn",
+          "fullName": "Phường Chợ Lớn, Tỉnh Hồ Chí Minh",
+          "slug": "cho-lon",
+          "postalCode": "27343"
+        }
+      ]
+    },
+    {
+      "name": "Quận 6",
+      "slug": "quan-6",
+      "wards": [
+        {
+          "code": "27349",
+          "name": "Phú Lâm",
+          "fullName": "Phường Phú Lâm, Tỉnh Hồ Chí Minh",
+          "slug": "phu-lam",
+          "postalCode": "27349"
+        },
+        {
+          "code": "27364",
+          "name": "Bình Phú",
+          "fullName": "Phường Bình Phú, Tỉnh Hồ Chí Minh",
+          "slug": "binh-phu",
+          "postalCode": "27364"
+        },
+        {
+          "code": "27367",
+          "name": "Bình Tây",
+          "fullName": "Phường Bình Tây, Tỉnh Hồ Chí Minh",
+          "slug": "binh-tay",
+          "postalCode": "27367"
+        },
+        {
+          "code": "27373",
+          "name": "Bình Tiên",
+          "fullName": "Phường Bình Tiên, Tỉnh Hồ Chí Minh",
+          "slug": "binh-tien",
+          "postalCode": "27373"
+        }
+      ]
+    },
+    {
+      "name": "Quận 8",
+      "slug": "quan-8",
+      "wards": [
+        {
+          "code": "27364",
+          "name": "Bình Phú",
+          "fullName": "Phường Bình Phú, Tỉnh Hồ Chí Minh",
+          "slug": "binh-phu",
+          "postalCode": "27364"
+        },
+        {
+          "code": "27418",
+          "name": "Chánh Hưng",
+          "fullName": "Phường Chánh Hưng, Tỉnh Hồ Chí Minh",
+          "slug": "chanh-hung",
+          "postalCode": "27418"
+        },
+        {
+          "code": "27424",
+          "name": "Bình Đông",
+          "fullName": "Phường Bình Đông, Tỉnh Hồ Chí Minh",
+          "slug": "binh-dong",
+          "postalCode": "27424"
+        },
+        {
+          "code": "27427",
+          "name": "Phú Định",
+          "fullName": "Phường Phú Định, Tỉnh Hồ Chí Minh",
+          "slug": "phu-dinh",
+          "postalCode": "27427"
+        },
+        {
+          "code": "27595",
+          "name": "Tân Nhựt",
+          "fullName": "Xã Tân Nhựt, Tỉnh Hồ Chí Minh",
+          "slug": "tan-nhut",
+          "postalCode": "27595"
+        },
+        {
+          "code": "27619",
+          "name": "Bình Hưng",
+          "fullName": "Xã Bình Hưng, Tỉnh Hồ Chí Minh",
+          "slug": "binh-hung",
+          "postalCode": "27619"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bình Chánh",
+      "slug": "huyen-binh-chanh",
+      "wards": [
+        {
+          "code": "27424",
+          "name": "Bình Đông",
+          "fullName": "Phường Bình Đông, Tỉnh Hồ Chí Minh",
+          "slug": "binh-dong",
+          "postalCode": "27424"
+        },
+        {
+          "code": "27457",
+          "name": "Tân Tạo",
+          "fullName": "Phường Tân Tạo, Tỉnh Hồ Chí Minh",
+          "slug": "tan-tao",
+          "postalCode": "27457"
+        },
+        {
+          "code": "27595",
+          "name": "Tân Nhựt",
+          "fullName": "Xã Tân Nhựt, Tỉnh Hồ Chí Minh",
+          "slug": "tan-nhut",
+          "postalCode": "27595"
+        },
+        {
+          "code": "27601",
+          "name": "Vĩnh Lộc",
+          "fullName": "Xã Vĩnh Lộc, Tỉnh Hồ Chí Minh",
+          "slug": "vinh-loc",
+          "postalCode": "27601"
+        },
+        {
+          "code": "27604",
+          "name": "Tân Vĩnh Lộc",
+          "fullName": "Xã Tân Vĩnh Lộc, Tỉnh Hồ Chí Minh",
+          "slug": "tan-vinh-loc",
+          "postalCode": "27604"
+        },
+        {
+          "code": "27610",
+          "name": "Bình Lợi",
+          "fullName": "Xã Bình Lợi, Tỉnh Hồ Chí Minh",
+          "slug": "binh-loi",
+          "postalCode": "27610"
+        },
+        {
+          "code": "27619",
+          "name": "Bình Hưng",
+          "fullName": "Xã Bình Hưng, Tỉnh Hồ Chí Minh",
+          "slug": "binh-hung",
+          "postalCode": "27619"
+        },
+        {
+          "code": "27628",
+          "name": "Hưng Long",
+          "fullName": "Xã Hưng Long, Tỉnh Hồ Chí Minh",
+          "slug": "hung-long",
+          "postalCode": "27628"
+        },
+        {
+          "code": "27637",
+          "name": "Bình Chánh",
+          "fullName": "Xã Bình Chánh, Tỉnh Hồ Chí Minh",
+          "slug": "binh-chanh",
+          "postalCode": "27637"
+        }
+      ]
+    },
+    {
+      "name": "Quận Bình Tân",
+      "slug": "quan-binh-tan",
+      "wards": [
+        {
+          "code": "27439",
+          "name": "Bình Hưng Hòa",
+          "fullName": "Phường Bình Hưng Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "binh-hung-hoa",
+          "postalCode": "27439"
+        },
+        {
+          "code": "27442",
+          "name": "Bình Tân",
+          "fullName": "Phường Bình Tân, Tỉnh Hồ Chí Minh",
+          "slug": "binh-tan",
+          "postalCode": "27442"
+        },
+        {
+          "code": "27448",
+          "name": "Bình Trị Đông",
+          "fullName": "Phường Bình Trị Đông, Tỉnh Hồ Chí Minh",
+          "slug": "binh-tri-dong",
+          "postalCode": "27448"
+        },
+        {
+          "code": "27457",
+          "name": "Tân Tạo",
+          "fullName": "Phường Tân Tạo, Tỉnh Hồ Chí Minh",
+          "slug": "tan-tao",
+          "postalCode": "27457"
+        },
+        {
+          "code": "27460",
+          "name": "An Lạc",
+          "fullName": "Phường An Lạc, Tỉnh Hồ Chí Minh",
+          "slug": "an-lac",
+          "postalCode": "27460"
+        },
+        {
+          "code": "27595",
+          "name": "Tân Nhựt",
+          "fullName": "Xã Tân Nhựt, Tỉnh Hồ Chí Minh",
+          "slug": "tan-nhut",
+          "postalCode": "27595"
+        },
+        {
+          "code": "27604",
+          "name": "Tân Vĩnh Lộc",
+          "fullName": "Xã Tân Vĩnh Lộc, Tỉnh Hồ Chí Minh",
+          "slug": "tan-vinh-loc",
+          "postalCode": "27604"
+        }
+      ]
+    },
+    {
+      "name": "Quận 7",
+      "slug": "quan-7",
+      "wards": [
+        {
+          "code": "27475",
+          "name": "Tân Hưng",
+          "fullName": "Phường Tân Hưng, Tỉnh Hồ Chí Minh",
+          "slug": "tan-hung",
+          "postalCode": "27475"
+        },
+        {
+          "code": "27478",
+          "name": "Tân Thuận",
+          "fullName": "Phường Tân Thuận, Tỉnh Hồ Chí Minh",
+          "slug": "tan-thuan",
+          "postalCode": "27478"
+        },
+        {
+          "code": "27484",
+          "name": "Phú Thuận",
+          "fullName": "Phường Phú Thuận, Tỉnh Hồ Chí Minh",
+          "slug": "phu-thuan",
+          "postalCode": "27484"
+        },
+        {
+          "code": "27487",
+          "name": "Tân Mỹ",
+          "fullName": "Phường Tân Mỹ, Tỉnh Hồ Chí Minh",
+          "slug": "tan-my",
+          "postalCode": "27487"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Giáo",
+      "slug": "huyen-phu-giao",
+      "wards": [
+        {
+          "code": "25858",
+          "name": "Phú Giáo",
+          "fullName": "Xã Phú Giáo, Tỉnh Hồ Chí Minh",
+          "slug": "phu-giao",
+          "postalCode": "25858"
+        },
+        {
+          "code": "25864",
+          "name": "Phước Thành",
+          "fullName": "Xã Phước Thành, Tỉnh Hồ Chí Minh",
+          "slug": "phuoc-thanh",
+          "postalCode": "25864"
+        },
+        {
+          "code": "25867",
+          "name": "An Long",
+          "fullName": "Xã An Long, Tỉnh Hồ Chí Minh",
+          "slug": "an-long",
+          "postalCode": "25867"
+        },
+        {
+          "code": "25882",
+          "name": "Phước Hòa",
+          "fullName": "Xã Phước Hòa, Tỉnh Hồ Chí Minh",
+          "slug": "phuoc-hoa",
+          "postalCode": "25882"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Châu Đức",
+      "slug": "huyen-chau-duc",
+      "wards": [
+        {
+          "code": "26575",
+          "name": "Ngãi Giao",
+          "fullName": "Xã Ngãi Giao, Tỉnh Hồ Chí Minh",
+          "slug": "ngai-giao",
+          "postalCode": "26575"
+        },
+        {
+          "code": "26584",
+          "name": "Xuân Sơn",
+          "fullName": "Xã Xuân Sơn, Tỉnh Hồ Chí Minh",
+          "slug": "xuan-son",
+          "postalCode": "26584"
+        },
+        {
+          "code": "26590",
+          "name": "Bình Giã",
+          "fullName": "Xã Bình Giã, Tỉnh Hồ Chí Minh",
+          "slug": "binh-gia",
+          "postalCode": "26590"
+        },
+        {
+          "code": "26596",
+          "name": "Châu Đức",
+          "fullName": "Xã Châu Đức, Tỉnh Hồ Chí Minh",
+          "slug": "chau-duc",
+          "postalCode": "26596"
+        },
+        {
+          "code": "26608",
+          "name": "Kim Long",
+          "fullName": "Xã Kim Long, Tỉnh Hồ Chí Minh",
+          "slug": "kim-long",
+          "postalCode": "26608"
+        },
+        {
+          "code": "26617",
+          "name": "Nghĩa Thành",
+          "fullName": "Xã Nghĩa Thành, Tỉnh Hồ Chí Minh",
+          "slug": "nghia-thanh",
+          "postalCode": "26617"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Xuyên Mộc",
+      "slug": "huyen-xuyen-moc",
+      "wards": [
+        {
+          "code": "26620",
+          "name": "Hồ Tràm",
+          "fullName": "Xã Hồ Tràm, Tỉnh Hồ Chí Minh",
+          "slug": "ho-tram",
+          "postalCode": "26620"
+        },
+        {
+          "code": "26632",
+          "name": "Xuyên Mộc",
+          "fullName": "Xã Xuyên Mộc, Tỉnh Hồ Chí Minh",
+          "slug": "xuyen-moc",
+          "postalCode": "26632"
+        },
+        {
+          "code": "26638",
+          "name": "Bàu Lâm",
+          "fullName": "Xã Bàu Lâm, Tỉnh Hồ Chí Minh",
+          "slug": "bau-lam",
+          "postalCode": "26638"
+        },
+        {
+          "code": "26641",
+          "name": "Hòa Hội",
+          "fullName": "Xã Hòa Hội, Tỉnh Hồ Chí Minh",
+          "slug": "hoa-hoi",
+          "postalCode": "26641"
+        },
+        {
+          "code": "26647",
+          "name": "Hòa Hiệp",
+          "fullName": "Xã Hòa Hiệp, Tỉnh Hồ Chí Minh",
+          "slug": "hoa-hiep",
+          "postalCode": "26647"
+        },
+        {
+          "code": "26656",
+          "name": "Bình Châu",
+          "fullName": "Xã Bình Châu, Tỉnh Hồ Chí Minh",
+          "slug": "binh-chau",
+          "postalCode": "26656"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Long Đất",
+      "slug": "huyen-long-dat",
+      "wards": [
+        {
+          "code": "26659",
+          "name": "Long Điền",
+          "fullName": "Xã Long Điền, Tỉnh Hồ Chí Minh",
+          "slug": "long-dien",
+          "postalCode": "26659"
+        },
+        {
+          "code": "26662",
+          "name": "Long Hải",
+          "fullName": "Xã Long Hải, Tỉnh Hồ Chí Minh",
+          "slug": "long-hai",
+          "postalCode": "26662"
+        },
+        {
+          "code": "26680",
+          "name": "Đất Đỏ",
+          "fullName": "Xã Đất Đỏ, Tỉnh Hồ Chí Minh",
+          "slug": "dat-do",
+          "postalCode": "26680"
+        },
+        {
+          "code": "26686",
+          "name": "Phước Hải",
+          "fullName": "Xã Phước Hải, Tỉnh Hồ Chí Minh",
+          "slug": "phuoc-hai",
+          "postalCode": "26686"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Củ Chi",
+      "slug": "huyen-cu-chi",
+      "wards": [
+        {
+          "code": "27496",
+          "name": "Tân An Hội",
+          "fullName": "Xã Tân An Hội, Tỉnh Hồ Chí Minh",
+          "slug": "tan-an-hoi",
+          "postalCode": "27496"
+        },
+        {
+          "code": "27508",
+          "name": "An Nhơn Tây",
+          "fullName": "Xã An Nhơn Tây, Tỉnh Hồ Chí Minh",
+          "slug": "an-nhon-tay",
+          "postalCode": "27508"
+        },
+        {
+          "code": "27511",
+          "name": "Nhuận Đức",
+          "fullName": "Xã Nhuận Đức, Tỉnh Hồ Chí Minh",
+          "slug": "nhuan-duc",
+          "postalCode": "27511"
+        },
+        {
+          "code": "27526",
+          "name": "Thái Mỹ",
+          "fullName": "Xã Thái Mỹ, Tỉnh Hồ Chí Minh",
+          "slug": "thai-my",
+          "postalCode": "27526"
+        },
+        {
+          "code": "27541",
+          "name": "Phú Hòa Đông",
+          "fullName": "Xã Phú Hòa Đông, Tỉnh Hồ Chí Minh",
+          "slug": "phu-hoa-dong",
+          "postalCode": "27541"
+        },
+        {
+          "code": "27544",
+          "name": "Bình Mỹ",
+          "fullName": "Xã Bình Mỹ, Tỉnh Hồ Chí Minh",
+          "slug": "binh-my",
+          "postalCode": "27544"
+        },
+        {
+          "code": "27553",
+          "name": "Củ Chi",
+          "fullName": "Xã Củ Chi, Tỉnh Hồ Chí Minh",
+          "slug": "cu-chi",
+          "postalCode": "27553"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hóc Môn",
+      "slug": "huyen-hoc-mon",
+      "wards": [
+        {
+          "code": "27559",
+          "name": "Hóc Môn",
+          "fullName": "Xã Hóc Môn, Tỉnh Hồ Chí Minh",
+          "slug": "hoc-mon",
+          "postalCode": "27559"
+        },
+        {
+          "code": "27568",
+          "name": "Đông Thạnh",
+          "fullName": "Xã Đông Thạnh, Tỉnh Hồ Chí Minh",
+          "slug": "dong-thanh",
+          "postalCode": "27568"
+        },
+        {
+          "code": "27577",
+          "name": "Xuân Thới Sơn",
+          "fullName": "Xã Xuân Thới Sơn, Tỉnh Hồ Chí Minh",
+          "slug": "xuan-thoi-son",
+          "postalCode": "27577"
+        },
+        {
+          "code": "27592",
+          "name": "Bà Điểm",
+          "fullName": "Xã Bà Điểm, Tỉnh Hồ Chí Minh",
+          "slug": "ba-diem",
+          "postalCode": "27592"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nhà Bè",
+      "slug": "huyen-nha-be",
+      "wards": [
+        {
+          "code": "27655",
+          "name": "Nhà Bè",
+          "fullName": "Xã Nhà Bè, Tỉnh Hồ Chí Minh",
+          "slug": "nha-be",
+          "postalCode": "27655"
+        },
+        {
+          "code": "27658",
+          "name": "Hiệp Phước",
+          "fullName": "Xã Hiệp Phước, Tỉnh Hồ Chí Minh",
+          "slug": "hiep-phuoc",
+          "postalCode": "27658"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cần Giờ",
+      "slug": "huyen-can-gio",
+      "wards": [
+        {
+          "code": "27664",
+          "name": "Cần Giờ",
+          "fullName": "Xã Cần Giờ, Tỉnh Hồ Chí Minh",
+          "slug": "can-gio",
+          "postalCode": "27664"
+        },
+        {
+          "code": "27667",
+          "name": "Bình Khánh",
+          "fullName": "Xã Bình Khánh, Tỉnh Hồ Chí Minh",
+          "slug": "binh-khanh",
+          "postalCode": "27667"
+        },
+        {
+          "code": "27673",
+          "name": "An Thới Đông",
+          "fullName": "Xã An Thới Đông, Tỉnh Hồ Chí Minh",
+          "slug": "an-thoi-dong",
+          "postalCode": "27673"
+        },
+        {
+          "code": "27676",
+          "name": "Thạnh An",
+          "fullName": "Xã Thạnh An, Tỉnh Hồ Chí Minh",
+          "slug": "thanh-an",
+          "postalCode": "27676"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Côn Đảo",
+      "slug": "huyen-con-dao",
+      "wards": [
+        {
+          "code": "26732",
+          "name": "Đặc khu Côn Đảo",
+          "fullName": "Đặc khu Côn Đảo, Tỉnh Hồ Chí Minh",
+          "slug": "dac-khu-con-dao",
+          "postalCode": "26732"
+        }
+      ]
+    }
+  ]
+}

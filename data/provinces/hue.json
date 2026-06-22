@@ -1,0 +1,701 @@
+{
+  "code": "04",
+  "name": "Huế",
+  "slug": "hue",
+  "type": "city",
+  "isCentral": true,
+  "fullName": "Thành phố Huế",
+  "wards": [
+    {
+      "code": "00049",
+      "name": "Phú Xuân",
+      "fullName": "Phường Phú Xuân, Thành phố Huế",
+      "slug": "phu-xuan",
+      "type": "ward",
+      "postalCode": "19753"
+    },
+    {
+      "code": "00123",
+      "name": "Thuận Hóa",
+      "fullName": "Phường Thuận Hóa, Thành phố Huế",
+      "slug": "thuan-hoa",
+      "type": "ward",
+      "postalCode": "19789"
+    },
+    {
+      "code": "00460",
+      "name": "An Cựu",
+      "fullName": "Phường An Cựu, Thành phố Huế",
+      "slug": "an-cuu",
+      "type": "ward",
+      "postalCode": "19815"
+    },
+    {
+      "code": "00467",
+      "name": "Thuận An",
+      "fullName": "Phường Thuận An, Thành phố Huế",
+      "slug": "thuan-an",
+      "type": "ward",
+      "postalCode": "19900"
+    },
+    {
+      "code": "00555",
+      "name": "Chân Mây – Lăng Cô",
+      "fullName": "Xã Chân Mây – Lăng Cô, Thành phố Huế",
+      "slug": "chan-may-lang-co",
+      "type": "commune",
+      "postalCode": "20137"
+    },
+    {
+      "code": "00583",
+      "name": "Vỹ Dạ",
+      "fullName": "Phường Vỹ Dạ, Thành phố Huế",
+      "slug": "vy-da",
+      "type": "ward",
+      "postalCode": "19777"
+    },
+    {
+      "code": "00606",
+      "name": "Kim Long",
+      "fullName": "Phường Kim Long, Thành phố Huế",
+      "slug": "kim-long",
+      "type": "ward",
+      "postalCode": "19774"
+    },
+    {
+      "code": "00637",
+      "name": "Phú Vinh",
+      "fullName": "Xã Phú Vinh, Thành phố Huế",
+      "slug": "phu-vinh",
+      "type": "commune",
+      "postalCode": "19945"
+    },
+    {
+      "code": "00728",
+      "name": "Mỹ Thượng",
+      "fullName": "Phường Mỹ Thượng, Thành phố Huế",
+      "slug": "my-thuong",
+      "type": "ward",
+      "postalCode": "19930"
+    },
+    {
+      "code": "00768",
+      "name": "Thanh Thủy",
+      "fullName": "Phường Thanh Thủy, Thành phố Huế",
+      "slug": "thanh-thuy",
+      "type": "ward",
+      "postalCode": "19969"
+    },
+    {
+      "code": "00776",
+      "name": "Thủy Xuân",
+      "fullName": "Phường Thủy Xuân, Thành phố Huế",
+      "slug": "thuy-xuan",
+      "type": "ward",
+      "postalCode": "19813"
+    },
+    {
+      "code": "00829",
+      "name": "Quảng Điền",
+      "fullName": "Xã Quảng Điền, Thành phố Huế",
+      "slug": "quang-dien",
+      "type": "commune",
+      "postalCode": "19867"
+    },
+    {
+      "code": "00844",
+      "name": "Hóa Châu",
+      "fullName": "Phường Hóa Châu, Thành phố Huế",
+      "slug": "hoa-chau",
+      "type": "ward",
+      "postalCode": "20014"
+    },
+    {
+      "code": "00884",
+      "name": "Đan Điền",
+      "fullName": "Xã Đan Điền, Thành phố Huế",
+      "slug": "dan-dien",
+      "type": "commune",
+      "postalCode": "19885"
+    },
+    {
+      "code": "00944",
+      "name": "Phú Vang",
+      "fullName": "Xã Phú Vang, Thành phố Huế",
+      "slug": "phu-vang",
+      "type": "commune",
+      "postalCode": "19942"
+    },
+    {
+      "code": "00946",
+      "name": "Lộc An",
+      "fullName": "Xã Lộc An, Thành phố Huế",
+      "slug": "loc-an",
+      "type": "commune",
+      "postalCode": "20140"
+    },
+    {
+      "code": "00987",
+      "name": "Phú Bài",
+      "fullName": "Phường Phú Bài, Thành phố Huế",
+      "slug": "phu-bai",
+      "type": "ward",
+      "postalCode": "19960"
+    },
+    {
+      "code": "01040",
+      "name": "Phong Thái",
+      "fullName": "Phường Phong Thái, Thành phố Huế",
+      "slug": "phong-thai",
+      "type": "ward",
+      "postalCode": "19858"
+    },
+    {
+      "code": "01095",
+      "name": "Vinh Lộc",
+      "fullName": "Xã Vinh Lộc, Thành phố Huế",
+      "slug": "vinh-loc",
+      "type": "commune",
+      "postalCode": "20122"
+    },
+    {
+      "code": "01098",
+      "name": "Kim Trà",
+      "fullName": "Phường Kim Trà, Thành phố Huế",
+      "slug": "kim-tra",
+      "type": "ward",
+      "postalCode": "20017"
+    },
+    {
+      "code": "01131",
+      "name": "Hương An",
+      "fullName": "Phường Hương An, Thành phố Huế",
+      "slug": "huong-an",
+      "type": "ward",
+      "postalCode": "19804"
+    },
+    {
+      "code": "01335",
+      "name": "Hưng Lộc",
+      "fullName": "Xã Hưng Lộc, Thành phố Huế",
+      "slug": "hung-loc",
+      "type": "commune",
+      "postalCode": "20131"
+    },
+    {
+      "code": "01392",
+      "name": "Dương Nỗ",
+      "fullName": "Phường Dương Nỗ, Thành phố Huế",
+      "slug": "duong-no",
+      "type": "ward",
+      "postalCode": "19909"
+    },
+    {
+      "code": "01516",
+      "name": "Hương Trà",
+      "fullName": "Phường Hương Trà, Thành phố Huế",
+      "slug": "huong-tra",
+      "type": "ward",
+      "postalCode": "19996"
+    },
+    {
+      "code": "01578",
+      "name": "Hương Thủy",
+      "fullName": "Phường Hương Thủy, Thành phố Huế",
+      "slug": "huong-thuy",
+      "type": "ward",
+      "postalCode": "19813"
+    },
+    {
+      "code": "01644",
+      "name": "Phú Lộc",
+      "fullName": "Xã Phú Lộc, Thành phố Huế",
+      "slug": "phu-loc",
+      "type": "commune",
+      "postalCode": "20107"
+    },
+    {
+      "code": "01658",
+      "name": "Phong Dinh",
+      "fullName": "Phường Phong Dinh, Thành phố Huế",
+      "slug": "phong-dinh",
+      "type": "ward",
+      "postalCode": "19831"
+    },
+    {
+      "code": "01670",
+      "name": "Phong Điền",
+      "fullName": "Phường Phong Điền, Thành phố Huế",
+      "slug": "phong-dien",
+      "type": "ward",
+      "postalCode": "19819"
+    },
+    {
+      "code": "01836",
+      "name": "Phong Quảng",
+      "fullName": "Phường Phong Quảng, Thành phố Huế",
+      "slug": "phong-quang",
+      "type": "ward",
+      "postalCode": "19873"
+    },
+    {
+      "code": "02017",
+      "name": "Phú Hồ",
+      "fullName": "Xã Phú Hồ, Thành phố Huế",
+      "slug": "phu-ho",
+      "type": "commune",
+      "postalCode": "19918"
+    },
+    {
+      "code": "02232",
+      "name": "A Lưới 2",
+      "fullName": "Xã A Lưới 2, Thành phố Huế",
+      "slug": "a-luoi-2",
+      "type": "commune",
+      "postalCode": "20044"
+    },
+    {
+      "code": "02320",
+      "name": "Phong Phú",
+      "fullName": "Phường Phong Phú, Thành phố Huế",
+      "slug": "phong-phu",
+      "type": "ward",
+      "postalCode": "19828"
+    },
+    {
+      "code": "02580",
+      "name": "Bình Điền",
+      "fullName": "Xã Bình Điền, Thành phố Huế",
+      "slug": "binh-dien",
+      "type": "commune",
+      "postalCode": "20035"
+    },
+    {
+      "code": "02716",
+      "name": "Khe Tre",
+      "fullName": "Xã Khe Tre, Thành phố Huế",
+      "slug": "khe-tre",
+      "type": "commune",
+      "postalCode": "20161"
+    },
+    {
+      "code": "02752",
+      "name": "A Lưới 1",
+      "fullName": "Xã A Lưới 1, Thành phố Huế",
+      "slug": "a-luoi-1",
+      "type": "commune",
+      "postalCode": "20056"
+    },
+    {
+      "code": "02865",
+      "name": "A Lưới 4",
+      "fullName": "Xã A Lưới 4, Thành phố Huế",
+      "slug": "a-luoi-4",
+      "type": "commune",
+      "postalCode": "20101"
+    },
+    {
+      "code": "02983",
+      "name": "Nam Đông",
+      "fullName": "Xã Nam Đông, Thành phố Huế",
+      "slug": "nam-dong",
+      "type": "commune",
+      "postalCode": "20179"
+    },
+    {
+      "code": "02998",
+      "name": "A Lưới 3",
+      "fullName": "Xã A Lưới 3, Thành phố Huế",
+      "slug": "a-luoi-3",
+      "type": "commune",
+      "postalCode": "20071"
+    },
+    {
+      "code": "03004",
+      "name": "Long Quảng",
+      "fullName": "Xã Long Quảng, Thành phố Huế",
+      "slug": "long-quang",
+      "type": "commune",
+      "postalCode": "20182"
+    },
+    {
+      "code": "03290",
+      "name": "A Lưới 5",
+      "fullName": "Xã A Lưới 5, Thành phố Huế",
+      "slug": "a-luoi-5",
+      "type": "commune",
+      "postalCode": "20050"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Quận Phú Xuân",
+      "slug": "quan-phu-xuan",
+      "wards": [
+        {
+          "code": "19753",
+          "name": "Phú Xuân",
+          "fullName": "Phường Phú Xuân, Tỉnh Huế",
+          "slug": "phu-xuan",
+          "postalCode": "19753"
+        },
+        {
+          "code": "19774",
+          "name": "Kim Long",
+          "fullName": "Phường Kim Long, Tỉnh Huế",
+          "slug": "kim-long",
+          "postalCode": "19774"
+        },
+        {
+          "code": "19804",
+          "name": "Hương An",
+          "fullName": "Phường Hương An, Tỉnh Huế",
+          "slug": "huong-an",
+          "postalCode": "19804"
+        },
+        {
+          "code": "20014",
+          "name": "Hóa Châu",
+          "fullName": "Phường Hóa Châu, Tỉnh Huế",
+          "slug": "hoa-chau",
+          "postalCode": "20014"
+        }
+      ]
+    },
+    {
+      "name": "Quận Thuận Hóa",
+      "slug": "quan-thuan-hoa",
+      "wards": [
+        {
+          "code": "19777",
+          "name": "Vỹ Dạ",
+          "fullName": "Phường Vỹ Dạ, Tỉnh Huế",
+          "slug": "vy-da",
+          "postalCode": "19777"
+        },
+        {
+          "code": "19789",
+          "name": "Thuận Hóa",
+          "fullName": "Phường Thuận Hóa, Tỉnh Huế",
+          "slug": "thuan-hoa",
+          "postalCode": "19789"
+        },
+        {
+          "code": "19813",
+          "name": "Thủy Xuân",
+          "fullName": "Phường Thủy Xuân, Tỉnh Huế",
+          "slug": "thuy-xuan",
+          "postalCode": "19813"
+        },
+        {
+          "code": "19815",
+          "name": "An Cựu",
+          "fullName": "Phường An Cựu, Tỉnh Huế",
+          "slug": "an-cuu",
+          "postalCode": "19815"
+        },
+        {
+          "code": "19900",
+          "name": "Thuận An",
+          "fullName": "Phường Thuận An, Tỉnh Huế",
+          "slug": "thuan-an",
+          "postalCode": "19900"
+        },
+        {
+          "code": "19909",
+          "name": "Dương Nỗ",
+          "fullName": "Phường Dương Nỗ, Tỉnh Huế",
+          "slug": "duong-no",
+          "postalCode": "19909"
+        },
+        {
+          "code": "19930",
+          "name": "Mỹ Thượng",
+          "fullName": "Phường Mỹ Thượng, Tỉnh Huế",
+          "slug": "my-thuong",
+          "postalCode": "19930"
+        },
+        {
+          "code": "20014",
+          "name": "Hóa Châu",
+          "fullName": "Phường Hóa Châu, Tỉnh Huế",
+          "slug": "hoa-chau",
+          "postalCode": "20014"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Phong Điền",
+      "slug": "thi-xa-phong-dien",
+      "wards": [
+        {
+          "code": "19819",
+          "name": "Phong Điền",
+          "fullName": "Phường Phong Điền, Tỉnh Huế",
+          "slug": "phong-dien",
+          "postalCode": "19819"
+        },
+        {
+          "code": "19828",
+          "name": "Phong Phú",
+          "fullName": "Phường Phong Phú, Tỉnh Huế",
+          "slug": "phong-phu",
+          "postalCode": "19828"
+        },
+        {
+          "code": "19831",
+          "name": "Phong Dinh",
+          "fullName": "Phường Phong Dinh, Tỉnh Huế",
+          "slug": "phong-dinh",
+          "postalCode": "19831"
+        },
+        {
+          "code": "19858",
+          "name": "Phong Thái",
+          "fullName": "Phường Phong Thái, Tỉnh Huế",
+          "slug": "phong-thai",
+          "postalCode": "19858"
+        },
+        {
+          "code": "19873",
+          "name": "Phong Quảng",
+          "fullName": "Phường Phong Quảng, Tỉnh Huế",
+          "slug": "phong-quang",
+          "postalCode": "19873"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Quảng Điền",
+      "slug": "huyen-quang-dien",
+      "wards": [
+        {
+          "code": "19867",
+          "name": "Quảng Điền",
+          "fullName": "Xã Quảng Điền, Tỉnh Huế",
+          "slug": "quang-dien",
+          "postalCode": "19867"
+        },
+        {
+          "code": "19873",
+          "name": "Phong Quảng",
+          "fullName": "Phường Phong Quảng, Tỉnh Huế",
+          "slug": "phong-quang",
+          "postalCode": "19873"
+        },
+        {
+          "code": "19885",
+          "name": "Đan Điền",
+          "fullName": "Xã Đan Điền, Tỉnh Huế",
+          "slug": "dan-dien",
+          "postalCode": "19885"
+        },
+        {
+          "code": "20014",
+          "name": "Hóa Châu",
+          "fullName": "Phường Hóa Châu, Tỉnh Huế",
+          "slug": "hoa-chau",
+          "postalCode": "20014"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Vang",
+      "slug": "huyen-phu-vang",
+      "wards": [
+        {
+          "code": "19900",
+          "name": "Thuận An",
+          "fullName": "Phường Thuận An, Tỉnh Huế",
+          "slug": "thuan-an",
+          "postalCode": "19900"
+        },
+        {
+          "code": "19918",
+          "name": "Phú Hồ",
+          "fullName": "Xã Phú Hồ, Tỉnh Huế",
+          "slug": "phu-ho",
+          "postalCode": "19918"
+        },
+        {
+          "code": "19930",
+          "name": "Mỹ Thượng",
+          "fullName": "Phường Mỹ Thượng, Tỉnh Huế",
+          "slug": "my-thuong",
+          "postalCode": "19930"
+        },
+        {
+          "code": "19942",
+          "name": "Phú Vang",
+          "fullName": "Xã Phú Vang, Tỉnh Huế",
+          "slug": "phu-vang",
+          "postalCode": "19942"
+        },
+        {
+          "code": "19945",
+          "name": "Phú Vinh",
+          "fullName": "Xã Phú Vinh, Tỉnh Huế",
+          "slug": "phu-vinh",
+          "postalCode": "19945"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Hương Thủy",
+      "slug": "thi-xa-huong-thuy",
+      "wards": [
+        {
+          "code": "19960",
+          "name": "Phú Bài",
+          "fullName": "Phường Phú Bài, Tỉnh Huế",
+          "slug": "phu-bai",
+          "postalCode": "19960"
+        },
+        {
+          "code": "19969",
+          "name": "Thanh Thủy",
+          "fullName": "Phường Thanh Thủy, Tỉnh Huế",
+          "slug": "thanh-thuy",
+          "postalCode": "19969"
+        },
+        {
+          "code": "19975",
+          "name": "Hương Thủy",
+          "fullName": "Phường Hương Thủy, Tỉnh Huế",
+          "slug": "huong-thuy",
+          "postalCode": "19975"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Hương Trà",
+      "slug": "thi-xa-huong-tra",
+      "wards": [
+        {
+          "code": "19996",
+          "name": "Hương Trà",
+          "fullName": "Phường Hương Trà, Tỉnh Huế",
+          "slug": "huong-tra",
+          "postalCode": "19996"
+        },
+        {
+          "code": "20017",
+          "name": "Kim Trà",
+          "fullName": "Phường Kim Trà, Tỉnh Huế",
+          "slug": "kim-tra",
+          "postalCode": "20017"
+        },
+        {
+          "code": "20035",
+          "name": "Bình Điền",
+          "fullName": "Xã Bình Điền, Tỉnh Huế",
+          "slug": "binh-dien",
+          "postalCode": "20035"
+        }
+      ]
+    },
+    {
+      "name": "Huyện A Lưới",
+      "slug": "huyen-a-luoi",
+      "wards": [
+        {
+          "code": "20044",
+          "name": "A Lưới 2",
+          "fullName": "Xã A Lưới 2, Tỉnh Huế",
+          "slug": "a-luoi-2",
+          "postalCode": "20044"
+        },
+        {
+          "code": "20050",
+          "name": "A Lưới 5",
+          "fullName": "Xã A Lưới 5, Tỉnh Huế",
+          "slug": "a-luoi-5",
+          "postalCode": "20050"
+        },
+        {
+          "code": "20056",
+          "name": "A Lưới 1",
+          "fullName": "Xã A Lưới 1, Tỉnh Huế",
+          "slug": "a-luoi-1",
+          "postalCode": "20056"
+        },
+        {
+          "code": "20071",
+          "name": "A Lưới 3",
+          "fullName": "Xã A Lưới 3, Tỉnh Huế",
+          "slug": "a-luoi-3",
+          "postalCode": "20071"
+        },
+        {
+          "code": "20101",
+          "name": "A Lưới 4",
+          "fullName": "Xã A Lưới 4, Tỉnh Huế",
+          "slug": "a-luoi-4",
+          "postalCode": "20101"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Lộc",
+      "slug": "huyen-phu-loc",
+      "wards": [
+        {
+          "code": "20107",
+          "name": "Phú Lộc",
+          "fullName": "Xã Phú Lộc, Tỉnh Huế",
+          "slug": "phu-loc",
+          "postalCode": "20107"
+        },
+        {
+          "code": "20122",
+          "name": "Vinh Lộc",
+          "fullName": "Xã Vinh Lộc, Tỉnh Huế",
+          "slug": "vinh-loc",
+          "postalCode": "20122"
+        },
+        {
+          "code": "20131",
+          "name": "Hưng Lộc",
+          "fullName": "Xã Hưng Lộc, Tỉnh Huế",
+          "slug": "hung-loc",
+          "postalCode": "20131"
+        },
+        {
+          "code": "20137",
+          "name": "Chân Mây - Lăng Cô",
+          "fullName": "Xã Chân Mây - Lăng Cô, Tỉnh Huế",
+          "slug": "chan-may-lang-co",
+          "postalCode": "20137"
+        },
+        {
+          "code": "20140",
+          "name": "Lộc An",
+          "fullName": "Xã Lộc An, Tỉnh Huế",
+          "slug": "loc-an",
+          "postalCode": "20140"
+        },
+        {
+          "code": "20161",
+          "name": "Khe Tre",
+          "fullName": "Xã Khe Tre, Tỉnh Huế",
+          "slug": "khe-tre",
+          "postalCode": "20161"
+        },
+        {
+          "code": "20179",
+          "name": "Nam Đông",
+          "fullName": "Xã Nam Đông, Tỉnh Huế",
+          "slug": "nam-dong",
+          "postalCode": "20179"
+        },
+        {
+          "code": "20182",
+          "name": "Long Quảng",
+          "fullName": "Xã Long Quảng, Tỉnh Huế",
+          "slug": "long-quang",
+          "postalCode": "20182"
+        }
+      ]
+    }
+  ]
+}

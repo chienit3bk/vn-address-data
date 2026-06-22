@@ -1,0 +1,1597 @@
+{
+  "code": "23",
+  "name": "Quảng Ngãi",
+  "slug": "quang-ngai",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Quảng Ngãi",
+  "wards": [
+    {
+      "code": "00152",
+      "name": "Bình Sơn",
+      "fullName": "Xã Bình Sơn, Tỉnh Quảng Ngãi",
+      "slug": "binh-son",
+      "type": "commune",
+      "postalCode": "21040"
+    },
+    {
+      "code": "00209",
+      "name": "Kon Tum",
+      "fullName": "Phường Kon Tum, Tỉnh Quảng Ngãi",
+      "slug": "kon-tum",
+      "type": "ward",
+      "postalCode": "23293"
+    },
+    {
+      "code": "00241",
+      "name": "Nghĩa Lộ",
+      "fullName": "Phường Nghĩa Lộ, Tỉnh Quảng Ngãi",
+      "slug": "nghia-lo",
+      "type": "ward",
+      "postalCode": "21028"
+    },
+    {
+      "code": "00265",
+      "name": "An Phú",
+      "fullName": "Xã An Phú, Tỉnh Quảng Ngãi",
+      "slug": "an-phu",
+      "type": "commune",
+      "postalCode": "21034"
+    },
+    {
+      "code": "00382",
+      "name": "Cẩm Thành",
+      "fullName": "Phường Cẩm Thành, Tỉnh Quảng Ngãi",
+      "slug": "cam-thanh",
+      "type": "ward",
+      "postalCode": "21025"
+    },
+    {
+      "code": "00387",
+      "name": "Vạn Tường",
+      "fullName": "Xã Vạn Tường, Tỉnh Quảng Ngãi",
+      "slug": "van-tuong",
+      "type": "commune",
+      "postalCode": "21061"
+    },
+    {
+      "code": "00407",
+      "name": "Tư Nghĩa",
+      "fullName": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi",
+      "slug": "tu-nghia",
+      "type": "commune",
+      "postalCode": "21235"
+    },
+    {
+      "code": "00445",
+      "name": "Đông Sơn",
+      "fullName": "Xã Đông Sơn, Tỉnh Quảng Ngãi",
+      "slug": "dong-son",
+      "type": "commune",
+      "postalCode": "21109"
+    },
+    {
+      "code": "00450",
+      "name": "Tịnh Khê",
+      "fullName": "Xã Tịnh Khê, Tỉnh Quảng Ngãi",
+      "slug": "tinh-khe",
+      "type": "commune",
+      "postalCode": "21211"
+    },
+    {
+      "code": "00598",
+      "name": "Trương Quang Trọng",
+      "fullName": "Phường Trương Quang Trọng, Tỉnh Quảng Ngãi",
+      "slug": "truong-quang-trong",
+      "type": "ward",
+      "postalCode": "21172"
+    },
+    {
+      "code": "00702",
+      "name": "Trà Câu",
+      "fullName": "Phường Trà Câu, Tỉnh Quảng Ngãi",
+      "slug": "tra-cau",
+      "type": "ward",
+      "postalCode": "21451"
+    },
+    {
+      "code": "00807",
+      "name": "Sơn Tịnh",
+      "fullName": "Xã Sơn Tịnh, Tỉnh Quảng Ngãi",
+      "slug": "son-tinh",
+      "type": "commune",
+      "postalCode": "21220"
+    },
+    {
+      "code": "00842",
+      "name": "Đức Phổ",
+      "fullName": "Phường Đức Phổ, Tỉnh Quảng Ngãi",
+      "slug": "duc-pho",
+      "type": "ward",
+      "postalCode": "21439"
+    },
+    {
+      "code": "00916",
+      "name": "Long Phụng",
+      "fullName": "Xã Long Phụng, Tỉnh Quảng Ngãi",
+      "slug": "long-phung",
+      "type": "commune",
+      "postalCode": "21409"
+    },
+    {
+      "code": "00938",
+      "name": "Nghĩa Giang",
+      "fullName": "Xã Nghĩa Giang, Tỉnh Quảng Ngãi",
+      "slug": "nghia-giang",
+      "type": "commune",
+      "postalCode": "21250"
+    },
+    {
+      "code": "00974",
+      "name": "Vệ Giang",
+      "fullName": "Xã Vệ Giang, Tỉnh Quảng Ngãi",
+      "slug": "ve-giang",
+      "type": "commune",
+      "postalCode": "21238"
+    },
+    {
+      "code": "00978",
+      "name": "Mỏ Cày",
+      "fullName": "Xã Mỏ Cày, Tỉnh Quảng Ngãi",
+      "slug": "mo-cay",
+      "type": "commune",
+      "postalCode": "21421"
+    },
+    {
+      "code": "01115",
+      "name": "Lân Phong",
+      "fullName": "Xã Lân Phong, Tỉnh Quảng Ngãi",
+      "slug": "lan-phong",
+      "type": "commune",
+      "postalCode": "21433"
+    },
+    {
+      "code": "01116",
+      "name": "Đăk Hà",
+      "fullName": "Xã Đăk Hà, Tỉnh Quảng Ngãi",
+      "slug": "dak-ha",
+      "type": "commune",
+      "postalCode": "23500"
+    },
+    {
+      "code": "01117",
+      "name": "Đình Cương",
+      "fullName": "Xã Đình Cương, Tỉnh Quảng Ngãi",
+      "slug": "dinh-cuong",
+      "type": "commune",
+      "postalCode": "21385"
+    },
+    {
+      "code": "01129",
+      "name": "Mộ Đức",
+      "fullName": "Xã Mộ Đức, Tỉnh Quảng Ngãi",
+      "slug": "mo-duc",
+      "type": "commune",
+      "postalCode": "21400"
+    },
+    {
+      "code": "01164",
+      "name": "Bờ Y",
+      "fullName": "Xã Bờ Y, Tỉnh Quảng Ngãi",
+      "slug": "bo-y",
+      "type": "commune",
+      "postalCode": "23377"
+    },
+    {
+      "code": "01173",
+      "name": "Đăk Tô",
+      "fullName": "Xã Đăk Tô, Tỉnh Quảng Ngãi",
+      "slug": "dak-to",
+      "type": "commune",
+      "postalCode": "23401"
+    },
+    {
+      "code": "01345",
+      "name": "Sa Huỳnh",
+      "fullName": "Phường Sa Huỳnh, Tỉnh Quảng Ngãi",
+      "slug": "sa-huynh",
+      "type": "ward",
+      "postalCode": "21478"
+    },
+    {
+      "code": "01401",
+      "name": "Nghĩa Hành",
+      "fullName": "Xã Nghĩa Hành, Tỉnh Quảng Ngãi",
+      "slug": "nghia-hanh",
+      "type": "commune",
+      "postalCode": "21364"
+    },
+    {
+      "code": "01534",
+      "name": "Đăk Cấm",
+      "fullName": "Phường Đăk Cấm, Tỉnh Quảng Ngãi",
+      "slug": "dak-cam",
+      "type": "ward",
+      "postalCode": "23284"
+    },
+    {
+      "code": "01590",
+      "name": "Khánh Cường",
+      "fullName": "Xã Khánh Cường, Tỉnh Quảng Ngãi",
+      "slug": "khanh-cuong",
+      "type": "commune",
+      "postalCode": "21472"
+    },
+    {
+      "code": "01680",
+      "name": "Thọ Phong",
+      "fullName": "Xã Thọ Phong, Tỉnh Quảng Ngãi",
+      "slug": "tho-phong",
+      "type": "commune",
+      "postalCode": "21181"
+    },
+    {
+      "code": "01844",
+      "name": "Lý Sơn",
+      "fullName": "Đặc khu Lý Sơn, Tỉnh Quảng Ngãi",
+      "slug": "ly-son",
+      "type": "commune",
+      "postalCode": "21548"
+    },
+    {
+      "code": "01884",
+      "name": "Đăk Rơ Wa",
+      "fullName": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi",
+      "slug": "dak-ro-wa",
+      "type": "commune",
+      "postalCode": "23332"
+    },
+    {
+      "code": "01915",
+      "name": "Sơn Hạ",
+      "fullName": "Xã Sơn Hạ, Tỉnh Quảng Ngãi",
+      "slug": "son-ha",
+      "type": "commune",
+      "postalCode": "21289"
+    },
+    {
+      "code": "01993",
+      "name": "Phước Giang",
+      "fullName": "Xã Phước Giang, Tỉnh Quảng Ngãi",
+      "slug": "phuoc-giang",
+      "type": "commune",
+      "postalCode": "21370"
+    },
+    {
+      "code": "02032",
+      "name": "Ngọk Bay",
+      "fullName": "Xã Ngọk Bay, Tỉnh Quảng Ngãi",
+      "slug": "ngok-bay",
+      "type": "commune",
+      "postalCode": "23317"
+    },
+    {
+      "code": "02133",
+      "name": "Trường Giang",
+      "fullName": "Xã Trường Giang, Tỉnh Quảng Ngãi",
+      "slug": "truong-giang",
+      "type": "commune",
+      "postalCode": "21196"
+    },
+    {
+      "code": "02145",
+      "name": "Đăk BLa",
+      "fullName": "Phường Đăk BLa, Tỉnh Quảng Ngãi",
+      "slug": "dak-bla",
+      "type": "ward",
+      "postalCode": "23302"
+    },
+    {
+      "code": "02166",
+      "name": "Ba Gia",
+      "fullName": "Xã Ba Gia, Tỉnh Quảng Ngãi",
+      "slug": "ba-gia",
+      "type": "commune",
+      "postalCode": "21205"
+    },
+    {
+      "code": "02192",
+      "name": "Ia Chim",
+      "fullName": "Xã Ia Chim, Tỉnh Quảng Ngãi",
+      "slug": "ia-chim",
+      "type": "commune",
+      "postalCode": "23326"
+    },
+    {
+      "code": "02217",
+      "name": "Trà Giang",
+      "fullName": "Xã Trà Giang, Tỉnh Quảng Ngãi",
+      "slug": "tra-giang",
+      "type": "commune",
+      "postalCode": "21244"
+    },
+    {
+      "code": "02243",
+      "name": "Sơn Hà",
+      "fullName": "Xã Sơn Hà, Tỉnh Quảng Ngãi",
+      "slug": "son-ha",
+      "type": "commune",
+      "postalCode": "21289"
+    },
+    {
+      "code": "02265",
+      "name": "Sa Thầy",
+      "fullName": "Xã Sa Thầy, Tỉnh Quảng Ngãi",
+      "slug": "sa-thay",
+      "type": "commune",
+      "postalCode": "23527"
+    },
+    {
+      "code": "02277",
+      "name": "Bình Minh",
+      "fullName": "Xã Bình Minh, Tỉnh Quảng Ngãi",
+      "slug": "binh-minh",
+      "type": "commune",
+      "postalCode": "21085"
+    },
+    {
+      "code": "02284",
+      "name": "Đăk Mar",
+      "fullName": "Xã Đăk Mar, Tỉnh Quảng Ngãi",
+      "slug": "dak-mar",
+      "type": "commune",
+      "postalCode": "23512"
+    },
+    {
+      "code": "02335",
+      "name": "Trà Bồng",
+      "fullName": "Xã Trà Bồng, Tỉnh Quảng Ngãi",
+      "slug": "tra-bong",
+      "type": "commune",
+      "postalCode": "21115"
+    },
+    {
+      "code": "02369",
+      "name": "Kon Braih",
+      "fullName": "Xã Kon Braih, Tỉnh Quảng Ngãi",
+      "slug": "kon-braih",
+      "type": "commune",
+      "postalCode": "23497"
+    },
+    {
+      "code": "02391",
+      "name": "Nguyễn Nghiêm",
+      "fullName": "Xã Nguyễn Nghiêm, Tỉnh Quảng Ngãi",
+      "slug": "nguyen-nghiem",
+      "type": "commune",
+      "postalCode": "21457"
+    },
+    {
+      "code": "02434",
+      "name": "Đăk Pék",
+      "fullName": "Xã Đăk Pék, Tỉnh Quảng Ngãi",
+      "slug": "dak-pek",
+      "type": "commune",
+      "postalCode": "23341"
+    },
+    {
+      "code": "02439",
+      "name": "Thiện Tín",
+      "fullName": "Xã Thiện Tín, Tỉnh Quảng Ngãi",
+      "slug": "thien-tin",
+      "type": "commune",
+      "postalCode": "21388"
+    },
+    {
+      "code": "02457",
+      "name": "Sơn Linh",
+      "fullName": "Xã Sơn Linh, Tỉnh Quảng Ngãi",
+      "slug": "son-linh",
+      "type": "commune",
+      "postalCode": "21307"
+    },
+    {
+      "code": "02477",
+      "name": "Sa Bình",
+      "fullName": "Xã Sa Bình, Tỉnh Quảng Ngãi",
+      "slug": "sa-binh",
+      "type": "commune",
+      "postalCode": "23534"
+    },
+    {
+      "code": "02490",
+      "name": "Bình Chương",
+      "fullName": "Xã Bình Chương, Tỉnh Quảng Ngãi",
+      "slug": "binh-chuong",
+      "type": "commune",
+      "postalCode": "21100"
+    },
+    {
+      "code": "02551",
+      "name": "Dục Nông",
+      "fullName": "Xã Dục Nông, Tỉnh Quảng Ngãi",
+      "slug": "duc-nong",
+      "type": "commune",
+      "postalCode": "23383"
+    },
+    {
+      "code": "02677",
+      "name": "Đăk Môn",
+      "fullName": "Xã Đăk Môn, Tỉnh Quảng Ngãi",
+      "slug": "dak-mon",
+      "type": "commune",
+      "postalCode": "23374"
+    },
+    {
+      "code": "02692",
+      "name": "Kon Đào",
+      "fullName": "Xã Kon Đào, Tỉnh Quảng Ngãi",
+      "slug": "kon-dao",
+      "type": "commune",
+      "postalCode": "23430"
+    },
+    {
+      "code": "02729",
+      "name": "Sa Loong",
+      "fullName": "Xã Sa Loong, Tỉnh Quảng Ngãi",
+      "slug": "sa-loong",
+      "type": "commune",
+      "postalCode": "23392"
+    },
+    {
+      "code": "02731",
+      "name": "Sơn Thủy",
+      "fullName": "Xã Sơn Thủy, Tỉnh Quảng Ngãi",
+      "slug": "son-thuy",
+      "type": "commune",
+      "postalCode": "21319"
+    },
+    {
+      "code": "02762",
+      "name": "Ba Tơ",
+      "fullName": "Xã Ba Tơ, Tỉnh Quảng Ngãi",
+      "slug": "ba-to",
+      "type": "commune",
+      "postalCode": "21484"
+    },
+    {
+      "code": "02772",
+      "name": "Đăk Ui",
+      "fullName": "Xã Đăk Ui, Tỉnh Quảng Ngãi",
+      "slug": "dak-ui",
+      "type": "commune",
+      "postalCode": "23510"
+    },
+    {
+      "code": "02773",
+      "name": "Sơn Kỳ",
+      "fullName": "Xã Sơn Kỳ, Tỉnh Quảng Ngãi",
+      "slug": "son-ky",
+      "type": "commune",
+      "postalCode": "21325"
+    },
+    {
+      "code": "02782",
+      "name": "Ngọk Réo",
+      "fullName": "Xã Ngọk Réo, Tỉnh Quảng Ngãi",
+      "slug": "ngok-reo",
+      "type": "commune",
+      "postalCode": "23515"
+    },
+    {
+      "code": "02795",
+      "name": "Tây Trà",
+      "fullName": "Xã Tây Trà, Tỉnh Quảng Ngãi",
+      "slug": "tay-tra",
+      "type": "commune",
+      "postalCode": "21154"
+    },
+    {
+      "code": "02810",
+      "name": "Ba Vì",
+      "fullName": "Xã Ba Vì, Tỉnh Quảng Ngãi",
+      "slug": "ba-vi",
+      "type": "commune",
+      "postalCode": "21490"
+    },
+    {
+      "code": "02824",
+      "name": "Đông Trà Bồng",
+      "fullName": "Xã Đông Trà Bồng, Tỉnh Quảng Ngãi",
+      "slug": "dong-tra-bong",
+      "type": "commune",
+      "postalCode": "21127"
+    },
+    {
+      "code": "02825",
+      "name": "Đăk Pxi",
+      "fullName": "Xã Đăk Pxi, Tỉnh Quảng Ngãi",
+      "slug": "dak-pxi",
+      "type": "commune",
+      "postalCode": "23504"
+    },
+    {
+      "code": "02867",
+      "name": "Ya Ly",
+      "fullName": "Xã Ya Ly, Tỉnh Quảng Ngãi",
+      "slug": "ya-ly",
+      "type": "commune",
+      "postalCode": "23548"
+    },
+    {
+      "code": "02911",
+      "name": "Minh Long",
+      "fullName": "Xã Minh Long, Tỉnh Quảng Ngãi",
+      "slug": "minh-long",
+      "type": "commune",
+      "postalCode": "21361"
+    },
+    {
+      "code": "02927",
+      "name": "Sơn Mai",
+      "fullName": "Xã Sơn Mai, Tỉnh Quảng Ngãi",
+      "slug": "son-mai",
+      "type": "commune",
+      "postalCode": "21349"
+    },
+    {
+      "code": "02930",
+      "name": "Sơn Tây",
+      "fullName": "Xã Sơn Tây, Tỉnh Quảng Ngãi",
+      "slug": "son-tay",
+      "type": "commune",
+      "postalCode": "21334"
+    },
+    {
+      "code": "02949",
+      "name": "Ba Tô",
+      "fullName": "Xã Ba Tô, Tỉnh Quảng Ngãi",
+      "slug": "ba-to",
+      "type": "commune",
+      "postalCode": "21484"
+    },
+    {
+      "code": "02962",
+      "name": "Măng Đen",
+      "fullName": "Xã Măng Đen, Tỉnh Quảng Ngãi",
+      "slug": "mang-den",
+      "type": "commune",
+      "postalCode": "23473"
+    },
+    {
+      "code": "02972",
+      "name": "Kon Plông",
+      "fullName": "Xã Kon Plông, Tỉnh Quảng Ngãi",
+      "slug": "kon-plong",
+      "type": "commune",
+      "postalCode": "23476"
+    },
+    {
+      "code": "02988",
+      "name": "Măng Bút",
+      "fullName": "Xã Măng Bút, Tỉnh Quảng Ngãi",
+      "slug": "mang-but",
+      "type": "commune",
+      "postalCode": "23455"
+    },
+    {
+      "code": "03001",
+      "name": "Đăk Tờ Kan",
+      "fullName": "Xã Đăk Tờ Kan, Tỉnh Quảng Ngãi",
+      "slug": "dak-to-kan",
+      "type": "commune",
+      "postalCode": "23419"
+    },
+    {
+      "code": "03016",
+      "name": "Măng Ri",
+      "fullName": "Xã Măng Ri, Tỉnh Quảng Ngãi",
+      "slug": "mang-ri",
+      "type": "commune",
+      "postalCode": "23446"
+    },
+    {
+      "code": "03031",
+      "name": "Ngọk Tụ",
+      "fullName": "Xã Ngọk Tụ, Tỉnh Quảng Ngãi",
+      "slug": "ngok-tu",
+      "type": "commune",
+      "postalCode": "23428"
+    },
+    {
+      "code": "03052",
+      "name": "Đăk Rve",
+      "fullName": "Xã Đăk Rve, Tỉnh Quảng Ngãi",
+      "slug": "dak-rve",
+      "type": "commune",
+      "postalCode": "23479"
+    },
+    {
+      "code": "03058",
+      "name": "Tây Trà Bồng",
+      "fullName": "Xã Tây Trà Bồng, Tỉnh Quảng Ngãi",
+      "slug": "tay-tra-bong",
+      "type": "commune",
+      "postalCode": "21157"
+    },
+    {
+      "code": "03078",
+      "name": "Ba Động",
+      "fullName": "Xã Ba Động, Tỉnh Quảng Ngãi",
+      "slug": "ba-dong",
+      "type": "commune",
+      "postalCode": "21496"
+    },
+    {
+      "code": "03090",
+      "name": "Thanh Bồng",
+      "fullName": "Xã Thanh Bồng, Tỉnh Quảng Ngãi",
+      "slug": "thanh-bong",
+      "type": "commune",
+      "postalCode": "21124"
+    },
+    {
+      "code": "03091",
+      "name": "Sơn Tây Thượng",
+      "fullName": "Xã Sơn Tây Thượng, Tỉnh Quảng Ngãi",
+      "slug": "son-tay-thuong",
+      "type": "commune",
+      "postalCode": "21334"
+    },
+    {
+      "code": "03106",
+      "name": "Ba Dinh",
+      "fullName": "Xã Ba Dinh, Tỉnh Quảng Ngãi",
+      "slug": "ba-dinh",
+      "type": "commune",
+      "postalCode": "21499"
+    },
+    {
+      "code": "03111",
+      "name": "Ia Tơi",
+      "fullName": "Xã Ia Tơi, Tỉnh Quảng Ngãi",
+      "slug": "ia-toi",
+      "type": "commune",
+      "postalCode": "23538"
+    },
+    {
+      "code": "03142",
+      "name": "Tu Mơ Rông",
+      "fullName": "Xã Tu Mơ Rông, Tỉnh Quảng Ngãi",
+      "slug": "tu-mo-rong",
+      "type": "commune",
+      "postalCode": "23425"
+    },
+    {
+      "code": "03143",
+      "name": "Đăk Sao",
+      "fullName": "Xã Đăk Sao, Tỉnh Quảng Ngãi",
+      "slug": "dak-sao",
+      "type": "commune",
+      "postalCode": "23416"
+    },
+    {
+      "code": "03158",
+      "name": "Xốp",
+      "fullName": "Xã Xốp, Tỉnh Quảng Ngãi",
+      "slug": "xop",
+      "type": "commune",
+      "postalCode": "23356"
+    },
+    {
+      "code": "03166",
+      "name": "Ngọc Linh",
+      "fullName": "Xã Ngọc Linh, Tỉnh Quảng Ngãi",
+      "slug": "ngoc-linh",
+      "type": "commune",
+      "postalCode": "23365"
+    },
+    {
+      "code": "03167",
+      "name": "Ba Vinh",
+      "fullName": "Xã Ba Vinh, Tỉnh Quảng Ngãi",
+      "slug": "ba-vinh",
+      "type": "commune",
+      "postalCode": "21490"
+    },
+    {
+      "code": "03173",
+      "name": "Rờ Kơi",
+      "fullName": "Xã Rờ Kơi, Tỉnh Quảng Ngãi",
+      "slug": "ro-koi",
+      "type": "commune",
+      "postalCode": "23530"
+    },
+    {
+      "code": "03175",
+      "name": "Mô Rai",
+      "fullName": "Xã Mô Rai, Tỉnh Quảng Ngãi",
+      "slug": "mo-rai",
+      "type": "commune",
+      "postalCode": "23536"
+    },
+    {
+      "code": "03202",
+      "name": "Đăk Kôi",
+      "fullName": "Xã Đăk Kôi, Tỉnh Quảng Ngãi",
+      "slug": "dak-koi",
+      "type": "commune",
+      "postalCode": "23485"
+    },
+    {
+      "code": "03224",
+      "name": "Sơn Tây Hạ",
+      "fullName": "Xã Sơn Tây Hạ, Tỉnh Quảng Ngãi",
+      "slug": "son-tay-ha",
+      "type": "commune",
+      "postalCode": "21343"
+    },
+    {
+      "code": "03230",
+      "name": "Đăk Plô",
+      "fullName": "Xã Đăk Plô, Tỉnh Quảng Ngãi",
+      "slug": "dak-plo",
+      "type": "commune",
+      "postalCode": "23344"
+    },
+    {
+      "code": "03240",
+      "name": "Ba Xa",
+      "fullName": "Xã Ba Xa, Tỉnh Quảng Ngãi",
+      "slug": "ba-xa",
+      "type": "commune",
+      "postalCode": "21538"
+    },
+    {
+      "code": "03248",
+      "name": "Đăk Long",
+      "fullName": "Xã Đăk Long, Tỉnh Quảng Ngãi",
+      "slug": "dak-long",
+      "type": "commune",
+      "postalCode": "23368"
+    },
+    {
+      "code": "03256",
+      "name": "Ia Đal",
+      "fullName": "Xã Ia Đal, Tỉnh Quảng Ngãi",
+      "slug": "ia-dal",
+      "type": "commune",
+      "postalCode": "23535"
+    },
+    {
+      "code": "03273",
+      "name": "Đặng Thùy Trâm",
+      "fullName": "Xã Đặng Thùy Trâm, Tỉnh Quảng Ngãi",
+      "slug": "dang-thuy-tram",
+      "type": "commune",
+      "postalCode": "21520"
+    },
+    {
+      "code": "03277",
+      "name": "Cà Đam",
+      "fullName": "Xã Cà Đam, Tỉnh Quảng Ngãi",
+      "slug": "ca-dam",
+      "type": "commune",
+      "postalCode": "21136"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Quảng Ngãi",
+      "slug": "thanh-pho-quang-ngai",
+      "wards": [
+        {
+          "code": "21025",
+          "name": "Cẩm Thành",
+          "fullName": "Phường Cẩm Thành, Tỉnh Quảng Ngãi",
+          "slug": "cam-thanh",
+          "postalCode": "21025"
+        },
+        {
+          "code": "21028",
+          "name": "Nghĩa Lộ",
+          "fullName": "Phường Nghĩa Lộ, Tỉnh Quảng Ngãi",
+          "slug": "nghia-lo",
+          "postalCode": "21028"
+        },
+        {
+          "code": "21034",
+          "name": "An Phú",
+          "fullName": "Xã An Phú, Tỉnh Quảng Ngãi",
+          "slug": "an-phu",
+          "postalCode": "21034"
+        },
+        {
+          "code": "21109",
+          "name": "Đông Sơn",
+          "fullName": "Xã Đông Sơn, Tỉnh Quảng Ngãi",
+          "slug": "dong-son",
+          "postalCode": "21109"
+        },
+        {
+          "code": "21172",
+          "name": "Trương Quang Trọng",
+          "fullName": "Phường Trương Quang Trọng, Tỉnh Quảng Ngãi",
+          "slug": "truong-quang-trong",
+          "postalCode": "21172"
+        },
+        {
+          "code": "21211",
+          "name": "Tịnh Khê",
+          "fullName": "Xã Tịnh Khê, Tỉnh Quảng Ngãi",
+          "slug": "tinh-khe",
+          "postalCode": "21211"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Đức Phổ",
+      "slug": "thi-xa-duc-pho",
+      "wards": [
+        {
+          "code": "21439",
+          "name": "Đức Phổ",
+          "fullName": "Phường Đức Phổ, Tỉnh Quảng Ngãi",
+          "slug": "duc-pho",
+          "postalCode": "21439"
+        },
+        {
+          "code": "21451",
+          "name": "Trà Câu",
+          "fullName": "Phường Trà Câu, Tỉnh Quảng Ngãi",
+          "slug": "tra-cau",
+          "postalCode": "21451"
+        },
+        {
+          "code": "21457",
+          "name": "Nguyễn Nghiêm",
+          "fullName": "Xã Nguyễn Nghiêm, Tỉnh Quảng Ngãi",
+          "slug": "nguyen-nghiem",
+          "postalCode": "21457"
+        },
+        {
+          "code": "21472",
+          "name": "Khánh Cường",
+          "fullName": "Xã Khánh Cường, Tỉnh Quảng Ngãi",
+          "slug": "khanh-cuong",
+          "postalCode": "21472"
+        },
+        {
+          "code": "21478",
+          "name": "Sa Huỳnh",
+          "fullName": "Phường Sa Huỳnh, Tỉnh Quảng Ngãi",
+          "slug": "sa-huynh",
+          "postalCode": "21478"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Kon Tum",
+      "slug": "thanh-pho-kon-tum",
+      "wards": [
+        {
+          "code": "23284",
+          "name": "Phường Đăk Cấm",
+          "fullName": "Phường Đăk Cấm, Tỉnh Quảng Ngãi",
+          "slug": "phuong-dak-cam",
+          "postalCode": "23284"
+        },
+        {
+          "code": "23293",
+          "name": "Kon Tum",
+          "fullName": "Phường Kon Tum, Tỉnh Quảng Ngãi",
+          "slug": "kon-tum",
+          "postalCode": "23293"
+        },
+        {
+          "code": "23302",
+          "name": "Đăk Bla",
+          "fullName": "Phường Đăk Bla, Tỉnh Quảng Ngãi",
+          "slug": "dak-bla",
+          "postalCode": "23302"
+        },
+        {
+          "code": "23317",
+          "name": "Ngọk Bay",
+          "fullName": "Xã Ngọk Bay, Tỉnh Quảng Ngãi",
+          "slug": "ngok-bay",
+          "postalCode": "23317"
+        },
+        {
+          "code": "23326",
+          "name": "Ia Chim",
+          "fullName": "Xã Ia Chim, Tỉnh Quảng Ngãi",
+          "slug": "ia-chim",
+          "postalCode": "23326"
+        },
+        {
+          "code": "23332",
+          "name": "Đăk Rơ Wa",
+          "fullName": "Xã Đăk Rơ Wa, Tỉnh Quảng Ngãi",
+          "slug": "dak-ro-wa",
+          "postalCode": "23332"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bình Sơn",
+      "slug": "huyen-binh-son",
+      "wards": [
+        {
+          "code": "21040",
+          "name": "Bình Sơn",
+          "fullName": "Xã Bình Sơn, Tỉnh Quảng Ngãi",
+          "slug": "binh-son",
+          "postalCode": "21040"
+        },
+        {
+          "code": "21061",
+          "name": "Vạn Tường",
+          "fullName": "Xã Vạn Tường, Tỉnh Quảng Ngãi",
+          "slug": "van-tuong",
+          "postalCode": "21061"
+        },
+        {
+          "code": "21085",
+          "name": "Bình Minh",
+          "fullName": "Xã Bình Minh, Tỉnh Quảng Ngãi",
+          "slug": "binh-minh",
+          "postalCode": "21085"
+        },
+        {
+          "code": "21100",
+          "name": "Bình Chương",
+          "fullName": "Xã Bình Chương, Tỉnh Quảng Ngãi",
+          "slug": "binh-chuong",
+          "postalCode": "21100"
+        },
+        {
+          "code": "21109",
+          "name": "Đông Sơn",
+          "fullName": "Xã Đông Sơn, Tỉnh Quảng Ngãi",
+          "slug": "dong-son",
+          "postalCode": "21109"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trà Bồng",
+      "slug": "huyen-tra-bong",
+      "wards": [
+        {
+          "code": "21115",
+          "name": "Trà Bồng",
+          "fullName": "Xã Trà Bồng, Tỉnh Quảng Ngãi",
+          "slug": "tra-bong",
+          "postalCode": "21115"
+        },
+        {
+          "code": "21124",
+          "name": "Thanh Bồng",
+          "fullName": "Xã Thanh Bồng, Tỉnh Quảng Ngãi",
+          "slug": "thanh-bong",
+          "postalCode": "21124"
+        },
+        {
+          "code": "21127",
+          "name": "Đông Trà Bồng",
+          "fullName": "Xã Đông Trà Bồng, Tỉnh Quảng Ngãi",
+          "slug": "dong-tra-bong",
+          "postalCode": "21127"
+        },
+        {
+          "code": "21136",
+          "name": "Cà Đam",
+          "fullName": "Xã Cà Đam, Tỉnh Quảng Ngãi",
+          "slug": "ca-dam",
+          "postalCode": "21136"
+        },
+        {
+          "code": "21154",
+          "name": "Tây Trà",
+          "fullName": "Xã Tây Trà, Tỉnh Quảng Ngãi",
+          "slug": "tay-tra",
+          "postalCode": "21154"
+        },
+        {
+          "code": "21157",
+          "name": "Tây Trà Bồng",
+          "fullName": "Xã Tây Trà Bồng, Tỉnh Quảng Ngãi",
+          "slug": "tay-tra-bong",
+          "postalCode": "21157"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sơn Tịnh",
+      "slug": "huyen-son-tinh",
+      "wards": [
+        {
+          "code": "21181",
+          "name": "Thọ Phong",
+          "fullName": "Xã Thọ Phong, Tỉnh Quảng Ngãi",
+          "slug": "tho-phong",
+          "postalCode": "21181"
+        },
+        {
+          "code": "21196",
+          "name": "Trường Giang",
+          "fullName": "Xã Trường Giang, Tỉnh Quảng Ngãi",
+          "slug": "truong-giang",
+          "postalCode": "21196"
+        },
+        {
+          "code": "21205",
+          "name": "Ba Gia",
+          "fullName": "Xã Ba Gia, Tỉnh Quảng Ngãi",
+          "slug": "ba-gia",
+          "postalCode": "21205"
+        },
+        {
+          "code": "21220",
+          "name": "Sơn Tịnh",
+          "fullName": "Xã Sơn Tịnh, Tỉnh Quảng Ngãi",
+          "slug": "son-tinh",
+          "postalCode": "21220"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tư Nghĩa",
+      "slug": "huyen-tu-nghia",
+      "wards": [
+        {
+          "code": "21235",
+          "name": "Tư Nghĩa",
+          "fullName": "Xã Tư Nghĩa, Tỉnh Quảng Ngãi",
+          "slug": "tu-nghia",
+          "postalCode": "21235"
+        },
+        {
+          "code": "21238",
+          "name": "Vệ Giang",
+          "fullName": "Xã Vệ Giang, Tỉnh Quảng Ngãi",
+          "slug": "ve-giang",
+          "postalCode": "21238"
+        },
+        {
+          "code": "21244",
+          "name": "Trà Giang",
+          "fullName": "Xã Trà Giang, Tỉnh Quảng Ngãi",
+          "slug": "tra-giang",
+          "postalCode": "21244"
+        },
+        {
+          "code": "21250",
+          "name": "Nghĩa Giang",
+          "fullName": "Xã Nghĩa Giang, Tỉnh Quảng Ngãi",
+          "slug": "nghia-giang",
+          "postalCode": "21250"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sơn Hà",
+      "slug": "huyen-son-ha",
+      "wards": [
+        {
+          "code": "21289",
+          "name": "Sơn Hà",
+          "fullName": "Xã Sơn Hà, Tỉnh Quảng Ngãi",
+          "slug": "son-ha",
+          "postalCode": "21289"
+        },
+        {
+          "code": "21292",
+          "name": "Sơn Hạ",
+          "fullName": "Xã Sơn Hạ, Tỉnh Quảng Ngãi",
+          "slug": "son-ha",
+          "postalCode": "21292"
+        },
+        {
+          "code": "21307",
+          "name": "Sơn Linh",
+          "fullName": "Xã Sơn Linh, Tỉnh Quảng Ngãi",
+          "slug": "son-linh",
+          "postalCode": "21307"
+        },
+        {
+          "code": "21319",
+          "name": "Sơn Thủy",
+          "fullName": "Xã Sơn Thủy, Tỉnh Quảng Ngãi",
+          "slug": "son-thuy",
+          "postalCode": "21319"
+        },
+        {
+          "code": "21325",
+          "name": "Sơn Kỳ",
+          "fullName": "Xã Sơn Kỳ, Tỉnh Quảng Ngãi",
+          "slug": "son-ky",
+          "postalCode": "21325"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sơn Tây",
+      "slug": "huyen-son-tay",
+      "wards": [
+        {
+          "code": "21334",
+          "name": "Sơn Tây Thượng",
+          "fullName": "Xã Sơn Tây Thượng, Tỉnh Quảng Ngãi",
+          "slug": "son-tay-thuong",
+          "postalCode": "21334"
+        },
+        {
+          "code": "21340",
+          "name": "Sơn Tây",
+          "fullName": "Xã Sơn Tây, Tỉnh Quảng Ngãi",
+          "slug": "son-tay",
+          "postalCode": "21340"
+        },
+        {
+          "code": "21343",
+          "name": "Sơn Tây Hạ",
+          "fullName": "Xã Sơn Tây Hạ, Tỉnh Quảng Ngãi",
+          "slug": "son-tay-ha",
+          "postalCode": "21343"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Minh Long",
+      "slug": "huyen-minh-long",
+      "wards": [
+        {
+          "code": "21349",
+          "name": "Sơn Mai",
+          "fullName": "Xã Sơn Mai, Tỉnh Quảng Ngãi",
+          "slug": "son-mai",
+          "postalCode": "21349"
+        },
+        {
+          "code": "21361",
+          "name": "Minh Long",
+          "fullName": "Xã Minh Long, Tỉnh Quảng Ngãi",
+          "slug": "minh-long",
+          "postalCode": "21361"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nghĩa Hành",
+      "slug": "huyen-nghia-hanh",
+      "wards": [
+        {
+          "code": "21364",
+          "name": "Nghĩa Hành",
+          "fullName": "Xã Nghĩa Hành, Tỉnh Quảng Ngãi",
+          "slug": "nghia-hanh",
+          "postalCode": "21364"
+        },
+        {
+          "code": "21370",
+          "name": "Phước Giang",
+          "fullName": "Xã Phước Giang, Tỉnh Quảng Ngãi",
+          "slug": "phuoc-giang",
+          "postalCode": "21370"
+        },
+        {
+          "code": "21385",
+          "name": "Đình Cương",
+          "fullName": "Xã Đình Cương, Tỉnh Quảng Ngãi",
+          "slug": "dinh-cuong",
+          "postalCode": "21385"
+        },
+        {
+          "code": "21388",
+          "name": "Thiện Tín",
+          "fullName": "Xã Thiện Tín, Tỉnh Quảng Ngãi",
+          "slug": "thien-tin",
+          "postalCode": "21388"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mộ Đức",
+      "slug": "huyen-mo-duc",
+      "wards": [
+        {
+          "code": "21400",
+          "name": "Mộ Đức",
+          "fullName": "Xã Mộ Đức, Tỉnh Quảng Ngãi",
+          "slug": "mo-duc",
+          "postalCode": "21400"
+        },
+        {
+          "code": "21409",
+          "name": "Long Phụng",
+          "fullName": "Xã Long Phụng, Tỉnh Quảng Ngãi",
+          "slug": "long-phung",
+          "postalCode": "21409"
+        },
+        {
+          "code": "21421",
+          "name": "Mỏ Cày",
+          "fullName": "Xã Mỏ Cày, Tỉnh Quảng Ngãi",
+          "slug": "mo-cay",
+          "postalCode": "21421"
+        },
+        {
+          "code": "21433",
+          "name": "Lân Phong",
+          "fullName": "Xã Lân Phong, Tỉnh Quảng Ngãi",
+          "slug": "lan-phong",
+          "postalCode": "21433"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ba Tơ",
+      "slug": "huyen-ba-to",
+      "wards": [
+        {
+          "code": "21484",
+          "name": "Ba Tơ",
+          "fullName": "Xã Ba Tơ, Tỉnh Quảng Ngãi",
+          "slug": "ba-to",
+          "postalCode": "21484"
+        },
+        {
+          "code": "21490",
+          "name": "Ba Vinh",
+          "fullName": "Xã Ba Vinh, Tỉnh Quảng Ngãi",
+          "slug": "ba-vinh",
+          "postalCode": "21490"
+        },
+        {
+          "code": "21496",
+          "name": "Ba Động",
+          "fullName": "Xã Ba Động, Tỉnh Quảng Ngãi",
+          "slug": "ba-dong",
+          "postalCode": "21496"
+        },
+        {
+          "code": "21499",
+          "name": "Ba Dinh",
+          "fullName": "Xã Ba Dinh, Tỉnh Quảng Ngãi",
+          "slug": "ba-dinh",
+          "postalCode": "21499"
+        },
+        {
+          "code": "21520",
+          "name": "Đặng Thùy Trâm",
+          "fullName": "Xã Đặng Thùy Trâm, Tỉnh Quảng Ngãi",
+          "slug": "dang-thuy-tram",
+          "postalCode": "21520"
+        },
+        {
+          "code": "21523",
+          "name": "Ba Tô",
+          "fullName": "Xã Ba Tô, Tỉnh Quảng Ngãi",
+          "slug": "ba-to",
+          "postalCode": "21523"
+        },
+        {
+          "code": "21529",
+          "name": "Ba Vì",
+          "fullName": "Xã Ba Vì, Tỉnh Quảng Ngãi",
+          "slug": "ba-vi",
+          "postalCode": "21529"
+        },
+        {
+          "code": "21538",
+          "name": "Ba Xa",
+          "fullName": "Xã Ba Xa, Tỉnh Quảng Ngãi",
+          "slug": "ba-xa",
+          "postalCode": "21538"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đắk Glei",
+      "slug": "huyen-dak-glei",
+      "wards": [
+        {
+          "code": "23341",
+          "name": "Đăk Pék",
+          "fullName": "Xã Đăk Pék, Tỉnh Quảng Ngãi",
+          "slug": "dak-pek",
+          "postalCode": "23341"
+        },
+        {
+          "code": "23344",
+          "name": "Đăk Plô",
+          "fullName": "Xã Đăk Plô, Tỉnh Quảng Ngãi",
+          "slug": "dak-plo",
+          "postalCode": "23344"
+        },
+        {
+          "code": "23356",
+          "name": "Xốp",
+          "fullName": "Xã Xốp, Tỉnh Quảng Ngãi",
+          "slug": "xop",
+          "postalCode": "23356"
+        },
+        {
+          "code": "23365",
+          "name": "Ngọc Linh",
+          "fullName": "Xã Ngọc Linh, Tỉnh Quảng Ngãi",
+          "slug": "ngoc-linh",
+          "postalCode": "23365"
+        },
+        {
+          "code": "23368",
+          "name": "Đăk Long",
+          "fullName": "Xã Đăk Long, Tỉnh Quảng Ngãi",
+          "slug": "dak-long",
+          "postalCode": "23368"
+        },
+        {
+          "code": "23374",
+          "name": "Đăk Môn",
+          "fullName": "Xã Đăk Môn, Tỉnh Quảng Ngãi",
+          "slug": "dak-mon",
+          "postalCode": "23374"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ngọc Hồi",
+      "slug": "huyen-ngoc-hoi",
+      "wards": [
+        {
+          "code": "23377",
+          "name": "Bờ Y",
+          "fullName": "Xã Bờ Y, Tỉnh Quảng Ngãi",
+          "slug": "bo-y",
+          "postalCode": "23377"
+        },
+        {
+          "code": "23383",
+          "name": "Dục Nông",
+          "fullName": "Xã Dục Nông, Tỉnh Quảng Ngãi",
+          "slug": "duc-nong",
+          "postalCode": "23383"
+        },
+        {
+          "code": "23392",
+          "name": "Sa Loong",
+          "fullName": "Xã Sa Loong, Tỉnh Quảng Ngãi",
+          "slug": "sa-loong",
+          "postalCode": "23392"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đắk Tô",
+      "slug": "huyen-dak-to",
+      "wards": [
+        {
+          "code": "23401",
+          "name": "Đăk Tô",
+          "fullName": "Xã Đăk Tô, Tỉnh Quảng Ngãi",
+          "slug": "dak-to",
+          "postalCode": "23401"
+        },
+        {
+          "code": "23428",
+          "name": "Ngọk Tụ",
+          "fullName": "Xã Ngọk Tụ, Tỉnh Quảng Ngãi",
+          "slug": "ngok-tu",
+          "postalCode": "23428"
+        },
+        {
+          "code": "23430",
+          "name": "Kon Đào",
+          "fullName": "Xã Kon Đào, Tỉnh Quảng Ngãi",
+          "slug": "kon-dao",
+          "postalCode": "23430"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tu Mơ Rông",
+      "slug": "huyen-tu-mo-rong",
+      "wards": [
+        {
+          "code": "23416",
+          "name": "Đăk Sao",
+          "fullName": "Xã Đăk Sao, Tỉnh Quảng Ngãi",
+          "slug": "dak-sao",
+          "postalCode": "23416"
+        },
+        {
+          "code": "23419",
+          "name": "Đăk Tờ Kan",
+          "fullName": "Xã Đăk Tờ Kan, Tỉnh Quảng Ngãi",
+          "slug": "dak-to-kan",
+          "postalCode": "23419"
+        },
+        {
+          "code": "23425",
+          "name": "Tu Mơ Rông",
+          "fullName": "Xã Tu Mơ Rông, Tỉnh Quảng Ngãi",
+          "slug": "tu-mo-rong",
+          "postalCode": "23425"
+        },
+        {
+          "code": "23446",
+          "name": "Măng Ri",
+          "fullName": "Xã Măng Ri, Tỉnh Quảng Ngãi",
+          "slug": "mang-ri",
+          "postalCode": "23446"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kon Plông",
+      "slug": "huyen-kon-plong",
+      "wards": [
+        {
+          "code": "23455",
+          "name": "Măng Bút",
+          "fullName": "Xã Măng Bút, Tỉnh Quảng Ngãi",
+          "slug": "mang-but",
+          "postalCode": "23455"
+        },
+        {
+          "code": "23473",
+          "name": "Măng Đen",
+          "fullName": "Xã Măng Đen, Tỉnh Quảng Ngãi",
+          "slug": "mang-den",
+          "postalCode": "23473"
+        },
+        {
+          "code": "23476",
+          "name": "Kon Plông",
+          "fullName": "Xã Kon Plông, Tỉnh Quảng Ngãi",
+          "slug": "kon-plong",
+          "postalCode": "23476"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kon Rẫy",
+      "slug": "huyen-kon-ray",
+      "wards": [
+        {
+          "code": "23479",
+          "name": "Đăk Rve",
+          "fullName": "Xã Đăk Rve, Tỉnh Quảng Ngãi",
+          "slug": "dak-rve",
+          "postalCode": "23479"
+        },
+        {
+          "code": "23485",
+          "name": "Đăk Kôi",
+          "fullName": "Xã Đăk Kôi, Tỉnh Quảng Ngãi",
+          "slug": "dak-koi",
+          "postalCode": "23485"
+        },
+        {
+          "code": "23497",
+          "name": "Kon Braih",
+          "fullName": "Xã Kon Braih, Tỉnh Quảng Ngãi",
+          "slug": "kon-braih",
+          "postalCode": "23497"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đắk Hà",
+      "slug": "huyen-dak-ha",
+      "wards": [
+        {
+          "code": "23500",
+          "name": "Đăk Hà",
+          "fullName": "Xã Đăk Hà, Tỉnh Quảng Ngãi",
+          "slug": "dak-ha",
+          "postalCode": "23500"
+        },
+        {
+          "code": "23504",
+          "name": "Đăk Pxi",
+          "fullName": "Xã Đăk Pxi, Tỉnh Quảng Ngãi",
+          "slug": "dak-pxi",
+          "postalCode": "23504"
+        },
+        {
+          "code": "23510",
+          "name": "Đăk Ui",
+          "fullName": "Xã Đăk Ui, Tỉnh Quảng Ngãi",
+          "slug": "dak-ui",
+          "postalCode": "23510"
+        },
+        {
+          "code": "23512",
+          "name": "Đăk Mar",
+          "fullName": "Xã Đăk Mar, Tỉnh Quảng Ngãi",
+          "slug": "dak-mar",
+          "postalCode": "23512"
+        },
+        {
+          "code": "23515",
+          "name": "Ngọk Réo",
+          "fullName": "Xã Ngọk Réo, Tỉnh Quảng Ngãi",
+          "slug": "ngok-reo",
+          "postalCode": "23515"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sa Thầy",
+      "slug": "huyen-sa-thay",
+      "wards": [
+        {
+          "code": "23527",
+          "name": "Sa Thầy",
+          "fullName": "Xã Sa Thầy, Tỉnh Quảng Ngãi",
+          "slug": "sa-thay",
+          "postalCode": "23527"
+        },
+        {
+          "code": "23530",
+          "name": "Rờ Kơi",
+          "fullName": "Xã Rờ Kơi, Tỉnh Quảng Ngãi",
+          "slug": "ro-koi",
+          "postalCode": "23530"
+        },
+        {
+          "code": "23534",
+          "name": "Sa Bình",
+          "fullName": "Xã Sa Bình, Tỉnh Quảng Ngãi",
+          "slug": "sa-binh",
+          "postalCode": "23534"
+        },
+        {
+          "code": "23536",
+          "name": "Mô Rai",
+          "fullName": "Xã Mô Rai, Tỉnh Quảng Ngãi",
+          "slug": "mo-rai",
+          "postalCode": "23536"
+        },
+        {
+          "code": "23548",
+          "name": "Ya Ly",
+          "fullName": "Xã Ya Ly, Tỉnh Quảng Ngãi",
+          "slug": "ya-ly",
+          "postalCode": "23548"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ia H' Drai",
+      "slug": "huyen-ia-h-drai",
+      "wards": [
+        {
+          "code": "23535",
+          "name": "Ia Đal",
+          "fullName": "Xã Ia Đal, Tỉnh Quảng Ngãi",
+          "slug": "ia-dal",
+          "postalCode": "23535"
+        },
+        {
+          "code": "23538",
+          "name": "Ia Tơi",
+          "fullName": "Xã Ia Tơi, Tỉnh Quảng Ngãi",
+          "slug": "ia-toi",
+          "postalCode": "23538"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lý Sơn",
+      "slug": "huyen-ly-son",
+      "wards": [
+        {
+          "code": "21548",
+          "name": "Đặc khu Lý Sơn",
+          "fullName": "Đặc khu Lý Sơn, Tỉnh Quảng Ngãi",
+          "slug": "dac-khu-ly-son",
+          "postalCode": "21548"
+        }
+      ]
+    }
+  ]
+}

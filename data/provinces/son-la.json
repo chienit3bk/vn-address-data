@@ -1,0 +1,1216 @@
+{
+  "code": "31",
+  "name": "Sơn La",
+  "slug": "son-la",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Sơn La",
+  "wards": [
+    {
+      "code": "00513",
+      "name": "Mai Sơn",
+      "fullName": "Xã Mai Sơn, Tỉnh Sơn La",
+      "slug": "mai-son",
+      "type": "commune",
+      "postalCode": "04105"
+    },
+    {
+      "code": "00543",
+      "name": "Tô Hiệu",
+      "fullName": "Phường Tô Hiệu, Tỉnh Sơn La",
+      "slug": "to-hieu",
+      "type": "ward",
+      "postalCode": "03646"
+    },
+    {
+      "code": "00646",
+      "name": "Phù Yên",
+      "fullName": "Xã Phù Yên, Tỉnh Sơn La",
+      "slug": "phu-yen",
+      "type": "commune",
+      "postalCode": "03910"
+    },
+    {
+      "code": "00657",
+      "name": "Thuận Châu",
+      "fullName": "Xã Thuận Châu, Tỉnh Sơn La",
+      "slug": "thuan-chau",
+      "type": "commune",
+      "postalCode": "03721"
+    },
+    {
+      "code": "01298",
+      "name": "Yên Châu",
+      "fullName": "Xã Yên Châu, Tỉnh Sơn La",
+      "slug": "yen-chau",
+      "type": "commune",
+      "postalCode": "04075"
+    },
+    {
+      "code": "01327",
+      "name": "Mường La",
+      "fullName": "Xã Mường La, Tỉnh Sơn La",
+      "slug": "muong-la",
+      "type": "commune",
+      "postalCode": "03808"
+    },
+    {
+      "code": "01477",
+      "name": "Quỳnh Nhai",
+      "fullName": "Xã Quỳnh Nhai, Tỉnh Sơn La",
+      "slug": "quynh-nhai",
+      "type": "commune",
+      "postalCode": "03703"
+    },
+    {
+      "code": "01679",
+      "name": "Chiềng Mung",
+      "fullName": "Xã Chiềng Mung, Tỉnh Sơn La",
+      "slug": "chieng-mung",
+      "type": "commune",
+      "postalCode": "04123"
+    },
+    {
+      "code": "01738",
+      "name": "Chiềng Sinh",
+      "fullName": "Phường Chiềng Sinh, Tỉnh Sơn La",
+      "slug": "chieng-sinh",
+      "type": "ward",
+      "postalCode": "03679"
+    },
+    {
+      "code": "01809",
+      "name": "Sông Mã",
+      "fullName": "Xã Sông Mã, Tỉnh Sơn La",
+      "slug": "song-ma",
+      "type": "commune",
+      "postalCode": "04168"
+    },
+    {
+      "code": "01877",
+      "name": "Mường Bú",
+      "fullName": "Xã Mường Bú, Tỉnh Sơn La",
+      "slug": "muong-bu",
+      "type": "commune",
+      "postalCode": "03847"
+    },
+    {
+      "code": "01895",
+      "name": "Vân Hồ",
+      "fullName": "Xã Vân Hồ, Tỉnh Sơn La",
+      "slug": "van-ho",
+      "type": "commune",
+      "postalCode": "04048"
+    },
+    {
+      "code": "01922",
+      "name": "Phiêng Pằn",
+      "fullName": "Xã Phiêng Pằn, Tỉnh Sơn La",
+      "slug": "phieng-pan",
+      "type": "commune",
+      "postalCode": "04159"
+    },
+    {
+      "code": "01927",
+      "name": "Mường Hung",
+      "fullName": "Xã Mường Hung, Tỉnh Sơn La",
+      "slug": "muong-hung",
+      "type": "commune",
+      "postalCode": "04219"
+    },
+    {
+      "code": "01932",
+      "name": "Mường Khiêng",
+      "fullName": "Xã Mường Khiêng, Tỉnh Sơn La",
+      "slug": "muong-khieng",
+      "type": "commune",
+      "postalCode": "03757"
+    },
+    {
+      "code": "01975",
+      "name": "Sốp Cộp",
+      "fullName": "Xã Sốp Cộp, Tỉnh Sơn La",
+      "slug": "sop-cop",
+      "type": "commune",
+      "postalCode": "04231"
+    },
+    {
+      "code": "01997",
+      "name": "Chiềng Mai",
+      "fullName": "Xã Chiềng Mai, Tỉnh Sơn La",
+      "slug": "chieng-mai",
+      "type": "commune",
+      "postalCode": "04132"
+    },
+    {
+      "code": "02049",
+      "name": "Chiềng Khoong",
+      "fullName": "Xã Chiềng Khoong, Tỉnh Sơn La",
+      "slug": "chieng-khoong",
+      "type": "commune",
+      "postalCode": "04204"
+    },
+    {
+      "code": "02090",
+      "name": "Chiềng Cơi",
+      "fullName": "Phường Chiềng Cơi, Tỉnh Sơn La",
+      "slug": "chieng-coi",
+      "type": "ward",
+      "postalCode": "03670"
+    },
+    {
+      "code": "02107",
+      "name": "Thảo Nguyên",
+      "fullName": "Phường Thảo Nguyên, Tỉnh Sơn La",
+      "slug": "thao-nguyen",
+      "type": "ward",
+      "postalCode": "03982"
+    },
+    {
+      "code": "02142",
+      "name": "Gia Phù",
+      "fullName": "Xã Gia Phù, Tỉnh Sơn La",
+      "slug": "gia-phu",
+      "type": "commune",
+      "postalCode": "03922"
+    },
+    {
+      "code": "02144",
+      "name": "Bắc Yên",
+      "fullName": "Xã Bắc Yên, Tỉnh Sơn La",
+      "slug": "bac-yen",
+      "type": "commune",
+      "postalCode": "03856"
+    },
+    {
+      "code": "02196",
+      "name": "Mộc Châu",
+      "fullName": "Phường Mộc Châu, Tỉnh Sơn La",
+      "slug": "moc-chau",
+      "type": "ward",
+      "postalCode": "03980"
+    },
+    {
+      "code": "02203",
+      "name": "Chiềng Lao",
+      "fullName": "Xã Chiềng Lao, Tỉnh Sơn La",
+      "slug": "chieng-lao",
+      "type": "commune",
+      "postalCode": "03814"
+    },
+    {
+      "code": "02237",
+      "name": "Chiềng La",
+      "fullName": "Xã Chiềng La, Tỉnh Sơn La",
+      "slug": "chieng-la",
+      "type": "commune",
+      "postalCode": "03754"
+    },
+    {
+      "code": "02244",
+      "name": "Chiềng An",
+      "fullName": "Phường Chiềng An, Tỉnh Sơn La",
+      "slug": "chieng-an",
+      "type": "ward",
+      "postalCode": "03664"
+    },
+    {
+      "code": "02288",
+      "name": "Mường Cơi",
+      "fullName": "Xã Mường Cơi, Tỉnh Sơn La",
+      "slug": "muong-coi",
+      "type": "commune",
+      "postalCode": "03907"
+    },
+    {
+      "code": "02346",
+      "name": "Chiềng Hặc",
+      "fullName": "Xã Chiềng Hặc, Tỉnh Sơn La",
+      "slug": "chieng-hac",
+      "type": "commune",
+      "postalCode": "04078"
+    },
+    {
+      "code": "02350",
+      "name": "Chiềng Khương",
+      "fullName": "Xã Chiềng Khương, Tỉnh Sơn La",
+      "slug": "chieng-khuong",
+      "type": "commune",
+      "postalCode": "04222"
+    },
+    {
+      "code": "02368",
+      "name": "Tân Yên",
+      "fullName": "Xã Tân Yên, Tỉnh Sơn La",
+      "slug": "tan-yen",
+      "type": "commune",
+      "postalCode": "03997"
+    },
+    {
+      "code": "02384",
+      "name": "Nậm Lầu",
+      "fullName": "Xã Nậm Lầu, Tỉnh Sơn La",
+      "slug": "nam-lau",
+      "type": "commune",
+      "postalCode": "03784"
+    },
+    {
+      "code": "02397",
+      "name": "Đoàn Kết",
+      "fullName": "Xã Đoàn Kết, Tỉnh Sơn La",
+      "slug": "doan-ket",
+      "type": "commune",
+      "postalCode": "04000"
+    },
+    {
+      "code": "02415",
+      "name": "Chiềng Hoa",
+      "fullName": "Xã Chiềng Hoa, Tỉnh Sơn La",
+      "slug": "chieng-hoa",
+      "type": "commune",
+      "postalCode": "03850"
+    },
+    {
+      "code": "02446",
+      "name": "Púng Bánh",
+      "fullName": "Xã Púng Bánh, Tỉnh Sơn La",
+      "slug": "pung-banh",
+      "type": "commune",
+      "postalCode": "04228"
+    },
+    {
+      "code": "02456",
+      "name": "Chiềng Sơ",
+      "fullName": "Xã Chiềng Sơ, Tỉnh Sơn La",
+      "slug": "chieng-so",
+      "type": "commune",
+      "postalCode": "03985"
+    },
+    {
+      "code": "02458",
+      "name": "Bình Thuận",
+      "fullName": "Xã Bình Thuận, Tỉnh Sơn La",
+      "slug": "binh-thuan",
+      "type": "commune",
+      "postalCode": "03724"
+    },
+    {
+      "code": "02483",
+      "name": "Nậm Ty",
+      "fullName": "Xã Nậm Ty, Tỉnh Sơn La",
+      "slug": "nam-ty",
+      "type": "commune",
+      "postalCode": "04186"
+    },
+    {
+      "code": "02494",
+      "name": "Bó Sinh",
+      "fullName": "Xã Bó Sinh, Tỉnh Sơn La",
+      "slug": "bo-sinh",
+      "type": "commune",
+      "postalCode": "04171"
+    },
+    {
+      "code": "02519",
+      "name": "Mường Giôn",
+      "fullName": "Xã Mường Giôn, Tỉnh Sơn La",
+      "slug": "muong-gion",
+      "type": "commune",
+      "postalCode": "03694"
+    },
+    {
+      "code": "02539",
+      "name": "Vân Sơn",
+      "fullName": "Phường Vân Sơn, Tỉnh Sơn La",
+      "slug": "van-son",
+      "type": "ward",
+      "postalCode": "04033"
+    },
+    {
+      "code": "02543",
+      "name": "Song Khủa",
+      "fullName": "Xã Song Khủa, Tỉnh Sơn La",
+      "slug": "song-khua",
+      "type": "commune",
+      "postalCode": "04006"
+    },
+    {
+      "code": "02556",
+      "name": "Mường Lầm",
+      "fullName": "Xã Mường Lầm, Tỉnh Sơn La",
+      "slug": "muong-lam",
+      "type": "commune",
+      "postalCode": "04183"
+    },
+    {
+      "code": "02558",
+      "name": "Muổi Nọi",
+      "fullName": "Xã Muổi Nọi, Tỉnh Sơn La",
+      "slug": "muoi-noi",
+      "type": "commune",
+      "postalCode": "03799"
+    },
+    {
+      "code": "02562",
+      "name": "Tạ Khoa",
+      "fullName": "Xã Tạ Khoa, Tỉnh Sơn La",
+      "slug": "ta-khoa",
+      "type": "commune",
+      "postalCode": "03880"
+    },
+    {
+      "code": "02588",
+      "name": "Mộc Sơn",
+      "fullName": "Phường Mộc Sơn, Tỉnh Sơn La",
+      "slug": "moc-son",
+      "type": "ward",
+      "postalCode": "03979"
+    },
+    {
+      "code": "02604",
+      "name": "Mường É",
+      "fullName": "Xã Mường É, Tỉnh Sơn La",
+      "slug": "muong-e",
+      "type": "commune",
+      "postalCode": "03727"
+    },
+    {
+      "code": "02614",
+      "name": "Tô Múa",
+      "fullName": "Xã Tô Múa, Tỉnh Sơn La",
+      "slug": "to-mua",
+      "type": "commune",
+      "postalCode": "04018"
+    },
+    {
+      "code": "02620",
+      "name": "Co Mạ",
+      "fullName": "Xã Co Mạ, Tỉnh Sơn La",
+      "slug": "co-ma",
+      "type": "commune",
+      "postalCode": "03781"
+    },
+    {
+      "code": "02623",
+      "name": "Phiêng Cằm",
+      "fullName": "Xã Phiêng Cằm, Tỉnh Sơn La",
+      "slug": "phieng-cam",
+      "type": "commune",
+      "postalCode": "04144"
+    },
+    {
+      "code": "02648",
+      "name": "Chiềng Sung",
+      "fullName": "Xã Chiềng Sung, Tỉnh Sơn La",
+      "slug": "chieng-sung",
+      "type": "commune",
+      "postalCode": "04108"
+    },
+    {
+      "code": "02652",
+      "name": "Chiềng Sơn",
+      "fullName": "Xã Chiềng Sơn, Tỉnh Sơn La",
+      "slug": "chieng-son",
+      "type": "commune",
+      "postalCode": "03985"
+    },
+    {
+      "code": "02655",
+      "name": "Tường Hạ",
+      "fullName": "Xã Tường Hạ, Tỉnh Sơn La",
+      "slug": "tuong-ha",
+      "type": "commune",
+      "postalCode": "03958"
+    },
+    {
+      "code": "02657",
+      "name": "Mường Chiên",
+      "fullName": "Xã Mường Chiên, Tỉnh Sơn La",
+      "slug": "muong-chien",
+      "type": "commune",
+      "postalCode": "03688"
+    },
+    {
+      "code": "02676",
+      "name": "Tà Hộc",
+      "fullName": "Xã Tà Hộc, Tỉnh Sơn La",
+      "slug": "ta-hoc",
+      "type": "commune",
+      "postalCode": "04136"
+    },
+    {
+      "code": "02698",
+      "name": "Pắc Ngà",
+      "fullName": "Xã Pắc Ngà, Tỉnh Sơn La",
+      "slug": "pac-nga",
+      "type": "commune",
+      "postalCode": "03871"
+    },
+    {
+      "code": "02719",
+      "name": "Mường Bang",
+      "fullName": "Xã Mường Bang, Tỉnh Sơn La",
+      "slug": "muong-bang",
+      "type": "commune",
+      "postalCode": "03943"
+    },
+    {
+      "code": "02734",
+      "name": "Yên Sơn",
+      "fullName": "Xã Yên Sơn, Tỉnh Sơn La",
+      "slug": "yen-son",
+      "type": "commune",
+      "postalCode": "04087"
+    },
+    {
+      "code": "02750",
+      "name": "Phiêng Khoài",
+      "fullName": "Xã Phiêng Khoài, Tỉnh Sơn La",
+      "slug": "phieng-khoai",
+      "type": "commune",
+      "postalCode": "04099"
+    },
+    {
+      "code": "02755",
+      "name": "Huổi Một",
+      "fullName": "Xã Huổi Một, Tỉnh Sơn La",
+      "slug": "huoi-mot",
+      "type": "commune",
+      "postalCode": "04210"
+    },
+    {
+      "code": "02778",
+      "name": "Ngọc Chiến",
+      "fullName": "Xã Ngọc Chiến, Tỉnh Sơn La",
+      "slug": "ngoc-chien",
+      "type": "commune",
+      "postalCode": "03820"
+    },
+    {
+      "code": "02819",
+      "name": "Mường Chanh",
+      "fullName": "Xã Mường Chanh, Tỉnh Sơn La",
+      "slug": "muong-chanh",
+      "type": "commune",
+      "postalCode": "04117"
+    },
+    {
+      "code": "02823",
+      "name": "Tà Xùa",
+      "fullName": "Xã Tà Xùa, Tỉnh Sơn La",
+      "slug": "ta-xua",
+      "type": "commune",
+      "postalCode": "03868"
+    },
+    {
+      "code": "02827",
+      "name": "Lóng Phiêng",
+      "fullName": "Xã Lóng Phiêng, Tỉnh Sơn La",
+      "slug": "long-phieng",
+      "type": "commune",
+      "postalCode": "04096"
+    },
+    {
+      "code": "02849",
+      "name": "Mường Lạn",
+      "fullName": "Xã Mường Lạn, Tỉnh Sơn La",
+      "slug": "muong-lan",
+      "type": "commune",
+      "postalCode": "04246"
+    },
+    {
+      "code": "02866",
+      "name": "Mường Bám",
+      "fullName": "Xã Mường Bám, Tỉnh Sơn La",
+      "slug": "muong-bam",
+      "type": "commune",
+      "postalCode": "03760"
+    },
+    {
+      "code": "02908",
+      "name": "Xuân Nha",
+      "fullName": "Xã Xuân Nha, Tỉnh Sơn La",
+      "slug": "xuan-nha",
+      "type": "commune",
+      "postalCode": "04057"
+    },
+    {
+      "code": "02929",
+      "name": "Kim Bon",
+      "fullName": "Xã Kim Bon, Tỉnh Sơn La",
+      "slug": "kim-bon",
+      "type": "commune",
+      "postalCode": "03961"
+    },
+    {
+      "code": "02943",
+      "name": "Lóng Sập",
+      "fullName": "Xã Lóng Sập, Tỉnh Sơn La",
+      "slug": "long-sap",
+      "type": "commune",
+      "postalCode": "04045"
+    },
+    {
+      "code": "02948",
+      "name": "Mường Sại",
+      "fullName": "Xã Mường Sại, Tỉnh Sơn La",
+      "slug": "muong-sai",
+      "type": "commune",
+      "postalCode": "03712"
+    },
+    {
+      "code": "03029",
+      "name": "Long Hẹ",
+      "fullName": "Xã Long Hẹ, Tỉnh Sơn La",
+      "slug": "long-he",
+      "type": "commune",
+      "postalCode": "03763"
+    },
+    {
+      "code": "03080",
+      "name": "Xím Vàng",
+      "fullName": "Xã Xím Vàng, Tỉnh Sơn La",
+      "slug": "xim-vang",
+      "type": "commune",
+      "postalCode": "03862"
+    },
+    {
+      "code": "03135",
+      "name": "Tân Phong",
+      "fullName": "Xã Tân Phong, Tỉnh Sơn La",
+      "slug": "tan-phong",
+      "type": "commune",
+      "postalCode": "03970"
+    },
+    {
+      "code": "03139",
+      "name": "Chiềng Sại",
+      "fullName": "Xã Chiềng Sại, Tỉnh Sơn La",
+      "slug": "chieng-sai",
+      "type": "commune",
+      "postalCode": "03892"
+    },
+    {
+      "code": "03178",
+      "name": "Suối Tọ",
+      "fullName": "Xã Suối Tọ, Tỉnh Sơn La",
+      "slug": "suoi-to",
+      "type": "commune",
+      "postalCode": "03901"
+    },
+    {
+      "code": "03279",
+      "name": "Mường Lèo",
+      "fullName": "Xã Mường Lèo, Tỉnh Sơn La",
+      "slug": "muong-leo",
+      "type": "commune",
+      "postalCode": "04240"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Sơn La",
+      "slug": "thanh-pho-son-la",
+      "wards": [
+        {
+          "code": "03646",
+          "name": "Tô Hiệu",
+          "fullName": "Phường Tô Hiệu, Tỉnh Sơn La",
+          "slug": "to-hieu",
+          "postalCode": "03646"
+        },
+        {
+          "code": "03664",
+          "name": "Chiềng An",
+          "fullName": "Phường Chiềng An, Tỉnh Sơn La",
+          "slug": "chieng-an",
+          "postalCode": "03664"
+        },
+        {
+          "code": "03670",
+          "name": "Chiềng Cơi",
+          "fullName": "Phường Chiềng Cơi, Tỉnh Sơn La",
+          "slug": "chieng-coi",
+          "postalCode": "03670"
+        },
+        {
+          "code": "03679",
+          "name": "Chiềng Sinh",
+          "fullName": "Phường Chiềng Sinh, Tỉnh Sơn La",
+          "slug": "chieng-sinh",
+          "postalCode": "03679"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Mộc Châu",
+      "slug": "thi-xa-moc-chau",
+      "wards": [
+        {
+          "code": "03979",
+          "name": "Mộc Sơn",
+          "fullName": "Phường Mộc Sơn, Tỉnh Sơn La",
+          "slug": "moc-son",
+          "postalCode": "03979"
+        },
+        {
+          "code": "03980",
+          "name": "Mộc Châu",
+          "fullName": "Phường Mộc Châu, Tỉnh Sơn La",
+          "slug": "moc-chau",
+          "postalCode": "03980"
+        },
+        {
+          "code": "03982",
+          "name": "Thảo Nguyên",
+          "fullName": "Phường Thảo Nguyên, Tỉnh Sơn La",
+          "slug": "thao-nguyen",
+          "postalCode": "03982"
+        },
+        {
+          "code": "03985",
+          "name": "Chiềng Sơn",
+          "fullName": "Xã Chiềng Sơn, Tỉnh Sơn La",
+          "slug": "chieng-son",
+          "postalCode": "03985"
+        },
+        {
+          "code": "03997",
+          "name": "Tân Yên",
+          "fullName": "Xã Tân Yên, Tỉnh Sơn La",
+          "slug": "tan-yen",
+          "postalCode": "03997"
+        },
+        {
+          "code": "04000",
+          "name": "Đoàn Kết",
+          "fullName": "Xã Đoàn Kết, Tỉnh Sơn La",
+          "slug": "doan-ket",
+          "postalCode": "04000"
+        },
+        {
+          "code": "04033",
+          "name": "Vân Sơn",
+          "fullName": "Phường Vân Sơn, Tỉnh Sơn La",
+          "slug": "van-son",
+          "postalCode": "04033"
+        },
+        {
+          "code": "04045",
+          "name": "Lóng Sập",
+          "fullName": "Xã Lóng Sập, Tỉnh Sơn La",
+          "slug": "long-sap",
+          "postalCode": "04045"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Quỳnh Nhai",
+      "slug": "huyen-quynh-nhai",
+      "wards": [
+        {
+          "code": "03688",
+          "name": "Mường Chiên",
+          "fullName": "Xã Mường Chiên, Tỉnh Sơn La",
+          "slug": "muong-chien",
+          "postalCode": "03688"
+        },
+        {
+          "code": "03694",
+          "name": "Mường Giôn",
+          "fullName": "Xã Mường Giôn, Tỉnh Sơn La",
+          "slug": "muong-gion",
+          "postalCode": "03694"
+        },
+        {
+          "code": "03703",
+          "name": "Quỳnh Nhai",
+          "fullName": "Xã Quỳnh Nhai, Tỉnh Sơn La",
+          "slug": "quynh-nhai",
+          "postalCode": "03703"
+        },
+        {
+          "code": "03712",
+          "name": "Mường Sại",
+          "fullName": "Xã Mường Sại, Tỉnh Sơn La",
+          "slug": "muong-sai",
+          "postalCode": "03712"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thuận Châu",
+      "slug": "huyen-thuan-chau",
+      "wards": [
+        {
+          "code": "03721",
+          "name": "Thuận Châu",
+          "fullName": "Xã Thuận Châu, Tỉnh Sơn La",
+          "slug": "thuan-chau",
+          "postalCode": "03721"
+        },
+        {
+          "code": "03724",
+          "name": "Bình Thuận",
+          "fullName": "Xã Bình Thuận, Tỉnh Sơn La",
+          "slug": "binh-thuan",
+          "postalCode": "03724"
+        },
+        {
+          "code": "03727",
+          "name": "Mường É",
+          "fullName": "Xã Mường É, Tỉnh Sơn La",
+          "slug": "muong-e",
+          "postalCode": "03727"
+        },
+        {
+          "code": "03754",
+          "name": "Chiềng La",
+          "fullName": "Xã Chiềng La, Tỉnh Sơn La",
+          "slug": "chieng-la",
+          "postalCode": "03754"
+        },
+        {
+          "code": "03757",
+          "name": "Mường Khiêng",
+          "fullName": "Xã Mường Khiêng, Tỉnh Sơn La",
+          "slug": "muong-khieng",
+          "postalCode": "03757"
+        },
+        {
+          "code": "03760",
+          "name": "Mường Bám",
+          "fullName": "Xã Mường Bám, Tỉnh Sơn La",
+          "slug": "muong-bam",
+          "postalCode": "03760"
+        },
+        {
+          "code": "03763",
+          "name": "Long Hẹ",
+          "fullName": "Xã Long Hẹ, Tỉnh Sơn La",
+          "slug": "long-he",
+          "postalCode": "03763"
+        },
+        {
+          "code": "03781",
+          "name": "Co Mạ",
+          "fullName": "Xã Co Mạ, Tỉnh Sơn La",
+          "slug": "co-ma",
+          "postalCode": "03781"
+        },
+        {
+          "code": "03784",
+          "name": "Nậm Lầu",
+          "fullName": "Xã Nậm Lầu, Tỉnh Sơn La",
+          "slug": "nam-lau",
+          "postalCode": "03784"
+        },
+        {
+          "code": "03799",
+          "name": "Muổi Nọi",
+          "fullName": "Xã Muổi Nọi, Tỉnh Sơn La",
+          "slug": "muoi-noi",
+          "postalCode": "03799"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mường La",
+      "slug": "huyen-muong-la",
+      "wards": [
+        {
+          "code": "03808",
+          "name": "Mường La",
+          "fullName": "Xã Mường La, Tỉnh Sơn La",
+          "slug": "muong-la",
+          "postalCode": "03808"
+        },
+        {
+          "code": "03814",
+          "name": "Chiềng Lao",
+          "fullName": "Xã Chiềng Lao, Tỉnh Sơn La",
+          "slug": "chieng-lao",
+          "postalCode": "03814"
+        },
+        {
+          "code": "03820",
+          "name": "Ngọc Chiến",
+          "fullName": "Xã Ngọc Chiến, Tỉnh Sơn La",
+          "slug": "ngoc-chien",
+          "postalCode": "03820"
+        },
+        {
+          "code": "03847",
+          "name": "Mường Bú",
+          "fullName": "Xã Mường Bú, Tỉnh Sơn La",
+          "slug": "muong-bu",
+          "postalCode": "03847"
+        },
+        {
+          "code": "03850",
+          "name": "Chiềng Hoa",
+          "fullName": "Xã Chiềng Hoa, Tỉnh Sơn La",
+          "slug": "chieng-hoa",
+          "postalCode": "03850"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bắc Yên",
+      "slug": "huyen-bac-yen",
+      "wards": [
+        {
+          "code": "03856",
+          "name": "Bắc Yên",
+          "fullName": "Xã Bắc Yên, Tỉnh Sơn La",
+          "slug": "bac-yen",
+          "postalCode": "03856"
+        },
+        {
+          "code": "03862",
+          "name": "Xím Vàng",
+          "fullName": "Xã Xím Vàng, Tỉnh Sơn La",
+          "slug": "xim-vang",
+          "postalCode": "03862"
+        },
+        {
+          "code": "03868",
+          "name": "Tà Xùa",
+          "fullName": "Xã Tà Xùa, Tỉnh Sơn La",
+          "slug": "ta-xua",
+          "postalCode": "03868"
+        },
+        {
+          "code": "03871",
+          "name": "Pắc Ngà",
+          "fullName": "Xã Pắc Ngà, Tỉnh Sơn La",
+          "slug": "pac-nga",
+          "postalCode": "03871"
+        },
+        {
+          "code": "03880",
+          "name": "Tạ Khoa",
+          "fullName": "Xã Tạ Khoa, Tỉnh Sơn La",
+          "slug": "ta-khoa",
+          "postalCode": "03880"
+        },
+        {
+          "code": "03892",
+          "name": "Chiềng Sại",
+          "fullName": "Xã Chiềng Sại, Tỉnh Sơn La",
+          "slug": "chieng-sai",
+          "postalCode": "03892"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phù Yên",
+      "slug": "huyen-phu-yen",
+      "wards": [
+        {
+          "code": "03901",
+          "name": "Suối Tọ",
+          "fullName": "Xã Suối Tọ, Tỉnh Sơn La",
+          "slug": "suoi-to",
+          "postalCode": "03901"
+        },
+        {
+          "code": "03907",
+          "name": "Mường Cơi",
+          "fullName": "Xã Mường Cơi, Tỉnh Sơn La",
+          "slug": "muong-coi",
+          "postalCode": "03907"
+        },
+        {
+          "code": "03910",
+          "name": "Phù Yên",
+          "fullName": "Xã Phù Yên, Tỉnh Sơn La",
+          "slug": "phu-yen",
+          "postalCode": "03910"
+        },
+        {
+          "code": "03922",
+          "name": "Gia Phù",
+          "fullName": "Xã Gia Phù, Tỉnh Sơn La",
+          "slug": "gia-phu",
+          "postalCode": "03922"
+        },
+        {
+          "code": "03943",
+          "name": "Mường Bang",
+          "fullName": "Xã Mường Bang, Tỉnh Sơn La",
+          "slug": "muong-bang",
+          "postalCode": "03943"
+        },
+        {
+          "code": "03958",
+          "name": "Tường Hạ",
+          "fullName": "Xã Tường Hạ, Tỉnh Sơn La",
+          "slug": "tuong-ha",
+          "postalCode": "03958"
+        },
+        {
+          "code": "03961",
+          "name": "Kim Bon",
+          "fullName": "Xã Kim Bon, Tỉnh Sơn La",
+          "slug": "kim-bon",
+          "postalCode": "03961"
+        },
+        {
+          "code": "03970",
+          "name": "Tân Phong",
+          "fullName": "Xã Tân Phong, Tỉnh Sơn La",
+          "slug": "tan-phong",
+          "postalCode": "03970"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vân Hồ",
+      "slug": "huyen-van-ho",
+      "wards": [
+        {
+          "code": "03985",
+          "name": "Chiềng Sơn",
+          "fullName": "Xã Chiềng Sơn, Tỉnh Sơn La",
+          "slug": "chieng-son",
+          "postalCode": "03985"
+        },
+        {
+          "code": "04006",
+          "name": "Song Khủa",
+          "fullName": "Xã Song Khủa, Tỉnh Sơn La",
+          "slug": "song-khua",
+          "postalCode": "04006"
+        },
+        {
+          "code": "04018",
+          "name": "Tô Múa",
+          "fullName": "Xã Tô Múa, Tỉnh Sơn La",
+          "slug": "to-mua",
+          "postalCode": "04018"
+        },
+        {
+          "code": "04048",
+          "name": "Vân Hồ",
+          "fullName": "Xã Vân Hồ, Tỉnh Sơn La",
+          "slug": "van-ho",
+          "postalCode": "04048"
+        },
+        {
+          "code": "04057",
+          "name": "Xuân Nha",
+          "fullName": "Xã Xuân Nha, Tỉnh Sơn La",
+          "slug": "xuan-nha",
+          "postalCode": "04057"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Châu",
+      "slug": "huyen-yen-chau",
+      "wards": [
+        {
+          "code": "04075",
+          "name": "Yên Châu",
+          "fullName": "Xã Yên Châu, Tỉnh Sơn La",
+          "slug": "yen-chau",
+          "postalCode": "04075"
+        },
+        {
+          "code": "04078",
+          "name": "Chiềng Hặc",
+          "fullName": "Xã Chiềng Hặc, Tỉnh Sơn La",
+          "slug": "chieng-hac",
+          "postalCode": "04078"
+        },
+        {
+          "code": "04087",
+          "name": "Yên Sơn",
+          "fullName": "Xã Yên Sơn, Tỉnh Sơn La",
+          "slug": "yen-son",
+          "postalCode": "04087"
+        },
+        {
+          "code": "04096",
+          "name": "Lóng Phiêng",
+          "fullName": "Xã Lóng Phiêng, Tỉnh Sơn La",
+          "slug": "long-phieng",
+          "postalCode": "04096"
+        },
+        {
+          "code": "04099",
+          "name": "Phiêng Khoài",
+          "fullName": "Xã Phiêng Khoài, Tỉnh Sơn La",
+          "slug": "phieng-khoai",
+          "postalCode": "04099"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mai Sơn",
+      "slug": "huyen-mai-son",
+      "wards": [
+        {
+          "code": "04105",
+          "name": "Mai Sơn",
+          "fullName": "Xã Mai Sơn, Tỉnh Sơn La",
+          "slug": "mai-son",
+          "postalCode": "04105"
+        },
+        {
+          "code": "04108",
+          "name": "Chiềng Sung",
+          "fullName": "Xã Chiềng Sung, Tỉnh Sơn La",
+          "slug": "chieng-sung",
+          "postalCode": "04108"
+        },
+        {
+          "code": "04117",
+          "name": "Mường Chanh",
+          "fullName": "Xã Mường Chanh, Tỉnh Sơn La",
+          "slug": "muong-chanh",
+          "postalCode": "04117"
+        },
+        {
+          "code": "04123",
+          "name": "Chiềng Mung",
+          "fullName": "Xã Chiềng Mung, Tỉnh Sơn La",
+          "slug": "chieng-mung",
+          "postalCode": "04123"
+        },
+        {
+          "code": "04132",
+          "name": "Chiềng Mai",
+          "fullName": "Xã Chiềng Mai, Tỉnh Sơn La",
+          "slug": "chieng-mai",
+          "postalCode": "04132"
+        },
+        {
+          "code": "04136",
+          "name": "Tà Hộc",
+          "fullName": "Xã Tà Hộc, Tỉnh Sơn La",
+          "slug": "ta-hoc",
+          "postalCode": "04136"
+        },
+        {
+          "code": "04144",
+          "name": "Phiêng Cằm",
+          "fullName": "Xã Phiêng Cằm, Tỉnh Sơn La",
+          "slug": "phieng-cam",
+          "postalCode": "04144"
+        },
+        {
+          "code": "04159",
+          "name": "Phiêng Pằn",
+          "fullName": "Xã Phiêng Pằn, Tỉnh Sơn La",
+          "slug": "phieng-pan",
+          "postalCode": "04159"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sông Mã",
+      "slug": "huyen-song-ma",
+      "wards": [
+        {
+          "code": "04168",
+          "name": "Sông Mã",
+          "fullName": "Xã Sông Mã, Tỉnh Sơn La",
+          "slug": "song-ma",
+          "postalCode": "04168"
+        },
+        {
+          "code": "04171",
+          "name": "Bó Sinh",
+          "fullName": "Xã Bó Sinh, Tỉnh Sơn La",
+          "slug": "bo-sinh",
+          "postalCode": "04171"
+        },
+        {
+          "code": "04183",
+          "name": "Mường Lầm",
+          "fullName": "Xã Mường Lầm, Tỉnh Sơn La",
+          "slug": "muong-lam",
+          "postalCode": "04183"
+        },
+        {
+          "code": "04186",
+          "name": "Nậm Ty",
+          "fullName": "Xã Nậm Ty, Tỉnh Sơn La",
+          "slug": "nam-ty",
+          "postalCode": "04186"
+        },
+        {
+          "code": "04195",
+          "name": "Chiềng Sơ",
+          "fullName": "Xã Chiềng Sơ, Tỉnh Sơn La",
+          "slug": "chieng-so",
+          "postalCode": "04195"
+        },
+        {
+          "code": "04204",
+          "name": "Chiềng Khoong",
+          "fullName": "Xã Chiềng Khoong, Tỉnh Sơn La",
+          "slug": "chieng-khoong",
+          "postalCode": "04204"
+        },
+        {
+          "code": "04210",
+          "name": "Huổi Một",
+          "fullName": "Xã Huổi Một, Tỉnh Sơn La",
+          "slug": "huoi-mot",
+          "postalCode": "04210"
+        },
+        {
+          "code": "04219",
+          "name": "Mường Hung",
+          "fullName": "Xã Mường Hung, Tỉnh Sơn La",
+          "slug": "muong-hung",
+          "postalCode": "04219"
+        },
+        {
+          "code": "04222",
+          "name": "Chiềng Khương",
+          "fullName": "Xã Chiềng Khương, Tỉnh Sơn La",
+          "slug": "chieng-khuong",
+          "postalCode": "04222"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sốp Cộp",
+      "slug": "huyen-sop-cop",
+      "wards": [
+        {
+          "code": "04228",
+          "name": "Púng Bánh",
+          "fullName": "Xã Púng Bánh, Tỉnh Sơn La",
+          "slug": "pung-banh",
+          "postalCode": "04228"
+        },
+        {
+          "code": "04231",
+          "name": "Sốp Cộp",
+          "fullName": "Xã Sốp Cộp, Tỉnh Sơn La",
+          "slug": "sop-cop",
+          "postalCode": "04231"
+        },
+        {
+          "code": "04240",
+          "name": "Mường Lèo",
+          "fullName": "Xã Mường Lèo, Tỉnh Sơn La",
+          "slug": "muong-leo",
+          "postalCode": "04240"
+        },
+        {
+          "code": "04246",
+          "name": "Mường Lạn",
+          "fullName": "Xã Mường Lạn, Tỉnh Sơn La",
+          "slug": "muong-lan",
+          "postalCode": "04246"
+        }
+      ]
+    }
+  ]
+}

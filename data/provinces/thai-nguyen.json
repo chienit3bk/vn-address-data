@@ -1,0 +1,1536 @@
+{
+  "code": "19",
+  "name": "Thái Nguyên",
+  "slug": "thai-nguyen",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Thái Nguyên",
+  "wards": [
+    {
+      "code": "00092",
+      "name": "Phan Đình Phùng",
+      "fullName": "Phường Phan Đình Phùng, Tỉnh Thái Nguyên",
+      "slug": "phan-dinh-phung",
+      "type": "ward",
+      "postalCode": "05443"
+    },
+    {
+      "code": "00367",
+      "name": "Vạn Xuân",
+      "fullName": "Phường Vạn Xuân, Tỉnh Thái Nguyên",
+      "slug": "van-xuan",
+      "type": "ward",
+      "postalCode": "05890"
+    },
+    {
+      "code": "00461",
+      "name": "Tích Lương",
+      "fullName": "Phường Tích Lương, Tỉnh Thái Nguyên",
+      "slug": "tich-luong",
+      "type": "ward",
+      "postalCode": "05500"
+    },
+    {
+      "code": "00602",
+      "name": "Phổ Yên",
+      "fullName": "Phường Phổ Yên, Tỉnh Thái Nguyên",
+      "slug": "pho-yen",
+      "type": "ward",
+      "postalCode": "05860"
+    },
+    {
+      "code": "00670",
+      "name": "Linh Sơn",
+      "fullName": "Phường Linh Sơn, Tỉnh Thái Nguyên",
+      "slug": "linh-son",
+      "type": "ward",
+      "postalCode": "05710"
+    },
+    {
+      "code": "00723",
+      "name": "Phú Bình",
+      "fullName": "Xã Phú Bình, Tỉnh Thái Nguyên",
+      "slug": "phu-binh",
+      "type": "commune",
+      "postalCode": "05908"
+    },
+    {
+      "code": "00748",
+      "name": "Gia Sàng",
+      "fullName": "Phường Gia Sàng, Tỉnh Thái Nguyên",
+      "slug": "gia-sang",
+      "type": "ward",
+      "postalCode": "05467"
+    },
+    {
+      "code": "00755",
+      "name": "Phú Lương",
+      "fullName": "Xã Phú Lương, Tỉnh Thái Nguyên",
+      "slug": "phu-luong",
+      "type": "commune",
+      "postalCode": "05611"
+    },
+    {
+      "code": "00812",
+      "name": "Quan Triều",
+      "fullName": "Phường Quan Triều, Tỉnh Thái Nguyên",
+      "slug": "quan-trieu",
+      "type": "ward",
+      "postalCode": "05482"
+    },
+    {
+      "code": "00817",
+      "name": "Kha Sơn",
+      "fullName": "Xã Kha Sơn, Tỉnh Thái Nguyên",
+      "slug": "kha-son",
+      "type": "commune",
+      "postalCode": "05953"
+    },
+    {
+      "code": "00828",
+      "name": "Điềm Thụy",
+      "fullName": "Xã Điềm Thụy, Tỉnh Thái Nguyên",
+      "slug": "diem-thuy",
+      "type": "commune",
+      "postalCode": "05941"
+    },
+    {
+      "code": "00945",
+      "name": "Đại Phúc",
+      "fullName": "Xã Đại Phúc, Tỉnh Thái Nguyên",
+      "slug": "dai-phuc",
+      "type": "commune",
+      "postalCode": "05488"
+    },
+    {
+      "code": "00992",
+      "name": "Vô Tranh",
+      "fullName": "Xã Vô Tranh, Tỉnh Thái Nguyên",
+      "slug": "vo-tranh",
+      "type": "commune",
+      "postalCode": "05641"
+    },
+    {
+      "code": "01056",
+      "name": "Trung Thành",
+      "fullName": "Phường Trung Thành, Tỉnh Thái Nguyên",
+      "slug": "trung-thanh",
+      "type": "ward",
+      "postalCode": "05899"
+    },
+    {
+      "code": "01445",
+      "name": "Đồng Hỷ",
+      "fullName": "Xã Đồng Hỷ, Tỉnh Thái Nguyên",
+      "slug": "dong-hy",
+      "type": "commune",
+      "postalCode": "05692"
+    },
+    {
+      "code": "01524",
+      "name": "Quyết Thắng",
+      "fullName": "Phường Quyết Thắng, Tỉnh Thái Nguyên",
+      "slug": "quyet-thang",
+      "type": "ward",
+      "postalCode": "05455"
+    },
+    {
+      "code": "01584",
+      "name": "Phúc Thuận",
+      "fullName": "Phường Phúc Thuận, Tỉnh Thái Nguyên",
+      "slug": "phuc-thuan",
+      "type": "ward",
+      "postalCode": "05857"
+    },
+    {
+      "code": "01643",
+      "name": "Thành Công",
+      "fullName": "Xã Thành Công, Tỉnh Thái Nguyên",
+      "slug": "thanh-cong",
+      "type": "commune",
+      "postalCode": "05881"
+    },
+    {
+      "code": "01745",
+      "name": "Đại Từ",
+      "fullName": "Xã Đại Từ, Tỉnh Thái Nguyên",
+      "slug": "dai-tu",
+      "type": "commune",
+      "postalCode": "05830"
+    },
+    {
+      "code": "01773",
+      "name": "Bách Quang",
+      "fullName": "Phường Bách Quang, Tỉnh Thái Nguyên",
+      "slug": "bach-quang",
+      "type": "ward",
+      "postalCode": "05528"
+    },
+    {
+      "code": "01837",
+      "name": "Tân Thành",
+      "fullName": "Xã Tân Thành, Tỉnh Thái Nguyên",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "05923"
+    },
+    {
+      "code": "01854",
+      "name": "Tân Cương",
+      "fullName": "Xã Tân Cương, Tỉnh Thái Nguyên",
+      "slug": "tan-cuong",
+      "type": "commune",
+      "postalCode": "05503"
+    },
+    {
+      "code": "01866",
+      "name": "Bắc Kạn",
+      "fullName": "Phường Bắc Kạn, Tỉnh Thái Nguyên",
+      "slug": "bac-kan",
+      "type": "ward",
+      "postalCode": "01843"
+    },
+    {
+      "code": "02005",
+      "name": "Tân Khánh",
+      "fullName": "Xã Tân Khánh, Tỉnh Thái Nguyên",
+      "slug": "tan-khanh",
+      "type": "commune",
+      "postalCode": "05917"
+    },
+    {
+      "code": "02018",
+      "name": "Yên Trạch",
+      "fullName": "Xã Yên Trạch, Tỉnh Thái Nguyên",
+      "slug": "yen-trach",
+      "type": "commune",
+      "postalCode": "05620"
+    },
+    {
+      "code": "02060",
+      "name": "Phú Xuyên",
+      "fullName": "Xã Phú Xuyên, Tỉnh Thái Nguyên",
+      "slug": "phu-xuyen",
+      "type": "commune",
+      "postalCode": "05773"
+    },
+    {
+      "code": "02094",
+      "name": "Đức Xuân",
+      "fullName": "Phường Đức Xuân, Tỉnh Thái Nguyên",
+      "slug": "duc-xuan",
+      "type": "ward",
+      "postalCode": "01840"
+    },
+    {
+      "code": "02115",
+      "name": "Định Hóa",
+      "fullName": "Xã Định Hóa, Tỉnh Thái Nguyên",
+      "slug": "dinh-hoa",
+      "type": "commune",
+      "postalCode": "05569"
+    },
+    {
+      "code": "02132",
+      "name": "Vạn Phú",
+      "fullName": "Xã Vạn Phú, Tỉnh Thái Nguyên",
+      "slug": "van-phu",
+      "type": "commune",
+      "postalCode": "05845"
+    },
+    {
+      "code": "02179",
+      "name": "Phú Thịnh",
+      "fullName": "Xã Phú Thịnh, Tỉnh Thái Nguyên",
+      "slug": "phu-thinh",
+      "type": "commune",
+      "postalCode": "05800"
+    },
+    {
+      "code": "02195",
+      "name": "Phú Lạc",
+      "fullName": "Xã Phú Lạc, Tỉnh Thái Nguyên",
+      "slug": "phu-lac",
+      "type": "commune",
+      "postalCode": "05788"
+    },
+    {
+      "code": "02198",
+      "name": "Sông Công",
+      "fullName": "Phường Sông Công, Tỉnh Thái Nguyên",
+      "slug": "song-cong",
+      "type": "ward",
+      "postalCode": "05518"
+    },
+    {
+      "code": "02256",
+      "name": "An Khánh",
+      "fullName": "Xã An Khánh, Tỉnh Thái Nguyên",
+      "slug": "an-khanh",
+      "type": "commune",
+      "postalCode": "05809"
+    },
+    {
+      "code": "02259",
+      "name": "Bá Xuyên",
+      "fullName": "Phường Bá Xuyên, Tỉnh Thái Nguyên",
+      "slug": "ba-xuyen",
+      "type": "ward",
+      "postalCode": "05533"
+    },
+    {
+      "code": "02270",
+      "name": "Văn Hán",
+      "fullName": "Xã Văn Hán, Tỉnh Thái Nguyên",
+      "slug": "van-han",
+      "type": "commune",
+      "postalCode": "05680"
+    },
+    {
+      "code": "02302",
+      "name": "Dân Tiến",
+      "fullName": "Xã Dân Tiến, Tỉnh Thái Nguyên",
+      "slug": "dan-tien",
+      "type": "commune",
+      "postalCode": "05755"
+    },
+    {
+      "code": "02376",
+      "name": "La Bằng",
+      "fullName": "Xã La Bằng, Tỉnh Thái Nguyên",
+      "slug": "la-bang",
+      "type": "commune",
+      "postalCode": "05818"
+    },
+    {
+      "code": "02430",
+      "name": "Võ Nhai",
+      "fullName": "Xã Võ Nhai, Tỉnh Thái Nguyên",
+      "slug": "vo-nhai",
+      "type": "commune",
+      "postalCode": "05716"
+    },
+    {
+      "code": "02442",
+      "name": "Trại Cau",
+      "fullName": "Xã Trại Cau, Tỉnh Thái Nguyên",
+      "slug": "trai-cau",
+      "type": "commune",
+      "postalCode": "05662"
+    },
+    {
+      "code": "02508",
+      "name": "Chợ Đồn",
+      "fullName": "Xã Chợ Đồn, Tỉnh Thái Nguyên",
+      "slug": "cho-don",
+      "type": "commune",
+      "postalCode": "02020"
+    },
+    {
+      "code": "02509",
+      "name": "Nam Hòa",
+      "fullName": "Xã Nam Hòa, Tỉnh Thái Nguyên",
+      "slug": "nam-hoa",
+      "type": "commune",
+      "postalCode": "05707"
+    },
+    {
+      "code": "02524",
+      "name": "Bình Yên",
+      "fullName": "Xã Bình Yên, Tỉnh Thái Nguyên",
+      "slug": "binh-yen",
+      "type": "commune",
+      "postalCode": "05587"
+    },
+    {
+      "code": "02618",
+      "name": "Tràng Xá",
+      "fullName": "Xã Tràng Xá, Tỉnh Thái Nguyên",
+      "slug": "trang-xa",
+      "type": "commune",
+      "postalCode": "05746"
+    },
+    {
+      "code": "02621",
+      "name": "Chợ Rã",
+      "fullName": "Xã Chợ Rã, Tỉnh Thái Nguyên",
+      "slug": "cho-ra",
+      "type": "commune",
+      "postalCode": "01912"
+    },
+    {
+      "code": "02644",
+      "name": "Chợ Mới",
+      "fullName": "Xã Chợ Mới, Tỉnh Thái Nguyên",
+      "slug": "cho-moi",
+      "type": "commune",
+      "postalCode": "02086"
+    },
+    {
+      "code": "02663",
+      "name": "Bằng Thành",
+      "fullName": "Xã Bằng Thành, Tỉnh Thái Nguyên",
+      "slug": "bang-thanh",
+      "type": "commune",
+      "postalCode": "01864"
+    },
+    {
+      "code": "02668",
+      "name": "Trung Hội",
+      "fullName": "Xã Trung Hội, Tỉnh Thái Nguyên",
+      "slug": "trung-hoi",
+      "type": "commune",
+      "postalCode": "05581"
+    },
+    {
+      "code": "02693",
+      "name": "Phủ Thông",
+      "fullName": "Xã Phủ Thông, Tỉnh Thái Nguyên",
+      "slug": "phu-thong",
+      "type": "commune",
+      "postalCode": "01969"
+    },
+    {
+      "code": "02695",
+      "name": "Phượng Tiến",
+      "fullName": "Xã Phượng Tiến, Tỉnh Thái Nguyên",
+      "slug": "phuong-tien",
+      "type": "commune",
+      "postalCode": "05563"
+    },
+    {
+      "code": "02702",
+      "name": "Đức Lương",
+      "fullName": "Xã Đức Lương, Tỉnh Thái Nguyên",
+      "slug": "duc-luong",
+      "type": "commune",
+      "postalCode": "05776"
+    },
+    {
+      "code": "02704",
+      "name": "Quân Chu",
+      "fullName": "Xã Quân Chu, Tỉnh Thái Nguyên",
+      "slug": "quan-chu",
+      "type": "commune",
+      "postalCode": "05851"
+    },
+    {
+      "code": "02721",
+      "name": "Cao Minh",
+      "fullName": "Xã Cao Minh, Tỉnh Thái Nguyên",
+      "slug": "cao-minh",
+      "type": "commune",
+      "postalCode": "01879"
+    },
+    {
+      "code": "02761",
+      "name": "La Hiên",
+      "fullName": "Xã La Hiên, Tỉnh Thái Nguyên",
+      "slug": "la-hien",
+      "type": "commune",
+      "postalCode": "05740"
+    },
+    {
+      "code": "02788",
+      "name": "Ba Bể",
+      "fullName": "Xã Ba Bể, Tỉnh Thái Nguyên",
+      "slug": "ba-be",
+      "type": "commune",
+      "postalCode": "01906"
+    },
+    {
+      "code": "02789",
+      "name": "Phú Đình",
+      "fullName": "Xã Phú Đình, Tỉnh Thái Nguyên",
+      "slug": "phu-dinh",
+      "type": "commune",
+      "postalCode": "05602"
+    },
+    {
+      "code": "02790",
+      "name": "Đồng Phúc",
+      "fullName": "Xã Đồng Phúc, Tỉnh Thái Nguyên",
+      "slug": "dong-phuc",
+      "type": "commune",
+      "postalCode": "01933"
+    },
+    {
+      "code": "02803",
+      "name": "Bình Thành",
+      "fullName": "Xã Bình Thành, Tỉnh Thái Nguyên",
+      "slug": "binh-thanh",
+      "type": "commune",
+      "postalCode": "05605"
+    },
+    {
+      "code": "02805",
+      "name": "Na Rì",
+      "fullName": "Xã Na Rì, Tỉnh Thái Nguyên",
+      "slug": "na-ri",
+      "type": "commune",
+      "postalCode": "02155"
+    },
+    {
+      "code": "02812",
+      "name": "Cẩm Giàng",
+      "fullName": "Xã Cẩm Giàng, Tỉnh Thái Nguyên",
+      "slug": "cam-giang",
+      "type": "commune",
+      "postalCode": "02008"
+    },
+    {
+      "code": "02830",
+      "name": "Kim Phượng",
+      "fullName": "Xã Kim Phượng, Tỉnh Thái Nguyên",
+      "slug": "kim-phuong",
+      "type": "commune",
+      "postalCode": "05551"
+    },
+    {
+      "code": "02838",
+      "name": "Nghiên Loan",
+      "fullName": "Xã Nghiên Loan, Tỉnh Thái Nguyên",
+      "slug": "nghien-loan",
+      "type": "commune",
+      "postalCode": "01882"
+    },
+    {
+      "code": "02840",
+      "name": "Thượng Minh",
+      "fullName": "Xã Thượng Minh, Tỉnh Thái Nguyên",
+      "slug": "thuong-minh",
+      "type": "commune",
+      "postalCode": "01921"
+    },
+    {
+      "code": "02854",
+      "name": "Quang Sơn",
+      "fullName": "Xã Quang Sơn, Tỉnh Thái Nguyên",
+      "slug": "quang-son",
+      "type": "commune",
+      "postalCode": "05674"
+    },
+    {
+      "code": "02856",
+      "name": "Hợp Thành",
+      "fullName": "Xã Hợp Thành, Tỉnh Thái Nguyên",
+      "slug": "hop-thanh",
+      "type": "commune",
+      "postalCode": "05632"
+    },
+    {
+      "code": "02860",
+      "name": "Nam Cường",
+      "fullName": "Xã Nam Cường, Tỉnh Thái Nguyên",
+      "slug": "nam-cuong",
+      "type": "commune",
+      "postalCode": "02026"
+    },
+    {
+      "code": "02893",
+      "name": "Phúc Lộc",
+      "fullName": "Xã Phúc Lộc, Tỉnh Thái Nguyên",
+      "slug": "phuc-loc",
+      "type": "commune",
+      "postalCode": "01894"
+    },
+    {
+      "code": "02954",
+      "name": "Văn Lăng",
+      "fullName": "Xã Văn Lăng, Tỉnh Thái Nguyên",
+      "slug": "van-lang",
+      "type": "commune",
+      "postalCode": "02143"
+    },
+    {
+      "code": "02979",
+      "name": "Nà Phặc",
+      "fullName": "Xã Nà Phặc, Tỉnh Thái Nguyên",
+      "slug": "na-phac",
+      "type": "commune",
+      "postalCode": "01936"
+    },
+    {
+      "code": "03008",
+      "name": "Thanh Thịnh",
+      "fullName": "Xã Thanh Thịnh, Tỉnh Thái Nguyên",
+      "slug": "thanh-thinh",
+      "type": "commune",
+      "postalCode": "02107"
+    },
+    {
+      "code": "03047",
+      "name": "Ngân Sơn",
+      "fullName": "Xã Ngân Sơn, Tỉnh Thái Nguyên",
+      "slug": "ngan-son",
+      "type": "commune",
+      "postalCode": "01954"
+    },
+    {
+      "code": "03048",
+      "name": "Bạch Thông",
+      "fullName": "Xã Bạch Thông, Tỉnh Thái Nguyên",
+      "slug": "bach-thong",
+      "type": "commune",
+      "postalCode": "02014"
+    },
+    {
+      "code": "03059",
+      "name": "Lam Vỹ",
+      "fullName": "Xã Lam Vỹ, Tỉnh Thái Nguyên",
+      "slug": "lam-vy",
+      "type": "commune",
+      "postalCode": "05542"
+    },
+    {
+      "code": "03070",
+      "name": "Nghĩa Tá",
+      "fullName": "Xã Nghĩa Tá, Tỉnh Thái Nguyên",
+      "slug": "nghia-ta",
+      "type": "commune",
+      "postalCode": "02071"
+    },
+    {
+      "code": "03076",
+      "name": "Tân Kỳ",
+      "fullName": "Xã Tân Kỳ, Tỉnh Thái Nguyên",
+      "slug": "tan-ky",
+      "type": "commune",
+      "postalCode": "02104"
+    },
+    {
+      "code": "03083",
+      "name": "Văn Lang",
+      "fullName": "Xã Văn Lang, Tỉnh Thái Nguyên",
+      "slug": "van-lang",
+      "type": "commune",
+      "postalCode": "02143"
+    },
+    {
+      "code": "03093",
+      "name": "Thanh Mai",
+      "fullName": "Xã Thanh Mai, Tỉnh Thái Nguyên",
+      "slug": "thanh-mai",
+      "type": "commune",
+      "postalCode": "02101"
+    },
+    {
+      "code": "03096",
+      "name": "Yên Phong",
+      "fullName": "Xã Yên Phong, Tỉnh Thái Nguyên",
+      "slug": "yen-phong",
+      "type": "commune",
+      "postalCode": "02083"
+    },
+    {
+      "code": "03102",
+      "name": "Hiệp Lực",
+      "fullName": "Xã Hiệp Lực, Tỉnh Thái Nguyên",
+      "slug": "hiep-luc",
+      "type": "commune",
+      "postalCode": "01960"
+    },
+    {
+      "code": "03121",
+      "name": "Trần Phú",
+      "fullName": "Xã Trần Phú, Tỉnh Thái Nguyên",
+      "slug": "tran-phu",
+      "type": "commune",
+      "postalCode": "02176"
+    },
+    {
+      "code": "03122",
+      "name": "Yên Bình",
+      "fullName": "Xã Yên Bình, Tỉnh Thái Nguyên",
+      "slug": "yen-binh",
+      "type": "commune",
+      "postalCode": "02116"
+    },
+    {
+      "code": "03124",
+      "name": "Xuân Dương",
+      "fullName": "Xã Xuân Dương, Tỉnh Thái Nguyên",
+      "slug": "xuan-duong",
+      "type": "commune",
+      "postalCode": "02191"
+    },
+    {
+      "code": "03148",
+      "name": "Côn Minh",
+      "fullName": "Xã Côn Minh, Tỉnh Thái Nguyên",
+      "slug": "con-minh",
+      "type": "commune",
+      "postalCode": "02185"
+    },
+    {
+      "code": "03155",
+      "name": "Nghinh Tường",
+      "fullName": "Xã Nghinh Tường, Tỉnh Thái Nguyên",
+      "slug": "nghinh-tuong",
+      "type": "commune",
+      "postalCode": "05722"
+    },
+    {
+      "code": "03186",
+      "name": "Phong Quang",
+      "fullName": "Xã Phong Quang, Tỉnh Thái Nguyên",
+      "slug": "phong-quang",
+      "type": "commune",
+      "postalCode": "01849"
+    },
+    {
+      "code": "03197",
+      "name": "Thần Sa",
+      "fullName": "Xã Thần Sa, Tỉnh Thái Nguyên",
+      "slug": "than-sa",
+      "type": "commune",
+      "postalCode": "05725"
+    },
+    {
+      "code": "03221",
+      "name": "Cường Lợi",
+      "fullName": "Xã Cường Lợi, Tỉnh Thái Nguyên",
+      "slug": "cuong-loi",
+      "type": "commune",
+      "postalCode": "02152"
+    },
+    {
+      "code": "03229",
+      "name": "Bằng Vân",
+      "fullName": "Xã Bằng Vân, Tỉnh Thái Nguyên",
+      "slug": "bang-van",
+      "type": "commune",
+      "postalCode": "01942"
+    },
+    {
+      "code": "03238",
+      "name": "Yên Thịnh",
+      "fullName": "Xã Yên Thịnh, Tỉnh Thái Nguyên",
+      "slug": "yen-thinh",
+      "type": "commune",
+      "postalCode": "02044"
+    },
+    {
+      "code": "03266",
+      "name": "Vĩnh Thông",
+      "fullName": "Xã Vĩnh Thông, Tỉnh Thái Nguyên",
+      "slug": "vinh-thong",
+      "type": "commune",
+      "postalCode": "01981"
+    },
+    {
+      "code": "03288",
+      "name": "Quảng Bạch",
+      "fullName": "Xã Quảng Bạch, Tỉnh Thái Nguyên",
+      "slug": "quang-bach",
+      "type": "commune",
+      "postalCode": "02038"
+    },
+    {
+      "code": "03291",
+      "name": "Thượng Quan",
+      "fullName": "Xã Thượng Quan, Tỉnh Thái Nguyên",
+      "slug": "thuong-quan",
+      "type": "commune",
+      "postalCode": "01957"
+    },
+    {
+      "code": "03297",
+      "name": "Sảng Mộc",
+      "fullName": "Xã Sảng Mộc, Tỉnh Thái Nguyên",
+      "slug": "sang-moc",
+      "type": "commune",
+      "postalCode": "05719"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành Phố Bắc Kạn",
+      "slug": "thanh-pho-bac-kan",
+      "wards": [
+        {
+          "code": "01840",
+          "name": "Đức Xuân",
+          "fullName": "Phường Đức Xuân, Tỉnh Thái Nguyên",
+          "slug": "duc-xuan",
+          "postalCode": "01840"
+        },
+        {
+          "code": "01843",
+          "name": "Bắc Kạn",
+          "fullName": "Phường Bắc Kạn, Tỉnh Thái Nguyên",
+          "slug": "bac-kan",
+          "postalCode": "01843"
+        },
+        {
+          "code": "01849",
+          "name": "Phong Quang",
+          "fullName": "Xã Phong Quang, Tỉnh Thái Nguyên",
+          "slug": "phong-quang",
+          "postalCode": "01849"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Thái Nguyên",
+      "slug": "thanh-pho-thai-nguyen",
+      "wards": [
+        {
+          "code": "05443",
+          "name": "Phan Đình Phùng",
+          "fullName": "Phường Phan Đình Phùng, Tỉnh Thái Nguyên",
+          "slug": "phan-dinh-phung",
+          "postalCode": "05443"
+        },
+        {
+          "code": "05455",
+          "name": "Quyết Thắng",
+          "fullName": "Phường Quyết Thắng, Tỉnh Thái Nguyên",
+          "slug": "quyet-thang",
+          "postalCode": "05455"
+        },
+        {
+          "code": "05467",
+          "name": "Gia Sàng",
+          "fullName": "Phường Gia Sàng, Tỉnh Thái Nguyên",
+          "slug": "gia-sang",
+          "postalCode": "05467"
+        },
+        {
+          "code": "05482",
+          "name": "Quan Triều",
+          "fullName": "Phường Quan Triều, Tỉnh Thái Nguyên",
+          "slug": "quan-trieu",
+          "postalCode": "05482"
+        },
+        {
+          "code": "05488",
+          "name": "Đại Phúc",
+          "fullName": "Xã Đại Phúc, Tỉnh Thái Nguyên",
+          "slug": "dai-phuc",
+          "postalCode": "05488"
+        },
+        {
+          "code": "05500",
+          "name": "Tích Lương",
+          "fullName": "Phường Tích Lương, Tỉnh Thái Nguyên",
+          "slug": "tich-luong",
+          "postalCode": "05500"
+        },
+        {
+          "code": "05503",
+          "name": "Tân Cương",
+          "fullName": "Xã Tân Cương, Tỉnh Thái Nguyên",
+          "slug": "tan-cuong",
+          "postalCode": "05503"
+        },
+        {
+          "code": "05710",
+          "name": "Linh Sơn",
+          "fullName": "Phường Linh Sơn, Tỉnh Thái Nguyên",
+          "slug": "linh-son",
+          "postalCode": "05710"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Sông Công",
+      "slug": "thanh-pho-song-cong",
+      "wards": [
+        {
+          "code": "05503",
+          "name": "Tân Cương",
+          "fullName": "Xã Tân Cương, Tỉnh Thái Nguyên",
+          "slug": "tan-cuong",
+          "postalCode": "05503"
+        },
+        {
+          "code": "05518",
+          "name": "Sông Công",
+          "fullName": "Phường Sông Công, Tỉnh Thái Nguyên",
+          "slug": "song-cong",
+          "postalCode": "05518"
+        },
+        {
+          "code": "05528",
+          "name": "Bách Quang",
+          "fullName": "Phường Bách Quang, Tỉnh Thái Nguyên",
+          "slug": "bach-quang",
+          "postalCode": "05528"
+        },
+        {
+          "code": "05533",
+          "name": "Bá Xuyên",
+          "fullName": "Phường Bá Xuyên, Tỉnh Thái Nguyên",
+          "slug": "ba-xuyen",
+          "postalCode": "05533"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Phổ Yên",
+      "slug": "thanh-pho-pho-yen",
+      "wards": [
+        {
+          "code": "05488",
+          "name": "Đại Phúc",
+          "fullName": "Xã Đại Phúc, Tỉnh Thái Nguyên",
+          "slug": "dai-phuc",
+          "postalCode": "05488"
+        },
+        {
+          "code": "05857",
+          "name": "Phúc Thuận",
+          "fullName": "Phường Phúc Thuận, Tỉnh Thái Nguyên",
+          "slug": "phuc-thuan",
+          "postalCode": "05857"
+        },
+        {
+          "code": "05860",
+          "name": "Phổ Yên",
+          "fullName": "Phường Phổ Yên, Tỉnh Thái Nguyên",
+          "slug": "pho-yen",
+          "postalCode": "05860"
+        },
+        {
+          "code": "05881",
+          "name": "Thành Công",
+          "fullName": "Xã Thành Công, Tỉnh Thái Nguyên",
+          "slug": "thanh-cong",
+          "postalCode": "05881"
+        },
+        {
+          "code": "05890",
+          "name": "Vạn Xuân",
+          "fullName": "Phường Vạn Xuân, Tỉnh Thái Nguyên",
+          "slug": "van-xuan",
+          "postalCode": "05890"
+        },
+        {
+          "code": "05899",
+          "name": "Trung Thành",
+          "fullName": "Phường Trung Thành, Tỉnh Thái Nguyên",
+          "slug": "trung-thanh",
+          "postalCode": "05899"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bạch Thông",
+      "slug": "huyen-bach-thong",
+      "wards": [
+        {
+          "code": "01849",
+          "name": "Phong Quang",
+          "fullName": "Xã Phong Quang, Tỉnh Thái Nguyên",
+          "slug": "phong-quang",
+          "postalCode": "01849"
+        },
+        {
+          "code": "01969",
+          "name": "Phủ Thông",
+          "fullName": "Xã Phủ Thông, Tỉnh Thái Nguyên",
+          "slug": "phu-thong",
+          "postalCode": "01969"
+        },
+        {
+          "code": "01981",
+          "name": "Vĩnh Thông",
+          "fullName": "Xã Vĩnh Thông, Tỉnh Thái Nguyên",
+          "slug": "vinh-thong",
+          "postalCode": "01981"
+        },
+        {
+          "code": "02008",
+          "name": "Cẩm Giàng",
+          "fullName": "Xã Cẩm Giàng, Tỉnh Thái Nguyên",
+          "slug": "cam-giang",
+          "postalCode": "02008"
+        },
+        {
+          "code": "02014",
+          "name": "Bạch Thông",
+          "fullName": "Xã Bạch Thông, Tỉnh Thái Nguyên",
+          "slug": "bach-thong",
+          "postalCode": "02014"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Pác Nặm",
+      "slug": "huyen-pac-nam",
+      "wards": [
+        {
+          "code": "01864",
+          "name": "Bằng Thành",
+          "fullName": "Xã Bằng Thành, Tỉnh Thái Nguyên",
+          "slug": "bang-thanh",
+          "postalCode": "01864"
+        },
+        {
+          "code": "01879",
+          "name": "Cao Minh",
+          "fullName": "Xã Cao Minh, Tỉnh Thái Nguyên",
+          "slug": "cao-minh",
+          "postalCode": "01879"
+        },
+        {
+          "code": "01882",
+          "name": "Nghiên Loan",
+          "fullName": "Xã Nghiên Loan, Tỉnh Thái Nguyên",
+          "slug": "nghien-loan",
+          "postalCode": "01882"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ba Bể",
+      "slug": "huyen-ba-be",
+      "wards": [
+        {
+          "code": "01894",
+          "name": "Phúc Lộc",
+          "fullName": "Xã Phúc Lộc, Tỉnh Thái Nguyên",
+          "slug": "phuc-loc",
+          "postalCode": "01894"
+        },
+        {
+          "code": "01906",
+          "name": "Ba Bể",
+          "fullName": "Xã Ba Bể, Tỉnh Thái Nguyên",
+          "slug": "ba-be",
+          "postalCode": "01906"
+        },
+        {
+          "code": "01912",
+          "name": "Chợ Rã",
+          "fullName": "Xã Chợ Rã, Tỉnh Thái Nguyên",
+          "slug": "cho-ra",
+          "postalCode": "01912"
+        },
+        {
+          "code": "01921",
+          "name": "Thượng Minh",
+          "fullName": "Xã Thượng Minh, Tỉnh Thái Nguyên",
+          "slug": "thuong-minh",
+          "postalCode": "01921"
+        },
+        {
+          "code": "01933",
+          "name": "Đồng Phúc",
+          "fullName": "Xã Đồng Phúc, Tỉnh Thái Nguyên",
+          "slug": "dong-phuc",
+          "postalCode": "01933"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chợ Đồn",
+      "slug": "huyen-cho-don",
+      "wards": [
+        {
+          "code": "01933",
+          "name": "Đồng Phúc",
+          "fullName": "Xã Đồng Phúc, Tỉnh Thái Nguyên",
+          "slug": "dong-phuc",
+          "postalCode": "01933"
+        },
+        {
+          "code": "02014",
+          "name": "Bạch Thông",
+          "fullName": "Xã Bạch Thông, Tỉnh Thái Nguyên",
+          "slug": "bach-thong",
+          "postalCode": "02014"
+        },
+        {
+          "code": "02020",
+          "name": "Chợ Đồn",
+          "fullName": "Xã Chợ Đồn, Tỉnh Thái Nguyên",
+          "slug": "cho-don",
+          "postalCode": "02020"
+        },
+        {
+          "code": "02026",
+          "name": "Nam Cường",
+          "fullName": "Xã Nam Cường, Tỉnh Thái Nguyên",
+          "slug": "nam-cuong",
+          "postalCode": "02026"
+        },
+        {
+          "code": "02038",
+          "name": "Quảng Bạch",
+          "fullName": "Xã Quảng Bạch, Tỉnh Thái Nguyên",
+          "slug": "quang-bach",
+          "postalCode": "02038"
+        },
+        {
+          "code": "02044",
+          "name": "Yên Thịnh",
+          "fullName": "Xã Yên Thịnh, Tỉnh Thái Nguyên",
+          "slug": "yen-thinh",
+          "postalCode": "02044"
+        },
+        {
+          "code": "02071",
+          "name": "Nghĩa Tá",
+          "fullName": "Xã Nghĩa Tá, Tỉnh Thái Nguyên",
+          "slug": "nghia-ta",
+          "postalCode": "02071"
+        },
+        {
+          "code": "02083",
+          "name": "Yên Phong",
+          "fullName": "Xã Yên Phong, Tỉnh Thái Nguyên",
+          "slug": "yen-phong",
+          "postalCode": "02083"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ngân Sơn",
+      "slug": "huyen-ngan-son",
+      "wards": [
+        {
+          "code": "01936",
+          "name": "Nà Phặc",
+          "fullName": "Xã Nà Phặc, Tỉnh Thái Nguyên",
+          "slug": "na-phac",
+          "postalCode": "01936"
+        },
+        {
+          "code": "01942",
+          "name": "Bằng Vân",
+          "fullName": "Xã Bằng Vân, Tỉnh Thái Nguyên",
+          "slug": "bang-van",
+          "postalCode": "01942"
+        },
+        {
+          "code": "01954",
+          "name": "Ngân Sơn",
+          "fullName": "Xã Ngân Sơn, Tỉnh Thái Nguyên",
+          "slug": "ngan-son",
+          "postalCode": "01954"
+        },
+        {
+          "code": "01957",
+          "name": "Thượng Quan",
+          "fullName": "Xã Thượng Quan, Tỉnh Thái Nguyên",
+          "slug": "thuong-quan",
+          "postalCode": "01957"
+        },
+        {
+          "code": "01960",
+          "name": "Hiệp Lực",
+          "fullName": "Xã Hiệp Lực, Tỉnh Thái Nguyên",
+          "slug": "hiep-luc",
+          "postalCode": "01960"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chợ Mới",
+      "slug": "huyen-cho-moi",
+      "wards": [
+        {
+          "code": "02086",
+          "name": "Chợ Mới",
+          "fullName": "Xã Chợ Mới, Tỉnh Thái Nguyên",
+          "slug": "cho-moi",
+          "postalCode": "02086"
+        },
+        {
+          "code": "02101",
+          "name": "Thanh Mai",
+          "fullName": "Xã Thanh Mai, Tỉnh Thái Nguyên",
+          "slug": "thanh-mai",
+          "postalCode": "02101"
+        },
+        {
+          "code": "02104",
+          "name": "Tân Kỳ",
+          "fullName": "Xã Tân Kỳ, Tỉnh Thái Nguyên",
+          "slug": "tan-ky",
+          "postalCode": "02104"
+        },
+        {
+          "code": "02107",
+          "name": "Thanh Thịnh",
+          "fullName": "Xã Thanh Thịnh, Tỉnh Thái Nguyên",
+          "slug": "thanh-thinh",
+          "postalCode": "02107"
+        },
+        {
+          "code": "02116",
+          "name": "Yên Bình",
+          "fullName": "Xã Yên Bình, Tỉnh Thái Nguyên",
+          "slug": "yen-binh",
+          "postalCode": "02116"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Na Rì",
+      "slug": "huyen-na-ri",
+      "wards": [
+        {
+          "code": "02143",
+          "name": "Văn Lang",
+          "fullName": "Xã Văn Lang, Tỉnh Thái Nguyên",
+          "slug": "van-lang",
+          "postalCode": "02143"
+        },
+        {
+          "code": "02152",
+          "name": "Cường Lợi",
+          "fullName": "Xã Cường Lợi, Tỉnh Thái Nguyên",
+          "slug": "cuong-loi",
+          "postalCode": "02152"
+        },
+        {
+          "code": "02155",
+          "name": "Na Rì",
+          "fullName": "Xã Na Rì, Tỉnh Thái Nguyên",
+          "slug": "na-ri",
+          "postalCode": "02155"
+        },
+        {
+          "code": "02176",
+          "name": "Trần Phú",
+          "fullName": "Xã Trần Phú, Tỉnh Thái Nguyên",
+          "slug": "tran-phu",
+          "postalCode": "02176"
+        },
+        {
+          "code": "02185",
+          "name": "Côn Minh",
+          "fullName": "Xã Côn Minh, Tỉnh Thái Nguyên",
+          "slug": "con-minh",
+          "postalCode": "02185"
+        },
+        {
+          "code": "02191",
+          "name": "Xuân Dương",
+          "fullName": "Xã Xuân Dương, Tỉnh Thái Nguyên",
+          "slug": "xuan-duong",
+          "postalCode": "02191"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đại Từ",
+      "slug": "huyen-dai-tu",
+      "wards": [
+        {
+          "code": "05488",
+          "name": "Đại Phúc",
+          "fullName": "Xã Đại Phúc, Tỉnh Thái Nguyên",
+          "slug": "dai-phuc",
+          "postalCode": "05488"
+        },
+        {
+          "code": "05773",
+          "name": "Phú Xuyên",
+          "fullName": "Xã Phú Xuyên, Tỉnh Thái Nguyên",
+          "slug": "phu-xuyen",
+          "postalCode": "05773"
+        },
+        {
+          "code": "05776",
+          "name": "Đức Lương",
+          "fullName": "Xã Đức Lương, Tỉnh Thái Nguyên",
+          "slug": "duc-luong",
+          "postalCode": "05776"
+        },
+        {
+          "code": "05788",
+          "name": "Phú Lạc",
+          "fullName": "Xã Phú Lạc, Tỉnh Thái Nguyên",
+          "slug": "phu-lac",
+          "postalCode": "05788"
+        },
+        {
+          "code": "05800",
+          "name": "Phú Thịnh",
+          "fullName": "Xã Phú Thịnh, Tỉnh Thái Nguyên",
+          "slug": "phu-thinh",
+          "postalCode": "05800"
+        },
+        {
+          "code": "05809",
+          "name": "An Khánh",
+          "fullName": "Xã An Khánh, Tỉnh Thái Nguyên",
+          "slug": "an-khanh",
+          "postalCode": "05809"
+        },
+        {
+          "code": "05818",
+          "name": "La Bằng",
+          "fullName": "Xã La Bằng, Tỉnh Thái Nguyên",
+          "slug": "la-bang",
+          "postalCode": "05818"
+        },
+        {
+          "code": "05830",
+          "name": "Đại Từ",
+          "fullName": "Xã Đại Từ, Tỉnh Thái Nguyên",
+          "slug": "dai-tu",
+          "postalCode": "05830"
+        },
+        {
+          "code": "05845",
+          "name": "Vạn Phú",
+          "fullName": "Xã Vạn Phú, Tỉnh Thái Nguyên",
+          "slug": "van-phu",
+          "postalCode": "05845"
+        },
+        {
+          "code": "05851",
+          "name": "Quân Chu",
+          "fullName": "Xã Quân Chu, Tỉnh Thái Nguyên",
+          "slug": "quan-chu",
+          "postalCode": "05851"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Định Hóa",
+      "slug": "huyen-dinh-hoa",
+      "wards": [
+        {
+          "code": "05542",
+          "name": "Lam Vỹ",
+          "fullName": "Xã Lam Vỹ, Tỉnh Thái Nguyên",
+          "slug": "lam-vy",
+          "postalCode": "05542"
+        },
+        {
+          "code": "05551",
+          "name": "Kim Phượng",
+          "fullName": "Xã Kim Phượng, Tỉnh Thái Nguyên",
+          "slug": "kim-phuong",
+          "postalCode": "05551"
+        },
+        {
+          "code": "05563",
+          "name": "Phượng Tiến",
+          "fullName": "Xã Phượng Tiến, Tỉnh Thái Nguyên",
+          "slug": "phuong-tien",
+          "postalCode": "05563"
+        },
+        {
+          "code": "05569",
+          "name": "Định Hoá",
+          "fullName": "Xã Định Hoá, Tỉnh Thái Nguyên",
+          "slug": "dinh-hoa",
+          "postalCode": "05569"
+        },
+        {
+          "code": "05581",
+          "name": "Trung Hội",
+          "fullName": "Xã Trung Hội, Tỉnh Thái Nguyên",
+          "slug": "trung-hoi",
+          "postalCode": "05581"
+        },
+        {
+          "code": "05587",
+          "name": "Bình Yên",
+          "fullName": "Xã Bình Yên, Tỉnh Thái Nguyên",
+          "slug": "binh-yen",
+          "postalCode": "05587"
+        },
+        {
+          "code": "05602",
+          "name": "Phú Đình",
+          "fullName": "Xã Phú Đình, Tỉnh Thái Nguyên",
+          "slug": "phu-dinh",
+          "postalCode": "05602"
+        },
+        {
+          "code": "05605",
+          "name": "Bình Thành",
+          "fullName": "Xã Bình Thành, Tỉnh Thái Nguyên",
+          "slug": "binh-thanh",
+          "postalCode": "05605"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Lương",
+      "slug": "huyen-phu-luong",
+      "wards": [
+        {
+          "code": "05611",
+          "name": "Phú Lương",
+          "fullName": "Xã Phú Lương, Tỉnh Thái Nguyên",
+          "slug": "phu-luong",
+          "postalCode": "05611"
+        },
+        {
+          "code": "05620",
+          "name": "Yên Trạch",
+          "fullName": "Xã Yên Trạch, Tỉnh Thái Nguyên",
+          "slug": "yen-trach",
+          "postalCode": "05620"
+        },
+        {
+          "code": "05632",
+          "name": "Hợp Thành",
+          "fullName": "Xã Hợp Thành, Tỉnh Thái Nguyên",
+          "slug": "hop-thanh",
+          "postalCode": "05632"
+        },
+        {
+          "code": "05641",
+          "name": "Vô Tranh",
+          "fullName": "Xã Vô Tranh, Tỉnh Thái Nguyên",
+          "slug": "vo-tranh",
+          "postalCode": "05641"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đồng Hỷ",
+      "slug": "huyen-dong-hy",
+      "wards": [
+        {
+          "code": "05662",
+          "name": "Trại Cau",
+          "fullName": "Xã Trại Cau, Tỉnh Thái Nguyên",
+          "slug": "trai-cau",
+          "postalCode": "05662"
+        },
+        {
+          "code": "05665",
+          "name": "Văn Lăng",
+          "fullName": "Xã Văn Lăng, Tỉnh Thái Nguyên",
+          "slug": "van-lang",
+          "postalCode": "05665"
+        },
+        {
+          "code": "05674",
+          "name": "Quang Sơn",
+          "fullName": "Xã Quang Sơn, Tỉnh Thái Nguyên",
+          "slug": "quang-son",
+          "postalCode": "05674"
+        },
+        {
+          "code": "05680",
+          "name": "Văn Hán",
+          "fullName": "Xã Văn Hán, Tỉnh Thái Nguyên",
+          "slug": "van-han",
+          "postalCode": "05680"
+        },
+        {
+          "code": "05692",
+          "name": "Đồng Hỷ",
+          "fullName": "Xã Đồng Hỷ, Tỉnh Thái Nguyên",
+          "slug": "dong-hy",
+          "postalCode": "05692"
+        },
+        {
+          "code": "05707",
+          "name": "Nam Hòa",
+          "fullName": "Xã Nam Hòa, Tỉnh Thái Nguyên",
+          "slug": "nam-hoa",
+          "postalCode": "05707"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Võ Nhai",
+      "slug": "huyen-vo-nhai",
+      "wards": [
+        {
+          "code": "05716",
+          "name": "Võ Nhai",
+          "fullName": "Xã Võ Nhai, Tỉnh Thái Nguyên",
+          "slug": "vo-nhai",
+          "postalCode": "05716"
+        },
+        {
+          "code": "05719",
+          "name": "Sảng Mộc",
+          "fullName": "Xã Sảng Mộc, Tỉnh Thái Nguyên",
+          "slug": "sang-moc",
+          "postalCode": "05719"
+        },
+        {
+          "code": "05722",
+          "name": "Nghinh Tường",
+          "fullName": "Xã Nghinh Tường, Tỉnh Thái Nguyên",
+          "slug": "nghinh-tuong",
+          "postalCode": "05722"
+        },
+        {
+          "code": "05725",
+          "name": "Thần Sa",
+          "fullName": "Xã Thần Sa, Tỉnh Thái Nguyên",
+          "slug": "than-sa",
+          "postalCode": "05725"
+        },
+        {
+          "code": "05740",
+          "name": "La Hiên",
+          "fullName": "Xã La Hiên, Tỉnh Thái Nguyên",
+          "slug": "la-hien",
+          "postalCode": "05740"
+        },
+        {
+          "code": "05746",
+          "name": "Tràng Xá",
+          "fullName": "Xã Tràng Xá, Tỉnh Thái Nguyên",
+          "slug": "trang-xa",
+          "postalCode": "05746"
+        },
+        {
+          "code": "05755",
+          "name": "Dân Tiến",
+          "fullName": "Xã Dân Tiến, Tỉnh Thái Nguyên",
+          "slug": "dan-tien",
+          "postalCode": "05755"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Bình",
+      "slug": "huyen-phu-binh",
+      "wards": [
+        {
+          "code": "05908",
+          "name": "Phú Bình",
+          "fullName": "Xã Phú Bình, Tỉnh Thái Nguyên",
+          "slug": "phu-binh",
+          "postalCode": "05908"
+        },
+        {
+          "code": "05917",
+          "name": "Tân Khánh",
+          "fullName": "Xã Tân Khánh, Tỉnh Thái Nguyên",
+          "slug": "tan-khanh",
+          "postalCode": "05917"
+        },
+        {
+          "code": "05923",
+          "name": "Tân Thành",
+          "fullName": "Xã Tân Thành, Tỉnh Thái Nguyên",
+          "slug": "tan-thanh",
+          "postalCode": "05923"
+        },
+        {
+          "code": "05941",
+          "name": "Điềm Thụy",
+          "fullName": "Xã Điềm Thụy, Tỉnh Thái Nguyên",
+          "slug": "diem-thuy",
+          "postalCode": "05941"
+        },
+        {
+          "code": "05953",
+          "name": "Kha Sơn",
+          "fullName": "Xã Kha Sơn, Tỉnh Thái Nguyên",
+          "slug": "kha-son",
+          "postalCode": "05953"
+        }
+      ]
+    }
+  ]
+}

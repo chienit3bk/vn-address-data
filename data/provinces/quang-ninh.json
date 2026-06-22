@@ -1,0 +1,942 @@
+{
+  "code": "08",
+  "name": "Quảng Ninh",
+  "slug": "quang-ninh",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Quảng Ninh",
+  "wards": [
+    {
+      "code": "00254",
+      "name": "Mạo Khê",
+      "fullName": "Phường Mạo Khê, Tỉnh Quảng Ninh",
+      "slug": "mao-khe",
+      "type": "ward",
+      "postalCode": "07069"
+    },
+    {
+      "code": "00317",
+      "name": "Cửa Ông",
+      "fullName": "Phường Cửa Ông, Tỉnh Quảng Ninh",
+      "slug": "cua-ong",
+      "type": "ward",
+      "postalCode": "06781"
+    },
+    {
+      "code": "00370",
+      "name": "Cẩm Phả",
+      "fullName": "Phường Cẩm Phả, Tỉnh Quảng Ninh",
+      "slug": "cam-pha",
+      "type": "ward",
+      "postalCode": "06793"
+    },
+    {
+      "code": "00397",
+      "name": "Uông Bí",
+      "fullName": "Phường Uông Bí, Tỉnh Quảng Ninh",
+      "slug": "uong-bi",
+      "type": "ward",
+      "postalCode": "06811"
+    },
+    {
+      "code": "00487",
+      "name": "Vân Đồn",
+      "fullName": "Đặc khu Vân Đồn, Tỉnh Quảng Ninh",
+      "slug": "van-don",
+      "type": "commune",
+      "postalCode": "06994"
+    },
+    {
+      "code": "00502",
+      "name": "Hạ Long",
+      "fullName": "Phường Hạ Long, Tỉnh Quảng Ninh",
+      "slug": "ha-long",
+      "type": "ward",
+      "postalCode": "06688"
+    },
+    {
+      "code": "00507",
+      "name": "Quang Hanh",
+      "fullName": "Phường Quang Hanh, Tỉnh Quảng Ninh",
+      "slug": "quang-hanh",
+      "type": "ward",
+      "postalCode": "06778"
+    },
+    {
+      "code": "00528",
+      "name": "Việt Hưng",
+      "fullName": "Phường Việt Hưng, Tỉnh Quảng Ninh",
+      "slug": "viet-hung",
+      "type": "ward",
+      "postalCode": "06661"
+    },
+    {
+      "code": "00541",
+      "name": "Hồng Gai",
+      "fullName": "Phường Hồng Gai, Tỉnh Quảng Ninh",
+      "slug": "hong-gai",
+      "type": "ward",
+      "postalCode": "06685"
+    },
+    {
+      "code": "00636",
+      "name": "Hà Lầm",
+      "fullName": "Phường Hà Lầm, Tỉnh Quảng Ninh",
+      "slug": "ha-lam",
+      "type": "ward",
+      "postalCode": "06676"
+    },
+    {
+      "code": "00672",
+      "name": "Móng Cái 1",
+      "fullName": "Phường Móng Cái 1, Tỉnh Quảng Ninh",
+      "slug": "mong-cai-1",
+      "type": "ward",
+      "postalCode": "06712"
+    },
+    {
+      "code": "00761",
+      "name": "Đông Triều",
+      "fullName": "Phường Đông Triều, Tỉnh Quảng Ninh",
+      "slug": "dong-trieu",
+      "type": "ward",
+      "postalCode": "07093"
+    },
+    {
+      "code": "00823",
+      "name": "Bãi Cháy",
+      "fullName": "Phường Bãi Cháy, Tỉnh Quảng Ninh",
+      "slug": "bai-chay",
+      "type": "ward",
+      "postalCode": "06673"
+    },
+    {
+      "code": "00858",
+      "name": "Quảng Hà",
+      "fullName": "Xã Quảng Hà, Tỉnh Quảng Ninh",
+      "slug": "quang-ha",
+      "type": "commune",
+      "postalCode": "06778"
+    },
+    {
+      "code": "00957",
+      "name": "Yên Tử",
+      "fullName": "Phường Yên Tử, Tỉnh Quảng Ninh",
+      "slug": "yen-tu",
+      "type": "ward",
+      "postalCode": "06832"
+    },
+    {
+      "code": "01072",
+      "name": "Vàng Danh",
+      "fullName": "Phường Vàng Danh, Tỉnh Quảng Ninh",
+      "slug": "vang-danh",
+      "type": "ward",
+      "postalCode": "06820"
+    },
+    {
+      "code": "01267",
+      "name": "Hiệp Hòa",
+      "fullName": "Phường Hiệp Hòa, Tỉnh Quảng Ninh",
+      "slug": "hiep-hoa",
+      "type": "ward",
+      "postalCode": "07147"
+    },
+    {
+      "code": "01316",
+      "name": "Liên Hòa",
+      "fullName": "Phường Liên Hòa, Tỉnh Quảng Ninh",
+      "slug": "lien-hoa",
+      "type": "ward",
+      "postalCode": "07180"
+    },
+    {
+      "code": "01317",
+      "name": "Cao Xanh",
+      "fullName": "Phường Cao Xanh, Tỉnh Quảng Ninh",
+      "slug": "cao-xanh",
+      "type": "ward",
+      "postalCode": "06658"
+    },
+    {
+      "code": "01371",
+      "name": "Hoàng Quế",
+      "fullName": "Phường Hoàng Quế, Tỉnh Quảng Ninh",
+      "slug": "hoang-que",
+      "type": "ward",
+      "postalCode": "07114"
+    },
+    {
+      "code": "01416",
+      "name": "Quảng Yên",
+      "fullName": "Phường Quảng Yên, Tỉnh Quảng Ninh",
+      "slug": "quang-yen",
+      "type": "ward",
+      "postalCode": "07132"
+    },
+    {
+      "code": "01547",
+      "name": "Hà Tu",
+      "fullName": "Phường Hà Tu, Tỉnh Quảng Ninh",
+      "slug": "ha-tu",
+      "type": "ward",
+      "postalCode": "06652"
+    },
+    {
+      "code": "01579",
+      "name": "Móng Cái 2",
+      "fullName": "Phường Móng Cái 2, Tỉnh Quảng Ninh",
+      "slug": "mong-cai-2",
+      "type": "ward",
+      "postalCode": "06709"
+    },
+    {
+      "code": "01625",
+      "name": "Hoành Bồ",
+      "fullName": "Phường Hoành Bồ, Tỉnh Quảng Ninh",
+      "slug": "hoanh-bo",
+      "type": "ward",
+      "postalCode": "07030"
+    },
+    {
+      "code": "01714",
+      "name": "Phong Cốc",
+      "fullName": "Phường Phong Cốc, Tỉnh Quảng Ninh",
+      "slug": "phong-coc",
+      "type": "ward",
+      "postalCode": "07183"
+    },
+    {
+      "code": "01823",
+      "name": "Đầm Hà",
+      "fullName": "Xã Đầm Hà, Tỉnh Quảng Ninh",
+      "slug": "dam-ha",
+      "type": "commune",
+      "postalCode": "06895"
+    },
+    {
+      "code": "01899",
+      "name": "An Sinh",
+      "fullName": "Phường An Sinh, Tỉnh Quảng Ninh",
+      "slug": "an-sinh",
+      "type": "ward",
+      "postalCode": "07090"
+    },
+    {
+      "code": "02102",
+      "name": "Móng Cái 3",
+      "fullName": "Phường Móng Cái 3, Tỉnh Quảng Ninh",
+      "slug": "mong-cai-3",
+      "type": "ward",
+      "postalCode": "06736"
+    },
+    {
+      "code": "02127",
+      "name": "Tiên Yên",
+      "fullName": "Xã Tiên Yên, Tỉnh Quảng Ninh",
+      "slug": "tien-yen",
+      "type": "commune",
+      "postalCode": "06862"
+    },
+    {
+      "code": "02143",
+      "name": "Bình Khê",
+      "fullName": "Phường Bình Khê, Tỉnh Quảng Ninh",
+      "slug": "binh-khe",
+      "type": "ward",
+      "postalCode": "07081"
+    },
+    {
+      "code": "02158",
+      "name": "Đông Mai",
+      "fullName": "Phường Đông Mai, Tỉnh Quảng Ninh",
+      "slug": "dong-mai",
+      "type": "ward",
+      "postalCode": "07135"
+    },
+    {
+      "code": "02180",
+      "name": "Hà An",
+      "fullName": "Phường Hà An, Tỉnh Quảng Ninh",
+      "slug": "ha-an",
+      "type": "ward",
+      "postalCode": "07168"
+    },
+    {
+      "code": "02330",
+      "name": "Mông Dương",
+      "fullName": "Phường Mông Dương, Tỉnh Quảng Ninh",
+      "slug": "mong-duong",
+      "type": "ward",
+      "postalCode": "06760"
+    },
+    {
+      "code": "02387",
+      "name": "Đông Ngũ",
+      "fullName": "Xã Đông Ngũ, Tỉnh Quảng Ninh",
+      "slug": "dong-ngu",
+      "type": "commune",
+      "postalCode": "06877"
+    },
+    {
+      "code": "02389",
+      "name": "Quảng Tân",
+      "fullName": "Xã Quảng Tân, Tỉnh Quảng Ninh",
+      "slug": "quang-tan",
+      "type": "commune",
+      "postalCode": "06913"
+    },
+    {
+      "code": "02431",
+      "name": "Ba Chẽ",
+      "fullName": "Xã Ba Chẽ, Tỉnh Quảng Ninh",
+      "slug": "ba-che",
+      "type": "commune",
+      "postalCode": "06970"
+    },
+    {
+      "code": "02443",
+      "name": "Thống Nhất",
+      "fullName": "Xã Thống Nhất, Tỉnh Quảng Ninh",
+      "slug": "thong-nhat",
+      "type": "commune",
+      "postalCode": "07060"
+    },
+    {
+      "code": "02450",
+      "name": "Đường Hoa",
+      "fullName": "Xã Đường Hoa, Tỉnh Quảng Ninh",
+      "slug": "duong-hoa",
+      "type": "commune",
+      "postalCode": "06946"
+    },
+    {
+      "code": "02511",
+      "name": "Bình Liêu",
+      "fullName": "Xã Bình Liêu, Tỉnh Quảng Ninh",
+      "slug": "binh-lieu",
+      "type": "commune",
+      "postalCode": "06838"
+    },
+    {
+      "code": "02601",
+      "name": "Tuần Châu",
+      "fullName": "Phường Tuần Châu, Tỉnh Quảng Ninh",
+      "slug": "tuan-chau",
+      "type": "ward",
+      "postalCode": "06706"
+    },
+    {
+      "code": "02792",
+      "name": "Quảng Đức",
+      "fullName": "Xã Quảng Đức, Tỉnh Quảng Ninh",
+      "slug": "quang-duc",
+      "type": "commune",
+      "postalCode": "06931"
+    },
+    {
+      "code": "02885",
+      "name": "Hải Ninh",
+      "fullName": "Xã Hải Ninh, Tỉnh Quảng Ninh",
+      "slug": "hai-ninh",
+      "type": "commune",
+      "postalCode": "06733"
+    },
+    {
+      "code": "02921",
+      "name": "Lục Hồn",
+      "fullName": "Xã Lục Hồn, Tỉnh Quảng Ninh",
+      "slug": "luc-hon",
+      "type": "commune",
+      "postalCode": "06856"
+    },
+    {
+      "code": "02931",
+      "name": "Hải Lạng",
+      "fullName": "Xã Hải Lạng, Tỉnh Quảng Ninh",
+      "slug": "hai-lang",
+      "type": "commune",
+      "postalCode": "06886"
+    },
+    {
+      "code": "02982",
+      "name": "Quảng La",
+      "fullName": "Xã Quảng La, Tỉnh Quảng Ninh",
+      "slug": "quang-la",
+      "type": "commune",
+      "postalCode": "07054"
+    },
+    {
+      "code": "02994",
+      "name": "Hoành Mô",
+      "fullName": "Xã Hoành Mô, Tỉnh Quảng Ninh",
+      "slug": "hoanh-mo",
+      "type": "commune",
+      "postalCode": "06841"
+    },
+    {
+      "code": "03114",
+      "name": "Cô Tô",
+      "fullName": "Đặc khu Cô Tô, Tỉnh Quảng Ninh",
+      "slug": "co-to",
+      "type": "commune",
+      "postalCode": "07192"
+    },
+    {
+      "code": "03125",
+      "name": "Điền Xá",
+      "fullName": "Xã Điền Xá, Tỉnh Quảng Ninh",
+      "slug": "dien-xa",
+      "type": "commune",
+      "postalCode": "06874"
+    },
+    {
+      "code": "03208",
+      "name": "Kỳ Thượng",
+      "fullName": "Xã Kỳ Thượng, Tỉnh Quảng Ninh",
+      "slug": "ky-thuong",
+      "type": "commune",
+      "postalCode": "06979"
+    },
+    {
+      "code": "03220",
+      "name": "Hải Hòa",
+      "fullName": "Xã Hải Hòa, Tỉnh Quảng Ninh",
+      "slug": "hai-hoa",
+      "type": "commune",
+      "postalCode": "06799"
+    },
+    {
+      "code": "03231",
+      "name": "Lương Minh",
+      "fullName": "Xã Lương Minh, Tỉnh Quảng Ninh",
+      "slug": "luong-minh",
+      "type": "commune",
+      "postalCode": "06985"
+    },
+    {
+      "code": "03241",
+      "name": "Vĩnh Thực",
+      "fullName": "Xã Vĩnh Thực, Tỉnh Quảng Ninh",
+      "slug": "vinh-thuc",
+      "type": "commune",
+      "postalCode": "06757"
+    },
+    {
+      "code": "03269",
+      "name": "Hải Sơn",
+      "fullName": "Xã Hải Sơn, Tỉnh Quảng Ninh",
+      "slug": "hai-son",
+      "type": "commune",
+      "postalCode": "06724"
+    },
+    {
+      "code": "03316",
+      "name": "Cái Chiên",
+      "fullName": "Xã Cái Chiên, Tỉnh Quảng Ninh",
+      "slug": "cai-chien",
+      "type": "commune",
+      "postalCode": "06967"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Hạ Long",
+      "slug": "thanh-pho-ha-long",
+      "wards": [
+        {
+          "code": "06652",
+          "name": "Hà Tu",
+          "fullName": "Phường Hà Tu, Tỉnh Quảng Ninh",
+          "slug": "ha-tu",
+          "postalCode": "06652"
+        },
+        {
+          "code": "06658",
+          "name": "Cao Xanh",
+          "fullName": "Phường Cao Xanh, Tỉnh Quảng Ninh",
+          "slug": "cao-xanh",
+          "postalCode": "06658"
+        },
+        {
+          "code": "06661",
+          "name": "Việt Hưng",
+          "fullName": "Phường Việt Hưng, Tỉnh Quảng Ninh",
+          "slug": "viet-hung",
+          "postalCode": "06661"
+        },
+        {
+          "code": "06673",
+          "name": "Bãi Cháy",
+          "fullName": "Phường Bãi Cháy, Tỉnh Quảng Ninh",
+          "slug": "bai-chay",
+          "postalCode": "06673"
+        },
+        {
+          "code": "06676",
+          "name": "Hà Lầm",
+          "fullName": "Phường Hà Lầm, Tỉnh Quảng Ninh",
+          "slug": "ha-lam",
+          "postalCode": "06676"
+        },
+        {
+          "code": "06685",
+          "name": "Hồng Gai",
+          "fullName": "Phường Hồng Gai, Tỉnh Quảng Ninh",
+          "slug": "hong-gai",
+          "postalCode": "06685"
+        },
+        {
+          "code": "06688",
+          "name": "Hạ Long",
+          "fullName": "Phường Hạ Long, Tỉnh Quảng Ninh",
+          "slug": "ha-long",
+          "postalCode": "06688"
+        },
+        {
+          "code": "06706",
+          "name": "Tuần Châu",
+          "fullName": "Phường Tuần Châu, Tỉnh Quảng Ninh",
+          "slug": "tuan-chau",
+          "postalCode": "06706"
+        },
+        {
+          "code": "06979",
+          "name": "Kỳ Thượng",
+          "fullName": "Xã Kỳ Thượng, Tỉnh Quảng Ninh",
+          "slug": "ky-thuong",
+          "postalCode": "06979"
+        },
+        {
+          "code": "06985",
+          "name": "Lương Minh",
+          "fullName": "Xã Lương Minh, Tỉnh Quảng Ninh",
+          "slug": "luong-minh",
+          "postalCode": "06985"
+        },
+        {
+          "code": "07030",
+          "name": "Hoành Bồ",
+          "fullName": "Phường Hoành Bồ, Tỉnh Quảng Ninh",
+          "slug": "hoanh-bo",
+          "postalCode": "07030"
+        },
+        {
+          "code": "07054",
+          "name": "Quảng La",
+          "fullName": "Xã Quảng La, Tỉnh Quảng Ninh",
+          "slug": "quang-la",
+          "postalCode": "07054"
+        },
+        {
+          "code": "07060",
+          "name": "Thống Nhất",
+          "fullName": "Xã Thống Nhất, Tỉnh Quảng Ninh",
+          "slug": "thong-nhat",
+          "postalCode": "07060"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Móng Cái",
+      "slug": "thanh-pho-mong-cai",
+      "wards": [
+        {
+          "code": "06709",
+          "name": "Móng Cái 2",
+          "fullName": "Phường Móng Cái 2, Tỉnh Quảng Ninh",
+          "slug": "mong-cai-2",
+          "postalCode": "06709"
+        },
+        {
+          "code": "06712",
+          "name": "Móng Cái 1",
+          "fullName": "Phường Móng Cái 1, Tỉnh Quảng Ninh",
+          "slug": "mong-cai-1",
+          "postalCode": "06712"
+        },
+        {
+          "code": "06724",
+          "name": "Hải Sơn",
+          "fullName": "Xã Hải Sơn, Tỉnh Quảng Ninh",
+          "slug": "hai-son",
+          "postalCode": "06724"
+        },
+        {
+          "code": "06733",
+          "name": "Hải Ninh",
+          "fullName": "Xã Hải Ninh, Tỉnh Quảng Ninh",
+          "slug": "hai-ninh",
+          "postalCode": "06733"
+        },
+        {
+          "code": "06736",
+          "name": "Móng Cái 3",
+          "fullName": "Phường Móng Cái 3, Tỉnh Quảng Ninh",
+          "slug": "mong-cai-3",
+          "postalCode": "06736"
+        },
+        {
+          "code": "06757",
+          "name": "Vĩnh Thực",
+          "fullName": "Xã Vĩnh Thực, Tỉnh Quảng Ninh",
+          "slug": "vinh-thuc",
+          "postalCode": "06757"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Cẩm Phả",
+      "slug": "thanh-pho-cam-pha",
+      "wards": [
+        {
+          "code": "06760",
+          "name": "Mông Dương",
+          "fullName": "Phường Mông Dương, Tỉnh Quảng Ninh",
+          "slug": "mong-duong",
+          "postalCode": "06760"
+        },
+        {
+          "code": "06778",
+          "name": "Quang Hanh",
+          "fullName": "Phường Quang Hanh, Tỉnh Quảng Ninh",
+          "slug": "quang-hanh",
+          "postalCode": "06778"
+        },
+        {
+          "code": "06781",
+          "name": "Cửa Ông",
+          "fullName": "Phường Cửa Ông, Tỉnh Quảng Ninh",
+          "slug": "cua-ong",
+          "postalCode": "06781"
+        },
+        {
+          "code": "06793",
+          "name": "Cẩm Phả",
+          "fullName": "Phường Cẩm Phả, Tỉnh Quảng Ninh",
+          "slug": "cam-pha",
+          "postalCode": "06793"
+        },
+        {
+          "code": "06799",
+          "name": "Hải Hòa",
+          "fullName": "Xã Hải Hòa, Tỉnh Quảng Ninh",
+          "slug": "hai-hoa",
+          "postalCode": "06799"
+        },
+        {
+          "code": "06886",
+          "name": "Hải Lạng",
+          "fullName": "Xã Hải Lạng, Tỉnh Quảng Ninh",
+          "slug": "hai-lang",
+          "postalCode": "06886"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Uông Bí",
+      "slug": "thanh-pho-uong-bi",
+      "wards": [
+        {
+          "code": "06811",
+          "name": "Uông Bí",
+          "fullName": "Phường Uông Bí, Tỉnh Quảng Ninh",
+          "slug": "uong-bi",
+          "postalCode": "06811"
+        },
+        {
+          "code": "06820",
+          "name": "Vàng Danh",
+          "fullName": "Phường Vàng Danh, Tỉnh Quảng Ninh",
+          "slug": "vang-danh",
+          "postalCode": "06820"
+        },
+        {
+          "code": "06832",
+          "name": "Yên Tử",
+          "fullName": "Phường Yên Tử, Tỉnh Quảng Ninh",
+          "slug": "yen-tu",
+          "postalCode": "06832"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Đông Triều",
+      "slug": "thanh-pho-dong-trieu",
+      "wards": [
+        {
+          "code": "07069",
+          "name": "Mạo Khê",
+          "fullName": "Phường Mạo Khê, Tỉnh Quảng Ninh",
+          "slug": "mao-khe",
+          "postalCode": "07069"
+        },
+        {
+          "code": "07081",
+          "name": "Bình Khê",
+          "fullName": "Phường Bình Khê, Tỉnh Quảng Ninh",
+          "slug": "binh-khe",
+          "postalCode": "07081"
+        },
+        {
+          "code": "07090",
+          "name": "An Sinh",
+          "fullName": "Phường An Sinh, Tỉnh Quảng Ninh",
+          "slug": "an-sinh",
+          "postalCode": "07090"
+        },
+        {
+          "code": "07093",
+          "name": "Đông Triều",
+          "fullName": "Phường Đông Triều, Tỉnh Quảng Ninh",
+          "slug": "dong-trieu",
+          "postalCode": "07093"
+        },
+        {
+          "code": "07114",
+          "name": "Hoàng Quế",
+          "fullName": "Phường Hoàng Quế, Tỉnh Quảng Ninh",
+          "slug": "hoang-que",
+          "postalCode": "07114"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Quảng Yên",
+      "slug": "thi-xa-quang-yen",
+      "wards": [
+        {
+          "code": "07132",
+          "name": "Quảng Yên",
+          "fullName": "Phường Quảng Yên, Tỉnh Quảng Ninh",
+          "slug": "quang-yen",
+          "postalCode": "07132"
+        },
+        {
+          "code": "07135",
+          "name": "Đông Mai",
+          "fullName": "Phường Đông Mai, Tỉnh Quảng Ninh",
+          "slug": "dong-mai",
+          "postalCode": "07135"
+        },
+        {
+          "code": "07147",
+          "name": "Hiệp Hòa",
+          "fullName": "Phường Hiệp Hòa, Tỉnh Quảng Ninh",
+          "slug": "hiep-hoa",
+          "postalCode": "07147"
+        },
+        {
+          "code": "07168",
+          "name": "Hà An",
+          "fullName": "Phường Hà An, Tỉnh Quảng Ninh",
+          "slug": "ha-an",
+          "postalCode": "07168"
+        },
+        {
+          "code": "07180",
+          "name": "Liên Hòa",
+          "fullName": "Phường Liên Hòa, Tỉnh Quảng Ninh",
+          "slug": "lien-hoa",
+          "postalCode": "07180"
+        },
+        {
+          "code": "07183",
+          "name": "Phong Cốc",
+          "fullName": "Phường Phong Cốc, Tỉnh Quảng Ninh",
+          "slug": "phong-coc",
+          "postalCode": "07183"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tiên Yên",
+      "slug": "huyen-tien-yen",
+      "wards": [
+        {
+          "code": "06799",
+          "name": "Hải Hòa",
+          "fullName": "Xã Hải Hòa, Tỉnh Quảng Ninh",
+          "slug": "hai-hoa",
+          "postalCode": "06799"
+        },
+        {
+          "code": "06862",
+          "name": "Tiên Yên",
+          "fullName": "Xã Tiên Yên, Tỉnh Quảng Ninh",
+          "slug": "tien-yen",
+          "postalCode": "06862"
+        },
+        {
+          "code": "06874",
+          "name": "Điền Xá",
+          "fullName": "Xã Điền Xá, Tỉnh Quảng Ninh",
+          "slug": "dien-xa",
+          "postalCode": "06874"
+        },
+        {
+          "code": "06877",
+          "name": "Đông Ngũ",
+          "fullName": "Xã Đông Ngũ, Tỉnh Quảng Ninh",
+          "slug": "dong-ngu",
+          "postalCode": "06877"
+        },
+        {
+          "code": "06886",
+          "name": "Hải Lạng",
+          "fullName": "Xã Hải Lạng, Tỉnh Quảng Ninh",
+          "slug": "hai-lang",
+          "postalCode": "06886"
+        },
+        {
+          "code": "06970",
+          "name": "Ba Chẽ",
+          "fullName": "Xã Ba Chẽ, Tỉnh Quảng Ninh",
+          "slug": "ba-che",
+          "postalCode": "06970"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bình Liêu",
+      "slug": "huyen-binh-lieu",
+      "wards": [
+        {
+          "code": "06838",
+          "name": "Bình Liêu",
+          "fullName": "Xã Bình Liêu, Tỉnh Quảng Ninh",
+          "slug": "binh-lieu",
+          "postalCode": "06838"
+        },
+        {
+          "code": "06841",
+          "name": "Hoành Mô",
+          "fullName": "Xã Hoành Mô, Tỉnh Quảng Ninh",
+          "slug": "hoanh-mo",
+          "postalCode": "06841"
+        },
+        {
+          "code": "06856",
+          "name": "Lục Hồn",
+          "fullName": "Xã Lục Hồn, Tỉnh Quảng Ninh",
+          "slug": "luc-hon",
+          "postalCode": "06856"
+        },
+        {
+          "code": "06862",
+          "name": "Tiên Yên",
+          "fullName": "Xã Tiên Yên, Tỉnh Quảng Ninh",
+          "slug": "tien-yen",
+          "postalCode": "06862"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đầm Hà",
+      "slug": "huyen-dam-ha",
+      "wards": [
+        {
+          "code": "06895",
+          "name": "Đầm Hà",
+          "fullName": "Xã Đầm Hà, Tỉnh Quảng Ninh",
+          "slug": "dam-ha",
+          "postalCode": "06895"
+        },
+        {
+          "code": "06913",
+          "name": "Quảng Tân",
+          "fullName": "Xã Quảng Tân, Tỉnh Quảng Ninh",
+          "slug": "quang-tan",
+          "postalCode": "06913"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hải Hà",
+      "slug": "huyen-hai-ha",
+      "wards": [
+        {
+          "code": "06922",
+          "name": "Quảng Hà",
+          "fullName": "Xã Quảng Hà, Tỉnh Quảng Ninh",
+          "slug": "quang-ha",
+          "postalCode": "06922"
+        },
+        {
+          "code": "06931",
+          "name": "Quảng Đức",
+          "fullName": "Xã Quảng Đức, Tỉnh Quảng Ninh",
+          "slug": "quang-duc",
+          "postalCode": "06931"
+        },
+        {
+          "code": "06946",
+          "name": "Đường Hoa",
+          "fullName": "Xã Đường Hoa, Tỉnh Quảng Ninh",
+          "slug": "duong-hoa",
+          "postalCode": "06946"
+        },
+        {
+          "code": "06967",
+          "name": "Cái Chiên",
+          "fullName": "Xã Cái Chiên, Tỉnh Quảng Ninh",
+          "slug": "cai-chien",
+          "postalCode": "06967"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ba Chẽ",
+      "slug": "huyen-ba-che",
+      "wards": [
+        {
+          "code": "06970",
+          "name": "Ba Chẽ",
+          "fullName": "Xã Ba Chẽ, Tỉnh Quảng Ninh",
+          "slug": "ba-che",
+          "postalCode": "06970"
+        },
+        {
+          "code": "06979",
+          "name": "Kỳ Thượng",
+          "fullName": "Xã Kỳ Thượng, Tỉnh Quảng Ninh",
+          "slug": "ky-thuong",
+          "postalCode": "06979"
+        },
+        {
+          "code": "06985",
+          "name": "Lương Minh",
+          "fullName": "Xã Lương Minh, Tỉnh Quảng Ninh",
+          "slug": "luong-minh",
+          "postalCode": "06985"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vân Đồn",
+      "slug": "huyen-van-don",
+      "wards": [
+        {
+          "code": "06994",
+          "name": "Đặc khu Vân Đồn",
+          "fullName": "Đặc khu Vân Đồn, Tỉnh Quảng Ninh",
+          "slug": "dac-khu-van-don",
+          "postalCode": "06994"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cô Tô",
+      "slug": "huyen-co-to",
+      "wards": [
+        {
+          "code": "07192",
+          "name": "Đặc khu Cô Tô",
+          "fullName": "Đặc khu Cô Tô, Tỉnh Quảng Ninh",
+          "slug": "dac-khu-co-to",
+          "postalCode": "07192"
+        }
+      ]
+    }
+  ]
+}

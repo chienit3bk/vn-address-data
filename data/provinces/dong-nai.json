@@ -1,0 +1,1667 @@
+{
+  "code": "22",
+  "name": "Đồng Nai",
+  "slug": "dong-nai",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Đồng Nai",
+  "wards": [
+    {
+      "code": "00008",
+      "name": "Trấn Biên",
+      "fullName": "Phường Trấn Biên, Tỉnh Đồng Nai",
+      "slug": "tran-bien",
+      "type": "ward",
+      "postalCode": "26041"
+    },
+    {
+      "code": "00019",
+      "name": "Long Bình",
+      "fullName": "Phường Long Bình, Tỉnh Đồng Nai",
+      "slug": "long-binh",
+      "type": "ward",
+      "postalCode": "26020"
+    },
+    {
+      "code": "00041",
+      "name": "Tam Hiệp",
+      "fullName": "Phường Tam Hiệp, Tỉnh Đồng Nai",
+      "slug": "tam-hiep",
+      "type": "ward",
+      "postalCode": "26017"
+    },
+    {
+      "code": "00093",
+      "name": "Bình Phước",
+      "fullName": "Phường Bình Phước, Tỉnh Đồng Nai",
+      "slug": "binh-phuoc",
+      "type": "ward",
+      "postalCode": "25195"
+    },
+    {
+      "code": "00105",
+      "name": "Trảng Dài",
+      "fullName": "Phường Trảng Dài, Tỉnh Đồng Nai",
+      "slug": "trang-dai",
+      "type": "ward",
+      "postalCode": "25993"
+    },
+    {
+      "code": "00108",
+      "name": "Xuân Lộc",
+      "fullName": "Xã Xuân Lộc, Tỉnh Đồng Nai",
+      "slug": "xuan-loc",
+      "type": "commune",
+      "postalCode": "26425"
+    },
+    {
+      "code": "00117",
+      "name": "Tân Triều",
+      "fullName": "Phường Tân Triều, Tỉnh Đồng Nai",
+      "slug": "tan-trieu",
+      "type": "ward",
+      "postalCode": "26188"
+    },
+    {
+      "code": "00140",
+      "name": "Long Thành",
+      "fullName": "Xã Long Thành, Tỉnh Đồng Nai",
+      "slug": "long-thanh",
+      "type": "commune",
+      "postalCode": "26368"
+    },
+    {
+      "code": "00141",
+      "name": "Trảng Bom",
+      "fullName": "Xã Trảng Bom, Tỉnh Đồng Nai",
+      "slug": "trang-bom",
+      "type": "commune",
+      "postalCode": "26248"
+    },
+    {
+      "code": "00168",
+      "name": "Định Quán",
+      "fullName": "Xã Định Quán, Tỉnh Đồng Nai",
+      "slug": "dinh-quan",
+      "type": "commune",
+      "postalCode": "26206"
+    },
+    {
+      "code": "00182",
+      "name": "Bình Minh",
+      "fullName": "Xã Bình Minh, Tỉnh Đồng Nai",
+      "slug": "binh-minh",
+      "type": "commune",
+      "postalCode": "26278"
+    },
+    {
+      "code": "00197",
+      "name": "Gia Kiệm",
+      "fullName": "Xã Gia Kiệm, Tỉnh Đồng Nai",
+      "slug": "gia-kiem",
+      "type": "commune",
+      "postalCode": "26311"
+    },
+    {
+      "code": "00198",
+      "name": "Hố Nai",
+      "fullName": "Phường Hố Nai, Tỉnh Đồng Nai",
+      "slug": "ho-nai",
+      "type": "ward",
+      "postalCode": "26005"
+    },
+    {
+      "code": "00203",
+      "name": "Nhơn Trạch",
+      "fullName": "Xã Nhơn Trạch, Tỉnh Đồng Nai",
+      "slug": "nhon-trach",
+      "type": "commune",
+      "postalCode": "26485"
+    },
+    {
+      "code": "00204",
+      "name": "Xuân Hòa",
+      "fullName": "Xã Xuân Hòa, Tỉnh Đồng Nai",
+      "slug": "xuan-hoa",
+      "type": "commune",
+      "postalCode": "26446"
+    },
+    {
+      "code": "00213",
+      "name": "Long Khánh",
+      "fullName": "Phường Long Khánh, Tỉnh Đồng Nai",
+      "slug": "long-khanh",
+      "type": "ward",
+      "postalCode": "26080"
+    },
+    {
+      "code": "00218",
+      "name": "Tân Phú",
+      "fullName": "Xã Tân Phú, Tỉnh Đồng Nai",
+      "slug": "tan-phu",
+      "type": "commune",
+      "postalCode": "26116"
+    },
+    {
+      "code": "00229",
+      "name": "Biên Hòa",
+      "fullName": "Phường Biên Hòa, Tỉnh Đồng Nai",
+      "slug": "bien-hoa",
+      "type": "ward",
+      "postalCode": "26068"
+    },
+    {
+      "code": "00235",
+      "name": "Long Hưng",
+      "fullName": "Phường Long Hưng, Tỉnh Đồng Nai",
+      "slug": "long-hung",
+      "type": "ward",
+      "postalCode": "26380"
+    },
+    {
+      "code": "00256",
+      "name": "Dầu Giây",
+      "fullName": "Xã Dầu Giây, Tỉnh Đồng Nai",
+      "slug": "dau-giay",
+      "type": "commune",
+      "postalCode": "26326"
+    },
+    {
+      "code": "00260",
+      "name": "Thống Nhất",
+      "fullName": "Xã Thống Nhất, Tỉnh Đồng Nai",
+      "slug": "thong-nhat",
+      "type": "commune",
+      "postalCode": "26299"
+    },
+    {
+      "code": "00334",
+      "name": "Phước Tân",
+      "fullName": "Phường Phước Tân, Tỉnh Đồng Nai",
+      "slug": "phuoc-tan",
+      "type": "ward",
+      "postalCode": "26377"
+    },
+    {
+      "code": "00361",
+      "name": "Phú Lâm",
+      "fullName": "Xã Phú Lâm, Tỉnh Đồng Nai",
+      "slug": "phu-lam",
+      "type": "commune",
+      "postalCode": "26158"
+    },
+    {
+      "code": "00399",
+      "name": "An Phước",
+      "fullName": "Xã An Phước, Tỉnh Đồng Nai",
+      "slug": "an-phuoc",
+      "type": "commune",
+      "postalCode": "26383"
+    },
+    {
+      "code": "00427",
+      "name": "Hưng Thịnh",
+      "fullName": "Xã Hưng Thịnh, Tỉnh Đồng Nai",
+      "slug": "hung-thinh",
+      "type": "commune",
+      "postalCode": "26281"
+    },
+    {
+      "code": "00451",
+      "name": "Phước Thái",
+      "fullName": "Xã Phước Thái, Tỉnh Đồng Nai",
+      "slug": "phuoc-thai",
+      "type": "commune",
+      "postalCode": "26422"
+    },
+    {
+      "code": "00455",
+      "name": "Bàu Hàm",
+      "fullName": "Xã Bàu Hàm, Tỉnh Đồng Nai",
+      "slug": "bau-ham",
+      "type": "commune",
+      "postalCode": "26254"
+    },
+    {
+      "code": "00459",
+      "name": "Đại Phước",
+      "fullName": "Xã Đại Phước, Tỉnh Đồng Nai",
+      "slug": "dai-phuoc",
+      "type": "commune",
+      "postalCode": "26491"
+    },
+    {
+      "code": "00547",
+      "name": "Phước An",
+      "fullName": "Xã Phước An, Tỉnh Đồng Nai",
+      "slug": "phuoc-an",
+      "type": "commune",
+      "postalCode": "26503"
+    },
+    {
+      "code": "00549",
+      "name": "Trị An",
+      "fullName": "Xã Trị An, Tỉnh Đồng Nai",
+      "slug": "tri-an",
+      "type": "commune",
+      "postalCode": "26170"
+    },
+    {
+      "code": "00626",
+      "name": "Tam Phước",
+      "fullName": "Phường Tam Phước, Tỉnh Đồng Nai",
+      "slug": "tam-phuoc",
+      "type": "ward",
+      "postalCode": "26374"
+    },
+    {
+      "code": "00640",
+      "name": "Xuân Đông",
+      "fullName": "Xã Xuân Đông, Tỉnh Đồng Nai",
+      "slug": "xuan-dong",
+      "type": "commune",
+      "postalCode": "26359"
+    },
+    {
+      "code": "00698",
+      "name": "Cẩm Mỹ",
+      "fullName": "Xã Cẩm Mỹ, Tỉnh Đồng Nai",
+      "slug": "cam-my",
+      "type": "commune",
+      "postalCode": "26341"
+    },
+    {
+      "code": "00700",
+      "name": "Đồng Phú",
+      "fullName": "Xã Đồng Phú, Tỉnh Đồng Nai",
+      "slug": "dong-phu",
+      "type": "commune",
+      "postalCode": "25363"
+    },
+    {
+      "code": "00720",
+      "name": "Xuân Bắc",
+      "fullName": "Xã Xuân Bắc, Tỉnh Đồng Nai",
+      "slug": "xuan-bac",
+      "type": "commune",
+      "postalCode": "26428"
+    },
+    {
+      "code": "00726",
+      "name": "Phước Bình",
+      "fullName": "Phường Phước Bình, Tỉnh Đồng Nai",
+      "slug": "phuoc-binh",
+      "type": "ward",
+      "postalCode": "25220"
+    },
+    {
+      "code": "00806",
+      "name": "Long Phước",
+      "fullName": "Xã Long Phước, Tỉnh Đồng Nai",
+      "slug": "long-phuoc",
+      "type": "commune",
+      "postalCode": "26413"
+    },
+    {
+      "code": "00836",
+      "name": "Chơn Thành",
+      "fullName": "Phường Chơn Thành, Tỉnh Đồng Nai",
+      "slug": "chon-thanh",
+      "type": "ward",
+      "postalCode": "25432"
+    },
+    {
+      "code": "00854",
+      "name": "Bình Long",
+      "fullName": "Phường Bình Long, Tỉnh Đồng Nai",
+      "slug": "binh-long",
+      "type": "ward",
+      "postalCode": "25326"
+    },
+    {
+      "code": "00942",
+      "name": "Tân An",
+      "fullName": "Xã Tân An, Tỉnh Đồng Nai",
+      "slug": "tan-an",
+      "type": "commune",
+      "postalCode": "26179"
+    },
+    {
+      "code": "00980",
+      "name": "Tân Tiến",
+      "fullName": "Xã Tân Tiến, Tỉnh Đồng Nai",
+      "slug": "tan-tien",
+      "type": "commune",
+      "postalCode": "25318"
+    },
+    {
+      "code": "01063",
+      "name": "Bảo Vinh",
+      "fullName": "Phường Bảo Vinh, Tỉnh Đồng Nai",
+      "slug": "bao-vinh",
+      "type": "ward",
+      "postalCode": "26098"
+    },
+    {
+      "code": "01071",
+      "name": "Xuân Định",
+      "fullName": "Xã Xuân Định, Tỉnh Đồng Nai",
+      "slug": "xuan-dinh",
+      "type": "commune",
+      "postalCode": "26461"
+    },
+    {
+      "code": "01078",
+      "name": "Phú Hòa",
+      "fullName": "Xã Phú Hòa, Tỉnh Đồng Nai",
+      "slug": "phu-hoa",
+      "type": "commune",
+      "postalCode": "26221"
+    },
+    {
+      "code": "01101",
+      "name": "Phú Riềng",
+      "fullName": "Xã Phú Riềng, Tỉnh Đồng Nai",
+      "slug": "phu-rieng",
+      "type": "commune",
+      "postalCode": "25252"
+    },
+    {
+      "code": "01107",
+      "name": "Bình Lộc",
+      "fullName": "Phường Bình Lộc, Tỉnh Đồng Nai",
+      "slug": "binh-loc",
+      "type": "ward",
+      "postalCode": "26089"
+    },
+    {
+      "code": "01112",
+      "name": "Tân Khai",
+      "fullName": "Xã Tân Khai, Tỉnh Đồng Nai",
+      "slug": "tan-khai",
+      "type": "commune",
+      "postalCode": "25357"
+    },
+    {
+      "code": "01130",
+      "name": "Đồng Xoài",
+      "fullName": "Phường Đồng Xoài, Tỉnh Đồng Nai",
+      "slug": "dong-xoai",
+      "type": "ward",
+      "postalCode": "25210"
+    },
+    {
+      "code": "01148",
+      "name": "Đồng Tâm",
+      "fullName": "Xã Đồng Tâm, Tỉnh Đồng Nai",
+      "slug": "dong-tam",
+      "type": "commune",
+      "postalCode": "25390"
+    },
+    {
+      "code": "01153",
+      "name": "An Lộc",
+      "fullName": "Phường An Lộc, Tỉnh Đồng Nai",
+      "slug": "an-loc",
+      "type": "ward",
+      "postalCode": "25333"
+    },
+    {
+      "code": "01154",
+      "name": "Tân Hưng",
+      "fullName": "Xã Tân Hưng, Tỉnh Đồng Nai",
+      "slug": "tan-hung",
+      "type": "commune",
+      "postalCode": "25345"
+    },
+    {
+      "code": "01182",
+      "name": "Thiện Hưng",
+      "fullName": "Xã Thiện Hưng, Tỉnh Đồng Nai",
+      "slug": "thien-hung",
+      "type": "commune",
+      "postalCode": "25308"
+    },
+    {
+      "code": "01224",
+      "name": "Tà Lài",
+      "fullName": "Xã Tà Lài, Tỉnh Đồng Nai",
+      "slug": "ta-lai",
+      "type": "commune",
+      "postalCode": "26134"
+    },
+    {
+      "code": "01228",
+      "name": "Minh Hưng",
+      "fullName": "Phường Minh Hưng, Tỉnh Đồng Nai",
+      "slug": "minh-hung",
+      "type": "ward",
+      "postalCode": "25441"
+    },
+    {
+      "code": "01240",
+      "name": "Phú Nghĩa",
+      "fullName": "Xã Phú Nghĩa, Tỉnh Đồng Nai",
+      "slug": "phu-nghia",
+      "type": "commune",
+      "postalCode": "25267"
+    },
+    {
+      "code": "01273",
+      "name": "Thanh Sơn",
+      "fullName": "Xã Thanh Sơn, Tỉnh Đồng Nai",
+      "slug": "thanh-son",
+      "type": "commune",
+      "postalCode": "26209"
+    },
+    {
+      "code": "01278",
+      "name": "La Ngà",
+      "fullName": "Xã La Ngà, Tỉnh Đồng Nai",
+      "slug": "la-nga",
+      "type": "commune",
+      "postalCode": "26227"
+    },
+    {
+      "code": "01290",
+      "name": "Phước Long",
+      "fullName": "Phường Phước Long, Tỉnh Đồng Nai",
+      "slug": "phuoc-long",
+      "type": "ward",
+      "postalCode": "25217"
+    },
+    {
+      "code": "01312",
+      "name": "Nghĩa Trung",
+      "fullName": "Xã Nghĩa Trung, Tỉnh Đồng Nai",
+      "slug": "nghia-trung",
+      "type": "commune",
+      "postalCode": "25417"
+    },
+    {
+      "code": "01356",
+      "name": "Lộc Ninh",
+      "fullName": "Xã Lộc Ninh, Tỉnh Đồng Nai",
+      "slug": "loc-ninh",
+      "type": "commune",
+      "postalCode": "25270"
+    },
+    {
+      "code": "01363",
+      "name": "Bù Đăng",
+      "fullName": "Xã Bù Đăng, Tỉnh Đồng Nai",
+      "slug": "bu-dang",
+      "type": "commune",
+      "postalCode": "25396"
+    },
+    {
+      "code": "01385",
+      "name": "Đa Kia",
+      "fullName": "Xã Đa Kia, Tỉnh Đồng Nai",
+      "slug": "da-kia",
+      "type": "commune",
+      "postalCode": "25231"
+    },
+    {
+      "code": "01417",
+      "name": "Sông Ray",
+      "fullName": "Xã Sông Ray, Tỉnh Đồng Nai",
+      "slug": "song-ray",
+      "type": "commune",
+      "postalCode": "26362"
+    },
+    {
+      "code": "01418",
+      "name": "Phú Vinh",
+      "fullName": "Xã Phú Vinh, Tỉnh Đồng Nai",
+      "slug": "phu-vinh",
+      "type": "commune",
+      "postalCode": "26215"
+    },
+    {
+      "code": "01446",
+      "name": "Phước Sơn",
+      "fullName": "Xã Phước Sơn, Tỉnh Đồng Nai",
+      "slug": "phuoc-son",
+      "type": "commune",
+      "postalCode": "25420"
+    },
+    {
+      "code": "01489",
+      "name": "Tân Quan",
+      "fullName": "Xã Tân Quan, Tỉnh Đồng Nai",
+      "slug": "tan-quan",
+      "type": "commune",
+      "postalCode": "25351"
+    },
+    {
+      "code": "01549",
+      "name": "Xuân Phú",
+      "fullName": "Xã Xuân Phú, Tỉnh Đồng Nai",
+      "slug": "xuan-phu",
+      "type": "commune",
+      "postalCode": "26458"
+    },
+    {
+      "code": "01617",
+      "name": "Bình Tân",
+      "fullName": "Xã Bình Tân, Tỉnh Đồng Nai",
+      "slug": "binh-tan",
+      "type": "commune",
+      "postalCode": "25246"
+    },
+    {
+      "code": "01696",
+      "name": "Long Hà",
+      "fullName": "Xã Long Hà, Tỉnh Đồng Nai",
+      "slug": "long-ha",
+      "type": "commune",
+      "postalCode": "25255"
+    },
+    {
+      "code": "01740",
+      "name": "Bom Bo",
+      "fullName": "Xã Bom Bo, Tỉnh Đồng Nai",
+      "slug": "bom-bo",
+      "type": "commune",
+      "postalCode": "25405"
+    },
+    {
+      "code": "01779",
+      "name": "Lộc Hưng",
+      "fullName": "Xã Lộc Hưng, Tỉnh Đồng Nai",
+      "slug": "loc-hung",
+      "type": "commune",
+      "postalCode": "25303"
+    },
+    {
+      "code": "01784",
+      "name": "Xuân Đường",
+      "fullName": "Xã Xuân Đường, Tỉnh Đồng Nai",
+      "slug": "xuan-duong",
+      "type": "commune",
+      "postalCode": "26347"
+    },
+    {
+      "code": "01801",
+      "name": "Lộc Quang",
+      "fullName": "Xã Lộc Quang, Tỉnh Đồng Nai",
+      "slug": "loc-quang",
+      "type": "commune",
+      "postalCode": "25292"
+    },
+    {
+      "code": "01857",
+      "name": "Bình An",
+      "fullName": "Xã Bình An, Tỉnh Đồng Nai",
+      "slug": "binh-an",
+      "type": "commune",
+      "postalCode": "26389"
+    },
+    {
+      "code": "01903",
+      "name": "Hàng Gòn",
+      "fullName": "Phường Hàng Gòn, Tỉnh Đồng Nai",
+      "slug": "hang-gon",
+      "type": "ward",
+      "postalCode": "26113"
+    },
+    {
+      "code": "01971",
+      "name": "An Viễn",
+      "fullName": "Xã An Viễn, Tỉnh Đồng Nai",
+      "slug": "an-vien",
+      "type": "commune",
+      "postalCode": "26296"
+    },
+    {
+      "code": "02006",
+      "name": "Lộc Tấn",
+      "fullName": "Xã Lộc Tấn, Tỉnh Đồng Nai",
+      "slug": "loc-tan",
+      "type": "commune",
+      "postalCode": "25279"
+    },
+    {
+      "code": "02007",
+      "name": "Đak Nhau",
+      "fullName": "Xã Đak Nhau, Tỉnh Đồng Nai",
+      "slug": "dak-nhau",
+      "type": "commune",
+      "postalCode": "25399"
+    },
+    {
+      "code": "02008",
+      "name": "Thuận Lợi",
+      "fullName": "Xã Thuận Lợi, Tỉnh Đồng Nai",
+      "slug": "thuan-loi",
+      "type": "commune",
+      "postalCode": "25387"
+    },
+    {
+      "code": "02083",
+      "name": "Tân Lợi",
+      "fullName": "Xã Tân Lợi, Tỉnh Đồng Nai",
+      "slug": "tan-loi",
+      "type": "commune",
+      "postalCode": "25378"
+    },
+    {
+      "code": "02121",
+      "name": "Nha Bích",
+      "fullName": "Xã Nha Bích, Tỉnh Đồng Nai",
+      "slug": "nha-bich",
+      "type": "commune",
+      "postalCode": "25450"
+    },
+    {
+      "code": "02135",
+      "name": "Xuân Thành",
+      "fullName": "Xã Xuân Thành, Tỉnh Đồng Nai",
+      "slug": "xuan-thanh",
+      "type": "commune",
+      "postalCode": "26434"
+    },
+    {
+      "code": "02171",
+      "name": "Thọ Sơn",
+      "fullName": "Xã Thọ Sơn, Tỉnh Đồng Nai",
+      "slug": "tho-son",
+      "type": "commune",
+      "postalCode": "25402"
+    },
+    {
+      "code": "02190",
+      "name": "Xuân Quế",
+      "fullName": "Xã Xuân Quế, Tỉnh Đồng Nai",
+      "slug": "xuan-que",
+      "type": "commune",
+      "postalCode": "26332"
+    },
+    {
+      "code": "02303",
+      "name": "Đăk Ơ",
+      "fullName": "Xã Đăk Ơ, Tỉnh Đồng Nai",
+      "slug": "dak-o",
+      "type": "commune",
+      "postalCode": "25225"
+    },
+    {
+      "code": "02334",
+      "name": "Xuân Lập",
+      "fullName": "Phường Xuân Lập, Tỉnh Đồng Nai",
+      "slug": "xuan-lap",
+      "type": "ward",
+      "postalCode": "26104"
+    },
+    {
+      "code": "02464",
+      "name": "Minh Đức",
+      "fullName": "Xã Minh Đức, Tỉnh Đồng Nai",
+      "slug": "minh-duc",
+      "type": "commune",
+      "postalCode": "25349"
+    },
+    {
+      "code": "02535",
+      "name": "Phú Lý",
+      "fullName": "Xã Phú Lý, Tỉnh Đồng Nai",
+      "slug": "phu-ly",
+      "type": "commune",
+      "postalCode": "26173"
+    },
+    {
+      "code": "02538",
+      "name": "Nam Cát Tiên",
+      "fullName": "Xã Nam Cát Tiên, Tỉnh Đồng Nai",
+      "slug": "nam-cat-tien",
+      "type": "commune",
+      "postalCode": "26122"
+    },
+    {
+      "code": "02571",
+      "name": "Lộc Thành",
+      "fullName": "Xã Lộc Thành, Tỉnh Đồng Nai",
+      "slug": "loc-thanh",
+      "type": "commune",
+      "postalCode": "25280"
+    },
+    {
+      "code": "02681",
+      "name": "Phú Trung",
+      "fullName": "Xã Phú Trung, Tỉnh Đồng Nai",
+      "slug": "phu-trung",
+      "type": "commune",
+      "postalCode": "25261"
+    },
+    {
+      "code": "02748",
+      "name": "Hưng Phước",
+      "fullName": "Xã Hưng Phước, Tỉnh Đồng Nai",
+      "slug": "hung-phuoc",
+      "type": "commune",
+      "postalCode": "25309"
+    },
+    {
+      "code": "02894",
+      "name": "Lộc Thạnh",
+      "fullName": "Xã Lộc Thạnh, Tỉnh Đồng Nai",
+      "slug": "loc-thanh",
+      "type": "commune",
+      "postalCode": "25280"
+    },
+    {
+      "code": "03046",
+      "name": "Bù Gia Mập",
+      "fullName": "Xã Bù Gia Mập, Tỉnh Đồng Nai",
+      "slug": "bu-gia-map",
+      "type": "commune",
+      "postalCode": "25222"
+    },
+    {
+      "code": "03049",
+      "name": "Đak Lua",
+      "fullName": "Xã Đak Lua, Tỉnh Đồng Nai",
+      "slug": "dak-lua",
+      "type": "commune",
+      "postalCode": "26119"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Đồng Xoài",
+      "slug": "thanh-pho-dong-xoai",
+      "wards": [
+        {
+          "code": "25195",
+          "name": "Bình Phước",
+          "fullName": "Phường Bình Phước, Tỉnh Đồng Nai",
+          "slug": "binh-phuoc",
+          "postalCode": "25195"
+        },
+        {
+          "code": "25210",
+          "name": "Đồng Xoài",
+          "fullName": "Phường Đồng Xoài, Tỉnh Đồng Nai",
+          "slug": "dong-xoai",
+          "postalCode": "25210"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Phước Long",
+      "slug": "thi-xa-phuoc-long",
+      "wards": [
+        {
+          "code": "25217",
+          "name": "Phước Long",
+          "fullName": "Phường Phước Long, Tỉnh Đồng Nai",
+          "slug": "phuoc-long",
+          "postalCode": "25217"
+        },
+        {
+          "code": "25220",
+          "name": "Phước Bình",
+          "fullName": "Phường Phước Bình, Tỉnh Đồng Nai",
+          "slug": "phuoc-binh",
+          "postalCode": "25220"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Riềng",
+      "slug": "huyen-phu-rieng",
+      "wards": [
+        {
+          "code": "25220",
+          "name": "Phước Bình",
+          "fullName": "Phường Phước Bình, Tỉnh Đồng Nai",
+          "slug": "phuoc-binh",
+          "postalCode": "25220"
+        },
+        {
+          "code": "25246",
+          "name": "Bình Tân",
+          "fullName": "Xã Bình Tân, Tỉnh Đồng Nai",
+          "slug": "binh-tan",
+          "postalCode": "25246"
+        },
+        {
+          "code": "25252",
+          "name": "Phú Riềng",
+          "fullName": "Xã Phú Riềng, Tỉnh Đồng Nai",
+          "slug": "phu-rieng",
+          "postalCode": "25252"
+        },
+        {
+          "code": "25255",
+          "name": "Long Hà",
+          "fullName": "Xã Long Hà, Tỉnh Đồng Nai",
+          "slug": "long-ha",
+          "postalCode": "25255"
+        },
+        {
+          "code": "25261",
+          "name": "Phú Trung",
+          "fullName": "Xã Phú Trung, Tỉnh Đồng Nai",
+          "slug": "phu-trung",
+          "postalCode": "25261"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Bình Long",
+      "slug": "thi-xa-binh-long",
+      "wards": [
+        {
+          "code": "25326",
+          "name": "Bình Long",
+          "fullName": "Phường Bình Long, Tỉnh Đồng Nai",
+          "slug": "binh-long",
+          "postalCode": "25326"
+        },
+        {
+          "code": "25333",
+          "name": "An Lộc",
+          "fullName": "Phường An Lộc, Tỉnh Đồng Nai",
+          "slug": "an-loc",
+          "postalCode": "25333"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hớn Quản",
+      "slug": "huyen-hon-quan",
+      "wards": [
+        {
+          "code": "25326",
+          "name": "Bình Long",
+          "fullName": "Phường Bình Long, Tỉnh Đồng Nai",
+          "slug": "binh-long",
+          "postalCode": "25326"
+        },
+        {
+          "code": "25345",
+          "name": "Tân Hưng",
+          "fullName": "Xã Tân Hưng, Tỉnh Đồng Nai",
+          "slug": "tan-hung",
+          "postalCode": "25345"
+        },
+        {
+          "code": "25349",
+          "name": "Minh Đức",
+          "fullName": "Xã Minh Đức, Tỉnh Đồng Nai",
+          "slug": "minh-duc",
+          "postalCode": "25349"
+        },
+        {
+          "code": "25351",
+          "name": "Tân Quan",
+          "fullName": "Xã Tân Quan, Tỉnh Đồng Nai",
+          "slug": "tan-quan",
+          "postalCode": "25351"
+        },
+        {
+          "code": "25357",
+          "name": "Tân Khai",
+          "fullName": "Xã Tân Khai, Tỉnh Đồng Nai",
+          "slug": "tan-khai",
+          "postalCode": "25357"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Chơn Thành",
+      "slug": "thi-xa-chon-thanh",
+      "wards": [
+        {
+          "code": "25351",
+          "name": "Tân Quan",
+          "fullName": "Xã Tân Quan, Tỉnh Đồng Nai",
+          "slug": "tan-quan",
+          "postalCode": "25351"
+        },
+        {
+          "code": "25432",
+          "name": "Chơn Thành",
+          "fullName": "Phường Chơn Thành, Tỉnh Đồng Nai",
+          "slug": "chon-thanh",
+          "postalCode": "25432"
+        },
+        {
+          "code": "25441",
+          "name": "Minh Hưng",
+          "fullName": "Phường Minh Hưng, Tỉnh Đồng Nai",
+          "slug": "minh-hung",
+          "postalCode": "25441"
+        },
+        {
+          "code": "25450",
+          "name": "Nha Bích",
+          "fullName": "Xã Nha Bích, Tỉnh Đồng Nai",
+          "slug": "nha-bich",
+          "postalCode": "25450"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Biên Hòa",
+      "slug": "thanh-pho-bien-hoa",
+      "wards": [
+        {
+          "code": "25993",
+          "name": "Trảng Dài",
+          "fullName": "Phường Trảng Dài, Tỉnh Đồng Nai",
+          "slug": "trang-dai",
+          "postalCode": "25993"
+        },
+        {
+          "code": "26005",
+          "name": "Hố Nai",
+          "fullName": "Phường Hố Nai, Tỉnh Đồng Nai",
+          "slug": "ho-nai",
+          "postalCode": "26005"
+        },
+        {
+          "code": "26017",
+          "name": "Tam Hiệp",
+          "fullName": "Phường Tam Hiệp, Tỉnh Đồng Nai",
+          "slug": "tam-hiep",
+          "postalCode": "26017"
+        },
+        {
+          "code": "26020",
+          "name": "Long Bình",
+          "fullName": "Phường Long Bình, Tỉnh Đồng Nai",
+          "slug": "long-binh",
+          "postalCode": "26020"
+        },
+        {
+          "code": "26041",
+          "name": "Trấn Biên",
+          "fullName": "Phường Trấn Biên, Tỉnh Đồng Nai",
+          "slug": "tran-bien",
+          "postalCode": "26041"
+        },
+        {
+          "code": "26068",
+          "name": "Biên Hòa",
+          "fullName": "Phường Biên Hòa, Tỉnh Đồng Nai",
+          "slug": "bien-hoa",
+          "postalCode": "26068"
+        },
+        {
+          "code": "26188",
+          "name": "Tân Triều",
+          "fullName": "Phường Tân Triều, Tỉnh Đồng Nai",
+          "slug": "tan-trieu",
+          "postalCode": "26188"
+        },
+        {
+          "code": "26374",
+          "name": "Tam Phước",
+          "fullName": "Phường Tam Phước, Tỉnh Đồng Nai",
+          "slug": "tam-phuoc",
+          "postalCode": "26374"
+        },
+        {
+          "code": "26377",
+          "name": "Phước Tân",
+          "fullName": "Phường Phước Tân, Tỉnh Đồng Nai",
+          "slug": "phuoc-tan",
+          "postalCode": "26377"
+        },
+        {
+          "code": "26380",
+          "name": "Long Hưng",
+          "fullName": "Phường Long Hưng, Tỉnh Đồng Nai",
+          "slug": "long-hung",
+          "postalCode": "26380"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Cửu",
+      "slug": "huyen-vinh-cuu",
+      "wards": [
+        {
+          "code": "25993",
+          "name": "Trảng Dài",
+          "fullName": "Phường Trảng Dài, Tỉnh Đồng Nai",
+          "slug": "trang-dai",
+          "postalCode": "25993"
+        },
+        {
+          "code": "26170",
+          "name": "Trị An",
+          "fullName": "Xã Trị An, Tỉnh Đồng Nai",
+          "slug": "tri-an",
+          "postalCode": "26170"
+        },
+        {
+          "code": "26173",
+          "name": "Phú Lý",
+          "fullName": "Xã Phú Lý, Tỉnh Đồng Nai",
+          "slug": "phu-ly",
+          "postalCode": "26173"
+        },
+        {
+          "code": "26179",
+          "name": "Tân An",
+          "fullName": "Xã Tân An, Tỉnh Đồng Nai",
+          "slug": "tan-an",
+          "postalCode": "26179"
+        },
+        {
+          "code": "26188",
+          "name": "Tân Triều",
+          "fullName": "Phường Tân Triều, Tỉnh Đồng Nai",
+          "slug": "tan-trieu",
+          "postalCode": "26188"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Trảng Bom",
+      "slug": "huyen-trang-bom",
+      "wards": [
+        {
+          "code": "26005",
+          "name": "Hố Nai",
+          "fullName": "Phường Hố Nai, Tỉnh Đồng Nai",
+          "slug": "ho-nai",
+          "postalCode": "26005"
+        },
+        {
+          "code": "26248",
+          "name": "Trảng Bom",
+          "fullName": "Xã Trảng Bom, Tỉnh Đồng Nai",
+          "slug": "trang-bom",
+          "postalCode": "26248"
+        },
+        {
+          "code": "26254",
+          "name": "Bàu Hàm",
+          "fullName": "Xã Bàu Hàm, Tỉnh Đồng Nai",
+          "slug": "bau-ham",
+          "postalCode": "26254"
+        },
+        {
+          "code": "26278",
+          "name": "Bình Minh",
+          "fullName": "Xã Bình Minh, Tỉnh Đồng Nai",
+          "slug": "binh-minh",
+          "postalCode": "26278"
+        },
+        {
+          "code": "26281",
+          "name": "Hưng Thịnh",
+          "fullName": "Xã Hưng Thịnh, Tỉnh Đồng Nai",
+          "slug": "hung-thinh",
+          "postalCode": "26281"
+        },
+        {
+          "code": "26296",
+          "name": "An Viễn",
+          "fullName": "Xã An Viễn, Tỉnh Đồng Nai",
+          "slug": "an-vien",
+          "postalCode": "26296"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Long Khánh",
+      "slug": "thanh-pho-long-khanh",
+      "wards": [
+        {
+          "code": "26080",
+          "name": "Long Khánh",
+          "fullName": "Phường Long Khánh, Tỉnh Đồng Nai",
+          "slug": "long-khanh",
+          "postalCode": "26080"
+        },
+        {
+          "code": "26089",
+          "name": "Bình Lộc",
+          "fullName": "Phường Bình Lộc, Tỉnh Đồng Nai",
+          "slug": "binh-loc",
+          "postalCode": "26089"
+        },
+        {
+          "code": "26098",
+          "name": "Bảo Vinh",
+          "fullName": "Phường Bảo Vinh, Tỉnh Đồng Nai",
+          "slug": "bao-vinh",
+          "postalCode": "26098"
+        },
+        {
+          "code": "26104",
+          "name": "Xuân Lập",
+          "fullName": "Phường Xuân Lập, Tỉnh Đồng Nai",
+          "slug": "xuan-lap",
+          "postalCode": "26104"
+        },
+        {
+          "code": "26113",
+          "name": "Hàng Gòn",
+          "fullName": "Phường Hàng Gòn, Tỉnh Đồng Nai",
+          "slug": "hang-gon",
+          "postalCode": "26113"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thống Nhất",
+      "slug": "huyen-thong-nhat",
+      "wards": [
+        {
+          "code": "26089",
+          "name": "Bình Lộc",
+          "fullName": "Phường Bình Lộc, Tỉnh Đồng Nai",
+          "slug": "binh-loc",
+          "postalCode": "26089"
+        },
+        {
+          "code": "26299",
+          "name": "Thống Nhất",
+          "fullName": "Xã Thống Nhất, Tỉnh Đồng Nai",
+          "slug": "thong-nhat",
+          "postalCode": "26299"
+        },
+        {
+          "code": "26311",
+          "name": "Gia Kiệm",
+          "fullName": "Xã Gia Kiệm, Tỉnh Đồng Nai",
+          "slug": "gia-kiem",
+          "postalCode": "26311"
+        },
+        {
+          "code": "26326",
+          "name": "Dầu Giây",
+          "fullName": "Xã Dầu Giây, Tỉnh Đồng Nai",
+          "slug": "dau-giay",
+          "postalCode": "26326"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bù Gia Mập",
+      "slug": "huyen-bu-gia-map",
+      "wards": [
+        {
+          "code": "25222",
+          "name": "Bù Gia Mập",
+          "fullName": "Xã Bù Gia Mập, Tỉnh Đồng Nai",
+          "slug": "bu-gia-map",
+          "postalCode": "25222"
+        },
+        {
+          "code": "25225",
+          "name": "Đăk Ơ",
+          "fullName": "Xã Đăk Ơ, Tỉnh Đồng Nai",
+          "slug": "dak-o",
+          "postalCode": "25225"
+        },
+        {
+          "code": "25231",
+          "name": "Đa Kia",
+          "fullName": "Xã Đa Kia, Tỉnh Đồng Nai",
+          "slug": "da-kia",
+          "postalCode": "25231"
+        },
+        {
+          "code": "25267",
+          "name": "Phú Nghĩa",
+          "fullName": "Xã Phú Nghĩa, Tỉnh Đồng Nai",
+          "slug": "phu-nghia",
+          "postalCode": "25267"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lộc Ninh",
+      "slug": "huyen-loc-ninh",
+      "wards": [
+        {
+          "code": "25270",
+          "name": "Lộc Ninh",
+          "fullName": "Xã Lộc Ninh, Tỉnh Đồng Nai",
+          "slug": "loc-ninh",
+          "postalCode": "25270"
+        },
+        {
+          "code": "25279",
+          "name": "Lộc Tấn",
+          "fullName": "Xã Lộc Tấn, Tỉnh Đồng Nai",
+          "slug": "loc-tan",
+          "postalCode": "25279"
+        },
+        {
+          "code": "25280",
+          "name": "Lộc Thạnh",
+          "fullName": "Xã Lộc Thạnh, Tỉnh Đồng Nai",
+          "slug": "loc-thanh",
+          "postalCode": "25280"
+        },
+        {
+          "code": "25292",
+          "name": "Lộc Quang",
+          "fullName": "Xã Lộc Quang, Tỉnh Đồng Nai",
+          "slug": "loc-quang",
+          "postalCode": "25292"
+        },
+        {
+          "code": "25294",
+          "name": "Lộc Thành",
+          "fullName": "Xã Lộc Thành, Tỉnh Đồng Nai",
+          "slug": "loc-thanh",
+          "postalCode": "25294"
+        },
+        {
+          "code": "25303",
+          "name": "Lộc Hưng",
+          "fullName": "Xã Lộc Hưng, Tỉnh Đồng Nai",
+          "slug": "loc-hung",
+          "postalCode": "25303"
+        },
+        {
+          "code": "25318",
+          "name": "Tân Tiến",
+          "fullName": "Xã Tân Tiến, Tỉnh Đồng Nai",
+          "slug": "tan-tien",
+          "postalCode": "25318"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bù Đốp",
+      "slug": "huyen-bu-dop",
+      "wards": [
+        {
+          "code": "25308",
+          "name": "Thiện Hưng",
+          "fullName": "Xã Thiện Hưng, Tỉnh Đồng Nai",
+          "slug": "thien-hung",
+          "postalCode": "25308"
+        },
+        {
+          "code": "25309",
+          "name": "Hưng Phước",
+          "fullName": "Xã Hưng Phước, Tỉnh Đồng Nai",
+          "slug": "hung-phuoc",
+          "postalCode": "25309"
+        },
+        {
+          "code": "25318",
+          "name": "Tân Tiến",
+          "fullName": "Xã Tân Tiến, Tỉnh Đồng Nai",
+          "slug": "tan-tien",
+          "postalCode": "25318"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đồng Phú",
+      "slug": "huyen-dong-phu",
+      "wards": [
+        {
+          "code": "25363",
+          "name": "Đồng Phú",
+          "fullName": "Xã Đồng Phú, Tỉnh Đồng Nai",
+          "slug": "dong-phu",
+          "postalCode": "25363"
+        },
+        {
+          "code": "25378",
+          "name": "Tân Lợi",
+          "fullName": "Xã Tân Lợi, Tỉnh Đồng Nai",
+          "slug": "tan-loi",
+          "postalCode": "25378"
+        },
+        {
+          "code": "25387",
+          "name": "Thuận Lợi",
+          "fullName": "Xã Thuận Lợi, Tỉnh Đồng Nai",
+          "slug": "thuan-loi",
+          "postalCode": "25387"
+        },
+        {
+          "code": "25390",
+          "name": "Đồng Tâm",
+          "fullName": "Xã Đồng Tâm, Tỉnh Đồng Nai",
+          "slug": "dong-tam",
+          "postalCode": "25390"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bù Đăng",
+      "slug": "huyen-bu-dang",
+      "wards": [
+        {
+          "code": "25396",
+          "name": "Bù Đăng",
+          "fullName": "Xã Bù Đăng, Tỉnh Đồng Nai",
+          "slug": "bu-dang",
+          "postalCode": "25396"
+        },
+        {
+          "code": "25399",
+          "name": "Đak Nhau",
+          "fullName": "Xã Đak Nhau, Tỉnh Đồng Nai",
+          "slug": "dak-nhau",
+          "postalCode": "25399"
+        },
+        {
+          "code": "25402",
+          "name": "Thọ Sơn",
+          "fullName": "Xã Thọ Sơn, Tỉnh Đồng Nai",
+          "slug": "tho-son",
+          "postalCode": "25402"
+        },
+        {
+          "code": "25405",
+          "name": "Bom Bo",
+          "fullName": "Xã Bom Bo, Tỉnh Đồng Nai",
+          "slug": "bom-bo",
+          "postalCode": "25405"
+        },
+        {
+          "code": "25417",
+          "name": "Nghĩa Trung",
+          "fullName": "Xã Nghĩa Trung, Tỉnh Đồng Nai",
+          "slug": "nghia-trung",
+          "postalCode": "25417"
+        },
+        {
+          "code": "25420",
+          "name": "Phước Sơn",
+          "fullName": "Xã Phước Sơn, Tỉnh Đồng Nai",
+          "slug": "phuoc-son",
+          "postalCode": "25420"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Phú",
+      "slug": "huyen-tan-phu",
+      "wards": [
+        {
+          "code": "26116",
+          "name": "Tân Phú",
+          "fullName": "Xã Tân Phú, Tỉnh Đồng Nai",
+          "slug": "tan-phu",
+          "postalCode": "26116"
+        },
+        {
+          "code": "26119",
+          "name": "Đak Lua",
+          "fullName": "Xã Đak Lua, Tỉnh Đồng Nai",
+          "slug": "dak-lua",
+          "postalCode": "26119"
+        },
+        {
+          "code": "26122",
+          "name": "Nam Cát Tiên",
+          "fullName": "Xã Nam Cát Tiên, Tỉnh Đồng Nai",
+          "slug": "nam-cat-tien",
+          "postalCode": "26122"
+        },
+        {
+          "code": "26134",
+          "name": "Tà Lài",
+          "fullName": "Xã Tà Lài, Tỉnh Đồng Nai",
+          "slug": "ta-lai",
+          "postalCode": "26134"
+        },
+        {
+          "code": "26158",
+          "name": "Phú Lâm",
+          "fullName": "Xã Phú Lâm, Tỉnh Đồng Nai",
+          "slug": "phu-lam",
+          "postalCode": "26158"
+        },
+        {
+          "code": "26221",
+          "name": "Phú Hòa",
+          "fullName": "Xã Phú Hòa, Tỉnh Đồng Nai",
+          "slug": "phu-hoa",
+          "postalCode": "26221"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Định Quán",
+      "slug": "huyen-dinh-quan",
+      "wards": [
+        {
+          "code": "26206",
+          "name": "Định Quán",
+          "fullName": "Xã Định Quán, Tỉnh Đồng Nai",
+          "slug": "dinh-quan",
+          "postalCode": "26206"
+        },
+        {
+          "code": "26209",
+          "name": "Thanh Sơn",
+          "fullName": "Xã Thanh Sơn, Tỉnh Đồng Nai",
+          "slug": "thanh-son",
+          "postalCode": "26209"
+        },
+        {
+          "code": "26215",
+          "name": "Phú Vinh",
+          "fullName": "Xã Phú Vinh, Tỉnh Đồng Nai",
+          "slug": "phu-vinh",
+          "postalCode": "26215"
+        },
+        {
+          "code": "26221",
+          "name": "Phú Hòa",
+          "fullName": "Xã Phú Hòa, Tỉnh Đồng Nai",
+          "slug": "phu-hoa",
+          "postalCode": "26221"
+        },
+        {
+          "code": "26227",
+          "name": "La Ngà",
+          "fullName": "Xã La Ngà, Tỉnh Đồng Nai",
+          "slug": "la-nga",
+          "postalCode": "26227"
+        },
+        {
+          "code": "26299",
+          "name": "Thống Nhất",
+          "fullName": "Xã Thống Nhất, Tỉnh Đồng Nai",
+          "slug": "thong-nhat",
+          "postalCode": "26299"
+        },
+        {
+          "code": "26428",
+          "name": "Xuân Bắc",
+          "fullName": "Xã Xuân Bắc, Tỉnh Đồng Nai",
+          "slug": "xuan-bac",
+          "postalCode": "26428"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cẩm Mỹ",
+      "slug": "huyen-cam-my",
+      "wards": [
+        {
+          "code": "26332",
+          "name": "Xuân Quế",
+          "fullName": "Xã Xuân Quế, Tỉnh Đồng Nai",
+          "slug": "xuan-que",
+          "postalCode": "26332"
+        },
+        {
+          "code": "26341",
+          "name": "Cẩm Mỹ",
+          "fullName": "Xã Cẩm Mỹ, Tỉnh Đồng Nai",
+          "slug": "cam-my",
+          "postalCode": "26341"
+        },
+        {
+          "code": "26347",
+          "name": "Xuân Đường",
+          "fullName": "Xã Xuân Đường, Tỉnh Đồng Nai",
+          "slug": "xuan-duong",
+          "postalCode": "26347"
+        },
+        {
+          "code": "26359",
+          "name": "Xuân Đông",
+          "fullName": "Xã Xuân Đông, Tỉnh Đồng Nai",
+          "slug": "xuan-dong",
+          "postalCode": "26359"
+        },
+        {
+          "code": "26362",
+          "name": "Sông Ray",
+          "fullName": "Xã Sông Ray, Tỉnh Đồng Nai",
+          "slug": "song-ray",
+          "postalCode": "26362"
+        },
+        {
+          "code": "26461",
+          "name": "Xuân Định",
+          "fullName": "Xã Xuân Định, Tỉnh Đồng Nai",
+          "slug": "xuan-dinh",
+          "postalCode": "26461"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Long Thành",
+      "slug": "huyen-long-thanh",
+      "wards": [
+        {
+          "code": "26347",
+          "name": "Xuân Đường",
+          "fullName": "Xã Xuân Đường, Tỉnh Đồng Nai",
+          "slug": "xuan-duong",
+          "postalCode": "26347"
+        },
+        {
+          "code": "26368",
+          "name": "Long Thành",
+          "fullName": "Xã Long Thành, Tỉnh Đồng Nai",
+          "slug": "long-thanh",
+          "postalCode": "26368"
+        },
+        {
+          "code": "26383",
+          "name": "An Phước",
+          "fullName": "Xã An Phước, Tỉnh Đồng Nai",
+          "slug": "an-phuoc",
+          "postalCode": "26383"
+        },
+        {
+          "code": "26389",
+          "name": "Bình An",
+          "fullName": "Xã Bình An, Tỉnh Đồng Nai",
+          "slug": "binh-an",
+          "postalCode": "26389"
+        },
+        {
+          "code": "26413",
+          "name": "Long Phước",
+          "fullName": "Xã Long Phước, Tỉnh Đồng Nai",
+          "slug": "long-phuoc",
+          "postalCode": "26413"
+        },
+        {
+          "code": "26422",
+          "name": "Phước Thái",
+          "fullName": "Xã Phước Thái, Tỉnh Đồng Nai",
+          "slug": "phuoc-thai",
+          "postalCode": "26422"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Xuân Lộc",
+      "slug": "huyen-xuan-loc",
+      "wards": [
+        {
+          "code": "26359",
+          "name": "Xuân Đông",
+          "fullName": "Xã Xuân Đông, Tỉnh Đồng Nai",
+          "slug": "xuan-dong",
+          "postalCode": "26359"
+        },
+        {
+          "code": "26425",
+          "name": "Xuân Lộc",
+          "fullName": "Xã Xuân Lộc, Tỉnh Đồng Nai",
+          "slug": "xuan-loc",
+          "postalCode": "26425"
+        },
+        {
+          "code": "26428",
+          "name": "Xuân Bắc",
+          "fullName": "Xã Xuân Bắc, Tỉnh Đồng Nai",
+          "slug": "xuan-bac",
+          "postalCode": "26428"
+        },
+        {
+          "code": "26434",
+          "name": "Xuân Thành",
+          "fullName": "Xã Xuân Thành, Tỉnh Đồng Nai",
+          "slug": "xuan-thanh",
+          "postalCode": "26434"
+        },
+        {
+          "code": "26446",
+          "name": "Xuân Hòa",
+          "fullName": "Xã Xuân Hòa, Tỉnh Đồng Nai",
+          "slug": "xuan-hoa",
+          "postalCode": "26446"
+        },
+        {
+          "code": "26458",
+          "name": "Xuân Phú",
+          "fullName": "Xã Xuân Phú, Tỉnh Đồng Nai",
+          "slug": "xuan-phu",
+          "postalCode": "26458"
+        },
+        {
+          "code": "26461",
+          "name": "Xuân Định",
+          "fullName": "Xã Xuân Định, Tỉnh Đồng Nai",
+          "slug": "xuan-dinh",
+          "postalCode": "26461"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nhơn Trạch",
+      "slug": "huyen-nhon-trach",
+      "wards": [
+        {
+          "code": "26485",
+          "name": "Nhơn Trạch",
+          "fullName": "Xã Nhơn Trạch, Tỉnh Đồng Nai",
+          "slug": "nhon-trach",
+          "postalCode": "26485"
+        },
+        {
+          "code": "26491",
+          "name": "Đại Phước",
+          "fullName": "Xã Đại Phước, Tỉnh Đồng Nai",
+          "slug": "dai-phuoc",
+          "postalCode": "26491"
+        },
+        {
+          "code": "26503",
+          "name": "Phước An",
+          "fullName": "Xã Phước An, Tỉnh Đồng Nai",
+          "slug": "phuoc-an",
+          "postalCode": "26503"
+        }
+      ]
+    }
+  ]
+}

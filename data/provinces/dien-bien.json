@@ -1,0 +1,803 @@
+{
+  "code": "21",
+  "name": "Điện Biên",
+  "slug": "dien-bien",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Điện Biên",
+  "wards": [
+    {
+      "code": "00601",
+      "name": "Điện Biên Phủ",
+      "fullName": "Phường Điện Biên Phủ, Tỉnh Điện Biên",
+      "slug": "dien-bien-phu",
+      "type": "ward",
+      "postalCode": "03127"
+    },
+    {
+      "code": "01564",
+      "name": "Thanh Nưa",
+      "fullName": "Xã Thanh Nưa, Tỉnh Điện Biên",
+      "slug": "thanh-nua",
+      "type": "commune",
+      "postalCode": "03328"
+    },
+    {
+      "code": "01856",
+      "name": "Mường Thanh",
+      "fullName": "Phường Mường Thanh, Tỉnh Điện Biên",
+      "slug": "muong-thanh",
+      "type": "ward",
+      "postalCode": "03334"
+    },
+    {
+      "code": "01960",
+      "name": "Tuần Giáo",
+      "fullName": "Xã Tuần Giáo, Tỉnh Điện Biên",
+      "slug": "tuan-giao",
+      "type": "commune",
+      "postalCode": "03253"
+    },
+    {
+      "code": "01962",
+      "name": "Mường Nhé",
+      "fullName": "Xã Mường Nhé, Tỉnh Điện Biên",
+      "slug": "muong-nhe",
+      "type": "commune",
+      "postalCode": "03160"
+    },
+    {
+      "code": "02224",
+      "name": "Thanh An",
+      "fullName": "Xã Thanh An, Tỉnh Điện Biên",
+      "slug": "thanh-an",
+      "type": "commune",
+      "postalCode": "03352"
+    },
+    {
+      "code": "02280",
+      "name": "Búng Lao",
+      "fullName": "Xã Búng Lao, Tỉnh Điện Biên",
+      "slug": "bung-lao",
+      "type": "commune",
+      "postalCode": "03301"
+    },
+    {
+      "code": "02285",
+      "name": "Na Sang",
+      "fullName": "Xã Na Sang, Tỉnh Điện Biên",
+      "slug": "na-sang",
+      "type": "commune",
+      "postalCode": "03172"
+    },
+    {
+      "code": "02312",
+      "name": "Sáng Nhè",
+      "fullName": "Xã Sáng Nhè, Tỉnh Điện Biên",
+      "slug": "sang-nhe",
+      "type": "commune",
+      "postalCode": "03244"
+    },
+    {
+      "code": "02377",
+      "name": "Mường Lay",
+      "fullName": "Phường Mường Lay, Tỉnh Điện Biên",
+      "slug": "muong-lay",
+      "type": "ward",
+      "postalCode": "03151"
+    },
+    {
+      "code": "02407",
+      "name": "Tủa Chùa",
+      "fullName": "Xã Tủa Chùa, Tỉnh Điện Biên",
+      "slug": "tua-chua",
+      "type": "commune",
+      "postalCode": "03217"
+    },
+    {
+      "code": "02419",
+      "name": "Mường Ảng",
+      "fullName": "Xã Mường Ảng, Tỉnh Điện Biên",
+      "slug": "muong-ang",
+      "type": "commune",
+      "postalCode": "03256"
+    },
+    {
+      "code": "02478",
+      "name": "Nà Hỳ",
+      "fullName": "Xã Nà Hỳ, Tỉnh Điện Biên",
+      "slug": "na-hy",
+      "type": "commune",
+      "postalCode": "03169"
+    },
+    {
+      "code": "02528",
+      "name": "Mường Phăng",
+      "fullName": "Xã Mường Phăng, Tỉnh Điện Biên",
+      "slug": "muong-phang",
+      "type": "commune",
+      "postalCode": "03325"
+    },
+    {
+      "code": "02534",
+      "name": "Mường Luân",
+      "fullName": "Xã Mường Luân, Tỉnh Điện Biên",
+      "slug": "muong-luan",
+      "type": "commune",
+      "postalCode": "03214"
+    },
+    {
+      "code": "02547",
+      "name": "Sính Phình",
+      "fullName": "Xã Sính Phình, Tỉnh Điện Biên",
+      "slug": "sinh-phinh",
+      "type": "commune",
+      "postalCode": "03241"
+    },
+    {
+      "code": "02553",
+      "name": "Xa Dung",
+      "fullName": "Xã Xa Dung, Tỉnh Điện Biên",
+      "slug": "xa-dung",
+      "type": "commune",
+      "postalCode": "03208"
+    },
+    {
+      "code": "02555",
+      "name": "Thanh Yên",
+      "fullName": "Xã Thanh Yên, Tỉnh Điện Biên",
+      "slug": "thanh-yen",
+      "type": "commune",
+      "postalCode": "03349"
+    },
+    {
+      "code": "02569",
+      "name": "Chiềng Sinh",
+      "fullName": "Xã Chiềng Sinh, Tỉnh Điện Biên",
+      "slug": "chieng-sinh",
+      "type": "commune",
+      "postalCode": "03283"
+    },
+    {
+      "code": "02572",
+      "name": "Na Son",
+      "fullName": "Xã Na Son, Tỉnh Điện Biên",
+      "slug": "na-son",
+      "type": "commune",
+      "postalCode": "03203"
+    },
+    {
+      "code": "02594",
+      "name": "Nà Tấu",
+      "fullName": "Xã Nà Tấu, Tỉnh Điện Biên",
+      "slug": "na-tau",
+      "type": "commune",
+      "postalCode": "03316"
+    },
+    {
+      "code": "02603",
+      "name": "Quài Tở",
+      "fullName": "Xã Quài Tở, Tỉnh Điện Biên",
+      "slug": "quai-to",
+      "type": "commune",
+      "postalCode": "03295"
+    },
+    {
+      "code": "02633",
+      "name": "Mường Mùn",
+      "fullName": "Xã Mường Mùn, Tỉnh Điện Biên",
+      "slug": "muong-mun",
+      "type": "commune",
+      "postalCode": "03268"
+    },
+    {
+      "code": "02667",
+      "name": "Mường Chà",
+      "fullName": "Xã Mường Chà, Tỉnh Điện Biên",
+      "slug": "muong-cha",
+      "type": "commune",
+      "postalCode": "03166"
+    },
+    {
+      "code": "02685",
+      "name": "Mường Lạn",
+      "fullName": "Xã Mường Lạn, Tỉnh Điện Biên",
+      "slug": "muong-lan",
+      "type": "commune",
+      "postalCode": "03313"
+    },
+    {
+      "code": "02713",
+      "name": "Sín Chải",
+      "fullName": "Xã Sín Chải, Tỉnh Điện Biên",
+      "slug": "sin-chai",
+      "type": "commune",
+      "postalCode": "03226"
+    },
+    {
+      "code": "02739",
+      "name": "Pú Nhung",
+      "fullName": "Xã Pú Nhung, Tỉnh Điện Biên",
+      "slug": "pu-nhung",
+      "type": "commune",
+      "postalCode": "03260"
+    },
+    {
+      "code": "02787",
+      "name": "Núa Ngam",
+      "fullName": "Xã Núa Ngam, Tỉnh Điện Biên",
+      "slug": "nua-ngam",
+      "type": "commune",
+      "postalCode": "03358"
+    },
+    {
+      "code": "02855",
+      "name": "Mường Toong",
+      "fullName": "Xã Mường Toong, Tỉnh Điện Biên",
+      "slug": "muong-toong",
+      "type": "commune",
+      "postalCode": "03163"
+    },
+    {
+      "code": "02864",
+      "name": "Si Pa Phìn",
+      "fullName": "Xã Si Pa Phìn, Tỉnh Điện Biên",
+      "slug": "si-pa-phin",
+      "type": "commune",
+      "postalCode": "03199"
+    },
+    {
+      "code": "02883",
+      "name": "Phình Giàng",
+      "fullName": "Xã Phình Giàng, Tỉnh Điện Biên",
+      "slug": "phinh-giang",
+      "type": "commune",
+      "postalCode": "03382"
+    },
+    {
+      "code": "02887",
+      "name": "Mường Pồn",
+      "fullName": "Xã Mường Pồn, Tỉnh Điện Biên",
+      "slug": "muong-pon",
+      "type": "commune",
+      "postalCode": "03202"
+    },
+    {
+      "code": "02909",
+      "name": "Nà Bủng",
+      "fullName": "Xã Nà Bủng, Tỉnh Điện Biên",
+      "slug": "na-bung",
+      "type": "commune",
+      "postalCode": "03176"
+    },
+    {
+      "code": "02916",
+      "name": "Quảng Lâm",
+      "fullName": "Xã Quảng Lâm, Tỉnh Điện Biên",
+      "slug": "quang-lam",
+      "type": "commune",
+      "postalCode": "03164"
+    },
+    {
+      "code": "02919",
+      "name": "Pu Nhi",
+      "fullName": "Xã Pu Nhi, Tỉnh Điện Biên",
+      "slug": "pu-nhi",
+      "type": "commune",
+      "postalCode": "03370"
+    },
+    {
+      "code": "02942",
+      "name": "Mường Nhà",
+      "fullName": "Xã Mường Nhà, Tỉnh Điện Biên",
+      "slug": "muong-nha",
+      "type": "commune",
+      "postalCode": "03368"
+    },
+    {
+      "code": "02960",
+      "name": "Mường Tùng",
+      "fullName": "Xã Mường Tùng, Tỉnh Điện Biên",
+      "slug": "muong-tung",
+      "type": "commune",
+      "postalCode": "03181"
+    },
+    {
+      "code": "02997",
+      "name": "Nậm Kè",
+      "fullName": "Xã Nậm Kè, Tỉnh Điện Biên",
+      "slug": "nam-ke",
+      "type": "commune",
+      "postalCode": "03162"
+    },
+    {
+      "code": "02999",
+      "name": "Tủa Thàng",
+      "fullName": "Xã Tủa Thàng, Tỉnh Điện Biên",
+      "slug": "tua-thang",
+      "type": "commune",
+      "postalCode": "03220"
+    },
+    {
+      "code": "03053",
+      "name": "Sam Mứn",
+      "fullName": "Xã Sam Mứn, Tỉnh Điện Biên",
+      "slug": "sam-mun",
+      "type": "commune",
+      "postalCode": "03356"
+    },
+    {
+      "code": "03055",
+      "name": "Pa Ham",
+      "fullName": "Xã Pa Ham, Tỉnh Điện Biên",
+      "slug": "pa-ham",
+      "type": "commune",
+      "postalCode": "03193"
+    },
+    {
+      "code": "03086",
+      "name": "Nậm Nèn",
+      "fullName": "Xã Nậm Nèn, Tỉnh Điện Biên",
+      "slug": "nam-nen",
+      "type": "commune",
+      "postalCode": "03194"
+    },
+    {
+      "code": "03105",
+      "name": "Tìa Dình",
+      "fullName": "Xã Tìa Dình, Tỉnh Điện Biên",
+      "slug": "tia-dinh",
+      "type": "commune",
+      "postalCode": "03385"
+    },
+    {
+      "code": "03191",
+      "name": "Sín Thầu",
+      "fullName": "Xã Sín Thầu, Tỉnh Điện Biên",
+      "slug": "sin-thau",
+      "type": "commune",
+      "postalCode": "03158"
+    },
+    {
+      "code": "03247",
+      "name": "Chà Tở",
+      "fullName": "Xã Chà Tở, Tỉnh Điện Biên",
+      "slug": "cha-to",
+      "type": "commune",
+      "postalCode": "03175"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Điện Biên Phủ",
+      "slug": "thanh-pho-dien-bien-phu",
+      "wards": [
+        {
+          "code": "03127",
+          "name": "Điện Biên Phủ",
+          "fullName": "Phường Điện Biên Phủ, Tỉnh Điện Biên",
+          "slug": "dien-bien-phu",
+          "postalCode": "03127"
+        },
+        {
+          "code": "03316",
+          "name": "Nà Tấu",
+          "fullName": "Xã Nà Tấu, Tỉnh Điện Biên",
+          "slug": "na-tau",
+          "postalCode": "03316"
+        },
+        {
+          "code": "03325",
+          "name": "Mường Phăng",
+          "fullName": "Xã Mường Phăng, Tỉnh Điện Biên",
+          "slug": "muong-phang",
+          "postalCode": "03325"
+        },
+        {
+          "code": "03334",
+          "name": "Mường Thanh",
+          "fullName": "Phường Mường Thanh, Tỉnh Điện Biên",
+          "slug": "muong-thanh",
+          "postalCode": "03334"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Mường Lay",
+      "slug": "thi-xa-muong-lay",
+      "wards": [
+        {
+          "code": "03151",
+          "name": "Mường Lay",
+          "fullName": "Phường Mường Lay, Tỉnh Điện Biên",
+          "slug": "muong-lay",
+          "postalCode": "03151"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mường Chà",
+      "slug": "huyen-muong-cha",
+      "wards": [
+        {
+          "code": "03151",
+          "name": "Mường Lay",
+          "fullName": "Phường Mường Lay, Tỉnh Điện Biên",
+          "slug": "muong-lay",
+          "postalCode": "03151"
+        },
+        {
+          "code": "03172",
+          "name": "Na Sang",
+          "fullName": "Xã Na Sang, Tỉnh Điện Biên",
+          "slug": "na-sang",
+          "postalCode": "03172"
+        },
+        {
+          "code": "03181",
+          "name": "Mường Tùng",
+          "fullName": "Xã Mường Tùng, Tỉnh Điện Biên",
+          "slug": "muong-tung",
+          "postalCode": "03181"
+        },
+        {
+          "code": "03193",
+          "name": "Pa Ham",
+          "fullName": "Xã Pa Ham, Tỉnh Điện Biên",
+          "slug": "pa-ham",
+          "postalCode": "03193"
+        },
+        {
+          "code": "03194",
+          "name": "Nậm Nèn",
+          "fullName": "Xã Nậm Nèn, Tỉnh Điện Biên",
+          "slug": "nam-nen",
+          "postalCode": "03194"
+        },
+        {
+          "code": "03202",
+          "name": "Mường Pồn",
+          "fullName": "Xã Mường Pồn, Tỉnh Điện Biên",
+          "slug": "muong-pon",
+          "postalCode": "03202"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Điện Biên",
+      "slug": "huyen-dien-bien",
+      "wards": [
+        {
+          "code": "03202",
+          "name": "Mường Pồn",
+          "fullName": "Xã Mường Pồn, Tỉnh Điện Biên",
+          "slug": "muong-pon",
+          "postalCode": "03202"
+        },
+        {
+          "code": "03328",
+          "name": "Thanh Nưa",
+          "fullName": "Xã Thanh Nưa, Tỉnh Điện Biên",
+          "slug": "thanh-nua",
+          "postalCode": "03328"
+        },
+        {
+          "code": "03334",
+          "name": "Mường Thanh",
+          "fullName": "Phường Mường Thanh, Tỉnh Điện Biên",
+          "slug": "muong-thanh",
+          "postalCode": "03334"
+        },
+        {
+          "code": "03349",
+          "name": "Thanh Yên",
+          "fullName": "Xã Thanh Yên, Tỉnh Điện Biên",
+          "slug": "thanh-yen",
+          "postalCode": "03349"
+        },
+        {
+          "code": "03352",
+          "name": "Thanh An",
+          "fullName": "Xã Thanh An, Tỉnh Điện Biên",
+          "slug": "thanh-an",
+          "postalCode": "03352"
+        },
+        {
+          "code": "03356",
+          "name": "Sam Mứn",
+          "fullName": "Xã Sam Mứn, Tỉnh Điện Biên",
+          "slug": "sam-mun",
+          "postalCode": "03356"
+        },
+        {
+          "code": "03358",
+          "name": "Núa Ngam",
+          "fullName": "Xã Núa Ngam, Tỉnh Điện Biên",
+          "slug": "nua-ngam",
+          "postalCode": "03358"
+        },
+        {
+          "code": "03368",
+          "name": "Mường Nhà",
+          "fullName": "Xã Mường Nhà, Tỉnh Điện Biên",
+          "slug": "muong-nha",
+          "postalCode": "03368"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mường Nhé",
+      "slug": "huyen-muong-nhe",
+      "wards": [
+        {
+          "code": "03158",
+          "name": "Sín Thầu",
+          "fullName": "Xã Sín Thầu, Tỉnh Điện Biên",
+          "slug": "sin-thau",
+          "postalCode": "03158"
+        },
+        {
+          "code": "03160",
+          "name": "Mường Nhé",
+          "fullName": "Xã Mường Nhé, Tỉnh Điện Biên",
+          "slug": "muong-nhe",
+          "postalCode": "03160"
+        },
+        {
+          "code": "03162",
+          "name": "Nậm Kè",
+          "fullName": "Xã Nậm Kè, Tỉnh Điện Biên",
+          "slug": "nam-ke",
+          "postalCode": "03162"
+        },
+        {
+          "code": "03163",
+          "name": "Mường Toong",
+          "fullName": "Xã Mường Toong, Tỉnh Điện Biên",
+          "slug": "muong-toong",
+          "postalCode": "03163"
+        },
+        {
+          "code": "03164",
+          "name": "Quảng Lâm",
+          "fullName": "Xã Quảng Lâm, Tỉnh Điện Biên",
+          "slug": "quang-lam",
+          "postalCode": "03164"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Nậm Pồ",
+      "slug": "huyen-nam-po",
+      "wards": [
+        {
+          "code": "03164",
+          "name": "Quảng Lâm",
+          "fullName": "Xã Quảng Lâm, Tỉnh Điện Biên",
+          "slug": "quang-lam",
+          "postalCode": "03164"
+        },
+        {
+          "code": "03166",
+          "name": "Mường Chà",
+          "fullName": "Xã Mường Chà, Tỉnh Điện Biên",
+          "slug": "muong-cha",
+          "postalCode": "03166"
+        },
+        {
+          "code": "03169",
+          "name": "Nà Hỳ",
+          "fullName": "Xã Nà Hỳ, Tỉnh Điện Biên",
+          "slug": "na-hy",
+          "postalCode": "03169"
+        },
+        {
+          "code": "03175",
+          "name": "Chà Tở",
+          "fullName": "Xã Chà Tở, Tỉnh Điện Biên",
+          "slug": "cha-to",
+          "postalCode": "03175"
+        },
+        {
+          "code": "03176",
+          "name": "Nà Bủng",
+          "fullName": "Xã Nà Bủng, Tỉnh Điện Biên",
+          "slug": "na-bung",
+          "postalCode": "03176"
+        },
+        {
+          "code": "03199",
+          "name": "Si Pa Phìn",
+          "fullName": "Xã Si Pa Phìn, Tỉnh Điện Biên",
+          "slug": "si-pa-phin",
+          "postalCode": "03199"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Điện Biên Đông",
+      "slug": "huyen-dien-bien-dong",
+      "wards": [
+        {
+          "code": "03203",
+          "name": "Na Son",
+          "fullName": "Xã Na Son, Tỉnh Điện Biên",
+          "slug": "na-son",
+          "postalCode": "03203"
+        },
+        {
+          "code": "03208",
+          "name": "Xa Dung",
+          "fullName": "Xã Xa Dung, Tỉnh Điện Biên",
+          "slug": "xa-dung",
+          "postalCode": "03208"
+        },
+        {
+          "code": "03214",
+          "name": "Mường Luân",
+          "fullName": "Xã Mường Luân, Tỉnh Điện Biên",
+          "slug": "muong-luan",
+          "postalCode": "03214"
+        },
+        {
+          "code": "03370",
+          "name": "Pu Nhi",
+          "fullName": "Xã Pu Nhi, Tỉnh Điện Biên",
+          "slug": "pu-nhi",
+          "postalCode": "03370"
+        },
+        {
+          "code": "03382",
+          "name": "Phình Giàng",
+          "fullName": "Xã Phình Giàng, Tỉnh Điện Biên",
+          "slug": "phinh-giang",
+          "postalCode": "03382"
+        },
+        {
+          "code": "03385",
+          "name": "Tìa Dình",
+          "fullName": "Xã Tìa Dình, Tỉnh Điện Biên",
+          "slug": "tia-dinh",
+          "postalCode": "03385"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tủa Chùa",
+      "slug": "huyen-tua-chua",
+      "wards": [
+        {
+          "code": "03217",
+          "name": "Tủa Chùa",
+          "fullName": "Xã Tủa Chùa, Tỉnh Điện Biên",
+          "slug": "tua-chua",
+          "postalCode": "03217"
+        },
+        {
+          "code": "03220",
+          "name": "Tủa Thàng",
+          "fullName": "Xã Tủa Thàng, Tỉnh Điện Biên",
+          "slug": "tua-thang",
+          "postalCode": "03220"
+        },
+        {
+          "code": "03226",
+          "name": "Sín Chải",
+          "fullName": "Xã Sín Chải, Tỉnh Điện Biên",
+          "slug": "sin-chai",
+          "postalCode": "03226"
+        },
+        {
+          "code": "03241",
+          "name": "Sính Phình",
+          "fullName": "Xã Sính Phình, Tỉnh Điện Biên",
+          "slug": "sinh-phinh",
+          "postalCode": "03241"
+        },
+        {
+          "code": "03244",
+          "name": "Sáng Nhè",
+          "fullName": "Xã Sáng Nhè, Tỉnh Điện Biên",
+          "slug": "sang-nhe",
+          "postalCode": "03244"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tuần Giáo",
+      "slug": "huyen-tuan-giao",
+      "wards": [
+        {
+          "code": "03217",
+          "name": "Tủa Chùa",
+          "fullName": "Xã Tủa Chùa, Tỉnh Điện Biên",
+          "slug": "tua-chua",
+          "postalCode": "03217"
+        },
+        {
+          "code": "03244",
+          "name": "Sáng Nhè",
+          "fullName": "Xã Sáng Nhè, Tỉnh Điện Biên",
+          "slug": "sang-nhe",
+          "postalCode": "03244"
+        },
+        {
+          "code": "03253",
+          "name": "Tuần Giáo",
+          "fullName": "Xã Tuần Giáo, Tỉnh Điện Biên",
+          "slug": "tuan-giao",
+          "postalCode": "03253"
+        },
+        {
+          "code": "03260",
+          "name": "Pú Nhung",
+          "fullName": "Xã Pú Nhung, Tỉnh Điện Biên",
+          "slug": "pu-nhung",
+          "postalCode": "03260"
+        },
+        {
+          "code": "03268",
+          "name": "Mường Mùn",
+          "fullName": "Xã Mường Mùn, Tỉnh Điện Biên",
+          "slug": "muong-mun",
+          "postalCode": "03268"
+        },
+        {
+          "code": "03283",
+          "name": "Chiềng Sinh",
+          "fullName": "Xã Chiềng Sinh, Tỉnh Điện Biên",
+          "slug": "chieng-sinh",
+          "postalCode": "03283"
+        },
+        {
+          "code": "03295",
+          "name": "Quài Tở",
+          "fullName": "Xã Quài Tở, Tỉnh Điện Biên",
+          "slug": "quai-to",
+          "postalCode": "03295"
+        },
+        {
+          "code": "03301",
+          "name": "Búng Lao",
+          "fullName": "Xã Búng Lao, Tỉnh Điện Biên",
+          "slug": "bung-lao",
+          "postalCode": "03301"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mường Ảng",
+      "slug": "huyen-muong-ang",
+      "wards": [
+        {
+          "code": "03256",
+          "name": "Mường Ảng",
+          "fullName": "Xã Mường Ảng, Tỉnh Điện Biên",
+          "slug": "muong-ang",
+          "postalCode": "03256"
+        },
+        {
+          "code": "03301",
+          "name": "Búng Lao",
+          "fullName": "Xã Búng Lao, Tỉnh Điện Biên",
+          "slug": "bung-lao",
+          "postalCode": "03301"
+        },
+        {
+          "code": "03313",
+          "name": "Mường Lạn",
+          "fullName": "Xã Mường Lạn, Tỉnh Điện Biên",
+          "slug": "muong-lan",
+          "postalCode": "03313"
+        },
+        {
+          "code": "03316",
+          "name": "Nà Tấu",
+          "fullName": "Xã Nà Tấu, Tỉnh Điện Biên",
+          "slug": "na-tau",
+          "postalCode": "03316"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1706 @@
+{
+  "code": "18",
+  "name": "An Giang",
+  "slug": "an-giang",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh An Giang",
+  "wards": [
+    {
+      "code": "00001",
+      "name": "Rạch Giá",
+      "fullName": "Phường Rạch Giá, Tỉnh An Giang",
+      "slug": "rach-gia",
+      "type": "ward",
+      "postalCode": "30742"
+    },
+    {
+      "code": "00028",
+      "name": "Phú Quốc",
+      "fullName": "Đặc khu Phú Quốc, Tỉnh An Giang",
+      "slug": "phu-quoc",
+      "type": "commune",
+      "postalCode": "31078"
+    },
+    {
+      "code": "00030",
+      "name": "Long Xuyên",
+      "fullName": "Phường Long Xuyên, Tỉnh An Giang",
+      "slug": "long-xuyen",
+      "type": "ward",
+      "postalCode": "30307"
+    },
+    {
+      "code": "00128",
+      "name": "Châu Đốc",
+      "fullName": "Phường Châu Đốc, Tỉnh An Giang",
+      "slug": "chau-doc",
+      "type": "ward",
+      "postalCode": "30316"
+    },
+    {
+      "code": "00153",
+      "name": "Nhơn Mỹ",
+      "fullName": "Xã Nhơn Mỹ, Tỉnh An Giang",
+      "slug": "nhon-my",
+      "type": "commune",
+      "postalCode": "30658"
+    },
+    {
+      "code": "00190",
+      "name": "Chợ Mới",
+      "fullName": "Xã Chợ Mới, Tỉnh An Giang",
+      "slug": "cho-moi",
+      "type": "commune",
+      "postalCode": "30628"
+    },
+    {
+      "code": "00236",
+      "name": "Hội An",
+      "fullName": "Xã Hội An, Tỉnh An Giang",
+      "slug": "hoi-an",
+      "type": "commune",
+      "postalCode": "30673"
+    },
+    {
+      "code": "00248",
+      "name": "Bình Đức",
+      "fullName": "Phường Bình Đức, Tỉnh An Giang",
+      "slug": "binh-duc",
+      "type": "ward",
+      "postalCode": "30292"
+    },
+    {
+      "code": "00270",
+      "name": "Phú Tân",
+      "fullName": "Xã Phú Tân, Tỉnh An Giang",
+      "slug": "phu-tan",
+      "type": "commune",
+      "postalCode": "30406"
+    },
+    {
+      "code": "00283",
+      "name": "Giồng Riềng",
+      "fullName": "Xã Giồng Riềng, Tỉnh An Giang",
+      "slug": "giong-rieng",
+      "type": "commune",
+      "postalCode": "30904"
+    },
+    {
+      "code": "00284",
+      "name": "Cù Lao Giêng",
+      "fullName": "Xã Cù Lao Giêng, Tỉnh An Giang",
+      "slug": "cu-lao-gieng",
+      "type": "commune",
+      "postalCode": "30643"
+    },
+    {
+      "code": "00286",
+      "name": "Châu Thành",
+      "fullName": "Xã Châu Thành, Tỉnh An Giang",
+      "slug": "chau-thanh",
+      "type": "commune",
+      "postalCode": "30880"
+    },
+    {
+      "code": "00298",
+      "name": "Bình Mỹ",
+      "fullName": "Xã Bình Mỹ, Tỉnh An Giang",
+      "slug": "binh-my",
+      "type": "commune",
+      "postalCode": "30487"
+    },
+    {
+      "code": "00316",
+      "name": "Tân Hiệp",
+      "fullName": "Xã Tân Hiệp, Tỉnh An Giang",
+      "slug": "tan-hiep",
+      "type": "commune",
+      "postalCode": "30850"
+    },
+    {
+      "code": "00321",
+      "name": "An Châu",
+      "fullName": "Xã An Châu, Tỉnh An Giang",
+      "slug": "an-chau",
+      "type": "commune",
+      "postalCode": "30376"
+    },
+    {
+      "code": "00322",
+      "name": "Long Điền",
+      "fullName": "Xã Long Điền, Tỉnh An Giang",
+      "slug": "long-dien",
+      "type": "commune",
+      "postalCode": "30631"
+    },
+    {
+      "code": "00326",
+      "name": "Thạnh Mỹ Tây",
+      "fullName": "Xã Thạnh Mỹ Tây, Tỉnh An Giang",
+      "slug": "thanh-my-tay",
+      "type": "commune",
+      "postalCode": "30481"
+    },
+    {
+      "code": "00331",
+      "name": "Vĩnh Thạnh Trung",
+      "fullName": "Xã Vĩnh Thạnh Trung, Tỉnh An Giang",
+      "slug": "vinh-thanh-trung",
+      "type": "commune",
+      "postalCode": "30478"
+    },
+    {
+      "code": "00368",
+      "name": "Hòn Đất",
+      "fullName": "Xã Hòn Đất, Tỉnh An Giang",
+      "slug": "hon-dat",
+      "type": "commune",
+      "postalCode": "30817"
+    },
+    {
+      "code": "00369",
+      "name": "Bình Sơn",
+      "fullName": "Xã Bình Sơn, Tỉnh An Giang",
+      "slug": "binh-son",
+      "type": "commune",
+      "postalCode": "30823"
+    },
+    {
+      "code": "00385",
+      "name": "Mỹ Thuận",
+      "fullName": "Xã Mỹ Thuận, Tỉnh An Giang",
+      "slug": "my-thuan",
+      "type": "commune",
+      "postalCode": "30838"
+    },
+    {
+      "code": "00389",
+      "name": "Mỹ Đức",
+      "fullName": "Xã Mỹ Đức, Tỉnh An Giang",
+      "slug": "my-duc",
+      "type": "commune",
+      "postalCode": "30469"
+    },
+    {
+      "code": "00390",
+      "name": "Mỹ Thới",
+      "fullName": "Phường Mỹ Thới, Tỉnh An Giang",
+      "slug": "my-thoi",
+      "type": "ward",
+      "postalCode": "30301"
+    },
+    {
+      "code": "00391",
+      "name": "Vĩnh Hậu",
+      "fullName": "Xã Vĩnh Hậu, Tỉnh An Giang",
+      "slug": "vinh-hau",
+      "type": "commune",
+      "postalCode": "30367"
+    },
+    {
+      "code": "00395",
+      "name": "Châu Phú",
+      "fullName": "Xã Châu Phú, Tỉnh An Giang",
+      "slug": "chau-phu",
+      "type": "commune",
+      "postalCode": "30463"
+    },
+    {
+      "code": "00402",
+      "name": "Thạnh Lộc",
+      "fullName": "Xã Thạnh Lộc, Tỉnh An Giang",
+      "slug": "thanh-loc",
+      "type": "commune",
+      "postalCode": "30886"
+    },
+    {
+      "code": "00403",
+      "name": "Bình An",
+      "fullName": "Xã Bình An, Tỉnh An Giang",
+      "slug": "binh-an",
+      "type": "commune",
+      "postalCode": "30898"
+    },
+    {
+      "code": "00421",
+      "name": "Kiên Lương",
+      "fullName": "Xã Kiên Lương, Tỉnh An Giang",
+      "slug": "kien-luong",
+      "type": "commune",
+      "postalCode": "30787"
+    },
+    {
+      "code": "00432",
+      "name": "Nhơn Hội",
+      "fullName": "Xã Nhơn Hội, Tỉnh An Giang",
+      "slug": "nhon-hoi",
+      "type": "commune",
+      "postalCode": "30346"
+    },
+    {
+      "code": "00433",
+      "name": "Long Kiến",
+      "fullName": "Xã Long Kiến, Tỉnh An Giang",
+      "slug": "long-kien",
+      "type": "commune",
+      "postalCode": "30664"
+    },
+    {
+      "code": "00442",
+      "name": "Định Hòa",
+      "fullName": "Xã Định Hòa, Tỉnh An Giang",
+      "slug": "dinh-hoa",
+      "type": "commune",
+      "postalCode": "30958"
+    },
+    {
+      "code": "00443",
+      "name": "Bình Hòa",
+      "fullName": "Xã Bình Hòa, Tỉnh An Giang",
+      "slug": "binh-hoa",
+      "type": "commune",
+      "postalCode": "30607"
+    },
+    {
+      "code": "00446",
+      "name": "Châu Phong",
+      "fullName": "Xã Châu Phong, Tỉnh An Giang",
+      "slug": "chau-phong",
+      "type": "commune",
+      "postalCode": "30403"
+    },
+    {
+      "code": "00463",
+      "name": "Vĩnh Thông",
+      "fullName": "Phường Vĩnh Thông, Tỉnh An Giang",
+      "slug": "vinh-thong",
+      "type": "ward",
+      "postalCode": "30760"
+    },
+    {
+      "code": "00477",
+      "name": "Đông Thái",
+      "fullName": "Xã Đông Thái, Tỉnh An Giang",
+      "slug": "dong-thai",
+      "type": "commune",
+      "postalCode": "31006"
+    },
+    {
+      "code": "00488",
+      "name": "An Biên",
+      "fullName": "Xã An Biên, Tỉnh An Giang",
+      "slug": "an-bien",
+      "type": "commune",
+      "postalCode": "30985"
+    },
+    {
+      "code": "00489",
+      "name": "Thạnh Đông",
+      "fullName": "Xã Thạnh Đông, Tỉnh An Giang",
+      "slug": "thanh-dong",
+      "type": "commune",
+      "postalCode": "30445"
+    },
+    {
+      "code": "00509",
+      "name": "Tây Yên",
+      "fullName": "Xã Tây Yên, Tỉnh An Giang",
+      "slug": "tay-yen",
+      "type": "commune",
+      "postalCode": "30988"
+    },
+    {
+      "code": "00511",
+      "name": "Thoại Sơn",
+      "fullName": "Xã Thoại Sơn, Tỉnh An Giang",
+      "slug": "thoai-son",
+      "type": "commune",
+      "postalCode": "30682"
+    },
+    {
+      "code": "00531",
+      "name": "Vĩnh Hòa",
+      "fullName": "Xã Vĩnh Hòa, Tỉnh An Giang",
+      "slug": "vinh-hoa",
+      "type": "commune",
+      "postalCode": "30970"
+    },
+    {
+      "code": "00559",
+      "name": "Tri Tôn",
+      "fullName": "Xã Tri Tôn, Tỉnh An Giang",
+      "slug": "tri-ton",
+      "type": "commune",
+      "postalCode": "30544"
+    },
+    {
+      "code": "00563",
+      "name": "Bình Thạnh Đông",
+      "fullName": "Xã Bình Thạnh Đông, Tỉnh An Giang",
+      "slug": "binh-thanh-dong",
+      "type": "commune",
+      "postalCode": "30445"
+    },
+    {
+      "code": "00570",
+      "name": "Chợ Vàm",
+      "fullName": "Xã Chợ Vàm, Tỉnh An Giang",
+      "slug": "cho-vam",
+      "type": "commune",
+      "postalCode": "30409"
+    },
+    {
+      "code": "00593",
+      "name": "Tân Hội",
+      "fullName": "Xã Tân Hội, Tỉnh An Giang",
+      "slug": "tan-hoi",
+      "type": "commune",
+      "postalCode": "30856"
+    },
+    {
+      "code": "00605",
+      "name": "An Phú",
+      "fullName": "Xã An Phú, Tỉnh An Giang",
+      "slug": "an-phu",
+      "type": "commune",
+      "postalCode": "30337"
+    },
+    {
+      "code": "00663",
+      "name": "Long Phú",
+      "fullName": "Phường Long Phú, Tỉnh An Giang",
+      "slug": "long-phu",
+      "type": "ward",
+      "postalCode": "30377"
+    },
+    {
+      "code": "00665",
+      "name": "Thạnh Hưng",
+      "fullName": "Xã Thạnh Hưng, Tỉnh An Giang",
+      "slug": "thanh-hung",
+      "type": "commune",
+      "postalCode": "30910"
+    },
+    {
+      "code": "00682",
+      "name": "U Minh Thượng",
+      "fullName": "Xã U Minh Thượng, Tỉnh An Giang",
+      "slug": "u-minh-thuong",
+      "type": "commune",
+      "postalCode": "31027"
+    },
+    {
+      "code": "00712",
+      "name": "Đông Hòa",
+      "fullName": "Xã Đông Hòa, Tỉnh An Giang",
+      "slug": "dong-hoa",
+      "type": "commune",
+      "postalCode": "31024"
+    },
+    {
+      "code": "00730",
+      "name": "Gò Quao",
+      "fullName": "Xã Gò Quao, Tỉnh An Giang",
+      "slug": "go-quao",
+      "type": "commune",
+      "postalCode": "30952"
+    },
+    {
+      "code": "00767",
+      "name": "Vĩnh Bình",
+      "fullName": "Xã Vĩnh Bình, Tỉnh An Giang",
+      "slug": "vinh-binh",
+      "type": "commune",
+      "postalCode": "31064"
+    },
+    {
+      "code": "00780",
+      "name": "Vĩnh Phong",
+      "fullName": "Xã Vĩnh Phong, Tỉnh An Giang",
+      "slug": "vinh-phong",
+      "type": "commune",
+      "postalCode": "31051"
+    },
+    {
+      "code": "00797",
+      "name": "Khánh Bình",
+      "fullName": "Xã Khánh Bình, Tỉnh An Giang",
+      "slug": "khanh-binh",
+      "type": "commune",
+      "postalCode": "30341"
+    },
+    {
+      "code": "00799",
+      "name": "Phú Hữu",
+      "fullName": "Xã Phú Hữu, Tỉnh An Giang",
+      "slug": "phu-huu",
+      "type": "commune",
+      "postalCode": "30352"
+    },
+    {
+      "code": "00811",
+      "name": "Định Mỹ",
+      "fullName": "Xã Định Mỹ, Tỉnh An Giang",
+      "slug": "dinh-my",
+      "type": "commune",
+      "postalCode": "30709"
+    },
+    {
+      "code": "00816",
+      "name": "Long Thạnh",
+      "fullName": "Xã Long Thạnh, Tỉnh An Giang",
+      "slug": "long-thanh",
+      "type": "commune",
+      "postalCode": "30943"
+    },
+    {
+      "code": "00827",
+      "name": "Tân An",
+      "fullName": "Xã Tân An, Tỉnh An Giang",
+      "slug": "tan-an",
+      "type": "commune",
+      "postalCode": "30388"
+    },
+    {
+      "code": "00841",
+      "name": "Vĩnh Xương",
+      "fullName": "Xã Vĩnh Xương, Tỉnh An Giang",
+      "slug": "vinh-xuong",
+      "type": "commune",
+      "postalCode": "30385"
+    },
+    {
+      "code": "00845",
+      "name": "Phú Hòa",
+      "fullName": "Xã Phú Hòa, Tỉnh An Giang",
+      "slug": "phu-hoa",
+      "type": "commune",
+      "postalCode": "30685"
+    },
+    {
+      "code": "00879",
+      "name": "Hà Tiên",
+      "fullName": "Phường Hà Tiên, Tỉnh An Giang",
+      "slug": "ha-tien",
+      "type": "ward",
+      "postalCode": "30769"
+    },
+    {
+      "code": "00894",
+      "name": "Vĩnh Tế",
+      "fullName": "Phường Vĩnh Tế, Tỉnh An Giang",
+      "slug": "vinh-te",
+      "type": "ward",
+      "postalCode": "30325"
+    },
+    {
+      "code": "00912",
+      "name": "Phú An",
+      "fullName": "Xã Phú An, Tỉnh An Giang",
+      "slug": "phu-an",
+      "type": "commune",
+      "postalCode": "30436"
+    },
+    {
+      "code": "00918",
+      "name": "An Cư",
+      "fullName": "Xã An Cư, Tỉnh An Giang",
+      "slug": "an-cu",
+      "type": "commune",
+      "postalCode": "30526"
+    },
+    {
+      "code": "00932",
+      "name": "Óc Eo",
+      "fullName": "Xã Óc Eo, Tỉnh An Giang",
+      "slug": "oc-eo",
+      "type": "commune",
+      "postalCode": "30688"
+    },
+    {
+      "code": "00971",
+      "name": "Ngọc Chúc",
+      "fullName": "Xã Ngọc Chúc, Tỉnh An Giang",
+      "slug": "ngoc-chuc",
+      "type": "commune",
+      "postalCode": "30928"
+    },
+    {
+      "code": "01011",
+      "name": "Hòa Hưng",
+      "fullName": "Xã Hòa Hưng, Tỉnh An Giang",
+      "slug": "hoa-hung",
+      "type": "commune",
+      "postalCode": "30313"
+    },
+    {
+      "code": "01031",
+      "name": "Vĩnh Hòa Hưng",
+      "fullName": "Xã Vĩnh Hòa Hưng, Tỉnh An Giang",
+      "slug": "vinh-hoa-hung",
+      "type": "commune",
+      "postalCode": "30970"
+    },
+    {
+      "code": "01039",
+      "name": "Ô Lâm",
+      "fullName": "Xã Ô Lâm, Tỉnh An Giang",
+      "slug": "o-lam",
+      "type": "commune",
+      "postalCode": "30577"
+    },
+    {
+      "code": "01074",
+      "name": "Vĩnh Tuy",
+      "fullName": "Xã Vĩnh Tuy, Tỉnh An Giang",
+      "slug": "vinh-tuy",
+      "type": "commune",
+      "postalCode": "30982"
+    },
+    {
+      "code": "01120",
+      "name": "Tân Thạnh",
+      "fullName": "Xã Tân Thạnh, Tỉnh An Giang",
+      "slug": "tan-thanh",
+      "type": "commune",
+      "postalCode": "31031"
+    },
+    {
+      "code": "01146",
+      "name": "An Minh",
+      "fullName": "Xã An Minh, Tỉnh An Giang",
+      "slug": "an-minh",
+      "type": "commune",
+      "postalCode": "31018"
+    },
+    {
+      "code": "01170",
+      "name": "Cần Đăng",
+      "fullName": "Xã Cần Đăng, Tỉnh An Giang",
+      "slug": "can-dang",
+      "type": "commune",
+      "postalCode": "30595"
+    },
+    {
+      "code": "01189",
+      "name": "Tịnh Biên",
+      "fullName": "Phường Tịnh Biên, Tỉnh An Giang",
+      "slug": "tinh-bien",
+      "type": "ward",
+      "postalCode": "30520"
+    },
+    {
+      "code": "01262",
+      "name": "Tân Châu",
+      "fullName": "Phường Tân Châu, Tỉnh An Giang",
+      "slug": "tan-chau",
+      "type": "ward",
+      "postalCode": "30376"
+    },
+    {
+      "code": "01287",
+      "name": "Phú Lâm",
+      "fullName": "Xã Phú Lâm, Tỉnh An Giang",
+      "slug": "phu-lam",
+      "type": "commune",
+      "postalCode": "30421"
+    },
+    {
+      "code": "01300",
+      "name": "Thới Sơn",
+      "fullName": "Phường Thới Sơn, Tỉnh An Giang",
+      "slug": "thoi-son",
+      "type": "ward",
+      "postalCode": "30502"
+    },
+    {
+      "code": "01301",
+      "name": "Vĩnh An",
+      "fullName": "Xã Vĩnh An, Tỉnh An Giang",
+      "slug": "vinh-an",
+      "type": "commune",
+      "postalCode": "30604"
+    },
+    {
+      "code": "01344",
+      "name": "Vĩnh Trạch",
+      "fullName": "Xã Vĩnh Trạch, Tỉnh An Giang",
+      "slug": "vinh-trach",
+      "type": "commune",
+      "postalCode": "30697"
+    },
+    {
+      "code": "01367",
+      "name": "Ba Chúc",
+      "fullName": "Xã Ba Chúc, Tỉnh An Giang",
+      "slug": "ba-chuc",
+      "type": "commune",
+      "postalCode": "30547"
+    },
+    {
+      "code": "01391",
+      "name": "Hòa Thuận",
+      "fullName": "Xã Hòa Thuận, Tỉnh An Giang",
+      "slug": "hoa-thuan",
+      "type": "commune",
+      "postalCode": "30949"
+    },
+    {
+      "code": "01424",
+      "name": "Cô Tô",
+      "fullName": "Xã Cô Tô, Tỉnh An Giang",
+      "slug": "co-to",
+      "type": "commune",
+      "postalCode": "30580"
+    },
+    {
+      "code": "01454",
+      "name": "Hòa Lạc",
+      "fullName": "Xã Hòa Lạc, Tỉnh An Giang",
+      "slug": "hoa-lac",
+      "type": "commune",
+      "postalCode": "30430"
+    },
+    {
+      "code": "01481",
+      "name": "Vĩnh Thuận",
+      "fullName": "Xã Vĩnh Thuận, Tỉnh An Giang",
+      "slug": "vinh-thuan",
+      "type": "commune",
+      "postalCode": "31069"
+    },
+    {
+      "code": "01541",
+      "name": "Sơn Kiên",
+      "fullName": "Xã Sơn Kiên, Tỉnh An Giang",
+      "slug": "son-kien",
+      "type": "commune",
+      "postalCode": "30835"
+    },
+    {
+      "code": "01572",
+      "name": "Vĩnh Hanh",
+      "fullName": "Xã Vĩnh Hanh, Tỉnh An Giang",
+      "slug": "vinh-hanh",
+      "type": "commune",
+      "postalCode": "30619"
+    },
+    {
+      "code": "01637",
+      "name": "Chi Lăng",
+      "fullName": "Phường Chi Lăng, Tỉnh An Giang",
+      "slug": "chi-lang",
+      "type": "ward",
+      "postalCode": "30505"
+    },
+    {
+      "code": "01767",
+      "name": "Mỹ Hòa Hưng",
+      "fullName": "Xã Mỹ Hòa Hưng, Tỉnh An Giang",
+      "slug": "my-hoa-hung",
+      "type": "commune",
+      "postalCode": "30313"
+    },
+    {
+      "code": "01828",
+      "name": "Tô Châu",
+      "fullName": "Phường Tô Châu, Tỉnh An Giang",
+      "slug": "to-chau",
+      "type": "ward",
+      "postalCode": "30766"
+    },
+    {
+      "code": "01887",
+      "name": "Núi Cấm",
+      "fullName": "Xã Núi Cấm, Tỉnh An Giang",
+      "slug": "nui-cam",
+      "type": "commune",
+      "postalCode": "30538"
+    },
+    {
+      "code": "01973",
+      "name": "Hòa Điền",
+      "fullName": "Xã Hòa Điền, Tỉnh An Giang",
+      "slug": "hoa-dien",
+      "type": "commune",
+      "postalCode": "30790"
+    },
+    {
+      "code": "02048",
+      "name": "Tây Phú",
+      "fullName": "Xã Tây Phú, Tỉnh An Giang",
+      "slug": "tay-phu",
+      "type": "commune",
+      "postalCode": "30691"
+    },
+    {
+      "code": "02050",
+      "name": "Kiên Hải",
+      "fullName": "Đặc khu Kiên Hải, Tỉnh An Giang",
+      "slug": "kien-hai",
+      "type": "commune",
+      "postalCode": "31108"
+    },
+    {
+      "code": "02120",
+      "name": "Đông Hưng",
+      "fullName": "Xã Đông Hưng, Tỉnh An Giang",
+      "slug": "dong-hung",
+      "type": "commune",
+      "postalCode": "31036"
+    },
+    {
+      "code": "02149",
+      "name": "Vân Khánh",
+      "fullName": "Xã Vân Khánh, Tỉnh An Giang",
+      "slug": "van-khanh",
+      "type": "commune",
+      "postalCode": "31042"
+    },
+    {
+      "code": "02214",
+      "name": "Vĩnh Gia",
+      "fullName": "Xã Vĩnh Gia, Tỉnh An Giang",
+      "slug": "vinh-gia",
+      "type": "commune",
+      "postalCode": "30568"
+    },
+    {
+      "code": "02260",
+      "name": "Giang Thành",
+      "fullName": "Xã Giang Thành, Tỉnh An Giang",
+      "slug": "giang-thanh",
+      "type": "commune",
+      "postalCode": "30796"
+    },
+    {
+      "code": "02374",
+      "name": "Bình Giang",
+      "fullName": "Xã Bình Giang, Tỉnh An Giang",
+      "slug": "binh-giang",
+      "type": "commune",
+      "postalCode": "30826"
+    },
+    {
+      "code": "02428",
+      "name": "Vĩnh Điều",
+      "fullName": "Xã Vĩnh Điều, Tỉnh An Giang",
+      "slug": "vinh-dieu",
+      "type": "commune",
+      "postalCode": "30793"
+    },
+    {
+      "code": "03304",
+      "name": "Sơn Hải",
+      "fullName": "Xã Sơn Hải, Tỉnh An Giang",
+      "slug": "son-hai",
+      "type": "commune",
+      "postalCode": "30811"
+    },
+    {
+      "code": "03307",
+      "name": "Hòn Nghệ",
+      "fullName": "Xã Hòn Nghệ, Tỉnh An Giang",
+      "slug": "hon-nghe",
+      "type": "commune",
+      "postalCode": "30814"
+    },
+    {
+      "code": "03312",
+      "name": "Thổ Châu",
+      "fullName": "Đặc khu Thổ Châu, Tỉnh An Giang",
+      "slug": "tho-chau",
+      "type": "commune",
+      "postalCode": "31105"
+    },
+    {
+      "code": "03313",
+      "name": "Tiên Hải",
+      "fullName": "Xã Tiên Hải, Tỉnh An Giang",
+      "slug": "tien-hai",
+      "type": "commune",
+      "postalCode": "30781"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Long Xuyên",
+      "slug": "thanh-pho-long-xuyen",
+      "wards": [
+        {
+          "code": "30292",
+          "name": "Bình Đức",
+          "fullName": "Phường Bình Đức, Tỉnh An Giang",
+          "slug": "binh-duc",
+          "postalCode": "30292"
+        },
+        {
+          "code": "30301",
+          "name": "Mỹ Thới",
+          "fullName": "Phường Mỹ Thới, Tỉnh An Giang",
+          "slug": "my-thoi",
+          "postalCode": "30301"
+        },
+        {
+          "code": "30307",
+          "name": "Long Xuyên",
+          "fullName": "Phường Long Xuyên, Tỉnh An Giang",
+          "slug": "long-xuyen",
+          "postalCode": "30307"
+        },
+        {
+          "code": "30313",
+          "name": "Mỹ Hòa Hưng",
+          "fullName": "Xã Mỹ Hòa Hưng, Tỉnh An Giang",
+          "slug": "my-hoa-hung",
+          "postalCode": "30313"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Châu Đốc",
+      "slug": "thanh-pho-chau-doc",
+      "wards": [
+        {
+          "code": "30316",
+          "name": "Châu Đốc",
+          "fullName": "Phường Châu Đốc, Tỉnh An Giang",
+          "slug": "chau-doc",
+          "postalCode": "30316"
+        },
+        {
+          "code": "30325",
+          "name": "Vĩnh Tế",
+          "fullName": "Phường Vĩnh Tế, Tỉnh An Giang",
+          "slug": "vinh-te",
+          "postalCode": "30325"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Tân Châu",
+      "slug": "thi-xa-tan-chau",
+      "wards": [
+        {
+          "code": "30376",
+          "name": "Tân Châu",
+          "fullName": "Phường Tân Châu, Tỉnh An Giang",
+          "slug": "tan-chau",
+          "postalCode": "30376"
+        },
+        {
+          "code": "30377",
+          "name": "Long Phú",
+          "fullName": "Phường Long Phú, Tỉnh An Giang",
+          "slug": "long-phu",
+          "postalCode": "30377"
+        },
+        {
+          "code": "30385",
+          "name": "Vĩnh Xương",
+          "fullName": "Xã Vĩnh Xương, Tỉnh An Giang",
+          "slug": "vinh-xuong",
+          "postalCode": "30385"
+        },
+        {
+          "code": "30388",
+          "name": "Tân An",
+          "fullName": "Xã Tân An, Tỉnh An Giang",
+          "slug": "tan-an",
+          "postalCode": "30388"
+        },
+        {
+          "code": "30403",
+          "name": "Châu Phong",
+          "fullName": "Xã Châu Phong, Tỉnh An Giang",
+          "slug": "chau-phong",
+          "postalCode": "30403"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Tịnh Biên",
+      "slug": "thi-xa-tinh-bien",
+      "wards": [
+        {
+          "code": "30502",
+          "name": "Thới Sơn",
+          "fullName": "Phường Thới Sơn, Tỉnh An Giang",
+          "slug": "thoi-son",
+          "postalCode": "30502"
+        },
+        {
+          "code": "30505",
+          "name": "Chi Lăng",
+          "fullName": "Phường Chi Lăng, Tỉnh An Giang",
+          "slug": "chi-lang",
+          "postalCode": "30505"
+        },
+        {
+          "code": "30520",
+          "name": "Tịnh Biên",
+          "fullName": "Phường Tịnh Biên, Tỉnh An Giang",
+          "slug": "tinh-bien",
+          "postalCode": "30520"
+        },
+        {
+          "code": "30526",
+          "name": "An Cư",
+          "fullName": "Xã An Cư, Tỉnh An Giang",
+          "slug": "an-cu",
+          "postalCode": "30526"
+        },
+        {
+          "code": "30538",
+          "name": "Núi Cấm",
+          "fullName": "Xã Núi Cấm, Tỉnh An Giang",
+          "slug": "nui-cam",
+          "postalCode": "30538"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Rạch Giá",
+      "slug": "thanh-pho-rach-gia",
+      "wards": [
+        {
+          "code": "30742",
+          "name": "Rạch Giá",
+          "fullName": "Phường Rạch Giá, Tỉnh An Giang",
+          "slug": "rach-gia",
+          "postalCode": "30742"
+        },
+        {
+          "code": "30760",
+          "name": "Vĩnh Thông",
+          "fullName": "Phường Vĩnh Thông, Tỉnh An Giang",
+          "slug": "vinh-thong",
+          "postalCode": "30760"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hòn Đất",
+      "slug": "huyen-hon-dat",
+      "wards": [
+        {
+          "code": "30760",
+          "name": "Vĩnh Thông",
+          "fullName": "Phường Vĩnh Thông, Tỉnh An Giang",
+          "slug": "vinh-thong",
+          "postalCode": "30760"
+        },
+        {
+          "code": "30817",
+          "name": "Hòn Đất",
+          "fullName": "Xã Hòn Đất, Tỉnh An Giang",
+          "slug": "hon-dat",
+          "postalCode": "30817"
+        },
+        {
+          "code": "30823",
+          "name": "Bình Sơn",
+          "fullName": "Xã Bình Sơn, Tỉnh An Giang",
+          "slug": "binh-son",
+          "postalCode": "30823"
+        },
+        {
+          "code": "30826",
+          "name": "Bình Giang",
+          "fullName": "Xã Bình Giang, Tỉnh An Giang",
+          "slug": "binh-giang",
+          "postalCode": "30826"
+        },
+        {
+          "code": "30835",
+          "name": "Sơn Kiên",
+          "fullName": "Xã Sơn Kiên, Tỉnh An Giang",
+          "slug": "son-kien",
+          "postalCode": "30835"
+        },
+        {
+          "code": "30838",
+          "name": "Mỹ Thuận",
+          "fullName": "Xã Mỹ Thuận, Tỉnh An Giang",
+          "slug": "my-thuan",
+          "postalCode": "30838"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Hà Tiên",
+      "slug": "thanh-pho-ha-tien",
+      "wards": [
+        {
+          "code": "30766",
+          "name": "Tô Châu",
+          "fullName": "Phường Tô Châu, Tỉnh An Giang",
+          "slug": "to-chau",
+          "postalCode": "30766"
+        },
+        {
+          "code": "30769",
+          "name": "Hà Tiên",
+          "fullName": "Phường Hà Tiên, Tỉnh An Giang",
+          "slug": "ha-tien",
+          "postalCode": "30769"
+        },
+        {
+          "code": "30781",
+          "name": "Tiên Hải",
+          "fullName": "Xã Tiên Hải, Tỉnh An Giang",
+          "slug": "tien-hai",
+          "postalCode": "30781"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kiên Lương",
+      "slug": "huyen-kien-luong",
+      "wards": [
+        {
+          "code": "30766",
+          "name": "Tô Châu",
+          "fullName": "Phường Tô Châu, Tỉnh An Giang",
+          "slug": "to-chau",
+          "postalCode": "30766"
+        },
+        {
+          "code": "30787",
+          "name": "Kiên Lương",
+          "fullName": "Xã Kiên Lương, Tỉnh An Giang",
+          "slug": "kien-luong",
+          "postalCode": "30787"
+        },
+        {
+          "code": "30790",
+          "name": "Hòa Điền",
+          "fullName": "Xã Hòa Điền, Tỉnh An Giang",
+          "slug": "hoa-dien",
+          "postalCode": "30790"
+        },
+        {
+          "code": "30811",
+          "name": "Sơn Hải",
+          "fullName": "Xã Sơn Hải, Tỉnh An Giang",
+          "slug": "son-hai",
+          "postalCode": "30811"
+        },
+        {
+          "code": "30814",
+          "name": "Hòn Nghệ",
+          "fullName": "Xã Hòn Nghệ, Tỉnh An Giang",
+          "slug": "hon-nghe",
+          "postalCode": "30814"
+        }
+      ]
+    },
+    {
+      "name": "Huyện An Phú",
+      "slug": "huyen-an-phu",
+      "wards": [
+        {
+          "code": "30337",
+          "name": "An Phú",
+          "fullName": "Xã An Phú, Tỉnh An Giang",
+          "slug": "an-phu",
+          "postalCode": "30337"
+        },
+        {
+          "code": "30341",
+          "name": "Khánh Bình",
+          "fullName": "Xã Khánh Bình, Tỉnh An Giang",
+          "slug": "khanh-binh",
+          "postalCode": "30341"
+        },
+        {
+          "code": "30346",
+          "name": "Nhơn Hội",
+          "fullName": "Xã Nhơn Hội, Tỉnh An Giang",
+          "slug": "nhon-hoi",
+          "postalCode": "30346"
+        },
+        {
+          "code": "30352",
+          "name": "Phú Hữu",
+          "fullName": "Xã Phú Hữu, Tỉnh An Giang",
+          "slug": "phu-huu",
+          "postalCode": "30352"
+        },
+        {
+          "code": "30367",
+          "name": "Vĩnh Hậu",
+          "fullName": "Xã Vĩnh Hậu, Tỉnh An Giang",
+          "slug": "vinh-hau",
+          "postalCode": "30367"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Tân",
+      "slug": "huyen-phu-tan",
+      "wards": [
+        {
+          "code": "30406",
+          "name": "Phú Tân",
+          "fullName": "Xã Phú Tân, Tỉnh An Giang",
+          "slug": "phu-tan",
+          "postalCode": "30406"
+        },
+        {
+          "code": "30409",
+          "name": "Chợ Vàm",
+          "fullName": "Xã Chợ Vàm, Tỉnh An Giang",
+          "slug": "cho-vam",
+          "postalCode": "30409"
+        },
+        {
+          "code": "30421",
+          "name": "Phú Lâm",
+          "fullName": "Xã Phú Lâm, Tỉnh An Giang",
+          "slug": "phu-lam",
+          "postalCode": "30421"
+        },
+        {
+          "code": "30430",
+          "name": "Hòa Lạc",
+          "fullName": "Xã Hòa Lạc, Tỉnh An Giang",
+          "slug": "hoa-lac",
+          "postalCode": "30430"
+        },
+        {
+          "code": "30436",
+          "name": "Phú An",
+          "fullName": "Xã Phú An, Tỉnh An Giang",
+          "slug": "phu-an",
+          "postalCode": "30436"
+        },
+        {
+          "code": "30445",
+          "name": "Bình Thạnh Đông",
+          "fullName": "Xã Bình Thạnh Đông, Tỉnh An Giang",
+          "slug": "binh-thanh-dong",
+          "postalCode": "30445"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Châu Phú",
+      "slug": "huyen-chau-phu",
+      "wards": [
+        {
+          "code": "30463",
+          "name": "Châu Phú",
+          "fullName": "Xã Châu Phú, Tỉnh An Giang",
+          "slug": "chau-phu",
+          "postalCode": "30463"
+        },
+        {
+          "code": "30469",
+          "name": "Mỹ Đức",
+          "fullName": "Xã Mỹ Đức, Tỉnh An Giang",
+          "slug": "my-duc",
+          "postalCode": "30469"
+        },
+        {
+          "code": "30478",
+          "name": "Vĩnh Thạnh Trung",
+          "fullName": "Xã Vĩnh Thạnh Trung, Tỉnh An Giang",
+          "slug": "vinh-thanh-trung",
+          "postalCode": "30478"
+        },
+        {
+          "code": "30481",
+          "name": "Thạnh Mỹ Tây",
+          "fullName": "Xã Thạnh Mỹ Tây, Tỉnh An Giang",
+          "slug": "thanh-my-tay",
+          "postalCode": "30481"
+        },
+        {
+          "code": "30487",
+          "name": "Bình Mỹ",
+          "fullName": "Xã Bình Mỹ, Tỉnh An Giang",
+          "slug": "binh-my",
+          "postalCode": "30487"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tri Tôn",
+      "slug": "huyen-tri-ton",
+      "wards": [
+        {
+          "code": "30544",
+          "name": "Tri Tôn",
+          "fullName": "Xã Tri Tôn, Tỉnh An Giang",
+          "slug": "tri-ton",
+          "postalCode": "30544"
+        },
+        {
+          "code": "30547",
+          "name": "Ba Chúc",
+          "fullName": "Xã Ba Chúc, Tỉnh An Giang",
+          "slug": "ba-chuc",
+          "postalCode": "30547"
+        },
+        {
+          "code": "30568",
+          "name": "Vĩnh Gia",
+          "fullName": "Xã Vĩnh Gia, Tỉnh An Giang",
+          "slug": "vinh-gia",
+          "postalCode": "30568"
+        },
+        {
+          "code": "30577",
+          "name": "Ô Lâm",
+          "fullName": "Xã Ô Lâm, Tỉnh An Giang",
+          "slug": "o-lam",
+          "postalCode": "30577"
+        },
+        {
+          "code": "30580",
+          "name": "Cô Tô",
+          "fullName": "Xã Cô Tô, Tỉnh An Giang",
+          "slug": "co-to",
+          "postalCode": "30580"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Châu Thành",
+      "slug": "huyen-chau-thanh",
+      "wards": [
+        {
+          "code": "30589",
+          "name": "An Châu",
+          "fullName": "Xã An Châu, Tỉnh An Giang",
+          "slug": "an-chau",
+          "postalCode": "30589"
+        },
+        {
+          "code": "30595",
+          "name": "Cần Đăng",
+          "fullName": "Xã Cần Đăng, Tỉnh An Giang",
+          "slug": "can-dang",
+          "postalCode": "30595"
+        },
+        {
+          "code": "30604",
+          "name": "Vĩnh An",
+          "fullName": "Xã Vĩnh An, Tỉnh An Giang",
+          "slug": "vinh-an",
+          "postalCode": "30604"
+        },
+        {
+          "code": "30607",
+          "name": "Bình Hòa",
+          "fullName": "Xã Bình Hòa, Tỉnh An Giang",
+          "slug": "binh-hoa",
+          "postalCode": "30607"
+        },
+        {
+          "code": "30619",
+          "name": "Vĩnh Hanh",
+          "fullName": "Xã Vĩnh Hanh, Tỉnh An Giang",
+          "slug": "vinh-hanh",
+          "postalCode": "30619"
+        },
+        {
+          "code": "30880",
+          "name": "Châu Thành",
+          "fullName": "Xã Châu Thành, Tỉnh An Giang",
+          "slug": "chau-thanh",
+          "postalCode": "30880"
+        },
+        {
+          "code": "30886",
+          "name": "Thạnh Lộc",
+          "fullName": "Xã Thạnh Lộc, Tỉnh An Giang",
+          "slug": "thanh-loc",
+          "postalCode": "30886"
+        },
+        {
+          "code": "30898",
+          "name": "Bình An",
+          "fullName": "Xã Bình An, Tỉnh An Giang",
+          "slug": "binh-an",
+          "postalCode": "30898"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Chợ Mới",
+      "slug": "huyen-cho-moi",
+      "wards": [
+        {
+          "code": "30628",
+          "name": "Chợ Mới",
+          "fullName": "Xã Chợ Mới, Tỉnh An Giang",
+          "slug": "cho-moi",
+          "postalCode": "30628"
+        },
+        {
+          "code": "30631",
+          "name": "Long Điền",
+          "fullName": "Xã Long Điền, Tỉnh An Giang",
+          "slug": "long-dien",
+          "postalCode": "30631"
+        },
+        {
+          "code": "30643",
+          "name": "Cù Lao Giêng",
+          "fullName": "Xã Cù Lao Giêng, Tỉnh An Giang",
+          "slug": "cu-lao-gieng",
+          "postalCode": "30643"
+        },
+        {
+          "code": "30658",
+          "name": "Nhơn Mỹ",
+          "fullName": "Xã Nhơn Mỹ, Tỉnh An Giang",
+          "slug": "nhon-my",
+          "postalCode": "30658"
+        },
+        {
+          "code": "30664",
+          "name": "Long Kiến",
+          "fullName": "Xã Long Kiến, Tỉnh An Giang",
+          "slug": "long-kien",
+          "postalCode": "30664"
+        },
+        {
+          "code": "30673",
+          "name": "Hội An",
+          "fullName": "Xã Hội An, Tỉnh An Giang",
+          "slug": "hoi-an",
+          "postalCode": "30673"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thoại Sơn",
+      "slug": "huyen-thoai-son",
+      "wards": [
+        {
+          "code": "30682",
+          "name": "Thoại Sơn",
+          "fullName": "Xã Thoại Sơn, Tỉnh An Giang",
+          "slug": "thoai-son",
+          "postalCode": "30682"
+        },
+        {
+          "code": "30685",
+          "name": "Phú Hòa",
+          "fullName": "Xã Phú Hòa, Tỉnh An Giang",
+          "slug": "phu-hoa",
+          "postalCode": "30685"
+        },
+        {
+          "code": "30688",
+          "name": "Óc Eo",
+          "fullName": "Xã Óc Eo, Tỉnh An Giang",
+          "slug": "oc-eo",
+          "postalCode": "30688"
+        },
+        {
+          "code": "30691",
+          "name": "Tây Phú",
+          "fullName": "Xã Tây Phú, Tỉnh An Giang",
+          "slug": "tay-phu",
+          "postalCode": "30691"
+        },
+        {
+          "code": "30697",
+          "name": "Vĩnh Trạch",
+          "fullName": "Xã Vĩnh Trạch, Tỉnh An Giang",
+          "slug": "vinh-trach",
+          "postalCode": "30697"
+        },
+        {
+          "code": "30709",
+          "name": "Định Mỹ",
+          "fullName": "Xã Định Mỹ, Tỉnh An Giang",
+          "slug": "dinh-my",
+          "postalCode": "30709"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Giang Thành",
+      "slug": "huyen-giang-thanh",
+      "wards": [
+        {
+          "code": "30793",
+          "name": "Vĩnh Điều",
+          "fullName": "Xã Vĩnh Điều, Tỉnh An Giang",
+          "slug": "vinh-dieu",
+          "postalCode": "30793"
+        },
+        {
+          "code": "30796",
+          "name": "Giang Thành",
+          "fullName": "Xã Giang Thành, Tỉnh An Giang",
+          "slug": "giang-thanh",
+          "postalCode": "30796"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Hiệp",
+      "slug": "huyen-tan-hiep",
+      "wards": [
+        {
+          "code": "30850",
+          "name": "Tân Hiệp",
+          "fullName": "Xã Tân Hiệp, Tỉnh An Giang",
+          "slug": "tan-hiep",
+          "postalCode": "30850"
+        },
+        {
+          "code": "30856",
+          "name": "Tân Hội",
+          "fullName": "Xã Tân Hội, Tỉnh An Giang",
+          "slug": "tan-hoi",
+          "postalCode": "30856"
+        },
+        {
+          "code": "30874",
+          "name": "Thạnh Đông",
+          "fullName": "Xã Thạnh Đông, Tỉnh An Giang",
+          "slug": "thanh-dong",
+          "postalCode": "30874"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Giồng Riềng",
+      "slug": "huyen-giong-rieng",
+      "wards": [
+        {
+          "code": "30904",
+          "name": "Giồng Riềng",
+          "fullName": "Xã Giồng Riềng, Tỉnh An Giang",
+          "slug": "giong-rieng",
+          "postalCode": "30904"
+        },
+        {
+          "code": "30910",
+          "name": "Thạnh Hưng",
+          "fullName": "Xã Thạnh Hưng, Tỉnh An Giang",
+          "slug": "thanh-hung",
+          "postalCode": "30910"
+        },
+        {
+          "code": "30928",
+          "name": "Ngọc Chúc",
+          "fullName": "Xã Ngọc Chúc, Tỉnh An Giang",
+          "slug": "ngoc-chuc",
+          "postalCode": "30928"
+        },
+        {
+          "code": "30934",
+          "name": "Hòa Hưng",
+          "fullName": "Xã Hòa Hưng, Tỉnh An Giang",
+          "slug": "hoa-hung",
+          "postalCode": "30934"
+        },
+        {
+          "code": "30943",
+          "name": "Long Thạnh",
+          "fullName": "Xã Long Thạnh, Tỉnh An Giang",
+          "slug": "long-thanh",
+          "postalCode": "30943"
+        },
+        {
+          "code": "30949",
+          "name": "Hòa Thuận",
+          "fullName": "Xã Hòa Thuận, Tỉnh An Giang",
+          "slug": "hoa-thuan",
+          "postalCode": "30949"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Gò Quao",
+      "slug": "huyen-go-quao",
+      "wards": [
+        {
+          "code": "30952",
+          "name": "Gò Quao",
+          "fullName": "Xã Gò Quao, Tỉnh An Giang",
+          "slug": "go-quao",
+          "postalCode": "30952"
+        },
+        {
+          "code": "30958",
+          "name": "Định Hòa",
+          "fullName": "Xã Định Hòa, Tỉnh An Giang",
+          "slug": "dinh-hoa",
+          "postalCode": "30958"
+        },
+        {
+          "code": "30970",
+          "name": "Vĩnh Hòa Hưng",
+          "fullName": "Xã Vĩnh Hòa Hưng, Tỉnh An Giang",
+          "slug": "vinh-hoa-hung",
+          "postalCode": "30970"
+        },
+        {
+          "code": "30982",
+          "name": "Vĩnh Tuy",
+          "fullName": "Xã Vĩnh Tuy, Tỉnh An Giang",
+          "slug": "vinh-tuy",
+          "postalCode": "30982"
+        }
+      ]
+    },
+    {
+      "name": "Huyện An Biên",
+      "slug": "huyen-an-bien",
+      "wards": [
+        {
+          "code": "30985",
+          "name": "An Biên",
+          "fullName": "Xã An Biên, Tỉnh An Giang",
+          "slug": "an-bien",
+          "postalCode": "30985"
+        },
+        {
+          "code": "30988",
+          "name": "Tây Yên",
+          "fullName": "Xã Tây Yên, Tỉnh An Giang",
+          "slug": "tay-yen",
+          "postalCode": "30988"
+        },
+        {
+          "code": "31006",
+          "name": "Đông Thái",
+          "fullName": "Xã Đông Thái, Tỉnh An Giang",
+          "slug": "dong-thai",
+          "postalCode": "31006"
+        }
+      ]
+    },
+    {
+      "name": "Huyện U Minh Thượng",
+      "slug": "huyen-u-minh-thuong",
+      "wards": [
+        {
+          "code": "31012",
+          "name": "Vĩnh Hòa",
+          "fullName": "Xã Vĩnh Hòa, Tỉnh An Giang",
+          "slug": "vinh-hoa",
+          "postalCode": "31012"
+        },
+        {
+          "code": "31027",
+          "name": "U Minh Thượng",
+          "fullName": "Xã U Minh Thượng, Tỉnh An Giang",
+          "slug": "u-minh-thuong",
+          "postalCode": "31027"
+        }
+      ]
+    },
+    {
+      "name": "Huyện An Minh",
+      "slug": "huyen-an-minh",
+      "wards": [
+        {
+          "code": "31018",
+          "name": "An Minh",
+          "fullName": "Xã An Minh, Tỉnh An Giang",
+          "slug": "an-minh",
+          "postalCode": "31018"
+        },
+        {
+          "code": "31024",
+          "name": "Đông Hòa",
+          "fullName": "Xã Đông Hòa, Tỉnh An Giang",
+          "slug": "dong-hoa",
+          "postalCode": "31024"
+        },
+        {
+          "code": "31031",
+          "name": "Tân Thạnh",
+          "fullName": "Xã Tân Thạnh, Tỉnh An Giang",
+          "slug": "tan-thanh",
+          "postalCode": "31031"
+        },
+        {
+          "code": "31036",
+          "name": "Đông Hưng",
+          "fullName": "Xã Đông Hưng, Tỉnh An Giang",
+          "slug": "dong-hung",
+          "postalCode": "31036"
+        },
+        {
+          "code": "31042",
+          "name": "Vân Khánh",
+          "fullName": "Xã Vân Khánh, Tỉnh An Giang",
+          "slug": "van-khanh",
+          "postalCode": "31042"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Thuận",
+      "slug": "huyen-vinh-thuan",
+      "wards": [
+        {
+          "code": "31051",
+          "name": "Vĩnh Phong",
+          "fullName": "Xã Vĩnh Phong, Tỉnh An Giang",
+          "slug": "vinh-phong",
+          "postalCode": "31051"
+        },
+        {
+          "code": "31064",
+          "name": "Vĩnh Bình",
+          "fullName": "Xã Vĩnh Bình, Tỉnh An Giang",
+          "slug": "vinh-binh",
+          "postalCode": "31064"
+        },
+        {
+          "code": "31069",
+          "name": "Vĩnh Thuận",
+          "fullName": "Xã Vĩnh Thuận, Tỉnh An Giang",
+          "slug": "vinh-thuan",
+          "postalCode": "31069"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Phú Quốc",
+      "slug": "thanh-pho-phu-quoc",
+      "wards": [
+        {
+          "code": "31078",
+          "name": "Đặc khu Phú Quốc",
+          "fullName": "Đặc khu Phú Quốc, Tỉnh An Giang",
+          "slug": "dac-khu-phu-quoc",
+          "postalCode": "31078"
+        },
+        {
+          "code": "31105",
+          "name": "Đặc khu Thổ Châu",
+          "fullName": "Đặc khu Thổ Châu, Tỉnh An Giang",
+          "slug": "dac-khu-tho-chau",
+          "postalCode": "31105"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kiên Hải",
+      "slug": "huyen-kien-hai",
+      "wards": [
+        {
+          "code": "31108",
+          "name": "Đặc khu Kiên Hải",
+          "fullName": "Đặc khu Kiên Hải, Tỉnh An Giang",
+          "slug": "dac-khu-kien-hai",
+          "postalCode": "31108"
+        }
+      ]
+    }
+  ]
+}

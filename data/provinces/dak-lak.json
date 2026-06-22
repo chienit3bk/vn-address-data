@@ -1,0 +1,1707 @@
+{
+  "code": "27",
+  "name": "Đắk Lắk",
+  "slug": "dak-lak",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Đắk Lắk",
+  "wards": [
+    {
+      "code": "00018",
+      "name": "Buôn Ma Thuột",
+      "fullName": "Phường Buôn Ma Thuột, Tỉnh Đắk Lắk",
+      "slug": "buon-ma-thuot",
+      "type": "ward",
+      "postalCode": "24133"
+    },
+    {
+      "code": "00059",
+      "name": "Tuy Hòa",
+      "fullName": "Phường Tuy Hòa, Tỉnh Đắk Lắk",
+      "slug": "tuy-hoa",
+      "type": "ward",
+      "postalCode": "22015"
+    },
+    {
+      "code": "00157",
+      "name": "Ea Kar",
+      "fullName": "Xã Ea Kar, Tỉnh Đắk Lắk",
+      "slug": "ea-kar",
+      "type": "commune",
+      "postalCode": "24373"
+    },
+    {
+      "code": "00244",
+      "name": "Tân Lập",
+      "fullName": "Phường Tân Lập, Tỉnh Đắk Lắk",
+      "slug": "tan-lap",
+      "type": "ward",
+      "postalCode": "24121"
+    },
+    {
+      "code": "00296",
+      "name": "Krông Pắc",
+      "fullName": "Xã Krông Pắc, Tỉnh Đắk Lắk",
+      "slug": "krong-pac",
+      "type": "commune",
+      "postalCode": "24490"
+    },
+    {
+      "code": "00337",
+      "name": "Tân An",
+      "fullName": "Phường Tân An, Tỉnh Đắk Lắk",
+      "slug": "tan-an",
+      "type": "ward",
+      "postalCode": "24163"
+    },
+    {
+      "code": "00357",
+      "name": "Buôn Hồ",
+      "fullName": "Phường Buôn Hồ, Tỉnh Đắk Lắk",
+      "slug": "buon-ho",
+      "type": "ward",
+      "postalCode": "24305"
+    },
+    {
+      "code": "00366",
+      "name": "Phú Yên",
+      "fullName": "Phường Phú Yên, Tỉnh Đắk Lắk",
+      "slug": "phu-yen",
+      "type": "ward",
+      "postalCode": "22240"
+    },
+    {
+      "code": "00381",
+      "name": "Quảng Phú",
+      "fullName": "Xã Quảng Phú, Tỉnh Đắk Lắk",
+      "slug": "quang-phu",
+      "type": "commune",
+      "postalCode": "24259"
+    },
+    {
+      "code": "00435",
+      "name": "Ea Kao",
+      "fullName": "Phường Ea Kao, Tỉnh Đắk Lắk",
+      "slug": "ea-kao",
+      "type": "ward",
+      "postalCode": "24169"
+    },
+    {
+      "code": "00471",
+      "name": "Ea Drăng",
+      "fullName": "Xã Ea Drăng, Tỉnh Đắk Lắk",
+      "slug": "ea-drang",
+      "type": "commune",
+      "postalCode": "24181"
+    },
+    {
+      "code": "00479",
+      "name": "Ea Ktur",
+      "fullName": "Xã Ea Ktur, Tỉnh Đắk Lắk",
+      "slug": "ea-ktur",
+      "type": "commune",
+      "postalCode": "24544"
+    },
+    {
+      "code": "00480",
+      "name": "Phú Hòa 1",
+      "fullName": "Xã Phú Hòa 1, Tỉnh Đắk Lắk",
+      "slug": "phu-hoa-1",
+      "type": "commune",
+      "postalCode": "22319"
+    },
+    {
+      "code": "00491",
+      "name": "Hòa Hiệp",
+      "fullName": "Phường Hòa Hiệp, Tỉnh Đắk Lắk",
+      "slug": "hoa-hiep",
+      "type": "ward",
+      "postalCode": "22261"
+    },
+    {
+      "code": "00512",
+      "name": "Thành Nhất",
+      "fullName": "Phường Thành Nhất, Tỉnh Đắk Lắk",
+      "slug": "thanh-nhat",
+      "type": "ward",
+      "postalCode": "24154"
+    },
+    {
+      "code": "00582",
+      "name": "Tây Hòa",
+      "fullName": "Xã Tây Hòa, Tỉnh Đắk Lắk",
+      "slug": "tay-hoa",
+      "type": "commune",
+      "postalCode": "22255"
+    },
+    {
+      "code": "00612",
+      "name": "Hòa Phú",
+      "fullName": "Xã Hòa Phú, Tỉnh Đắk Lắk",
+      "slug": "hoa-phu",
+      "type": "commune",
+      "postalCode": "24175"
+    },
+    {
+      "code": "00618",
+      "name": "Ea Phê",
+      "fullName": "Xã Ea Phê, Tỉnh Đắk Lắk",
+      "slug": "ea-phe",
+      "type": "commune",
+      "postalCode": "24502"
+    },
+    {
+      "code": "00623",
+      "name": "Krông Ana",
+      "fullName": "Xã Krông Ana, Tỉnh Đắk Lắk",
+      "slug": "krong-ana",
+      "type": "commune",
+      "postalCode": "24538"
+    },
+    {
+      "code": "00638",
+      "name": "Đông Hòa",
+      "fullName": "Phường Đông Hòa, Tỉnh Đắk Lắk",
+      "slug": "dong-hoa",
+      "type": "ward",
+      "postalCode": "22258"
+    },
+    {
+      "code": "00673",
+      "name": "Dliê Ya",
+      "fullName": "Xã Dliê Ya, Tỉnh Đắk Lắk",
+      "slug": "dlie-ya",
+      "type": "commune",
+      "postalCode": "24346"
+    },
+    {
+      "code": "00742",
+      "name": "Bình Kiến",
+      "fullName": "Phường Bình Kiến, Tỉnh Đắk Lắk",
+      "slug": "binh-kien",
+      "type": "ward",
+      "postalCode": "22045"
+    },
+    {
+      "code": "00760",
+      "name": "Ea Knuếc",
+      "fullName": "Xã Ea Knuếc, Tỉnh Đắk Lắk",
+      "slug": "ea-knuec",
+      "type": "commune",
+      "postalCode": "24505"
+    },
+    {
+      "code": "00762",
+      "name": "Ea Nuôl",
+      "fullName": "Xã Ea Nuôl, Tỉnh Đắk Lắk",
+      "slug": "ea-nuol",
+      "type": "commune",
+      "postalCode": "24250"
+    },
+    {
+      "code": "00763",
+      "name": "Krông Năng",
+      "fullName": "Xã Krông Năng, Tỉnh Đắk Lắk",
+      "slug": "krong-nang",
+      "type": "commune",
+      "postalCode": "24343"
+    },
+    {
+      "code": "00822",
+      "name": "Ea Na",
+      "fullName": "Xã Ea Na, Tỉnh Đắk Lắk",
+      "slug": "ea-na",
+      "type": "commune",
+      "postalCode": "24559"
+    },
+    {
+      "code": "00867",
+      "name": "Sơn Hòa",
+      "fullName": "Xã Sơn Hòa, Tỉnh Đắk Lắk",
+      "slug": "son-hoa",
+      "type": "commune",
+      "postalCode": "22165"
+    },
+    {
+      "code": "00889",
+      "name": "Ô Loan",
+      "fullName": "Xã Ô Loan, Tỉnh Đắk Lắk",
+      "slug": "o-loan",
+      "type": "commune",
+      "postalCode": "22147"
+    },
+    {
+      "code": "00901",
+      "name": "Ea Kly",
+      "fullName": "Xã Ea Kly, Tỉnh Đắk Lắk",
+      "slug": "ea-kly",
+      "type": "commune",
+      "postalCode": "24496"
+    },
+    {
+      "code": "00905",
+      "name": "Tuy An Đông",
+      "fullName": "Xã Tuy An Đông, Tỉnh Đắk Lắk",
+      "slug": "tuy-an-dong",
+      "type": "commune",
+      "postalCode": "22120"
+    },
+    {
+      "code": "00923",
+      "name": "Dray Bhăng",
+      "fullName": "Xã Dray Bhăng, Tỉnh Đắk Lắk",
+      "slug": "dray-bhang",
+      "type": "commune",
+      "postalCode": "24561"
+    },
+    {
+      "code": "00959",
+      "name": "Sông Cầu",
+      "fullName": "Phường Sông Cầu, Tỉnh Đắk Lắk",
+      "slug": "song-cau",
+      "type": "ward",
+      "postalCode": "22051"
+    },
+    {
+      "code": "00972",
+      "name": "Phú Hòa 2",
+      "fullName": "Xã Phú Hòa 2, Tỉnh Đắk Lắk",
+      "slug": "phu-hoa-2",
+      "type": "commune",
+      "postalCode": "22303"
+    },
+    {
+      "code": "01062",
+      "name": "Ea Knốp",
+      "fullName": "Xã Ea Knốp, Tỉnh Đắk Lắk",
+      "slug": "ea-knop",
+      "type": "commune",
+      "postalCode": "24376"
+    },
+    {
+      "code": "01067",
+      "name": "Cư Bao",
+      "fullName": "Phường Cư Bao, Tỉnh Đắk Lắk",
+      "slug": "cu-bao",
+      "type": "ward",
+      "postalCode": "24340"
+    },
+    {
+      "code": "01188",
+      "name": "Ea Tul",
+      "fullName": "Xã Ea Tul, Tỉnh Đắk Lắk",
+      "slug": "ea-tul",
+      "type": "commune",
+      "postalCode": "24277"
+    },
+    {
+      "code": "01190",
+      "name": "Phú Xuân",
+      "fullName": "Xã Phú Xuân, Tỉnh Đắk Lắk",
+      "slug": "phu-xuan",
+      "type": "commune",
+      "postalCode": "24364"
+    },
+    {
+      "code": "01221",
+      "name": "Ea Ning",
+      "fullName": "Xã Ea Ning, Tỉnh Đắk Lắk",
+      "slug": "ea-ning",
+      "type": "commune",
+      "postalCode": "24540"
+    },
+    {
+      "code": "01281",
+      "name": "Ea M’Droh",
+      "fullName": "Xã Ea M’Droh, Tỉnh Đắk Lắk",
+      "slug": "ea-mdroh",
+      "type": "commune",
+      "postalCode": "24286"
+    },
+    {
+      "code": "01349",
+      "name": "Cư M’gar",
+      "fullName": "Xã Cư M’gar, Tỉnh Đắk Lắk",
+      "slug": "cu-mgar",
+      "type": "commune",
+      "postalCode": "24280"
+    },
+    {
+      "code": "01459",
+      "name": "Krông Búk",
+      "fullName": "Xã Krông Búk, Tỉnh Đắk Lắk",
+      "slug": "krong-buk",
+      "type": "commune",
+      "postalCode": "24310"
+    },
+    {
+      "code": "01460",
+      "name": "Ea Hiao",
+      "fullName": "Xã Ea Hiao, Tỉnh Đắk Lắk",
+      "slug": "ea-hiao",
+      "type": "commune",
+      "postalCode": "24187"
+    },
+    {
+      "code": "01465",
+      "name": "Ea Súp",
+      "fullName": "Xã Ea Súp, Tỉnh Đắk Lắk",
+      "slug": "ea-sup",
+      "type": "commune",
+      "postalCode": "24211"
+    },
+    {
+      "code": "01475",
+      "name": "Hòa Thịnh",
+      "fullName": "Xã Hòa Thịnh, Tỉnh Đắk Lắk",
+      "slug": "hoa-thinh",
+      "type": "commune",
+      "postalCode": "22276"
+    },
+    {
+      "code": "01501",
+      "name": "Pơng Drang",
+      "fullName": "Xã Pơng Drang, Tỉnh Đắk Lắk",
+      "slug": "pong-drang",
+      "type": "commune",
+      "postalCode": "24316"
+    },
+    {
+      "code": "01521",
+      "name": "Ea Khăl",
+      "fullName": "Xã Ea Khăl, Tỉnh Đắk Lắk",
+      "slug": "ea-khal",
+      "type": "commune",
+      "postalCode": "24208"
+    },
+    {
+      "code": "01533",
+      "name": "Tuy An Nam",
+      "fullName": "Xã Tuy An Nam, Tỉnh Đắk Lắk",
+      "slug": "tuy-an-nam",
+      "type": "commune",
+      "postalCode": "22153"
+    },
+    {
+      "code": "01538",
+      "name": "Ea Wer",
+      "fullName": "Xã Ea Wer, Tỉnh Đắk Lắk",
+      "slug": "ea-wer",
+      "type": "commune",
+      "postalCode": "24241"
+    },
+    {
+      "code": "01604",
+      "name": "Cuôr Đăng",
+      "fullName": "Xã Cuôr Đăng, Tỉnh Đắk Lắk",
+      "slug": "cuor-dang",
+      "type": "commune",
+      "postalCode": "24301"
+    },
+    {
+      "code": "01606",
+      "name": "Ea Rốk",
+      "fullName": "Xã Ea Rốk, Tỉnh Đắk Lắk",
+      "slug": "ea-rok",
+      "type": "commune",
+      "postalCode": "24217"
+    },
+    {
+      "code": "01608",
+      "name": "Tân Tiến",
+      "fullName": "Xã Tân Tiến, Tỉnh Đắk Lắk",
+      "slug": "tan-tien",
+      "type": "commune",
+      "postalCode": "24526"
+    },
+    {
+      "code": "01621",
+      "name": "Ea Wy",
+      "fullName": "Xã Ea Wy, Tỉnh Đắk Lắk",
+      "slug": "ea-wy",
+      "type": "commune",
+      "postalCode": "24193"
+    },
+    {
+      "code": "01673",
+      "name": "Sơn Thành",
+      "fullName": "Xã Sơn Thành, Tỉnh Đắk Lắk",
+      "slug": "son-thanh",
+      "type": "commune",
+      "postalCode": "22250"
+    },
+    {
+      "code": "01697",
+      "name": "Xuân Lộc",
+      "fullName": "Xã Xuân Lộc, Tỉnh Đắk Lắk",
+      "slug": "xuan-loc",
+      "type": "commune",
+      "postalCode": "22057"
+    },
+    {
+      "code": "01703",
+      "name": "Cư Pui",
+      "fullName": "Xã Cư Pui, Tỉnh Đắk Lắk",
+      "slug": "cu-pui",
+      "type": "commune",
+      "postalCode": "24478"
+    },
+    {
+      "code": "01755",
+      "name": "Đồng Xuân",
+      "fullName": "Xã Đồng Xuân, Tỉnh Đắk Lắk",
+      "slug": "dong-xuan",
+      "type": "commune",
+      "postalCode": "22081"
+    },
+    {
+      "code": "01764",
+      "name": "Liên Sơn Lắk",
+      "fullName": "Xã Liên Sơn Lắk, Tỉnh Đắk Lắk",
+      "slug": "lien-son-lak",
+      "type": "commune",
+      "postalCode": "24580"
+    },
+    {
+      "code": "01790",
+      "name": "Hòa Mỹ",
+      "fullName": "Xã Hòa Mỹ, Tỉnh Đắk Lắk",
+      "slug": "hoa-my",
+      "type": "commune",
+      "postalCode": "22285"
+    },
+    {
+      "code": "01810",
+      "name": "Tuy An Bắc",
+      "fullName": "Xã Tuy An Bắc, Tỉnh Đắk Lắk",
+      "slug": "tuy-an-bac",
+      "type": "commune",
+      "postalCode": "22114"
+    },
+    {
+      "code": "01859",
+      "name": "Tam Giang",
+      "fullName": "Xã Tam Giang, Tỉnh Đắk Lắk",
+      "slug": "tam-giang",
+      "type": "commune",
+      "postalCode": "24352"
+    },
+    {
+      "code": "01865",
+      "name": "Hòa Sơn",
+      "fullName": "Xã Hòa Sơn, Tỉnh Đắk Lắk",
+      "slug": "hoa-son",
+      "type": "commune",
+      "postalCode": "24472"
+    },
+    {
+      "code": "01982",
+      "name": "Xuân Cảnh",
+      "fullName": "Xã Xuân Cảnh, Tỉnh Đắk Lắk",
+      "slug": "xuan-canh",
+      "type": "commune",
+      "postalCode": "22060"
+    },
+    {
+      "code": "01984",
+      "name": "Ea Drông",
+      "fullName": "Xã Ea Drông, Tỉnh Đắk Lắk",
+      "slug": "ea-drong",
+      "type": "commune",
+      "postalCode": "24328"
+    },
+    {
+      "code": "01991",
+      "name": "Ea Ô",
+      "fullName": "Xã Ea Ô, Tỉnh Đắk Lắk",
+      "slug": "ea-o",
+      "type": "commune",
+      "postalCode": "24403"
+    },
+    {
+      "code": "01994",
+      "name": "Sông Hinh",
+      "fullName": "Xã Sông Hinh, Tỉnh Đắk Lắk",
+      "slug": "song-hinh",
+      "type": "commune",
+      "postalCode": "22207"
+    },
+    {
+      "code": "02052",
+      "name": "Krông Bông",
+      "fullName": "Xã Krông Bông, Tỉnh Đắk Lắk",
+      "slug": "krong-bong",
+      "type": "commune",
+      "postalCode": "24448"
+    },
+    {
+      "code": "02065",
+      "name": "Hòa Xuân",
+      "fullName": "Xã Hòa Xuân, Tỉnh Đắk Lắk",
+      "slug": "hoa-xuan",
+      "type": "commune",
+      "postalCode": "22291"
+    },
+    {
+      "code": "02073",
+      "name": "Đắk Liêng",
+      "fullName": "Xã Đắk Liêng, Tỉnh Đắk Lắk",
+      "slug": "dak-lieng",
+      "type": "commune",
+      "postalCode": "24595"
+    },
+    {
+      "code": "02077",
+      "name": "M’Drắk",
+      "fullName": "Xã M’Drắk, Tỉnh Đắk Lắk",
+      "slug": "mdrak",
+      "type": "commune",
+      "postalCode": "24412"
+    },
+    {
+      "code": "02161",
+      "name": "Xuân Đài",
+      "fullName": "Phường Xuân Đài, Tỉnh Đắk Lắk",
+      "slug": "xuan-dai",
+      "type": "ward",
+      "postalCode": "22076"
+    },
+    {
+      "code": "02181",
+      "name": "Dang Kang",
+      "fullName": "Xã Dang Kang, Tỉnh Đắk Lắk",
+      "slug": "dang-kang",
+      "type": "commune",
+      "postalCode": "24454"
+    },
+    {
+      "code": "02251",
+      "name": "Ea Kiết",
+      "fullName": "Xã Ea Kiết, Tỉnh Đắk Lắk",
+      "slug": "ea-kiet",
+      "type": "commune",
+      "postalCode": "24265"
+    },
+    {
+      "code": "02383",
+      "name": "Vụ Bổn",
+      "fullName": "Xã Vụ Bổn, Tỉnh Đắk Lắk",
+      "slug": "vu-bon",
+      "type": "commune",
+      "postalCode": "24529"
+    },
+    {
+      "code": "02412",
+      "name": "Cư Pơng",
+      "fullName": "Xã Cư Pơng, Tỉnh Đắk Lắk",
+      "slug": "cu-pong",
+      "type": "commune",
+      "postalCode": "24313"
+    },
+    {
+      "code": "02462",
+      "name": "Yang Mao",
+      "fullName": "Xã Yang Mao, Tỉnh Đắk Lắk",
+      "slug": "yang-mao",
+      "type": "commune",
+      "postalCode": "24484"
+    },
+    {
+      "code": "02482",
+      "name": "Cư Yang",
+      "fullName": "Xã Cư Yang, Tỉnh Đắk Lắk",
+      "slug": "cu-yang",
+      "type": "commune",
+      "postalCode": "24406"
+    },
+    {
+      "code": "02510",
+      "name": "Ea H’leo",
+      "fullName": "Xã Ea H’leo, Tỉnh Đắk Lắk",
+      "slug": "ea-hleo",
+      "type": "commune",
+      "postalCode": "24184"
+    },
+    {
+      "code": "02514",
+      "name": "Xuân Phước",
+      "fullName": "Xã Xuân Phước, Tỉnh Đắk Lắk",
+      "slug": "xuan-phuoc",
+      "type": "commune",
+      "postalCode": "22111"
+    },
+    {
+      "code": "02537",
+      "name": "Xuân Lãnh",
+      "fullName": "Xã Xuân Lãnh, Tỉnh Đắk Lắk",
+      "slug": "xuan-lanh",
+      "type": "commune",
+      "postalCode": "22090"
+    },
+    {
+      "code": "02542",
+      "name": "Đức Bình",
+      "fullName": "Xã Đức Bình, Tỉnh Đắk Lắk",
+      "slug": "duc-binh",
+      "type": "commune",
+      "postalCode": "22222"
+    },
+    {
+      "code": "02554",
+      "name": "Ea Riêng",
+      "fullName": "Xã Ea Riêng, Tỉnh Đắk Lắk",
+      "slug": "ea-rieng",
+      "type": "commune",
+      "postalCode": "24433"
+    },
+    {
+      "code": "02586",
+      "name": "Ea Păl",
+      "fullName": "Xã Ea Păl, Tỉnh Đắk Lắk",
+      "slug": "ea-pal",
+      "type": "commune",
+      "postalCode": "24400"
+    },
+    {
+      "code": "02613",
+      "name": "Đắk Phơi",
+      "fullName": "Xã Đắk Phơi, Tỉnh Đắk Lắk",
+      "slug": "dak-phoi",
+      "type": "commune",
+      "postalCode": "24598"
+    },
+    {
+      "code": "02673",
+      "name": "Cư Prao",
+      "fullName": "Xã Cư Prao, Tỉnh Đắk Lắk",
+      "slug": "cu-prao",
+      "type": "commune",
+      "postalCode": "24415"
+    },
+    {
+      "code": "02680",
+      "name": "Cư M’ta",
+      "fullName": "Xã Cư M’ta, Tỉnh Đắk Lắk",
+      "slug": "cu-mta",
+      "type": "commune",
+      "postalCode": "24436"
+    },
+    {
+      "code": "02714",
+      "name": "Tuy An Tây",
+      "fullName": "Xã Tuy An Tây, Tỉnh Đắk Lắk",
+      "slug": "tuy-an-tay",
+      "type": "commune",
+      "postalCode": "22132"
+    },
+    {
+      "code": "02715",
+      "name": "Krông Á",
+      "fullName": "Xã Krông Á, Tỉnh Đắk Lắk",
+      "slug": "krong-a",
+      "type": "commune",
+      "postalCode": "24444"
+    },
+    {
+      "code": "02737",
+      "name": "Dur Kmăl",
+      "fullName": "Xã Dur Kmăl, Tỉnh Đắk Lắk",
+      "slug": "dur-kmal",
+      "type": "commune",
+      "postalCode": "24568"
+    },
+    {
+      "code": "02771",
+      "name": "Ea Ly",
+      "fullName": "Xã Ea Ly, Tỉnh Đắk Lắk",
+      "slug": "ea-ly",
+      "type": "commune",
+      "postalCode": "22237"
+    },
+    {
+      "code": "02809",
+      "name": "Suối Trai",
+      "fullName": "Xã Suối Trai, Tỉnh Đắk Lắk",
+      "slug": "suoi-trai",
+      "type": "commune",
+      "postalCode": "22192"
+    },
+    {
+      "code": "02837",
+      "name": "Tây Sơn",
+      "fullName": "Xã Tây Sơn, Tỉnh Đắk Lắk",
+      "slug": "tay-son",
+      "type": "commune",
+      "postalCode": "22171"
+    },
+    {
+      "code": "02861",
+      "name": "Xuân Thọ",
+      "fullName": "Xã Xuân Thọ, Tỉnh Đắk Lắk",
+      "slug": "xuan-tho",
+      "type": "commune",
+      "postalCode": "22075"
+    },
+    {
+      "code": "02898",
+      "name": "Krông Nô",
+      "fullName": "Xã Krông Nô, Tỉnh Đắk Lắk",
+      "slug": "krong-no",
+      "type": "commune",
+      "postalCode": "24604"
+    },
+    {
+      "code": "02939",
+      "name": "Ea Bung",
+      "fullName": "Xã Ea Bung, Tỉnh Đắk Lắk",
+      "slug": "ea-bung",
+      "type": "commune",
+      "postalCode": "24229"
+    },
+    {
+      "code": "02995",
+      "name": "Phú Mỡ",
+      "fullName": "Xã Phú Mỡ, Tỉnh Đắk Lắk",
+      "slug": "phu-mo",
+      "type": "commune",
+      "postalCode": "22096"
+    },
+    {
+      "code": "03043",
+      "name": "Ea Bá",
+      "fullName": "Xã Ea Bá, Tỉnh Đắk Lắk",
+      "slug": "ea-ba",
+      "type": "commune",
+      "postalCode": "22225"
+    },
+    {
+      "code": "03133",
+      "name": "Ia Rvê",
+      "fullName": "Xã Ia Rvê, Tỉnh Đắk Lắk",
+      "slug": "ia-rve",
+      "type": "commune",
+      "postalCode": "24221"
+    },
+    {
+      "code": "03144",
+      "name": "Vân Hòa",
+      "fullName": "Xã Vân Hòa, Tỉnh Đắk Lắk",
+      "slug": "van-hoa",
+      "type": "commune",
+      "postalCode": "22177"
+    },
+    {
+      "code": "03151",
+      "name": "Ea Trang",
+      "fullName": "Xã Ea Trang, Tỉnh Đắk Lắk",
+      "slug": "ea-trang",
+      "type": "commune",
+      "postalCode": "24445"
+    },
+    {
+      "code": "03152",
+      "name": "Buôn Đôn",
+      "fullName": "Xã Buôn Đôn, Tỉnh Đắk Lắk",
+      "slug": "buon-don",
+      "type": "commune",
+      "postalCode": "24235"
+    },
+    {
+      "code": "03164",
+      "name": "Ia Lốp",
+      "fullName": "Xã Ia Lốp, Tỉnh Đắk Lắk",
+      "slug": "ia-lop",
+      "type": "commune",
+      "postalCode": "24214"
+    },
+    {
+      "code": "03168",
+      "name": "Nam Ka",
+      "fullName": "Xã Nam Ka, Tỉnh Đắk Lắk",
+      "slug": "nam-ka",
+      "type": "commune",
+      "postalCode": "24607"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Tuy Hoà",
+      "slug": "thanh-pho-tuy-hoa",
+      "wards": [
+        {
+          "code": "22015",
+          "name": "Tuy Hòa",
+          "fullName": "Phường Tuy Hòa, Tỉnh Đắk Lắk",
+          "slug": "tuy-hoa",
+          "postalCode": "22015"
+        },
+        {
+          "code": "22045",
+          "name": "Bình Kiến",
+          "fullName": "Phường Bình Kiến, Tỉnh Đắk Lắk",
+          "slug": "binh-kien",
+          "postalCode": "22045"
+        },
+        {
+          "code": "22240",
+          "name": "Phú Yên",
+          "fullName": "Phường Phú Yên, Tỉnh Đắk Lắk",
+          "slug": "phu-yen",
+          "postalCode": "22240"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phú Hoà",
+      "slug": "huyen-phu-hoa",
+      "wards": [
+        {
+          "code": "22015",
+          "name": "Tuy Hòa",
+          "fullName": "Phường Tuy Hòa, Tỉnh Đắk Lắk",
+          "slug": "tuy-hoa",
+          "postalCode": "22015"
+        },
+        {
+          "code": "22303",
+          "name": "Phú Hòa 2",
+          "fullName": "Xã Phú Hòa 2, Tỉnh Đắk Lắk",
+          "slug": "phu-hoa-2",
+          "postalCode": "22303"
+        },
+        {
+          "code": "22319",
+          "name": "Phú Hòa 1",
+          "fullName": "Xã Phú Hòa 1, Tỉnh Đắk Lắk",
+          "slug": "phu-hoa-1",
+          "postalCode": "22319"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Sông Cầu",
+      "slug": "thi-xa-song-cau",
+      "wards": [
+        {
+          "code": "22051",
+          "name": "Sông Cầu",
+          "fullName": "Phường Sông Cầu, Tỉnh Đắk Lắk",
+          "slug": "song-cau",
+          "postalCode": "22051"
+        },
+        {
+          "code": "22057",
+          "name": "Xuân Lộc",
+          "fullName": "Xã Xuân Lộc, Tỉnh Đắk Lắk",
+          "slug": "xuan-loc",
+          "postalCode": "22057"
+        },
+        {
+          "code": "22060",
+          "name": "Xuân Cảnh",
+          "fullName": "Xã Xuân Cảnh, Tỉnh Đắk Lắk",
+          "slug": "xuan-canh",
+          "postalCode": "22060"
+        },
+        {
+          "code": "22075",
+          "name": "Xuân Thọ",
+          "fullName": "Xã Xuân Thọ, Tỉnh Đắk Lắk",
+          "slug": "xuan-tho",
+          "postalCode": "22075"
+        },
+        {
+          "code": "22076",
+          "name": "Xuân Đài",
+          "fullName": "Phường Xuân Đài, Tỉnh Đắk Lắk",
+          "slug": "xuan-dai",
+          "postalCode": "22076"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Đông Hòa",
+      "slug": "thi-xa-dong-hoa",
+      "wards": [
+        {
+          "code": "22240",
+          "name": "Phú Yên",
+          "fullName": "Phường Phú Yên, Tỉnh Đắk Lắk",
+          "slug": "phu-yen",
+          "postalCode": "22240"
+        },
+        {
+          "code": "22258",
+          "name": "Đông Hòa",
+          "fullName": "Phường Đông Hòa, Tỉnh Đắk Lắk",
+          "slug": "dong-hoa",
+          "postalCode": "22258"
+        },
+        {
+          "code": "22261",
+          "name": "Phường Hòa Hiệp",
+          "fullName": "Phường Hòa Hiệp, Tỉnh Đắk Lắk",
+          "slug": "phuong-hoa-hiep",
+          "postalCode": "22261"
+        },
+        {
+          "code": "22291",
+          "name": "Hòa Xuân",
+          "fullName": "Xã Hòa Xuân, Tỉnh Đắk Lắk",
+          "slug": "hoa-xuan",
+          "postalCode": "22291"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tây Hoà",
+      "slug": "huyen-tay-hoa",
+      "wards": [
+        {
+          "code": "22240",
+          "name": "Phú Yên",
+          "fullName": "Phường Phú Yên, Tỉnh Đắk Lắk",
+          "slug": "phu-yen",
+          "postalCode": "22240"
+        },
+        {
+          "code": "22250",
+          "name": "Sơn Thành",
+          "fullName": "Xã Sơn Thành, Tỉnh Đắk Lắk",
+          "slug": "son-thanh",
+          "postalCode": "22250"
+        },
+        {
+          "code": "22255",
+          "name": "Tây Hòa",
+          "fullName": "Xã Tây Hòa, Tỉnh Đắk Lắk",
+          "slug": "tay-hoa",
+          "postalCode": "22255"
+        },
+        {
+          "code": "22276",
+          "name": "Hòa Thịnh",
+          "fullName": "Xã Hòa Thịnh, Tỉnh Đắk Lắk",
+          "slug": "hoa-thinh",
+          "postalCode": "22276"
+        },
+        {
+          "code": "22285",
+          "name": "Hòa Mỹ",
+          "fullName": "Xã Hòa Mỹ, Tỉnh Đắk Lắk",
+          "slug": "hoa-my",
+          "postalCode": "22285"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Buôn Ma Thuột",
+      "slug": "thanh-pho-buon-ma-thuot",
+      "wards": [
+        {
+          "code": "24121",
+          "name": "Tân Lập",
+          "fullName": "Phường Tân Lập, Tỉnh Đắk Lắk",
+          "slug": "tan-lap",
+          "postalCode": "24121"
+        },
+        {
+          "code": "24133",
+          "name": "Buôn Ma Thuột",
+          "fullName": "Phường Buôn Ma Thuột, Tỉnh Đắk Lắk",
+          "slug": "buon-ma-thuot",
+          "postalCode": "24133"
+        },
+        {
+          "code": "24154",
+          "name": "Thành Nhất",
+          "fullName": "Phường Thành Nhất, Tỉnh Đắk Lắk",
+          "slug": "thanh-nhat",
+          "postalCode": "24154"
+        },
+        {
+          "code": "24163",
+          "name": "Tân An",
+          "fullName": "Phường Tân An, Tỉnh Đắk Lắk",
+          "slug": "tan-an",
+          "postalCode": "24163"
+        },
+        {
+          "code": "24169",
+          "name": "Ea Kao",
+          "fullName": "Phường Ea Kao, Tỉnh Đắk Lắk",
+          "slug": "ea-kao",
+          "postalCode": "24169"
+        },
+        {
+          "code": "24175",
+          "name": "Hòa Phú",
+          "fullName": "Xã Hòa Phú, Tỉnh Đắk Lắk",
+          "slug": "hoa-phu",
+          "postalCode": "24175"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Buôn Hồ",
+      "slug": "thi-xa-buon-ho",
+      "wards": [
+        {
+          "code": "24305",
+          "name": "Buôn Hồ",
+          "fullName": "Phường Buôn Hồ, Tỉnh Đắk Lắk",
+          "slug": "buon-ho",
+          "postalCode": "24305"
+        },
+        {
+          "code": "24328",
+          "name": "Ea Drông",
+          "fullName": "Xã Ea Drông, Tỉnh Đắk Lắk",
+          "slug": "ea-drong",
+          "postalCode": "24328"
+        },
+        {
+          "code": "24340",
+          "name": "Cư Bao",
+          "fullName": "Phường Cư Bao, Tỉnh Đắk Lắk",
+          "slug": "cu-bao",
+          "postalCode": "24340"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đồng Xuân",
+      "slug": "huyen-dong-xuan",
+      "wards": [
+        {
+          "code": "22081",
+          "name": "Đồng Xuân",
+          "fullName": "Xã Đồng Xuân, Tỉnh Đắk Lắk",
+          "slug": "dong-xuan",
+          "postalCode": "22081"
+        },
+        {
+          "code": "22090",
+          "name": "Xuân Lãnh",
+          "fullName": "Xã Xuân Lãnh, Tỉnh Đắk Lắk",
+          "slug": "xuan-lanh",
+          "postalCode": "22090"
+        },
+        {
+          "code": "22096",
+          "name": "Phú Mỡ",
+          "fullName": "Xã Phú Mỡ, Tỉnh Đắk Lắk",
+          "slug": "phu-mo",
+          "postalCode": "22096"
+        },
+        {
+          "code": "22111",
+          "name": "Xuân Phước",
+          "fullName": "Xã Xuân Phước, Tỉnh Đắk Lắk",
+          "slug": "xuan-phuoc",
+          "postalCode": "22111"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tuy An",
+      "slug": "huyen-tuy-an",
+      "wards": [
+        {
+          "code": "22114",
+          "name": "Tuy An Bắc",
+          "fullName": "Xã Tuy An Bắc, Tỉnh Đắk Lắk",
+          "slug": "tuy-an-bac",
+          "postalCode": "22114"
+        },
+        {
+          "code": "22120",
+          "name": "Tuy An Đông",
+          "fullName": "Xã Tuy An Đông, Tỉnh Đắk Lắk",
+          "slug": "tuy-an-dong",
+          "postalCode": "22120"
+        },
+        {
+          "code": "22132",
+          "name": "Tuy An Tây",
+          "fullName": "Xã Tuy An Tây, Tỉnh Đắk Lắk",
+          "slug": "tuy-an-tay",
+          "postalCode": "22132"
+        },
+        {
+          "code": "22147",
+          "name": "Ô Loan",
+          "fullName": "Xã Ô Loan, Tỉnh Đắk Lắk",
+          "slug": "o-loan",
+          "postalCode": "22147"
+        },
+        {
+          "code": "22153",
+          "name": "Tuy An Nam",
+          "fullName": "Xã Tuy An Nam, Tỉnh Đắk Lắk",
+          "slug": "tuy-an-nam",
+          "postalCode": "22153"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sơn Hòa",
+      "slug": "huyen-son-hoa",
+      "wards": [
+        {
+          "code": "22165",
+          "name": "Sơn Hòa",
+          "fullName": "Xã Sơn Hòa, Tỉnh Đắk Lắk",
+          "slug": "son-hoa",
+          "postalCode": "22165"
+        },
+        {
+          "code": "22171",
+          "name": "Tây Sơn",
+          "fullName": "Xã Tây Sơn, Tỉnh Đắk Lắk",
+          "slug": "tay-son",
+          "postalCode": "22171"
+        },
+        {
+          "code": "22177",
+          "name": "Vân Hòa",
+          "fullName": "Xã Vân Hòa, Tỉnh Đắk Lắk",
+          "slug": "van-hoa",
+          "postalCode": "22177"
+        },
+        {
+          "code": "22192",
+          "name": "Suối Trai",
+          "fullName": "Xã Suối Trai, Tỉnh Đắk Lắk",
+          "slug": "suoi-trai",
+          "postalCode": "22192"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sông Hinh",
+      "slug": "huyen-song-hinh",
+      "wards": [
+        {
+          "code": "22207",
+          "name": "Sông Hinh",
+          "fullName": "Xã Sông Hinh, Tỉnh Đắk Lắk",
+          "slug": "song-hinh",
+          "postalCode": "22207"
+        },
+        {
+          "code": "22222",
+          "name": "Đức Bình",
+          "fullName": "Xã Đức Bình, Tỉnh Đắk Lắk",
+          "slug": "duc-binh",
+          "postalCode": "22222"
+        },
+        {
+          "code": "22225",
+          "name": "Ea Bá",
+          "fullName": "Xã Ea Bá, Tỉnh Đắk Lắk",
+          "slug": "ea-ba",
+          "postalCode": "22225"
+        },
+        {
+          "code": "22237",
+          "name": "Ea Ly",
+          "fullName": "Xã Ea Ly, Tỉnh Đắk Lắk",
+          "slug": "ea-ly",
+          "postalCode": "22237"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ea H'leo",
+      "slug": "huyen-ea-hleo",
+      "wards": [
+        {
+          "code": "24181",
+          "name": "Ea Drăng",
+          "fullName": "Xã Ea Drăng, Tỉnh Đắk Lắk",
+          "slug": "ea-drang",
+          "postalCode": "24181"
+        },
+        {
+          "code": "24184",
+          "name": "Ea H'Leo",
+          "fullName": "Xã Ea H'Leo, Tỉnh Đắk Lắk",
+          "slug": "ea-hleo",
+          "postalCode": "24184"
+        },
+        {
+          "code": "24187",
+          "name": "Ea Hiao",
+          "fullName": "Xã Ea Hiao, Tỉnh Đắk Lắk",
+          "slug": "ea-hiao",
+          "postalCode": "24187"
+        },
+        {
+          "code": "24193",
+          "name": "Ea Wy",
+          "fullName": "Xã Ea Wy, Tỉnh Đắk Lắk",
+          "slug": "ea-wy",
+          "postalCode": "24193"
+        },
+        {
+          "code": "24208",
+          "name": "Ea Khăl",
+          "fullName": "Xã Ea Khăl, Tỉnh Đắk Lắk",
+          "slug": "ea-khal",
+          "postalCode": "24208"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ea Súp",
+      "slug": "huyen-ea-sup",
+      "wards": [
+        {
+          "code": "24211",
+          "name": "Ea Súp",
+          "fullName": "Xã Ea Súp, Tỉnh Đắk Lắk",
+          "slug": "ea-sup",
+          "postalCode": "24211"
+        },
+        {
+          "code": "24214",
+          "name": "Ia Lốp",
+          "fullName": "Xã Ia Lốp, Tỉnh Đắk Lắk",
+          "slug": "ia-lop",
+          "postalCode": "24214"
+        },
+        {
+          "code": "24217",
+          "name": "Ea Rốk",
+          "fullName": "Xã Ea Rốk, Tỉnh Đắk Lắk",
+          "slug": "ea-rok",
+          "postalCode": "24217"
+        },
+        {
+          "code": "24221",
+          "name": "Ia Rvê",
+          "fullName": "Xã Ia Rvê, Tỉnh Đắk Lắk",
+          "slug": "ia-rve",
+          "postalCode": "24221"
+        },
+        {
+          "code": "24229",
+          "name": "Ea Bung",
+          "fullName": "Xã Ea Bung, Tỉnh Đắk Lắk",
+          "slug": "ea-bung",
+          "postalCode": "24229"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Buôn Đôn",
+      "slug": "huyen-buon-don",
+      "wards": [
+        {
+          "code": "24235",
+          "name": "Buôn Đôn",
+          "fullName": "Xã Buôn Đôn, Tỉnh Đắk Lắk",
+          "slug": "buon-don",
+          "postalCode": "24235"
+        },
+        {
+          "code": "24241",
+          "name": "Ea Wer",
+          "fullName": "Xã Ea Wer, Tỉnh Đắk Lắk",
+          "slug": "ea-wer",
+          "postalCode": "24241"
+        },
+        {
+          "code": "24250",
+          "name": "Ea Nuôl",
+          "fullName": "Xã Ea Nuôl, Tỉnh Đắk Lắk",
+          "slug": "ea-nuol",
+          "postalCode": "24250"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cư M'gar",
+      "slug": "huyen-cu-mgar",
+      "wards": [
+        {
+          "code": "24259",
+          "name": "Quảng Phú",
+          "fullName": "Xã Quảng Phú, Tỉnh Đắk Lắk",
+          "slug": "quang-phu",
+          "postalCode": "24259"
+        },
+        {
+          "code": "24265",
+          "name": "Ea Kiết",
+          "fullName": "Xã Ea Kiết, Tỉnh Đắk Lắk",
+          "slug": "ea-kiet",
+          "postalCode": "24265"
+        },
+        {
+          "code": "24277",
+          "name": "Ea Tul",
+          "fullName": "Xã Ea Tul, Tỉnh Đắk Lắk",
+          "slug": "ea-tul",
+          "postalCode": "24277"
+        },
+        {
+          "code": "24280",
+          "name": "Cư M'gar",
+          "fullName": "Xã Cư M'gar, Tỉnh Đắk Lắk",
+          "slug": "cu-mgar",
+          "postalCode": "24280"
+        },
+        {
+          "code": "24286",
+          "name": "Ea M'Droh",
+          "fullName": "Xã Ea M'Droh, Tỉnh Đắk Lắk",
+          "slug": "ea-mdroh",
+          "postalCode": "24286"
+        },
+        {
+          "code": "24301",
+          "name": "Cuôr Đăng",
+          "fullName": "Xã Cuôr Đăng, Tỉnh Đắk Lắk",
+          "slug": "cuor-dang",
+          "postalCode": "24301"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Krông Búk",
+      "slug": "huyen-krong-buk",
+      "wards": [
+        {
+          "code": "24310",
+          "name": "Krông Búk",
+          "fullName": "Xã Krông Búk, Tỉnh Đắk Lắk",
+          "slug": "krong-buk",
+          "postalCode": "24310"
+        },
+        {
+          "code": "24313",
+          "name": "Cư Pơng",
+          "fullName": "Xã Cư Pơng, Tỉnh Đắk Lắk",
+          "slug": "cu-pong",
+          "postalCode": "24313"
+        },
+        {
+          "code": "24316",
+          "name": "Pơng Drang",
+          "fullName": "Xã Pơng Drang, Tỉnh Đắk Lắk",
+          "slug": "pong-drang",
+          "postalCode": "24316"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Krông Năng",
+      "slug": "huyen-krong-nang",
+      "wards": [
+        {
+          "code": "24343",
+          "name": "Krông Năng",
+          "fullName": "Xã Krông Năng, Tỉnh Đắk Lắk",
+          "slug": "krong-nang",
+          "postalCode": "24343"
+        },
+        {
+          "code": "24346",
+          "name": "Dliê Ya",
+          "fullName": "Xã Dliê Ya, Tỉnh Đắk Lắk",
+          "slug": "dlie-ya",
+          "postalCode": "24346"
+        },
+        {
+          "code": "24352",
+          "name": "Tam Giang",
+          "fullName": "Xã Tam Giang, Tỉnh Đắk Lắk",
+          "slug": "tam-giang",
+          "postalCode": "24352"
+        },
+        {
+          "code": "24364",
+          "name": "Phú Xuân",
+          "fullName": "Xã Phú Xuân, Tỉnh Đắk Lắk",
+          "slug": "phu-xuan",
+          "postalCode": "24364"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Ea Kar",
+      "slug": "huyen-ea-kar",
+      "wards": [
+        {
+          "code": "24373",
+          "name": "Ea Kar",
+          "fullName": "Xã Ea Kar, Tỉnh Đắk Lắk",
+          "slug": "ea-kar",
+          "postalCode": "24373"
+        },
+        {
+          "code": "24376",
+          "name": "Ea Knốp",
+          "fullName": "Xã Ea Knốp, Tỉnh Đắk Lắk",
+          "slug": "ea-knop",
+          "postalCode": "24376"
+        },
+        {
+          "code": "24400",
+          "name": "Ea Păl",
+          "fullName": "Xã Ea Păl, Tỉnh Đắk Lắk",
+          "slug": "ea-pal",
+          "postalCode": "24400"
+        },
+        {
+          "code": "24403",
+          "name": "Ea Ô",
+          "fullName": "Xã Ea Ô, Tỉnh Đắk Lắk",
+          "slug": "ea-o",
+          "postalCode": "24403"
+        },
+        {
+          "code": "24406",
+          "name": "Cư Yang",
+          "fullName": "Xã Cư Yang, Tỉnh Đắk Lắk",
+          "slug": "cu-yang",
+          "postalCode": "24406"
+        }
+      ]
+    },
+    {
+      "name": "Huyện M'Đrắk",
+      "slug": "huyen-mdrak",
+      "wards": [
+        {
+          "code": "24412",
+          "name": "M'Drắk",
+          "fullName": "Xã M'Drắk, Tỉnh Đắk Lắk",
+          "slug": "mdrak",
+          "postalCode": "24412"
+        },
+        {
+          "code": "24415",
+          "name": "Cư Prao",
+          "fullName": "Xã Cư Prao, Tỉnh Đắk Lắk",
+          "slug": "cu-prao",
+          "postalCode": "24415"
+        },
+        {
+          "code": "24433",
+          "name": "Ea Riêng",
+          "fullName": "Xã Ea Riêng, Tỉnh Đắk Lắk",
+          "slug": "ea-rieng",
+          "postalCode": "24433"
+        },
+        {
+          "code": "24436",
+          "name": "Cư M'ta",
+          "fullName": "Xã Cư M'ta, Tỉnh Đắk Lắk",
+          "slug": "cu-mta",
+          "postalCode": "24436"
+        },
+        {
+          "code": "24444",
+          "name": "Krông Á",
+          "fullName": "Xã Krông Á, Tỉnh Đắk Lắk",
+          "slug": "krong-a",
+          "postalCode": "24444"
+        },
+        {
+          "code": "24445",
+          "name": "Ea Trang",
+          "fullName": "Xã Ea Trang, Tỉnh Đắk Lắk",
+          "slug": "ea-trang",
+          "postalCode": "24445"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Krông Bông",
+      "slug": "huyen-krong-bong",
+      "wards": [
+        {
+          "code": "24448",
+          "name": "Krông Bông",
+          "fullName": "Xã Krông Bông, Tỉnh Đắk Lắk",
+          "slug": "krong-bong",
+          "postalCode": "24448"
+        },
+        {
+          "code": "24454",
+          "name": "Dang Kang",
+          "fullName": "Xã Dang Kang, Tỉnh Đắk Lắk",
+          "slug": "dang-kang",
+          "postalCode": "24454"
+        },
+        {
+          "code": "24472",
+          "name": "Hòa Sơn",
+          "fullName": "Xã Hòa Sơn, Tỉnh Đắk Lắk",
+          "slug": "hoa-son",
+          "postalCode": "24472"
+        },
+        {
+          "code": "24478",
+          "name": "Cư Pui",
+          "fullName": "Xã Cư Pui, Tỉnh Đắk Lắk",
+          "slug": "cu-pui",
+          "postalCode": "24478"
+        },
+        {
+          "code": "24484",
+          "name": "Yang Mao",
+          "fullName": "Xã Yang Mao, Tỉnh Đắk Lắk",
+          "slug": "yang-mao",
+          "postalCode": "24484"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Krông Pắc",
+      "slug": "huyen-krong-pac",
+      "wards": [
+        {
+          "code": "24490",
+          "name": "Krông Pắc",
+          "fullName": "Xã Krông Pắc, Tỉnh Đắk Lắk",
+          "slug": "krong-pac",
+          "postalCode": "24490"
+        },
+        {
+          "code": "24496",
+          "name": "Xa Ea Kly",
+          "fullName": "Xa Ea Kly, Tỉnh Đắk Lắk",
+          "slug": "xa-ea-kly",
+          "postalCode": "24496"
+        },
+        {
+          "code": "24502",
+          "name": "Ea Phê",
+          "fullName": "Xã Ea Phê, Tỉnh Đắk Lắk",
+          "slug": "ea-phe",
+          "postalCode": "24502"
+        },
+        {
+          "code": "24505",
+          "name": "Ea Knuếc",
+          "fullName": "Xã Ea Knuếc, Tỉnh Đắk Lắk",
+          "slug": "ea-knuec",
+          "postalCode": "24505"
+        },
+        {
+          "code": "24526",
+          "name": "Tân Tiến",
+          "fullName": "Xã Tân Tiến, Tỉnh Đắk Lắk",
+          "slug": "tan-tien",
+          "postalCode": "24526"
+        },
+        {
+          "code": "24529",
+          "name": "Vụ Bổn",
+          "fullName": "Xã Vụ Bổn, Tỉnh Đắk Lắk",
+          "slug": "vu-bon",
+          "postalCode": "24529"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Krông A Na",
+      "slug": "huyen-krong-a-na",
+      "wards": [
+        {
+          "code": "24538",
+          "name": "Krông Ana",
+          "fullName": "Xã Krông Ana, Tỉnh Đắk Lắk",
+          "slug": "krong-ana",
+          "postalCode": "24538"
+        },
+        {
+          "code": "24559",
+          "name": "Ea Na",
+          "fullName": "Xã Ea Na, Tỉnh Đắk Lắk",
+          "slug": "ea-na",
+          "postalCode": "24559"
+        },
+        {
+          "code": "24568",
+          "name": "Dur Kmăl",
+          "fullName": "Xã Dur Kmăl, Tỉnh Đắk Lắk",
+          "slug": "dur-kmal",
+          "postalCode": "24568"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cư Kuin",
+      "slug": "huyen-cu-kuin",
+      "wards": [
+        {
+          "code": "24540",
+          "name": "Ea Ning",
+          "fullName": "Xã Ea Ning, Tỉnh Đắk Lắk",
+          "slug": "ea-ning",
+          "postalCode": "24540"
+        },
+        {
+          "code": "24544",
+          "name": "Ea Ktur",
+          "fullName": "Xã Ea Ktur, Tỉnh Đắk Lắk",
+          "slug": "ea-ktur",
+          "postalCode": "24544"
+        },
+        {
+          "code": "24561",
+          "name": "Dray Bhăng",
+          "fullName": "Xã Dray Bhăng, Tỉnh Đắk Lắk",
+          "slug": "dray-bhang",
+          "postalCode": "24561"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lắk",
+      "slug": "huyen-lak",
+      "wards": [
+        {
+          "code": "24580",
+          "name": "Liên Sơn Lắk",
+          "fullName": "Xã Liên Sơn Lắk, Tỉnh Đắk Lắk",
+          "slug": "lien-son-lak",
+          "postalCode": "24580"
+        },
+        {
+          "code": "24595",
+          "name": "Đắk Liêng",
+          "fullName": "Xã Đắk Liêng, Tỉnh Đắk Lắk",
+          "slug": "dak-lieng",
+          "postalCode": "24595"
+        },
+        {
+          "code": "24598",
+          "name": "Đắk Phơi",
+          "fullName": "Xã Đắk Phơi, Tỉnh Đắk Lắk",
+          "slug": "dak-phoi",
+          "postalCode": "24598"
+        },
+        {
+          "code": "24604",
+          "name": "Krông Nô",
+          "fullName": "Xã Krông Nô, Tỉnh Đắk Lắk",
+          "slug": "krong-no",
+          "postalCode": "24604"
+        },
+        {
+          "code": "24607",
+          "name": "Nam Ka",
+          "fullName": "Xã Nam Ka, Tỉnh Đắk Lắk",
+          "slug": "nam-ka",
+          "postalCode": "24607"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2445 @@
+{
+  "code": "06",
+  "name": "Phú Thọ",
+  "slug": "phu-tho",
+  "type": "province",
+  "isCentral": false,
+  "fullName": "Tỉnh Phú Thọ",
+  "wards": [
+    {
+      "code": "00202",
+      "name": "Hoà Bình",
+      "fullName": "Phường Hoà Bình, Tỉnh Phú Thọ",
+      "slug": "hoa-binh",
+      "type": "ward",
+      "postalCode": "04795"
+    },
+    {
+      "code": "00205",
+      "name": "Vĩnh Phúc",
+      "fullName": "Phường Vĩnh Phúc, Tỉnh Phú Thọ",
+      "slug": "vinh-phuc",
+      "type": "ward",
+      "postalCode": "08716"
+    },
+    {
+      "code": "00247",
+      "name": "Việt Trì",
+      "fullName": "Phường Việt Trì, Tỉnh Phú Thọ",
+      "slug": "viet-tri",
+      "type": "ward",
+      "postalCode": "07900"
+    },
+    {
+      "code": "00338",
+      "name": "Phúc Yên",
+      "fullName": "Phường Phúc Yên, Tỉnh Phú Thọ",
+      "slug": "phuc-yen",
+      "type": "ward",
+      "postalCode": "08740"
+    },
+    {
+      "code": "00417",
+      "name": "Thanh Miếu",
+      "fullName": "Phường Thanh Miếu, Tỉnh Phú Thọ",
+      "slug": "thanh-mieu",
+      "type": "ward",
+      "postalCode": "07909"
+    },
+    {
+      "code": "00428",
+      "name": "Nông Trang",
+      "fullName": "Phường Nông Trang, Tỉnh Phú Thọ",
+      "slug": "nong-trang",
+      "type": "ward",
+      "postalCode": "07894"
+    },
+    {
+      "code": "00444",
+      "name": "Vĩnh Yên",
+      "fullName": "Phường Vĩnh Yên, Tỉnh Phú Thọ",
+      "slug": "vinh-yen",
+      "type": "ward",
+      "postalCode": "08707"
+    },
+    {
+      "code": "00462",
+      "name": "Xuân Hòa",
+      "fullName": "Phường Xuân Hòa, Tỉnh Phú Thọ",
+      "slug": "xuan-hoa",
+      "type": "ward",
+      "postalCode": "08746"
+    },
+    {
+      "code": "00581",
+      "name": "Vĩnh Phú",
+      "fullName": "Xã Vĩnh Phú, Tỉnh Phú Thọ",
+      "slug": "vinh-phu",
+      "type": "commune",
+      "postalCode": "08716"
+    },
+    {
+      "code": "00627",
+      "name": "Xuân Lãng",
+      "fullName": "Xã Xuân Lãng, Tỉnh Phú Thọ",
+      "slug": "xuan-lang",
+      "type": "commune",
+      "postalCode": "08971"
+    },
+    {
+      "code": "00630",
+      "name": "Tam Dương",
+      "fullName": "Xã Tam Dương, Tỉnh Phú Thọ",
+      "slug": "tam-duong",
+      "type": "commune",
+      "postalCode": "08869"
+    },
+    {
+      "code": "00644",
+      "name": "Vĩnh Tường",
+      "fullName": "Xã Vĩnh Tường, Tỉnh Phú Thọ",
+      "slug": "vinh-tuong",
+      "type": "commune",
+      "postalCode": "09076"
+    },
+    {
+      "code": "00654",
+      "name": "Cẩm Khê",
+      "fullName": "Xã Cẩm Khê, Tỉnh Phú Thọ",
+      "slug": "cam-khe",
+      "type": "commune",
+      "postalCode": "08341"
+    },
+    {
+      "code": "00678",
+      "name": "Bình Nguyên",
+      "fullName": "Xã Bình Nguyên, Tỉnh Phú Thọ",
+      "slug": "binh-nguyen",
+      "type": "commune",
+      "postalCode": "08935"
+    },
+    {
+      "code": "00709",
+      "name": "Lương Sơn",
+      "fullName": "Xã Lương Sơn, Tỉnh Phú Thọ",
+      "slug": "luong-son",
+      "type": "commune",
+      "postalCode": "04924"
+    },
+    {
+      "code": "00718",
+      "name": "Phù Ninh",
+      "fullName": "Xã Phù Ninh, Tỉnh Phú Thọ",
+      "slug": "phu-ninh",
+      "type": "commune",
+      "postalCode": "08230"
+    },
+    {
+      "code": "00781",
+      "name": "Thổ Tang",
+      "fullName": "Xã Thổ Tang, Tỉnh Phú Thọ",
+      "slug": "tho-tang",
+      "type": "commune",
+      "postalCode": "09112"
+    },
+    {
+      "code": "00825",
+      "name": "Tân Lạc",
+      "fullName": "Xã Tân Lạc, Tỉnh Phú Thọ",
+      "slug": "tan-lac",
+      "type": "commune",
+      "postalCode": "05128"
+    },
+    {
+      "code": "00833",
+      "name": "Tu Vũ",
+      "fullName": "Xã Tu Vũ, Tỉnh Phú Thọ",
+      "slug": "tu-vu",
+      "type": "commune",
+      "postalCode": "08686"
+    },
+    {
+      "code": "00855",
+      "name": "Phùng Nguyên",
+      "fullName": "Xã Phùng Nguyên, Tỉnh Phú Thọ",
+      "slug": "phung-nguyen",
+      "type": "commune",
+      "postalCode": "08521"
+    },
+    {
+      "code": "00892",
+      "name": "Tam Hồng",
+      "fullName": "Xã Tam Hồng, Tỉnh Phú Thọ",
+      "slug": "tam-hong",
+      "type": "commune",
+      "postalCode": "09043"
+    },
+    {
+      "code": "00926",
+      "name": "Yên Lạc",
+      "fullName": "Xã Yên Lạc, Tỉnh Phú Thọ",
+      "slug": "yen-lac",
+      "type": "commune",
+      "postalCode": "09025"
+    },
+    {
+      "code": "00965",
+      "name": "Vĩnh Hưng",
+      "fullName": "Xã Vĩnh Hưng, Tỉnh Phú Thọ",
+      "slug": "vinh-hung",
+      "type": "commune",
+      "postalCode": "09100"
+    },
+    {
+      "code": "00968",
+      "name": "Thanh Sơn",
+      "fullName": "Xã Thanh Sơn, Tỉnh Phú Thọ",
+      "slug": "thanh-son",
+      "type": "commune",
+      "postalCode": "08542"
+    },
+    {
+      "code": "00979",
+      "name": "Chân Mộng",
+      "fullName": "Xã Chân Mộng, Tỉnh Phú Thọ",
+      "slug": "chan-mong",
+      "type": "commune",
+      "postalCode": "08038"
+    },
+    {
+      "code": "01005",
+      "name": "Tiên Lương",
+      "fullName": "Xã Tiên Lương, Tỉnh Phú Thọ",
+      "slug": "tien-luong",
+      "type": "commune",
+      "postalCode": "08344"
+    },
+    {
+      "code": "01036",
+      "name": "Vân Phú",
+      "fullName": "Phường Vân Phú, Tỉnh Phú Thọ",
+      "slug": "van-phu",
+      "type": "ward",
+      "postalCode": "07918"
+    },
+    {
+      "code": "01045",
+      "name": "Tam Dương Bắc",
+      "fullName": "Xã Tam Dương Bắc, Tỉnh Phú Thọ",
+      "slug": "tam-duong-bac",
+      "type": "commune",
+      "postalCode": "08872"
+    },
+    {
+      "code": "01048",
+      "name": "Tề Lỗ",
+      "fullName": "Xã Tề Lỗ, Tỉnh Phú Thọ",
+      "slug": "te-lo",
+      "type": "commune",
+      "postalCode": "09040"
+    },
+    {
+      "code": "01054",
+      "name": "Hội Thịnh",
+      "fullName": "Xã Hội Thịnh, Tỉnh Phú Thọ",
+      "slug": "hoi-thinh",
+      "type": "commune",
+      "postalCode": "08905"
+    },
+    {
+      "code": "01077",
+      "name": "Cao Dương",
+      "fullName": "Xã Cao Dương, Tỉnh Phú Thọ",
+      "slug": "cao-duong",
+      "type": "commune",
+      "postalCode": "05047"
+    },
+    {
+      "code": "01119",
+      "name": "Sơn Đông",
+      "fullName": "Xã Sơn Đông, Tỉnh Phú Thọ",
+      "slug": "son-dong",
+      "type": "commune",
+      "postalCode": "08866"
+    },
+    {
+      "code": "01127",
+      "name": "Kim Bôi",
+      "fullName": "Xã Kim Bôi, Tỉnh Phú Thọ",
+      "slug": "kim-boi",
+      "type": "commune",
+      "postalCode": "04978"
+    },
+    {
+      "code": "01184",
+      "name": "Liên Châu",
+      "fullName": "Xã Liên Châu, Tỉnh Phú Thọ",
+      "slug": "lien-chau",
+      "type": "commune",
+      "postalCode": "09064"
+    },
+    {
+      "code": "01185",
+      "name": "Vĩnh Thành",
+      "fullName": "Xã Vĩnh Thành, Tỉnh Phú Thọ",
+      "slug": "vinh-thanh",
+      "type": "commune",
+      "postalCode": "09106"
+    },
+    {
+      "code": "01191",
+      "name": "Tam Đảo",
+      "fullName": "Xã Tam Đảo, Tỉnh Phú Thọ",
+      "slug": "tam-dao",
+      "type": "commune",
+      "postalCode": "08911"
+    },
+    {
+      "code": "01198",
+      "name": "Lập Thạch",
+      "fullName": "Xã Lập Thạch, Tỉnh Phú Thọ",
+      "slug": "lap-thach",
+      "type": "commune",
+      "postalCode": "08761"
+    },
+    {
+      "code": "01214",
+      "name": "Sông Lô",
+      "fullName": "Xã Sông Lô, Tỉnh Phú Thọ",
+      "slug": "song-lo",
+      "type": "commune",
+      "postalCode": "08848"
+    },
+    {
+      "code": "01223",
+      "name": "Nguyệt Đức",
+      "fullName": "Xã Nguyệt Đức, Tỉnh Phú Thọ",
+      "slug": "nguyet-duc",
+      "type": "commune",
+      "postalCode": "09052"
+    },
+    {
+      "code": "01252",
+      "name": "Bản Nguyên",
+      "fullName": "Xã Bản Nguyên, Tỉnh Phú Thọ",
+      "slug": "ban-nguyen",
+      "type": "commune",
+      "postalCode": "08527"
+    },
+    {
+      "code": "01314",
+      "name": "Vĩnh An",
+      "fullName": "Xã Vĩnh An, Tỉnh Phú Thọ",
+      "slug": "vinh-an",
+      "type": "commune",
+      "postalCode": "09079"
+    },
+    {
+      "code": "01328",
+      "name": "Tiên Lữ",
+      "fullName": "Xã Tiên Lữ, Tỉnh Phú Thọ",
+      "slug": "tien-lu",
+      "type": "commune",
+      "postalCode": "08344"
+    },
+    {
+      "code": "01337",
+      "name": "Bình Xuyên",
+      "fullName": "Xã Bình Xuyên, Tỉnh Phú Thọ",
+      "slug": "binh-xuyen",
+      "type": "commune",
+      "postalCode": "08950"
+    },
+    {
+      "code": "01339",
+      "name": "Phong Châu",
+      "fullName": "Phường Phong Châu, Tỉnh Phú Thọ",
+      "slug": "phong-chau",
+      "type": "ward",
+      "postalCode": "07954"
+    },
+    {
+      "code": "01359",
+      "name": "Đào Xá",
+      "fullName": "Xã Đào Xá, Tỉnh Phú Thọ",
+      "slug": "dao-xa",
+      "type": "commune",
+      "postalCode": "08662"
+    },
+    {
+      "code": "01377",
+      "name": "Liên Sơn",
+      "fullName": "Xã Liên Sơn, Tỉnh Phú Thọ",
+      "slug": "lien-son",
+      "type": "commune",
+      "postalCode": "04960"
+    },
+    {
+      "code": "01415",
+      "name": "Vạn Xuân",
+      "fullName": "Xã Vạn Xuân, Tỉnh Phú Thọ",
+      "slug": "van-xuan",
+      "type": "commune",
+      "postalCode": "08467"
+    },
+    {
+      "code": "01420",
+      "name": "Lâm Thao",
+      "fullName": "Xã Lâm Thao, Tỉnh Phú Thọ",
+      "slug": "lam-thao",
+      "type": "commune",
+      "postalCode": "08494"
+    },
+    {
+      "code": "01482",
+      "name": "Đoan Hùng",
+      "fullName": "Xã Đoan Hùng, Tỉnh Phú Thọ",
+      "slug": "doan-hung",
+      "type": "commune",
+      "postalCode": "07969"
+    },
+    {
+      "code": "01509",
+      "name": "Hải Lựu",
+      "fullName": "Xã Hải Lựu, Tỉnh Phú Thọ",
+      "slug": "hai-luu",
+      "type": "commune",
+      "postalCode": "08782"
+    },
+    {
+      "code": "01512",
+      "name": "Thanh Ba",
+      "fullName": "Xã Thanh Ba, Tỉnh Phú Thọ",
+      "slug": "thanh-ba",
+      "type": "commune",
+      "postalCode": "08152"
+    },
+    {
+      "code": "01525",
+      "name": "Bình Tuyền",
+      "fullName": "Xã Bình Tuyền, Tỉnh Phú Thọ",
+      "slug": "binh-tuyen",
+      "type": "commune",
+      "postalCode": "08944"
+    },
+    {
+      "code": "01542",
+      "name": "Yên Lập",
+      "fullName": "Xã Yên Lập, Tỉnh Phú Thọ",
+      "slug": "yen-lap",
+      "type": "commune",
+      "postalCode": "08290"
+    },
+    {
+      "code": "01545",
+      "name": "Bình Phú",
+      "fullName": "Xã Bình Phú, Tỉnh Phú Thọ",
+      "slug": "binh-phu",
+      "type": "commune",
+      "postalCode": "08275"
+    },
+    {
+      "code": "01592",
+      "name": "Nật Sơn",
+      "fullName": "Xã Nật Sơn, Tỉnh Phú Thọ",
+      "slug": "nat-son",
+      "type": "commune",
+      "postalCode": "04990"
+    },
+    {
+      "code": "01599",
+      "name": "Võ Miếu",
+      "fullName": "Xã Võ Miếu, Tỉnh Phú Thọ",
+      "slug": "vo-mieu",
+      "type": "commune",
+      "postalCode": "08584"
+    },
+    {
+      "code": "01601",
+      "name": "Đan Thượng",
+      "fullName": "Xã Đan Thượng, Tỉnh Phú Thọ",
+      "slug": "dan-thuong",
+      "type": "commune",
+      "postalCode": "08071"
+    },
+    {
+      "code": "01659",
+      "name": "Chí Đám",
+      "fullName": "Xã Chí Đám, Tỉnh Phú Thọ",
+      "slug": "chi-dam",
+      "type": "commune",
+      "postalCode": "07999"
+    },
+    {
+      "code": "01663",
+      "name": "Phú Thọ",
+      "fullName": "Phường Phú Thọ, Tỉnh Phú Thọ",
+      "slug": "phu-tho",
+      "type": "ward",
+      "postalCode": "07942"
+    },
+    {
+      "code": "01669",
+      "name": "Hoàng Cương",
+      "fullName": "Xã Hoàng Cương, Tỉnh Phú Thọ",
+      "slug": "hoang-cuong",
+      "type": "commune",
+      "postalCode": "08203"
+    },
+    {
+      "code": "01690",
+      "name": "Thanh Thuỷ",
+      "fullName": "Xã Thanh Thuỷ, Tỉnh Phú Thọ",
+      "slug": "thanh-thuy",
+      "type": "commune",
+      "postalCode": "08674"
+    },
+    {
+      "code": "01704",
+      "name": "An Nghĩa",
+      "fullName": "Xã An Nghĩa, Tỉnh Phú Thọ",
+      "slug": "an-nghia",
+      "type": "commune",
+      "postalCode": "05290"
+    },
+    {
+      "code": "01707",
+      "name": "Lạc Sơn",
+      "fullName": "Xã Lạc Sơn, Tỉnh Phú Thọ",
+      "slug": "lac-son",
+      "type": "commune",
+      "postalCode": "05266"
+    },
+    {
+      "code": "01708",
+      "name": "Hiền Quan",
+      "fullName": "Xã Hiền Quan, Tỉnh Phú Thọ",
+      "slug": "hien-quan",
+      "type": "commune",
+      "postalCode": "08443"
+    },
+    {
+      "code": "01747",
+      "name": "Yên Trị",
+      "fullName": "Xã Yên Trị, Tỉnh Phú Thọ",
+      "slug": "yen-tri",
+      "type": "commune",
+      "postalCode": "05386"
+    },
+    {
+      "code": "01794",
+      "name": "Tam Nông",
+      "fullName": "Xã Tam Nông, Tỉnh Phú Thọ",
+      "slug": "tam-nong",
+      "type": "commune",
+      "postalCode": "08434"
+    },
+    {
+      "code": "01815",
+      "name": "Mường Động",
+      "fullName": "Xã Mường Động, Tỉnh Phú Thọ",
+      "slug": "muong-dong",
+      "type": "commune",
+      "postalCode": "05014"
+    },
+    {
+      "code": "01821",
+      "name": "Hoàng An",
+      "fullName": "Xã Hoàng An, Tỉnh Phú Thọ",
+      "slug": "hoang-an",
+      "type": "commune",
+      "postalCode": "08896"
+    },
+    {
+      "code": "01845",
+      "name": "Phú Khê",
+      "fullName": "Xã Phú Khê, Tỉnh Phú Thọ",
+      "slug": "phu-khe",
+      "type": "commune",
+      "postalCode": "08398"
+    },
+    {
+      "code": "01855",
+      "name": "Tam Sơn",
+      "fullName": "Xã Tam Sơn, Tỉnh Phú Thọ",
+      "slug": "tam-son",
+      "type": "commune",
+      "postalCode": "08824"
+    },
+    {
+      "code": "01876",
+      "name": "Lạc Lương",
+      "fullName": "Xã Lạc Lương, Tỉnh Phú Thọ",
+      "slug": "lac-luong",
+      "type": "commune",
+      "postalCode": "05362"
+    },
+    {
+      "code": "01917",
+      "name": "Đạo Trù",
+      "fullName": "Xã Đạo Trù, Tỉnh Phú Thọ",
+      "slug": "dao-tru",
+      "type": "commune",
+      "postalCode": "08914"
+    },
+    {
+      "code": "01937",
+      "name": "Lạc Thủy",
+      "fullName": "Xã Lạc Thủy, Tỉnh Phú Thọ",
+      "slug": "lac-thuy",
+      "type": "commune",
+      "postalCode": "05392"
+    },
+    {
+      "code": "01952",
+      "name": "Đại Đồng",
+      "fullName": "Xã Đại Đồng, Tỉnh Phú Thọ",
+      "slug": "dai-dong",
+      "type": "commune",
+      "postalCode": "05347"
+    },
+    {
+      "code": "01967",
+      "name": "Minh Đài",
+      "fullName": "Xã Minh Đài, Tỉnh Phú Thọ",
+      "slug": "minh-dai",
+      "type": "commune",
+      "postalCode": "08593"
+    },
+    {
+      "code": "01981",
+      "name": "Yên Thủy",
+      "fullName": "Xã Yên Thủy, Tỉnh Phú Thọ",
+      "slug": "yen-thuy",
+      "type": "commune",
+      "postalCode": "05353"
+    },
+    {
+      "code": "01986",
+      "name": "Thái Hòa",
+      "fullName": "Xã Thái Hòa, Tỉnh Phú Thọ",
+      "slug": "thai-hoa",
+      "type": "commune",
+      "postalCode": "08788"
+    },
+    {
+      "code": "02031",
+      "name": "Liên Minh",
+      "fullName": "Xã Liên Minh, Tỉnh Phú Thọ",
+      "slug": "lien-minh",
+      "type": "commune",
+      "postalCode": "08227"
+    },
+    {
+      "code": "02033",
+      "name": "Sơn Lương",
+      "fullName": "Xã Sơn Lương, Tỉnh Phú Thọ",
+      "slug": "son-luong",
+      "type": "commune",
+      "postalCode": "08296"
+    },
+    {
+      "code": "02069",
+      "name": "Hùng Việt",
+      "fullName": "Xã Hùng Việt, Tỉnh Phú Thọ",
+      "slug": "hung-viet",
+      "type": "commune",
+      "postalCode": "08416"
+    },
+    {
+      "code": "02071",
+      "name": "Thống Nhất",
+      "fullName": "Phường Thống Nhất, Tỉnh Phú Thọ",
+      "slug": "thong-nhat",
+      "type": "ward",
+      "postalCode": "04828"
+    },
+    {
+      "code": "02086",
+      "name": "Quyết Thắng",
+      "fullName": "Xã Quyết Thắng, Tỉnh Phú Thọ",
+      "slug": "quyet-thang",
+      "type": "commune",
+      "postalCode": "05323"
+    },
+    {
+      "code": "02091",
+      "name": "Hy Cương",
+      "fullName": "Xã Hy Cương, Tỉnh Phú Thọ",
+      "slug": "hy-cuong",
+      "type": "commune",
+      "postalCode": "08515"
+    },
+    {
+      "code": "02114",
+      "name": "Hiền Lương",
+      "fullName": "Xã Hiền Lương, Tỉnh Phú Thọ",
+      "slug": "hien-luong",
+      "type": "commune",
+      "postalCode": "08110"
+    },
+    {
+      "code": "02148",
+      "name": "Hạ Hòa",
+      "fullName": "Xã Hạ Hòa, Tỉnh Phú Thọ",
+      "slug": "ha-hoa",
+      "type": "commune",
+      "postalCode": "08053"
+    },
+    {
+      "code": "02185",
+      "name": "Tây Cốc",
+      "fullName": "Xã Tây Cốc, Tỉnh Phú Thọ",
+      "slug": "tay-coc",
+      "type": "commune",
+      "postalCode": "08023"
+    },
+    {
+      "code": "02199",
+      "name": "Hợp Kim",
+      "fullName": "Xã Hợp Kim, Tỉnh Phú Thọ",
+      "slug": "hop-kim",
+      "type": "commune",
+      "postalCode": "05068"
+    },
+    {
+      "code": "02206",
+      "name": "Yên Kỳ",
+      "fullName": "Xã Yên Kỳ, Tỉnh Phú Thọ",
+      "slug": "yen-ky",
+      "type": "commune",
+      "postalCode": "08113"
+    },
+    {
+      "code": "02211",
+      "name": "Mường Bi",
+      "fullName": "Xã Mường Bi, Tỉnh Phú Thọ",
+      "slug": "muong-bi",
+      "type": "commune",
+      "postalCode": "05158"
+    },
+    {
+      "code": "02215",
+      "name": "Mường Vang",
+      "fullName": "Xã Mường Vang, Tỉnh Phú Thọ",
+      "slug": "muong-vang",
+      "type": "commune",
+      "postalCode": "05287"
+    },
+    {
+      "code": "02228",
+      "name": "Xuân Lũng",
+      "fullName": "Xã Xuân Lũng, Tỉnh Phú Thọ",
+      "slug": "xuan-lung",
+      "type": "commune",
+      "postalCode": "08500"
+    },
+    {
+      "code": "02230",
+      "name": "Đại Đình",
+      "fullName": "Xã Đại Đình, Tỉnh Phú Thọ",
+      "slug": "dai-dinh",
+      "type": "commune",
+      "postalCode": "08923"
+    },
+    {
+      "code": "02236",
+      "name": "Đông Thành",
+      "fullName": "Xã Đông Thành, Tỉnh Phú Thọ",
+      "slug": "dong-thanh",
+      "type": "commune",
+      "postalCode": "08209"
+    },
+    {
+      "code": "02238",
+      "name": "Cao Phong",
+      "fullName": "Xã Cao Phong, Tỉnh Phú Thọ",
+      "slug": "cao-phong",
+      "type": "commune",
+      "postalCode": "05089"
+    },
+    {
+      "code": "02245",
+      "name": "Kỳ Sơn",
+      "fullName": "Phường Kỳ Sơn, Tỉnh Phú Thọ",
+      "slug": "ky-son",
+      "type": "ward",
+      "postalCode": "04894"
+    },
+    {
+      "code": "02262",
+      "name": "Dũng Tiến",
+      "fullName": "Xã Dũng Tiến, Tỉnh Phú Thọ",
+      "slug": "dung-tien",
+      "type": "commune",
+      "postalCode": "05086"
+    },
+    {
+      "code": "02271",
+      "name": "Mường Thàng",
+      "fullName": "Xã Mường Thàng, Tỉnh Phú Thọ",
+      "slug": "muong-thang",
+      "type": "commune",
+      "postalCode": "05116"
+    },
+    {
+      "code": "02273",
+      "name": "Yên Phú",
+      "fullName": "Xã Yên Phú, Tỉnh Phú Thọ",
+      "slug": "yen-phu",
+      "type": "commune",
+      "postalCode": "05305"
+    },
+    {
+      "code": "02274",
+      "name": "Đà Bắc",
+      "fullName": "Xã Đà Bắc, Tỉnh Phú Thọ",
+      "slug": "da-bac",
+      "type": "commune",
+      "postalCode": "04831"
+    },
+    {
+      "code": "02283",
+      "name": "Hợp Lý",
+      "fullName": "Xã Hợp Lý, Tỉnh Phú Thọ",
+      "slug": "hop-ly",
+      "type": "commune",
+      "postalCode": "08770"
+    },
+    {
+      "code": "02296",
+      "name": "Nhân Nghĩa",
+      "fullName": "Xã Nhân Nghĩa, Tỉnh Phú Thọ",
+      "slug": "nhan-nghia",
+      "type": "commune",
+      "postalCode": "05290"
+    },
+    {
+      "code": "02309",
+      "name": "Liên Hòa",
+      "fullName": "Xã Liên Hòa, Tỉnh Phú Thọ",
+      "slug": "lien-hoa",
+      "type": "commune",
+      "postalCode": "08812"
+    },
+    {
+      "code": "02313",
+      "name": "Thịnh Minh",
+      "fullName": "Xã Thịnh Minh, Tỉnh Phú Thọ",
+      "slug": "thinh-minh",
+      "type": "commune",
+      "postalCode": "04897"
+    },
+    {
+      "code": "02317",
+      "name": "Mai Châu",
+      "fullName": "Xã Mai Châu, Tỉnh Phú Thọ",
+      "slug": "mai-chau",
+      "type": "commune",
+      "postalCode": "05200"
+    },
+    {
+      "code": "02331",
+      "name": "An Bình",
+      "fullName": "Xã An Bình, Tỉnh Phú Thọ",
+      "slug": "an-binh",
+      "type": "commune",
+      "postalCode": "05425"
+    },
+    {
+      "code": "02332",
+      "name": "Âu Cơ",
+      "fullName": "Phường Âu Cơ, Tỉnh Phú Thọ",
+      "slug": "au-co",
+      "type": "ward",
+      "postalCode": "07948"
+    },
+    {
+      "code": "02345",
+      "name": "Văn Miếu",
+      "fullName": "Xã Văn Miếu, Tỉnh Phú Thọ",
+      "slug": "van-mieu",
+      "type": "commune",
+      "postalCode": "08611"
+    },
+    {
+      "code": "02359",
+      "name": "Dân Chủ",
+      "fullName": "Xã Dân Chủ, Tỉnh Phú Thọ",
+      "slug": "dan-chu",
+      "type": "commune",
+      "postalCode": "08254"
+    },
+    {
+      "code": "02364",
+      "name": "Yên Lãng",
+      "fullName": "Xã Yên Lãng, Tỉnh Phú Thọ",
+      "slug": "yen-lang",
+      "type": "commune",
+      "postalCode": "08773"
+    },
+    {
+      "code": "02367",
+      "name": "Thượng Cốc",
+      "fullName": "Xã Thượng Cốc, Tỉnh Phú Thọ",
+      "slug": "thuong-coc",
+      "type": "commune",
+      "postalCode": "05293"
+    },
+    {
+      "code": "02375",
+      "name": "Tân Sơn",
+      "fullName": "Xã Tân Sơn, Tỉnh Phú Thọ",
+      "slug": "tan-son",
+      "type": "commune",
+      "postalCode": "08566"
+    },
+    {
+      "code": "02395",
+      "name": "Văn Lang",
+      "fullName": "Xã Văn Lang, Tỉnh Phú Thọ",
+      "slug": "van-lang",
+      "type": "commune",
+      "postalCode": "08134"
+    },
+    {
+      "code": "02402",
+      "name": "Hương Cần",
+      "fullName": "Xã Hương Cần, Tỉnh Phú Thọ",
+      "slug": "huong-can",
+      "type": "commune",
+      "postalCode": "08632"
+    },
+    {
+      "code": "02424",
+      "name": "Chí Tiên",
+      "fullName": "Xã Chí Tiên, Tỉnh Phú Thọ",
+      "slug": "chi-tien",
+      "type": "commune",
+      "postalCode": "08218"
+    },
+    {
+      "code": "02453",
+      "name": "Vĩnh Chân",
+      "fullName": "Xã Vĩnh Chân, Tỉnh Phú Thọ",
+      "slug": "vinh-chan",
+      "type": "commune",
+      "postalCode": "08143"
+    },
+    {
+      "code": "02466",
+      "name": "Bằng Luân",
+      "fullName": "Xã Bằng Luân, Tỉnh Phú Thọ",
+      "slug": "bang-luan",
+      "type": "commune",
+      "postalCode": "07996"
+    },
+    {
+      "code": "02496",
+      "name": "Minh Hòa",
+      "fullName": "Xã Minh Hòa, Tỉnh Phú Thọ",
+      "slug": "minh-hoa",
+      "type": "commune",
+      "postalCode": "08338"
+    },
+    {
+      "code": "02503",
+      "name": "Lai Đồng",
+      "fullName": "Xã Lai Đồng, Tỉnh Phú Thọ",
+      "slug": "lai-dong",
+      "type": "commune",
+      "postalCode": "08560"
+    },
+    {
+      "code": "02520",
+      "name": "Trạm Thản",
+      "fullName": "Xã Trạm Thản, Tỉnh Phú Thọ",
+      "slug": "tram-than",
+      "type": "commune",
+      "postalCode": "08245"
+    },
+    {
+      "code": "02523",
+      "name": "Thượng Long",
+      "fullName": "Xã Thượng Long, Tỉnh Phú Thọ",
+      "slug": "thuong-long",
+      "type": "commune",
+      "postalCode": "08323"
+    },
+    {
+      "code": "02527",
+      "name": "Yên Sơn",
+      "fullName": "Xã Yên Sơn, Tỉnh Phú Thọ",
+      "slug": "yen-son",
+      "type": "commune",
+      "postalCode": "08656"
+    },
+    {
+      "code": "02540",
+      "name": "Vân Bán",
+      "fullName": "Xã Vân Bán, Tỉnh Phú Thọ",
+      "slug": "van-ban",
+      "type": "commune",
+      "postalCode": "08377"
+    },
+    {
+      "code": "02541",
+      "name": "Đồng Lương",
+      "fullName": "Xã Đồng Lương, Tỉnh Phú Thọ",
+      "slug": "dong-luong",
+      "type": "commune",
+      "postalCode": "08431"
+    },
+    {
+      "code": "02565",
+      "name": "Phú Mỹ",
+      "fullName": "Xã Phú Mỹ, Tỉnh Phú Thọ",
+      "slug": "phu-my",
+      "type": "commune",
+      "postalCode": "08236"
+    },
+    {
+      "code": "02567",
+      "name": "Toàn Thắng",
+      "fullName": "Xã Toàn Thắng, Tỉnh Phú Thọ",
+      "slug": "toan-thang",
+      "type": "commune",
+      "postalCode": "05191"
+    },
+    {
+      "code": "02577",
+      "name": "Thọ Văn",
+      "fullName": "Xã Thọ Văn, Tỉnh Phú Thọ",
+      "slug": "tho-van",
+      "type": "commune",
+      "postalCode": "08479"
+    },
+    {
+      "code": "02584",
+      "name": "Xuân Đài",
+      "fullName": "Xã Xuân Đài, Tỉnh Phú Thọ",
+      "slug": "xuan-dai",
+      "type": "commune",
+      "postalCode": "08590"
+    },
+    {
+      "code": "02585",
+      "name": "Quảng Yên",
+      "fullName": "Xã Quảng Yên, Tỉnh Phú Thọ",
+      "slug": "quang-yen",
+      "type": "commune",
+      "postalCode": "08173"
+    },
+    {
+      "code": "02592",
+      "name": "Cự Đồng",
+      "fullName": "Xã Cự Đồng, Tỉnh Phú Thọ",
+      "slug": "cu-dong",
+      "type": "commune",
+      "postalCode": "08614"
+    },
+    {
+      "code": "02627",
+      "name": "Xuân Viên",
+      "fullName": "Xã Xuân Viên, Tỉnh Phú Thọ",
+      "slug": "xuan-vien",
+      "type": "commune",
+      "postalCode": "08305"
+    },
+    {
+      "code": "02637",
+      "name": "Tân Hòa",
+      "fullName": "Phường Tân Hòa, Tỉnh Phú Thọ",
+      "slug": "tan-hoa",
+      "type": "ward",
+      "postalCode": "04792"
+    },
+    {
+      "code": "02703",
+      "name": "Khả Cửu",
+      "fullName": "Xã Khả Cửu, Tỉnh Phú Thọ",
+      "slug": "kha-cuu",
+      "type": "commune",
+      "postalCode": "08635"
+    },
+    {
+      "code": "02751",
+      "name": "Bao La",
+      "fullName": "Xã Bao La, Tỉnh Phú Thọ",
+      "slug": "bao-la",
+      "type": "commune",
+      "postalCode": "05245"
+    },
+    {
+      "code": "02814",
+      "name": "Pà Cò",
+      "fullName": "Xã Pà Cò, Tỉnh Phú Thọ",
+      "slug": "pa-co",
+      "type": "commune",
+      "postalCode": "05212"
+    },
+    {
+      "code": "02815",
+      "name": "Thu Cúc",
+      "fullName": "Xã Thu Cúc, Tỉnh Phú Thọ",
+      "slug": "thu-cuc",
+      "type": "commune",
+      "postalCode": "08545"
+    },
+    {
+      "code": "02876",
+      "name": "Thung Nai",
+      "fullName": "Xã Thung Nai, Tỉnh Phú Thọ",
+      "slug": "thung-nai",
+      "type": "commune",
+      "postalCode": "05092"
+    },
+    {
+      "code": "02881",
+      "name": "Tân Pheo",
+      "fullName": "Xã Tân Pheo, Tỉnh Phú Thọ",
+      "slug": "tan-pheo",
+      "type": "commune",
+      "postalCode": "04849"
+    },
+    {
+      "code": "02895",
+      "name": "Mai Hạ",
+      "fullName": "Xã Mai Hạ, Tỉnh Phú Thọ",
+      "slug": "mai-ha",
+      "type": "commune",
+      "postalCode": "05251"
+    },
+    {
+      "code": "02958",
+      "name": "Quy Đức",
+      "fullName": "Xã Quy Đức, Tỉnh Phú Thọ",
+      "slug": "quy-duc",
+      "type": "commune",
+      "postalCode": "04873"
+    },
+    {
+      "code": "02981",
+      "name": "Vân Sơn",
+      "fullName": "Xã Vân Sơn, Tỉnh Phú Thọ",
+      "slug": "van-son",
+      "type": "commune",
+      "postalCode": "05152"
+    },
+    {
+      "code": "02996",
+      "name": "Ngọc Sơn",
+      "fullName": "Xã Ngọc Sơn, Tỉnh Phú Thọ",
+      "slug": "ngoc-son",
+      "type": "commune",
+      "postalCode": "05329"
+    },
+    {
+      "code": "03005",
+      "name": "Cao Sơn",
+      "fullName": "Xã Cao Sơn, Tỉnh Phú Thọ",
+      "slug": "cao-son",
+      "type": "commune",
+      "postalCode": "04876"
+    },
+    {
+      "code": "03014",
+      "name": "Long Cốc",
+      "fullName": "Xã Long Cốc, Tỉnh Phú Thọ",
+      "slug": "long-coc",
+      "type": "commune",
+      "postalCode": "08620"
+    },
+    {
+      "code": "03022",
+      "name": "Mường Hoa",
+      "fullName": "Xã Mường Hoa, Tỉnh Phú Thọ",
+      "slug": "muong-hoa",
+      "type": "commune",
+      "postalCode": "05134"
+    },
+    {
+      "code": "03065",
+      "name": "Tân Mai",
+      "fullName": "Xã Tân Mai, Tỉnh Phú Thọ",
+      "slug": "tan-mai",
+      "type": "commune",
+      "postalCode": "05206"
+    },
+    {
+      "code": "03095",
+      "name": "Đức Nhàn",
+      "fullName": "Xã Đức Nhàn, Tỉnh Phú Thọ",
+      "slug": "duc-nhan",
+      "type": "commune",
+      "postalCode": "04846"
+    },
+    {
+      "code": "03196",
+      "name": "Trung Sơn",
+      "fullName": "Xã Trung Sơn, Tỉnh Phú Thọ",
+      "slug": "trung-son",
+      "type": "commune",
+      "postalCode": "08311"
+    },
+    {
+      "code": "03245",
+      "name": "Tiền Phong",
+      "fullName": "Xã Tiền Phong, Tỉnh Phú Thọ",
+      "slug": "tien-phong",
+      "type": "commune",
+      "postalCode": "04891"
+    }
+  ],
+  "oldDistricts": [
+    {
+      "name": "Thành phố Hòa Bình",
+      "slug": "thanh-pho-hoa-binh",
+      "wards": [
+        {
+          "code": "04792",
+          "name": "Tân Hòa",
+          "fullName": "Phường Tân Hòa, Tỉnh Phú Thọ",
+          "slug": "tan-hoa",
+          "postalCode": "04792"
+        },
+        {
+          "code": "04795",
+          "name": "Hòa Bình",
+          "fullName": "Phường Hòa Bình, Tỉnh Phú Thọ",
+          "slug": "hoa-binh",
+          "postalCode": "04795"
+        },
+        {
+          "code": "04828",
+          "name": "Thống Nhất",
+          "fullName": "Phường Thống Nhất, Tỉnh Phú Thọ",
+          "slug": "thong-nhat",
+          "postalCode": "04828"
+        },
+        {
+          "code": "04894",
+          "name": "Kỳ Sơn",
+          "fullName": "Phường Kỳ Sơn, Tỉnh Phú Thọ",
+          "slug": "ky-son",
+          "postalCode": "04894"
+        },
+        {
+          "code": "04897",
+          "name": "Thịnh Minh",
+          "fullName": "Xã Thịnh Minh, Tỉnh Phú Thọ",
+          "slug": "thinh-minh",
+          "postalCode": "04897"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đà Bắc",
+      "slug": "huyen-da-bac",
+      "wards": [
+        {
+          "code": "04828",
+          "name": "Thống Nhất",
+          "fullName": "Phường Thống Nhất, Tỉnh Phú Thọ",
+          "slug": "thong-nhat",
+          "postalCode": "04828"
+        },
+        {
+          "code": "04831",
+          "name": "Đà Bắc",
+          "fullName": "Xã Đà Bắc, Tỉnh Phú Thọ",
+          "slug": "da-bac",
+          "postalCode": "04831"
+        },
+        {
+          "code": "04846",
+          "name": "Đức Nhàn",
+          "fullName": "Xã Đức Nhàn, Tỉnh Phú Thọ",
+          "slug": "duc-nhan",
+          "postalCode": "04846"
+        },
+        {
+          "code": "04849",
+          "name": "Tân Pheo",
+          "fullName": "Xã Tân Pheo, Tỉnh Phú Thọ",
+          "slug": "tan-pheo",
+          "postalCode": "04849"
+        },
+        {
+          "code": "04873",
+          "name": "Quy Đức",
+          "fullName": "Xã Quy Đức, Tỉnh Phú Thọ",
+          "slug": "quy-duc",
+          "postalCode": "04873"
+        },
+        {
+          "code": "04876",
+          "name": "Cao Sơn",
+          "fullName": "Xã Cao Sơn, Tỉnh Phú Thọ",
+          "slug": "cao-son",
+          "postalCode": "04876"
+        },
+        {
+          "code": "04891",
+          "name": "Tiền Phong",
+          "fullName": "Xã Tiền Phong, Tỉnh Phú Thọ",
+          "slug": "tien-phong",
+          "postalCode": "04891"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Việt Trì",
+      "slug": "thanh-pho-viet-tri",
+      "wards": [
+        {
+          "code": "07894",
+          "name": "Nông Trang",
+          "fullName": "Phường Nông Trang, Tỉnh Phú Thọ",
+          "slug": "nong-trang",
+          "postalCode": "07894"
+        },
+        {
+          "code": "07900",
+          "name": "Việt Trì",
+          "fullName": "Phường Việt Trì, Tỉnh Phú Thọ",
+          "slug": "viet-tri",
+          "postalCode": "07900"
+        },
+        {
+          "code": "07909",
+          "name": "Thanh Miếu",
+          "fullName": "Phường Thanh Miếu, Tỉnh Phú Thọ",
+          "slug": "thanh-mieu",
+          "postalCode": "07909"
+        },
+        {
+          "code": "07918",
+          "name": "Vân Phú",
+          "fullName": "Phường Vân Phú, Tỉnh Phú Thọ",
+          "slug": "van-phu",
+          "postalCode": "07918"
+        },
+        {
+          "code": "08515",
+          "name": "Hy Cương",
+          "fullName": "Xã Hy Cương, Tỉnh Phú Thọ",
+          "slug": "hy-cuong",
+          "postalCode": "08515"
+        }
+      ]
+    },
+    {
+      "name": "Thị Xã Phú Thọ",
+      "slug": "thi-xa-phu-tho",
+      "wards": [
+        {
+          "code": "07942",
+          "name": "Phú Thọ",
+          "fullName": "Phường Phú Thọ, Tỉnh Phú Thọ",
+          "slug": "phu-tho",
+          "postalCode": "07942"
+        },
+        {
+          "code": "07948",
+          "name": "Âu Cơ",
+          "fullName": "Phường Âu Cơ, Tỉnh Phú Thọ",
+          "slug": "au-co",
+          "postalCode": "07948"
+        },
+        {
+          "code": "07954",
+          "name": "Phong Châu",
+          "fullName": "Phường Phong Châu, Tỉnh Phú Thọ",
+          "slug": "phong-chau",
+          "postalCode": "07954"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Vĩnh Yên",
+      "slug": "thanh-pho-vinh-yen",
+      "wards": [
+        {
+          "code": "08707",
+          "name": "Vĩnh Yên",
+          "fullName": "Phường Vĩnh Yên, Tỉnh Phú Thọ",
+          "slug": "vinh-yen",
+          "postalCode": "08707"
+        },
+        {
+          "code": "08716",
+          "name": "Vĩnh Phúc",
+          "fullName": "Phường Vĩnh Phúc, Tỉnh Phú Thọ",
+          "slug": "vinh-phuc",
+          "postalCode": "08716"
+        }
+      ]
+    },
+    {
+      "name": "Thành phố Phúc Yên",
+      "slug": "thanh-pho-phuc-yen",
+      "wards": [
+        {
+          "code": "08740",
+          "name": "Phúc Yên",
+          "fullName": "Phường Phúc Yên, Tỉnh Phú Thọ",
+          "slug": "phuc-yen",
+          "postalCode": "08740"
+        },
+        {
+          "code": "08746",
+          "name": "Xuân Hòa",
+          "fullName": "Phường Xuân Hòa, Tỉnh Phú Thọ",
+          "slug": "xuan-hoa",
+          "postalCode": "08746"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lương Sơn",
+      "slug": "huyen-luong-son",
+      "wards": [
+        {
+          "code": "04924",
+          "name": "Lương Sơn",
+          "fullName": "Xã Lương Sơn, Tỉnh Phú Thọ",
+          "slug": "luong-son",
+          "postalCode": "04924"
+        },
+        {
+          "code": "04960",
+          "name": "Liên Sơn",
+          "fullName": "Xã Liên Sơn, Tỉnh Phú Thọ",
+          "slug": "lien-son",
+          "postalCode": "04960"
+        },
+        {
+          "code": "05047",
+          "name": "Cao Dương",
+          "fullName": "Xã Cao Dương, Tỉnh Phú Thọ",
+          "slug": "cao-duong",
+          "postalCode": "05047"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Kim Bôi",
+      "slug": "huyen-kim-boi",
+      "wards": [
+        {
+          "code": "04978",
+          "name": "Kim Bôi",
+          "fullName": "Xã Kim Bôi, Tỉnh Phú Thọ",
+          "slug": "kim-boi",
+          "postalCode": "04978"
+        },
+        {
+          "code": "04990",
+          "name": "Nật Sơn",
+          "fullName": "Xã Nật Sơn, Tỉnh Phú Thọ",
+          "slug": "nat-son",
+          "postalCode": "04990"
+        },
+        {
+          "code": "05014",
+          "name": "Mường Động",
+          "fullName": "Xã Mường Động, Tỉnh Phú Thọ",
+          "slug": "muong-dong",
+          "postalCode": "05014"
+        },
+        {
+          "code": "05068",
+          "name": "Hợp Kim",
+          "fullName": "Xã Hợp Kim, Tỉnh Phú Thọ",
+          "slug": "hop-kim",
+          "postalCode": "05068"
+        },
+        {
+          "code": "05086",
+          "name": "Dũng Tiến",
+          "fullName": "Xã Dũng Tiến, Tỉnh Phú Thọ",
+          "slug": "dung-tien",
+          "postalCode": "05086"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cao Phong",
+      "slug": "huyen-cao-phong",
+      "wards": [
+        {
+          "code": "05089",
+          "name": "Cao Phong",
+          "fullName": "Xã Cao Phong, Tỉnh Phú Thọ",
+          "slug": "cao-phong",
+          "postalCode": "05089"
+        },
+        {
+          "code": "05092",
+          "name": "Thung Nai",
+          "fullName": "Xã Thung Nai, Tỉnh Phú Thọ",
+          "slug": "thung-nai",
+          "postalCode": "05092"
+        },
+        {
+          "code": "05116",
+          "name": "Mường Thàng",
+          "fullName": "Xã Mường Thàng, Tỉnh Phú Thọ",
+          "slug": "muong-thang",
+          "postalCode": "05116"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Lạc",
+      "slug": "huyen-tan-lac",
+      "wards": [
+        {
+          "code": "05128",
+          "name": "Tân Lạc",
+          "fullName": "Xã Tân Lạc, Tỉnh Phú Thọ",
+          "slug": "tan-lac",
+          "postalCode": "05128"
+        },
+        {
+          "code": "05134",
+          "name": "Mường Hoa",
+          "fullName": "Xã Mường Hoa, Tỉnh Phú Thọ",
+          "slug": "muong-hoa",
+          "postalCode": "05134"
+        },
+        {
+          "code": "05152",
+          "name": "Vân Sơn",
+          "fullName": "Xã Vân Sơn, Tỉnh Phú Thọ",
+          "slug": "van-son",
+          "postalCode": "05152"
+        },
+        {
+          "code": "05158",
+          "name": "Mường Bi",
+          "fullName": "Xã Mường Bi, Tỉnh Phú Thọ",
+          "slug": "muong-bi",
+          "postalCode": "05158"
+        },
+        {
+          "code": "05191",
+          "name": "Toàn Thắng",
+          "fullName": "Xã Toàn Thắng, Tỉnh Phú Thọ",
+          "slug": "toan-thang",
+          "postalCode": "05191"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Mai Châu",
+      "slug": "huyen-mai-chau",
+      "wards": [
+        {
+          "code": "05200",
+          "name": "Mai Châu",
+          "fullName": "Xã Mai Châu, Tỉnh Phú Thọ",
+          "slug": "mai-chau",
+          "postalCode": "05200"
+        },
+        {
+          "code": "05206",
+          "name": "Tân Mai",
+          "fullName": "Xã Tân Mai, Tỉnh Phú Thọ",
+          "slug": "tan-mai",
+          "postalCode": "05206"
+        },
+        {
+          "code": "05212",
+          "name": "Pà Cò",
+          "fullName": "Xã Pà Cò, Tỉnh Phú Thọ",
+          "slug": "pa-co",
+          "postalCode": "05212"
+        },
+        {
+          "code": "05245",
+          "name": "Bao La",
+          "fullName": "Xã Bao La, Tỉnh Phú Thọ",
+          "slug": "bao-la",
+          "postalCode": "05245"
+        },
+        {
+          "code": "05251",
+          "name": "Mai Hạ",
+          "fullName": "Xã Mai Hạ, Tỉnh Phú Thọ",
+          "slug": "mai-ha",
+          "postalCode": "05251"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lạc Sơn",
+      "slug": "huyen-lac-son",
+      "wards": [
+        {
+          "code": "05266",
+          "name": "Lạc Sơn",
+          "fullName": "Xã Lạc Sơn, Tỉnh Phú Thọ",
+          "slug": "lac-son",
+          "postalCode": "05266"
+        },
+        {
+          "code": "05287",
+          "name": "Mường Vang",
+          "fullName": "Xã Mường Vang, Tỉnh Phú Thọ",
+          "slug": "muong-vang",
+          "postalCode": "05287"
+        },
+        {
+          "code": "05290",
+          "name": "Nhân Nghĩa",
+          "fullName": "Xã Nhân Nghĩa, Tỉnh Phú Thọ",
+          "slug": "nhan-nghia",
+          "postalCode": "05290"
+        },
+        {
+          "code": "05293",
+          "name": "Thượng Cốc",
+          "fullName": "Xã Thượng Cốc, Tỉnh Phú Thọ",
+          "slug": "thuong-coc",
+          "postalCode": "05293"
+        },
+        {
+          "code": "05305",
+          "name": "Yên Phú",
+          "fullName": "Xã Yên Phú, Tỉnh Phú Thọ",
+          "slug": "yen-phu",
+          "postalCode": "05305"
+        },
+        {
+          "code": "05323",
+          "name": "Quyết Thắng",
+          "fullName": "Xã Quyết Thắng, Tỉnh Phú Thọ",
+          "slug": "quyet-thang",
+          "postalCode": "05323"
+        },
+        {
+          "code": "05329",
+          "name": "Ngọc Sơn",
+          "fullName": "Xã Ngọc Sơn, Tỉnh Phú Thọ",
+          "slug": "ngoc-son",
+          "postalCode": "05329"
+        },
+        {
+          "code": "05347",
+          "name": "Đại Đồng",
+          "fullName": "Xã Đại Đồng, Tỉnh Phú Thọ",
+          "slug": "dai-dong",
+          "postalCode": "05347"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Thủy",
+      "slug": "huyen-yen-thuy",
+      "wards": [
+        {
+          "code": "05353",
+          "name": "Yên Thủy",
+          "fullName": "Xã Yên Thủy, Tỉnh Phú Thọ",
+          "slug": "yen-thuy",
+          "postalCode": "05353"
+        },
+        {
+          "code": "05362",
+          "name": "Lạc Lương",
+          "fullName": "Xã Lạc Lương, Tỉnh Phú Thọ",
+          "slug": "lac-luong",
+          "postalCode": "05362"
+        },
+        {
+          "code": "05386",
+          "name": "Yên Trị",
+          "fullName": "Xã Yên Trị, Tỉnh Phú Thọ",
+          "slug": "yen-tri",
+          "postalCode": "05386"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lạc Thủy",
+      "slug": "huyen-lac-thuy",
+      "wards": [
+        {
+          "code": "05392",
+          "name": "Lạc Thủy",
+          "fullName": "Xã Lạc Thủy, Tỉnh Phú Thọ",
+          "slug": "lac-thuy",
+          "postalCode": "05392"
+        },
+        {
+          "code": "05395",
+          "name": "An Nghĩa",
+          "fullName": "Xã An Nghĩa, Tỉnh Phú Thọ",
+          "slug": "an-nghia",
+          "postalCode": "05395"
+        },
+        {
+          "code": "05425",
+          "name": "An Bình",
+          "fullName": "Xã An Bình, Tỉnh Phú Thọ",
+          "slug": "an-binh",
+          "postalCode": "05425"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Đoan Hùng",
+      "slug": "huyen-doan-hung",
+      "wards": [
+        {
+          "code": "07969",
+          "name": "Đoan Hùng",
+          "fullName": "Xã Đoan Hùng, Tỉnh Phú Thọ",
+          "slug": "doan-hung",
+          "postalCode": "07969"
+        },
+        {
+          "code": "07996",
+          "name": "Bằng Luân",
+          "fullName": "Xã Bằng Luân, Tỉnh Phú Thọ",
+          "slug": "bang-luan",
+          "postalCode": "07996"
+        },
+        {
+          "code": "07999",
+          "name": "Chí Đám",
+          "fullName": "Xã Chí Đám, Tỉnh Phú Thọ",
+          "slug": "chi-dam",
+          "postalCode": "07999"
+        },
+        {
+          "code": "08023",
+          "name": "Tây Cốc",
+          "fullName": "Xã Tây Cốc, Tỉnh Phú Thọ",
+          "slug": "tay-coc",
+          "postalCode": "08023"
+        },
+        {
+          "code": "08038",
+          "name": "Chân Mộng",
+          "fullName": "Xã Chân Mộng, Tỉnh Phú Thọ",
+          "slug": "chan-mong",
+          "postalCode": "08038"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Hạ Hoà",
+      "slug": "huyen-ha-hoa",
+      "wards": [
+        {
+          "code": "08053",
+          "name": "Hạ Hòa",
+          "fullName": "Xã Hạ Hòa, Tỉnh Phú Thọ",
+          "slug": "ha-hoa",
+          "postalCode": "08053"
+        },
+        {
+          "code": "08071",
+          "name": "Đan Thượng",
+          "fullName": "Xã Đan Thượng, Tỉnh Phú Thọ",
+          "slug": "dan-thuong",
+          "postalCode": "08071"
+        },
+        {
+          "code": "08110",
+          "name": "Hiền Lương",
+          "fullName": "Xã Hiền Lương, Tỉnh Phú Thọ",
+          "slug": "hien-luong",
+          "postalCode": "08110"
+        },
+        {
+          "code": "08113",
+          "name": "Yên Kỳ",
+          "fullName": "Xã Yên Kỳ, Tỉnh Phú Thọ",
+          "slug": "yen-ky",
+          "postalCode": "08113"
+        },
+        {
+          "code": "08134",
+          "name": "Văn Lang",
+          "fullName": "Xã Văn Lang, Tỉnh Phú Thọ",
+          "slug": "van-lang",
+          "postalCode": "08134"
+        },
+        {
+          "code": "08143",
+          "name": "Vĩnh Chân",
+          "fullName": "Xã Vĩnh Chân, Tỉnh Phú Thọ",
+          "slug": "vinh-chan",
+          "postalCode": "08143"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thanh Ba",
+      "slug": "huyen-thanh-ba",
+      "wards": [
+        {
+          "code": "08152",
+          "name": "Thanh Ba",
+          "fullName": "Xã Thanh Ba, Tỉnh Phú Thọ",
+          "slug": "thanh-ba",
+          "postalCode": "08152"
+        },
+        {
+          "code": "08173",
+          "name": "Quảng Yên",
+          "fullName": "Xã Quảng Yên, Tỉnh Phú Thọ",
+          "slug": "quang-yen",
+          "postalCode": "08173"
+        },
+        {
+          "code": "08203",
+          "name": "Hoàng Cương",
+          "fullName": "Xã Hoàng Cương, Tỉnh Phú Thọ",
+          "slug": "hoang-cuong",
+          "postalCode": "08203"
+        },
+        {
+          "code": "08209",
+          "name": "Đông Thành",
+          "fullName": "Xã Đông Thành, Tỉnh Phú Thọ",
+          "slug": "dong-thanh",
+          "postalCode": "08209"
+        },
+        {
+          "code": "08218",
+          "name": "Chí Tiên",
+          "fullName": "Xã Chí Tiên, Tỉnh Phú Thọ",
+          "slug": "chi-tien",
+          "postalCode": "08218"
+        },
+        {
+          "code": "08227",
+          "name": "Liên Minh",
+          "fullName": "Xã Liên Minh, Tỉnh Phú Thọ",
+          "slug": "lien-minh",
+          "postalCode": "08227"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Phù Ninh",
+      "slug": "huyen-phu-ninh",
+      "wards": [
+        {
+          "code": "08230",
+          "name": "Phù Ninh",
+          "fullName": "Xã Phù Ninh, Tỉnh Phú Thọ",
+          "slug": "phu-ninh",
+          "postalCode": "08230"
+        },
+        {
+          "code": "08236",
+          "name": "Phú Mỹ",
+          "fullName": "Xã Phú Mỹ, Tỉnh Phú Thọ",
+          "slug": "phu-my",
+          "postalCode": "08236"
+        },
+        {
+          "code": "08245",
+          "name": "Trạm Thản",
+          "fullName": "Xã Trạm Thản, Tỉnh Phú Thọ",
+          "slug": "tram-than",
+          "postalCode": "08245"
+        },
+        {
+          "code": "08254",
+          "name": "Dân Chủ",
+          "fullName": "Xã Dân Chủ, Tỉnh Phú Thọ",
+          "slug": "dan-chu",
+          "postalCode": "08254"
+        },
+        {
+          "code": "08275",
+          "name": "Bình Phú",
+          "fullName": "Xã Bình Phú, Tỉnh Phú Thọ",
+          "slug": "binh-phu",
+          "postalCode": "08275"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Lập",
+      "slug": "huyen-yen-lap",
+      "wards": [
+        {
+          "code": "08290",
+          "name": "Yên Lập",
+          "fullName": "Xã Yên Lập, Tỉnh Phú Thọ",
+          "slug": "yen-lap",
+          "postalCode": "08290"
+        },
+        {
+          "code": "08296",
+          "name": "Sơn Lương",
+          "fullName": "Xã Sơn Lương, Tỉnh Phú Thọ",
+          "slug": "son-luong",
+          "postalCode": "08296"
+        },
+        {
+          "code": "08305",
+          "name": "Xuân Viên",
+          "fullName": "Xã Xuân Viên, Tỉnh Phú Thọ",
+          "slug": "xuan-vien",
+          "postalCode": "08305"
+        },
+        {
+          "code": "08311",
+          "name": "Trung Sơn",
+          "fullName": "Xã Trung Sơn, Tỉnh Phú Thọ",
+          "slug": "trung-son",
+          "postalCode": "08311"
+        },
+        {
+          "code": "08323",
+          "name": "Thượng Long",
+          "fullName": "Xã Thượng Long, Tỉnh Phú Thọ",
+          "slug": "thuong-long",
+          "postalCode": "08323"
+        },
+        {
+          "code": "08338",
+          "name": "Minh Hòa",
+          "fullName": "Xã Minh Hòa, Tỉnh Phú Thọ",
+          "slug": "minh-hoa",
+          "postalCode": "08338"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Cẩm Khê",
+      "slug": "huyen-cam-khe",
+      "wards": [
+        {
+          "code": "08341",
+          "name": "Cẩm Khê",
+          "fullName": "Xã Cẩm Khê, Tỉnh Phú Thọ",
+          "slug": "cam-khe",
+          "postalCode": "08341"
+        },
+        {
+          "code": "08344",
+          "name": "Tiên Lương",
+          "fullName": "Xã Tiên Lương, Tỉnh Phú Thọ",
+          "slug": "tien-luong",
+          "postalCode": "08344"
+        },
+        {
+          "code": "08377",
+          "name": "Vân Bán",
+          "fullName": "Xã Vân Bán, Tỉnh Phú Thọ",
+          "slug": "van-ban",
+          "postalCode": "08377"
+        },
+        {
+          "code": "08398",
+          "name": "Phú Khê",
+          "fullName": "Xã Phú Khê, Tỉnh Phú Thọ",
+          "slug": "phu-khe",
+          "postalCode": "08398"
+        },
+        {
+          "code": "08416",
+          "name": "Hùng Việt",
+          "fullName": "Xã Hùng Việt, Tỉnh Phú Thọ",
+          "slug": "hung-viet",
+          "postalCode": "08416"
+        },
+        {
+          "code": "08431",
+          "name": "Đồng Lương",
+          "fullName": "Xã Đồng Lương, Tỉnh Phú Thọ",
+          "slug": "dong-luong",
+          "postalCode": "08431"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tam Nông",
+      "slug": "huyen-tam-nong",
+      "wards": [
+        {
+          "code": "08434",
+          "name": "Tam Nông",
+          "fullName": "Xã Tam Nông, Tỉnh Phú Thọ",
+          "slug": "tam-nong",
+          "postalCode": "08434"
+        },
+        {
+          "code": "08443",
+          "name": "Hiền Quan",
+          "fullName": "Xã Hiền Quan, Tỉnh Phú Thọ",
+          "slug": "hien-quan",
+          "postalCode": "08443"
+        },
+        {
+          "code": "08467",
+          "name": "Vạn Xuân",
+          "fullName": "Xã Vạn Xuân, Tỉnh Phú Thọ",
+          "slug": "van-xuan",
+          "postalCode": "08467"
+        },
+        {
+          "code": "08479",
+          "name": "Thọ Văn",
+          "fullName": "Xã Thọ Văn, Tỉnh Phú Thọ",
+          "slug": "tho-van",
+          "postalCode": "08479"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lâm Thao",
+      "slug": "huyen-lam-thao",
+      "wards": [
+        {
+          "code": "08494",
+          "name": "Lâm Thao",
+          "fullName": "Xã Lâm Thao, Tỉnh Phú Thọ",
+          "slug": "lam-thao",
+          "postalCode": "08494"
+        },
+        {
+          "code": "08500",
+          "name": "Xuân Lũng",
+          "fullName": "Xã Xuân Lũng, Tỉnh Phú Thọ",
+          "slug": "xuan-lung",
+          "postalCode": "08500"
+        },
+        {
+          "code": "08521",
+          "name": "Phùng Nguyên",
+          "fullName": "Xã Phùng Nguyên, Tỉnh Phú Thọ",
+          "slug": "phung-nguyen",
+          "postalCode": "08521"
+        },
+        {
+          "code": "08527",
+          "name": "Bản Nguyên",
+          "fullName": "Xã Bản Nguyên, Tỉnh Phú Thọ",
+          "slug": "ban-nguyen",
+          "postalCode": "08527"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thanh Sơn",
+      "slug": "huyen-thanh-son",
+      "wards": [
+        {
+          "code": "08542",
+          "name": "Thanh Sơn",
+          "fullName": "Xã Thanh Sơn, Tỉnh Phú Thọ",
+          "slug": "thanh-son",
+          "postalCode": "08542"
+        },
+        {
+          "code": "08584",
+          "name": "Võ Miếu",
+          "fullName": "Xã Võ Miếu, Tỉnh Phú Thọ",
+          "slug": "vo-mieu",
+          "postalCode": "08584"
+        },
+        {
+          "code": "08611",
+          "name": "Văn Miếu",
+          "fullName": "Xã Văn Miếu, Tỉnh Phú Thọ",
+          "slug": "van-mieu",
+          "postalCode": "08611"
+        },
+        {
+          "code": "08614",
+          "name": "Cự Đồng",
+          "fullName": "Xã Cự Đồng, Tỉnh Phú Thọ",
+          "slug": "cu-dong",
+          "postalCode": "08614"
+        },
+        {
+          "code": "08632",
+          "name": "Hương Cần",
+          "fullName": "Xã Hương Cần, Tỉnh Phú Thọ",
+          "slug": "huong-can",
+          "postalCode": "08632"
+        },
+        {
+          "code": "08635",
+          "name": "Khả Cửu",
+          "fullName": "Xã Khả Cửu, Tỉnh Phú Thọ",
+          "slug": "kha-cuu",
+          "postalCode": "08635"
+        },
+        {
+          "code": "08656",
+          "name": "Yên Sơn",
+          "fullName": "Xã Yên Sơn, Tỉnh Phú Thọ",
+          "slug": "yen-son",
+          "postalCode": "08656"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tân Sơn",
+      "slug": "huyen-tan-son",
+      "wards": [
+        {
+          "code": "08545",
+          "name": "Thu Cúc",
+          "fullName": "Xã Thu Cúc, Tỉnh Phú Thọ",
+          "slug": "thu-cuc",
+          "postalCode": "08545"
+        },
+        {
+          "code": "08560",
+          "name": "Lai Đồng",
+          "fullName": "Xã Lai Đồng, Tỉnh Phú Thọ",
+          "slug": "lai-dong",
+          "postalCode": "08560"
+        },
+        {
+          "code": "08566",
+          "name": "Tân Sơn",
+          "fullName": "Xã Tân Sơn, Tỉnh Phú Thọ",
+          "slug": "tan-son",
+          "postalCode": "08566"
+        },
+        {
+          "code": "08590",
+          "name": "Xuân Đài",
+          "fullName": "Xã Xuân Đài, Tỉnh Phú Thọ",
+          "slug": "xuan-dai",
+          "postalCode": "08590"
+        },
+        {
+          "code": "08593",
+          "name": "Minh Đài",
+          "fullName": "Xã Minh Đài, Tỉnh Phú Thọ",
+          "slug": "minh-dai",
+          "postalCode": "08593"
+        },
+        {
+          "code": "08620",
+          "name": "Long Cốc",
+          "fullName": "Xã Long Cốc, Tỉnh Phú Thọ",
+          "slug": "long-coc",
+          "postalCode": "08620"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Thanh Thuỷ",
+      "slug": "huyen-thanh-thuy",
+      "wards": [
+        {
+          "code": "08662",
+          "name": "Đào Xá",
+          "fullName": "Xã Đào Xá, Tỉnh Phú Thọ",
+          "slug": "dao-xa",
+          "postalCode": "08662"
+        },
+        {
+          "code": "08674",
+          "name": "Thanh Thủy",
+          "fullName": "Xã Thanh Thủy, Tỉnh Phú Thọ",
+          "slug": "thanh-thuy",
+          "postalCode": "08674"
+        },
+        {
+          "code": "08686",
+          "name": "Tu Vũ",
+          "fullName": "Xã Tu Vũ, Tỉnh Phú Thọ",
+          "slug": "tu-vu",
+          "postalCode": "08686"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Lập Thạch",
+      "slug": "huyen-lap-thach",
+      "wards": [
+        {
+          "code": "08761",
+          "name": "Lập Thạch",
+          "fullName": "Xã Lập Thạch, Tỉnh Phú Thọ",
+          "slug": "lap-thach",
+          "postalCode": "08761"
+        },
+        {
+          "code": "08770",
+          "name": "Hợp Lý",
+          "fullName": "Xã Hợp Lý, Tỉnh Phú Thọ",
+          "slug": "hop-ly",
+          "postalCode": "08770"
+        },
+        {
+          "code": "08788",
+          "name": "Thái Hòa",
+          "fullName": "Xã Thái Hòa, Tỉnh Phú Thọ",
+          "slug": "thai-hoa",
+          "postalCode": "08788"
+        },
+        {
+          "code": "08812",
+          "name": "Liên Hòa",
+          "fullName": "Xã Liên Hòa, Tỉnh Phú Thọ",
+          "slug": "lien-hoa",
+          "postalCode": "08812"
+        },
+        {
+          "code": "08842",
+          "name": "Tiên Lữ",
+          "fullName": "Xã Tiên Lữ, Tỉnh Phú Thọ",
+          "slug": "tien-lu",
+          "postalCode": "08842"
+        },
+        {
+          "code": "08866",
+          "name": "Sơn Đông",
+          "fullName": "Xã Sơn Đông, Tỉnh Phú Thọ",
+          "slug": "son-dong",
+          "postalCode": "08866"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Sông Lô",
+      "slug": "huyen-song-lo",
+      "wards": [
+        {
+          "code": "08773",
+          "name": "Yên Lãng",
+          "fullName": "Xã Yên Lãng, Tỉnh Phú Thọ",
+          "slug": "yen-lang",
+          "postalCode": "08773"
+        },
+        {
+          "code": "08782",
+          "name": "Hải Lựu",
+          "fullName": "Xã Hải Lựu, Tỉnh Phú Thọ",
+          "slug": "hai-luu",
+          "postalCode": "08782"
+        },
+        {
+          "code": "08824",
+          "name": "Tam Sơn",
+          "fullName": "Xã Tam Sơn, Tỉnh Phú Thọ",
+          "slug": "tam-son",
+          "postalCode": "08824"
+        },
+        {
+          "code": "08848",
+          "name": "Sông Lô",
+          "fullName": "Xã Sông Lô, Tỉnh Phú Thọ",
+          "slug": "song-lo",
+          "postalCode": "08848"
+        },
+        {
+          "code": "08866",
+          "name": "Sơn Đông",
+          "fullName": "Xã Sơn Đông, Tỉnh Phú Thọ",
+          "slug": "son-dong",
+          "postalCode": "08866"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tam Dương",
+      "slug": "huyen-tam-duong",
+      "wards": [
+        {
+          "code": "08869",
+          "name": "Tam Dương",
+          "fullName": "Xã Tam Dương, Tỉnh Phú Thọ",
+          "slug": "tam-duong",
+          "postalCode": "08869"
+        },
+        {
+          "code": "08872",
+          "name": "Tam Dương Bắc",
+          "fullName": "Xã Tam Dương Bắc, Tỉnh Phú Thọ",
+          "slug": "tam-duong-bac",
+          "postalCode": "08872"
+        },
+        {
+          "code": "08896",
+          "name": "Hoàng An",
+          "fullName": "Xã Hoàng An, Tỉnh Phú Thọ",
+          "slug": "hoang-an",
+          "postalCode": "08896"
+        },
+        {
+          "code": "08905",
+          "name": "Hội Thịnh",
+          "fullName": "Xã Hội Thịnh, Tỉnh Phú Thọ",
+          "slug": "hoi-thinh",
+          "postalCode": "08905"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Tam Đảo",
+      "slug": "huyen-tam-dao",
+      "wards": [
+        {
+          "code": "08872",
+          "name": "Tam Dương Bắc",
+          "fullName": "Xã Tam Dương Bắc, Tỉnh Phú Thọ",
+          "slug": "tam-duong-bac",
+          "postalCode": "08872"
+        },
+        {
+          "code": "08911",
+          "name": "Tam Đảo",
+          "fullName": "Xã Tam Đảo, Tỉnh Phú Thọ",
+          "slug": "tam-dao",
+          "postalCode": "08911"
+        },
+        {
+          "code": "08914",
+          "name": "Đạo Trù",
+          "fullName": "Xã Đạo Trù, Tỉnh Phú Thọ",
+          "slug": "dao-tru",
+          "postalCode": "08914"
+        },
+        {
+          "code": "08923",
+          "name": "Đại Đình",
+          "fullName": "Xã Đại Đình, Tỉnh Phú Thọ",
+          "slug": "dai-dinh",
+          "postalCode": "08923"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Bình Xuyên",
+      "slug": "huyen-binh-xuyen",
+      "wards": [
+        {
+          "code": "08935",
+          "name": "Bình Nguyên",
+          "fullName": "Xã Bình Nguyên, Tỉnh Phú Thọ",
+          "slug": "binh-nguyen",
+          "postalCode": "08935"
+        },
+        {
+          "code": "08944",
+          "name": "Bình Tuyền",
+          "fullName": "Xã Bình Tuyền, Tỉnh Phú Thọ",
+          "slug": "binh-tuyen",
+          "postalCode": "08944"
+        },
+        {
+          "code": "08950",
+          "name": "Bình Xuyên",
+          "fullName": "Xã Bình Xuyên, Tỉnh Phú Thọ",
+          "slug": "binh-xuyen",
+          "postalCode": "08950"
+        },
+        {
+          "code": "08971",
+          "name": "Xuân Lãng",
+          "fullName": "Xã Xuân Lãng, Tỉnh Phú Thọ",
+          "slug": "xuan-lang",
+          "postalCode": "08971"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Yên Lạc",
+      "slug": "huyen-yen-lac",
+      "wards": [
+        {
+          "code": "09025",
+          "name": "Yên Lạc",
+          "fullName": "Xã Yên Lạc, Tỉnh Phú Thọ",
+          "slug": "yen-lac",
+          "postalCode": "09025"
+        },
+        {
+          "code": "09040",
+          "name": "Tề Lỗ",
+          "fullName": "Xã Tề Lỗ, Tỉnh Phú Thọ",
+          "slug": "te-lo",
+          "postalCode": "09040"
+        },
+        {
+          "code": "09043",
+          "name": "Tam Hồng",
+          "fullName": "Xã Tam Hồng, Tỉnh Phú Thọ",
+          "slug": "tam-hong",
+          "postalCode": "09043"
+        },
+        {
+          "code": "09052",
+          "name": "Nguyệt Đức",
+          "fullName": "Xã Nguyệt Đức, Tỉnh Phú Thọ",
+          "slug": "nguyet-duc",
+          "postalCode": "09052"
+        },
+        {
+          "code": "09064",
+          "name": "Liên Châu",
+          "fullName": "Xã Liên Châu, Tỉnh Phú Thọ",
+          "slug": "lien-chau",
+          "postalCode": "09064"
+        }
+      ]
+    },
+    {
+      "name": "Huyện Vĩnh Tường",
+      "slug": "huyen-vinh-tuong",
+      "wards": [
+        {
+          "code": "09076",
+          "name": "Vĩnh Tường",
+          "fullName": "Xã Vĩnh Tường, Tỉnh Phú Thọ",
+          "slug": "vinh-tuong",
+          "postalCode": "09076"
+        },
+        {
+          "code": "09079",
+          "name": "Vĩnh An",
+          "fullName": "Xã Vĩnh An, Tỉnh Phú Thọ",
+          "slug": "vinh-an",
+          "postalCode": "09079"
+        },
+        {
+          "code": "09100",
+          "name": "Vĩnh Hưng",
+          "fullName": "Xã Vĩnh Hưng, Tỉnh Phú Thọ",
+          "slug": "vinh-hung",
+          "postalCode": "09100"
+        },
+        {
+          "code": "09106",
+          "name": "Vĩnh Thành",
+          "fullName": "Xã Vĩnh Thành, Tỉnh Phú Thọ",
+          "slug": "vinh-thanh",
+          "postalCode": "09106"
+        },
+        {
+          "code": "09112",
+          "name": "Thổ Tang",
+          "fullName": "Xã Thổ Tang, Tỉnh Phú Thọ",
+          "slug": "tho-tang",
+          "postalCode": "09112"
+        },
+        {
+          "code": "09154",
+          "name": "Vĩnh Phú",
+          "fullName": "Xã Vĩnh Phú, Tỉnh Phú Thọ",
+          "slug": "vinh-phu",
+          "postalCode": "09154"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "vn-address-data",
+  "version": "1.0.0",
+  "description": "Dữ liệu hành chính VN (34 tỉnh) + thư viện format & dropdown Tỉnh/Phường-Xã. Nguồn: Nhất Tín (ntlogistics.vn).",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "files": ["dist", "data", "src"],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "tsx --test src/*.test.ts",
+    "refresh": "tsx scripts/refresh-from-api.ts",
+    "demo": "npm run build && npx --yes serve ."
+  },
+  "keywords": ["vietnam", "address", "province", "ward", "nhat-tin", "ntlogistics", "34-tinh"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.7.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

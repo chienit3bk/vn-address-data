@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Demo: 2 dropdown Tỉnh / Phường-Xã</title>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        max-width: 640px;
+        margin: 40px auto;
+        padding: 0 16px;
+        color: #1c1c1e;
+      }
+      h1 { font-size: 1.25rem; }
+      /* Style cho component — class do component sinh ra */
+      .ntx-address { display: flex; gap: 16px; flex-wrap: wrap; }
+      .ntx-address__field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 220px; }
+      .ntx-address__field label { font-size: 0.85rem; font-weight: 600; }
+      .ntx-address select {
+        padding: 8px 10px;
+        border: 1px solid #c7c7cc;
+        border-radius: 8px;
+        font-size: 0.95rem;
+        background: #fff;
+      }
+      .ntx-address select:disabled { background: #f2f2f7; color: #8e8e93; }
+      pre { background: #f2f2f7; padding: 12px; border-radius: 8px; font-size: 0.85rem; }
+      .hint { color: #636366; font-size: 0.85rem; }
+    </style>
+  </head>
+  <body>
+    <h1>2 dropdown phụ thuộc: Tỉnh/Thành phố → Phường/Xã</h1>
+    <p class="hint">
+      Dữ liệu hành chính 34 tỉnh — nguồn Nhất Tín. Chọn tỉnh để nạp danh sách phường/xã.
+    </p>
+
+    <!-- Container để inject component vào -->
+    <div id="addr"></div>
+
+    <h2 style="font-size: 1rem">Giá trị đang chọn</h2>
+    <pre id="out">(chưa chọn)</pre>
+
+    <script type="module">
+      import { createAddressDropdowns } from "../dist/index.js";
+
+      // Fallback nhỏ để demo chạy được cả khi mở bằng file:// (không fetch được).
+      const FALLBACK = {
+        provinces: [{ code: "18", name: "An Giang", fullName: "Tỉnh An Giang" }],
+        wards: [
+          { code: "00001", name: "Rạch Giá", provinceCode: "18", fullName: "Phường Rạch Giá, Tỉnh An Giang" },
+          { code: "00030", name: "Long Xuyên", provinceCode: "18", fullName: "Phường Long Xuyên, Tỉnh An Giang" },
+          { code: "00028", name: "Phú Quốc", provinceCode: "18", fullName: "Đặc khu Phú Quốc, Tỉnh An Giang" },
+        ],
+      };
+
+      // Tải dữ liệu thật từ data/*.json (chạy qua `npm run demo`).
+      async function loadData() {
+        try {
+          const [provinces, wards] = await Promise.all([
+            fetch("../data/provinces.json").then((r) => r.json()),
+            fetch("../data/wards.json").then((r) => r.json()),
+          ]);
+          return { provinces, wards };
+        } catch {
+          return FALLBACK;
+        }
+      }
+
+      const data = await loadData();
+      const out = document.getElementById("out");
+
+      createAddressDropdowns("#addr", {
+        data,
+        useFullName: false,
+        provinceName: "province_code",
+        wardName: "ward_code",
+        onChange: (sel) => {
+          out.textContent = JSON.stringify(
+            {
+              province: sel.province && { code: sel.province.code, name: sel.province.name },
+              ward: sel.ward && { code: sel.ward.code, name: sel.ward.name },
+            },
+            null,
+            2,
+          );
+        },
+      });
+    </script>
+  </body>
+</html>

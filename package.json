@@ -13,7 +13,6 @@
     "build": "tsc -p tsconfig.build.json",
     "typecheck": "tsc -p tsconfig.json",
     "test": "tsx --test src/*.test.ts",
-    "refresh": "tsx scripts/refresh-from-api.ts",
     "demo": "npm run build && npx --yes serve ."
   },
   "keywords": ["vietnam", "address", "province", "ward", "nhat-tin", "ntlogistics", "34-tinh"],

@@ -81,50 +81,51 @@ Tái tạo từ file export: `python3 normalize.py`
 
 ## Thư viện TypeScript (`src/`)
 
-Kèm theo dữ liệu là một thư viện nhỏ, không phụ thuộc bên ngoài, gồm: hàm format,
-client gọi API Nhất Tín (cập nhật realtime), và 2 dropdown Tỉnh → Phường/Xã.
+Thư viện nhỏ, không phụ thuộc bên ngoài. **Nguồn dữ liệu là các file `data/*.json`**
+(đọc qua `loadAddressData`).
 
 ```
 src/
-├── types.ts      # kiểu dữ liệu (API thô + đã chuẩn hoá)
-├── format.ts     # slugify, detectUnit, buildFullName, normalizeProvince/Ward/District
-├── client.ts     # NhatTinAddressClient — fetch realtime từ API Nhất Tín
+├── types.ts      # kiểu dữ liệu
+├── format.ts     # slugify, cleanText, detectUnit, buildFullName
+├── data.ts       # loadAddressData / loadProvinceBundle — đọc từ data/*.json
 ├── dropdown.ts   # 2 dropdown phụ thuộc, inject vào HTML bất kỳ
 ├── index.ts      # export chung
-└── format.test.ts
+└── *.test.ts
 examples/dropdown-demo.html   # demo
-scripts/refresh-from-api.ts   # cập nhật lại data/*.json từ API
 ```
 
 Scripts:
 
 ```bash
-npm install        # cài tsx + typescript (devDependencies)
-npm test           # chạy test (tsx --test) — 17 test
+npm install        # cài devDependencies (tsx, typescript, @types/node)
+npm test           # chạy test (tsx --test)
 npm run build      # biên dịch src/ -> dist/ (ESM + .d.ts)
 npm run demo       # build rồi mở demo dropdown (serve .)
-npm run refresh    # cập nhật data/*.json từ API (cần tài khoản Nhất Tín)
 ```
 
 ### Dùng 2 dropdown trong HTML bất kỳ
 
-Dropdown ăn trực tiếp dữ liệu `provinces.json` + `wards.json`:
+Dữ liệu đọc trực tiếp từ `data/*.json` qua `loadAddressData`:
 
 ```html
 <div id="addr"></div>
 <script type="module">
-  import { createAddressDropdowns } from "./dist/index.js";
-  const [provinces, wards] = await Promise.all([
-    fetch("./data/provinces.json").then((r) => r.json()),
-    fetch("./data/wards.json").then((r) => r.json()),
-  ]);
+  import { createAddressDropdowns, loadAddressData } from "./dist/index.js";
+  const data = await loadAddressData({ baseUrl: "./data" }); // đọc provinces.json + wards.json
   createAddressDropdowns("#addr", {
-    data: { provinces, wards },
+    data,
     provinceName: "province_code",   // name attr để submit form
     wardName: "ward_code",
     onChange: (sel) => console.log(sel.province, sel.ward),
   });
 </script>
+```
+
+Nếu đã có sẵn JSON thì truyền thẳng, khỏi cần `loadAddressData`:
+
+```ts
+createAddressDropdowns("#addr", { data: { provinces, wards } });
 ```
 
 Hoặc lấy chuỗi HTML để chèn vào nơi khác rồi gắn sự kiện sau:
@@ -138,53 +139,23 @@ mountAddressDropdowns(el, { data });
 ### Hàm format
 
 ```ts
-import { slugify, normalizeWard, toProvinceRef, normalizeProvince } from "./dist/index.js";
-slugify("Đắk Lắk");                       // "dak-lak"
-const p = normalizeProvince({ id: "18", province_name: "An Giang", is_new: "Y" });
-normalizeWard({ id: "00001", ward_name: "P.Rạch Giá", is_new: "Y" }, toProvinceRef(p));
-// -> { code, name:"Rạch Giá", fullName:"Phường Rạch Giá, Tỉnh An Giang", slug, type:"ward", provinceCode... }
+import { slugify, detectUnit, buildFullName } from "./dist/index.js";
+slugify("Đắk Lắk");                 // "dak-lak"
+detectUnit("Phường Rạch Giá");      // { word:"Phường", type:"ward", bareName:"Rạch Giá" }
+buildFullName("Rạch Giá", "Phường", "Tỉnh An Giang"); // "Phường Rạch Giá, Tỉnh An Giang"
 ```
 
 ---
 
-## Cập nhật realtime từ API Nhất Tín
+## Nguồn dữ liệu & cập nhật
 
-Dữ liệu gốc lấy từ **API địa danh Nhất Tín** (`https://docs.ntlogistics.vn`), nên có thể
-làm tươi bất cứ lúc nào thay vì export thủ công.
+Dữ liệu được lấy từ đơn vị vận chuyển **Nhất Tín**. Bộ JSON trong `data/` là bản đã
+chuẩn hoá sẵn — dùng trực tiếp, không cần gọi API.
 
-| Môi trường | Host |
-|------------|------|
-| Production | `https://apiws.ntlogistics.vn` |
-| Sandbox    | `https://apisandbox.ntlogistics.vn` |
+Nếu sau này cần **tự cập nhật/đồng bộ realtime**, tham khảo API địa danh của Nhất Tín
+(tự viết phần gọi API theo nhu cầu):
 
-**Xác thực (JWT):** `POST /v1/auth/sign-in` `{ username, password }` → `jwt_token` + `refresh_token`;
-gửi header `Authorization: Bearer <jwt_token>`; hết hạn thì `POST /v1/auth/refresh-token`.
+- Tài liệu: **https://docs.ntlogistics.vn**
+- Endpoint địa danh (cơ cấu mới, `is_new=1`): `GET /v3/loc/provinces`, `GET /v3/loc/wards`, `GET /v3/loc/districts`
 
-**Endpoint địa danh** (cơ cấu mới: `is_new=1`):
-
-| Mục | Request |
-|-----|---------|
-| Tỉnh/thành | `GET /v3/loc/provinces?is_new=1` |
-| Xã/phường (theo tỉnh) | `GET /v3/loc/wards?is_new=1&province_id=<id>` |
-| Quận/huyện cũ | `GET /v3/loc/districts?province_id=<id>` |
-| Xã/phường cũ (theo huyện) | `GET /v3/loc/wards?district_id=<id>` |
-
-Client đã bọc sẵn và trả về dữ liệu **đã chuẩn hoá** đúng schema ở trên:
-
-```ts
-import { NhatTinAddressClient } from "./dist/index.js";
-const client = new NhatTinAddressClient({ env: "production", username, password });
-const provinces = await client.getProvinces();          // Province[]
-const wards     = await client.getWards(provinces[0]);  // WardWithProvince[]
-const bundle    = await client.getProvinceBundle(provinces[0]); // = provinces/<slug>.json
-```
-
-Làm tươi toàn bộ `data/`:
-
-```bash
-NTX_USERNAME=... NTX_PASSWORD=... NTX_ENV=production npm run refresh
-```
-
-> Lưu ý: tài khoản & token API do Nhất Tín cấp. Mã tỉnh/xã của API có thể khác mã trong
-> bản export metaobject (tài liệu yêu cầu mapping theo mã địa danh Nhà nước) — kiểm tra
-> lại `code` sau lần refresh đầu tiên.
+Hoặc tạo lại bộ JSON từ file export bằng `python3 normalize.py`.

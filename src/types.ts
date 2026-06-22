@@ -1,44 +1,7 @@
 /**
- * Kiểu dữ liệu cho dữ liệu hành chính VN (cơ cấu 34 tỉnh/thành).
- *
- * Gồm 2 nhóm:
- *  - `Ntx*`      : shape thô trả về từ API Nhất Tín (https://docs.ntlogistics.vn).
- *  - phần còn lại: shape đã chuẩn hoá, khớp với các file trong `data/`.
+ * Kiểu dữ liệu cho dữ liệu hành chính VN (cơ cấu 34 tỉnh/thành),
+ * khớp với các file trong `data/`.
  */
-
-/* ----------------------------- API Nhất Tín ----------------------------- */
-
-/** Envelope chung của mọi response API Nhất Tín. */
-export interface NtxEnvelope<T> {
-  success: boolean;
-  message?: string;
-  data: T;
-}
-
-/** `GET /v3/loc/provinces` */
-export interface NtxProvince {
-  id: string;
-  province_name: string;
-  is_new: string; // "Y" | "N"
-}
-
-/** `GET /v3/loc/districts` */
-export interface NtxDistrict {
-  id: string;
-  district_name: string;
-  is_new: string;
-}
-
-/** `GET /v3/loc/wards` */
-export interface NtxWard {
-  id: string;
-  ward_name: string;
-  is_new: string;
-  /** API có thể bổ sung mã bưu chính ở các bản sau; để optional cho an toàn. */
-  postal_code?: string;
-}
-
-/* ----------------------------- Đã chuẩn hoá ----------------------------- */
 
 /** Loại đơn vị cấp xã. */
 export type UnitType = "ward" | "commune";
@@ -77,16 +40,15 @@ export interface OldDistrict {
   wards: Ward[];
 }
 
+/** Quận/huyện cũ kèm tham chiếu tỉnh (dùng trong `old-districts.json` phẳng). */
+export interface OldDistrictWithProvince extends OldDistrict {
+  provinceCode: string;
+  provinceSlug: string;
+  provinceName: string;
+}
+
 /** File đầy đủ theo từng tỉnh: `data/provinces/<slug>.json`. */
 export interface ProvinceBundle extends Province {
   wards: Ward[];
   oldDistricts: OldDistrict[];
-}
-
-/** Tham chiếu tỉnh tối thiểu, dùng khi chuẩn hoá xã/phường. */
-export interface ProvinceRef {
-  code: string;
-  slug: string;
-  name: string;
-  fullName: string;
 }

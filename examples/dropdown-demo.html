@@ -14,17 +14,17 @@
       }
       h1 { font-size: 1.25rem; }
       /* Style cho component — class do component sinh ra */
-      .ntx-address { display: flex; gap: 16px; flex-wrap: wrap; }
-      .ntx-address__field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 220px; }
-      .ntx-address__field label { font-size: 0.85rem; font-weight: 600; }
-      .ntx-address select {
+      .vn-address { display: flex; gap: 16px; flex-wrap: wrap; }
+      .vn-address__field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 220px; }
+      .vn-address__field label { font-size: 0.85rem; font-weight: 600; }
+      .vn-address select {
         padding: 8px 10px;
         border: 1px solid #c7c7cc;
         border-radius: 8px;
         font-size: 0.95rem;
         background: #fff;
       }
-      .ntx-address select:disabled { background: #f2f2f7; color: #8e8e93; }
+      .vn-address select:disabled { background: #f2f2f7; color: #8e8e93; }
       pre { background: #f2f2f7; padding: 12px; border-radius: 8px; font-size: 0.85rem; }
       .hint { color: #636366; font-size: 0.85rem; }
     </style>
@@ -42,7 +42,7 @@
     <pre id="out">(chưa chọn)</pre>
 
     <script type="module">
-      import { createAddressDropdowns } from "../dist/index.js";
+      import { createAddressDropdowns, loadAddressData } from "../dist/index.js";
 
       // Fallback nhỏ để demo chạy được cả khi mở bằng file:// (không fetch được).
       const FALLBACK = {
@@ -54,20 +54,15 @@
         ],
       };
 
-      // Tải dữ liệu thật từ data/*.json (chạy qua `npm run demo`).
-      async function loadData() {
-        try {
-          const [provinces, wards] = await Promise.all([
-            fetch("../data/provinces.json").then((r) => r.json()),
-            fetch("../data/wards.json").then((r) => r.json()),
-          ]);
-          return { provinces, wards };
-        } catch {
-          return FALLBACK;
-        }
+      // NGUỒN CHÍNH: đọc trực tiếp từ data/*.json.
+      // (Muốn realtime thì thay bằng NhatTinAddressClient — xem README.)
+      let data;
+      try {
+        data = await loadAddressData({ baseUrl: "../data" });
+      } catch {
+        data = FALLBACK; // khi mở bằng file:// không fetch được
       }
 
-      const data = await loadData();
       const out = document.getElementById("out");
 
       createAddressDropdowns("#addr", {

@@ -38,7 +38,7 @@ export interface AddressSelection {
 
 export interface AddressDropdownOptions {
   data: AddressData;
-  /** Tiền tố id cho 2 thẻ select (mặc định "ntx-addr"). */
+  /** Tiền tố id cho 2 thẻ select (mặc định "vn-addr"). */
   idPrefix?: string;
   /** Hiện fullName thay vì name. */
   useFullName?: boolean;
@@ -64,7 +64,7 @@ export interface AddressDropdownHandle {
 }
 
 const DEFAULTS = {
-  idPrefix: "ntx-addr",
+  idPrefix: "vn-addr",
   provinceLabel: "Tỉnh/Thành phố",
   wardLabel: "Phường/Xã",
   provincePlaceholder: "-- Chọn Tỉnh/Thành phố --",
@@ -138,14 +138,14 @@ export function renderAddressDropdownsHTML(options: AddressDropdownOptions): str
   const wardDisabled = initWards.length === 0 ? " disabled" : "";
 
   return [
-    `<div class="ntx-address" data-ntx-address>`,
-    `  <div class="ntx-address__field">`,
+    `<div class="vn-address" data-vn-address>`,
+    `  <div class="vn-address__field">`,
     `    <label for="${o.idPrefix}-province">${escapeHtml(o.provinceLabel)}</label>`,
-    `    <select id="${o.idPrefix}-province"${provNameAttr} data-ntx-province>${provinceOptions}</select>`,
+    `    <select id="${o.idPrefix}-province"${provNameAttr} data-vn-province>${provinceOptions}</select>`,
     `  </div>`,
-    `  <div class="ntx-address__field">`,
+    `  <div class="vn-address__field">`,
     `    <label for="${o.idPrefix}-ward">${escapeHtml(o.wardLabel)}</label>`,
-    `    <select id="${o.idPrefix}-ward"${wardNameAttr} data-ntx-ward${wardDisabled}>${wardOptions}</select>`,
+    `    <select id="${o.idPrefix}-ward"${wardNameAttr} data-vn-ward${wardDisabled}>${wardOptions}</select>`,
     `  </div>`,
     `</div>`,
   ].join("\n");
@@ -158,8 +158,8 @@ export function mountAddressDropdowns(
   root: HTMLElement,
   options: AddressDropdownOptions,
 ): AddressDropdownHandle {
-  const provinceSelect = root.querySelector<HTMLSelectElement>("[data-ntx-province]");
-  const wardSelect = root.querySelector<HTMLSelectElement>("[data-ntx-ward]");
+  const provinceSelect = root.querySelector<HTMLSelectElement>("[data-vn-province]");
+  const wardSelect = root.querySelector<HTMLSelectElement>("[data-vn-ward]");
   if (!provinceSelect || !wardSelect) {
     throw new Error("Không tìm thấy select tỉnh/phường trong root. Render HTML trước khi mount.");
   }

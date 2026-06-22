@@ -66,17 +66,6 @@ data/
 - Thêm tham chiếu `provinceCode` / `provinceSlug` / `provinceName` vào `wards.json` và `old-districts.json`.
 - Sắp xếp: tỉnh theo `code`; xã/phường theo `code`; quận/huyện cũ theo `slug`.
 
-## Số liệu
-
-| Mục            | Số lượng |
-|----------------|----------|
-| Tỉnh/thành     | 34       |
-| Xã/phường (mới)| 3.317    |
-| Quận/huyện cũ  | 691      |
-| Xã/phường (cũ) | 3.652    |
-
-Tái tạo từ file export: `python3 normalize.py`
-
 ---
 
 ## Demo
@@ -133,12 +122,6 @@ Dữ liệu đọc trực tiếp từ `data/*.json` qua `loadAddressData`:
 </script>
 ```
 
-Nếu đã có sẵn JSON thì truyền thẳng, khỏi cần `loadAddressData`:
-
-```ts
-createAddressDropdowns("#addr", { data: { provinces, wards } });
-```
-
 Hoặc lấy chuỗi HTML để chèn vào nơi khác rồi gắn sự kiện sau:
 
 ```ts
@@ -158,15 +141,11 @@ buildFullName("Rạch Giá", "Phường", "Tỉnh An Giang"); // "Phường Rạ
 
 ---
 
-## Nguồn dữ liệu & cập nhật
+## Cập nhật dữ liệu
 
-Dữ liệu được lấy từ đơn vị vận chuyển **Nhất Tín**. Bộ JSON trong `data/` là bản đã
-chuẩn hoá sẵn — dùng trực tiếp, không cần gọi API.
+Bộ JSON trong `data/` đã chuẩn hoá sẵn. Tạo lại từ file export: `python3 normalize.py`.
 
-Nếu sau này cần **tự cập nhật/đồng bộ realtime**, tham khảo API địa danh của Nhất Tín
-(tự viết phần gọi API theo nhu cầu):
+Cần đồng bộ realtime thì tự gọi API địa danh Nhất Tín:
 
 - Tài liệu: **https://docs.ntlogistics.vn**
-- Endpoint địa danh (cơ cấu mới, `is_new=1`): `GET /v3/loc/provinces`, `GET /v3/loc/wards`, `GET /v3/loc/districts`
-
-Hoặc tạo lại bộ JSON từ file export bằng `python3 normalize.py`.
+- Endpoint (`is_new=1`): `GET /v3/loc/provinces`, `/v3/loc/wards`, `/v3/loc/districts`

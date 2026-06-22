@@ -83,17 +83,6 @@ Tái tạo từ file export: `python3 normalize.py`
 
 ![Preview 2 dropdown Tỉnh → Phường/Xã](examples/preview.svg)
 
-> **Nhúng demo “sống” vào README được không?** README trên GitHub **không chạy
-> JavaScript** (thẻ `<script>` bị loại bỏ) nên không gắn dropdown tương tác trực tiếp
-> trong README. 3 cách thay thế:
-
-1. **Ảnh / GIF** (như trên) — nhúng thẳng, xem được ngay trong README.
-2. **Live demo qua GitHub Pages** — host file tự chứa rồi link từ README:
-   - Settings → Pages → Deploy from branch → `main` · `/ (root)`.
-   - Link: `https://<user>.github.io/<repo>/examples/standalone-demo.html`
-   - `examples/standalone-demo.html` **tự chứa** (không cần build), tự đọc `data/*.json`.
-3. **StackBlitz / CodeSandbox** — import repo rồi share link nhúng.
-
 Chạy thử ở máy: `yarn demo` → mở `http://localhost:3000/examples/standalone-demo.html`.
 
 ---

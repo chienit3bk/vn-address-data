@@ -1,7 +1,8 @@
 # VN Address Data
 
-Dữ liệu hành chính Việt Nam (cơ cấu 34 tỉnh/thành), chuẩn hóa từ bản export metaobject
-`viet_nam_address` (nguồn: `328562_export_metaobjects_...csv`).
+Dữ liệu hành chính Việt Nam (cơ cấu 34 tỉnh/thành)
+
+**Nguồn dữ liệu:** đơn vị vận chuyển **Nhất Tín** (Nhất Tín Express).
 
 ## Cấu trúc thư mục
 

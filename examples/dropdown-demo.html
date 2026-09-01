@@ -55,7 +55,7 @@
       };
 
       // NGUỒN CHÍNH: đọc trực tiếp từ data/*.json.
-      // (Muốn realtime thì thay bằng NhatTinAddressClient — xem README.)
+      // (Muốn realtime thì tự gọi API Nhất Tín rồi map về cùng shape — xem README.)
       let data;
       try {
         data = await loadAddressData({ baseUrl: "../data" });

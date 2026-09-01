@@ -5,15 +5,29 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "engines": { "node": ">=20" },
   "exports": {
-    ".": "./dist/index.js"
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./data/*": "./data/*",
+    "./package.json": "./package.json"
   },
   "files": ["dist", "data", "src"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chienit3bk/vn-address-data.git"
+  },
+  "homepage": "https://github.com/chienit3bk/vn-address-data#readme",
   "scripts": {
+    "prepare": "tsc -p tsconfig.build.json",
     "build": "tsc -p tsconfig.build.json",
+    "dev": "tsc -p tsconfig.build.json --watch",
     "typecheck": "tsc -p tsconfig.json",
     "test": "tsx --test src/*.test.ts",
-    "demo": "tsc -p tsconfig.build.json && serve ."
+    "check": "yarn typecheck && yarn test",
+    "demo": "tsc -p tsconfig.build.json && serve . --no-clipboard"
   },
   "keywords": ["vietnam", "address", "province", "ward", "nhat-tin", "ntlogistics", "34-tinh"],
   "license": "MIT",

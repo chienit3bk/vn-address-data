@@ -1,6 +1,6 @@
 /**
  * Test cho hàm format + thành phần dropdown (phần thuần, không cần DOM).
- * Chạy: `npm test`  (tsx --test).
+ * Chạy: `yarn test`  (tsx --test).
  */
 import { test } from "node:test";
 import assert from "node:assert/strict";
